@@ -175,9 +175,48 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }, { threshold: 0.5 });
 
-  document.querySelectorAll('.stat-box-number, .hero-stat-number').forEach(el => {
+  document.querySelectorAll('.stat-box-number').forEach(el => {
     counterObserver.observe(el);
   });
+
+  // --- Hero Roadmap Timeline Animation ---
+  const heroTimeline = document.querySelector('.hero-timeline');
+  if (heroTimeline) {
+    const timelineProgress = heroTimeline.querySelector('.hero-timeline-progress');
+    const nodes = heroTimeline.querySelectorAll('.hero-timeline-node');
+    const totalNodes = nodes.length;
+    // Calculate progress % based on completed + active nodes
+    let filledCount = 0;
+    nodes.forEach((node, i) => {
+      if (node.classList.contains('completed')) filledCount = i + 1;
+      if (node.classList.contains('active')) filledCount = i + 0.5;
+    });
+    const targetWidth = totalNodes > 1 ? (filledCount / (totalNodes - 1)) * 100 : 0;
+
+    const timelineObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Animate the progress bar
+          setTimeout(() => {
+            timelineProgress.style.width = targetWidth + '%';
+          }, 300);
+          // Stagger-reveal each node
+          nodes.forEach((node, i) => {
+            node.style.opacity = '0';
+            node.style.transform = 'translateY(12px)';
+            node.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            setTimeout(() => {
+              node.style.opacity = '1';
+              node.style.transform = 'translateY(0)';
+            }, 400 + i * 120);
+          });
+          timelineObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.3 });
+
+    timelineObserver.observe(heroTimeline);
+  }
 
   // --- Accordion for Myth Cards ---
   const mythSections = document.querySelectorAll('#myths');

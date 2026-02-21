@@ -278,28 +278,112 @@ p { margin-bottom: 1rem; }
   color: #fff;
 }
 
-.hero-stats {
+/* --- Hero Roadmap Timeline --- */
+.hero-timeline {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 8px;
+}
+
+.hero-timeline-track {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: rgba(255,255,255,0.12);
+  border-radius: 2px;
+}
+
+.hero-timeline-progress {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-primary-light));
+  border-radius: 2px;
+  transition: width 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 0 12px rgba(52, 211, 153, 0.3);
+}
+
+.hero-timeline-nodes {
   display: flex;
-  justify-content: center;
-  gap: 60px;
+  justify-content: space-between;
+  position: relative;
 }
 
-.hero-stat {
+.hero-timeline-node {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
   text-align: center;
+  position: relative;
 }
 
-.hero-stat-number {
-  display: block;
-  font-size: 2.5rem;
-  font-weight: 900;
-  color: var(--color-primary-light);
+.node-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.15);
+  border: 2px solid rgba(255,255,255,0.25);
+  margin-bottom: 14px;
+  position: relative;
+  z-index: 1;
+  transition: all 0.5s ease;
+}
+
+.hero-timeline-node.completed .node-dot {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  box-shadow: 0 0 8px rgba(15, 157, 88, 0.4);
+}
+
+.hero-timeline-node.active .node-dot {
+  background: var(--color-primary-light);
+  border-color: var(--color-primary-light);
+  box-shadow: 0 0 16px rgba(52, 211, 153, 0.5);
+  animation: nodePulse 2s ease-in-out infinite;
+}
+
+@keyframes nodePulse {
+  0%, 100% { box-shadow: 0 0 8px rgba(52, 211, 153, 0.4); }
+  50% { box-shadow: 0 0 20px rgba(52, 211, 153, 0.7); }
+}
+
+.node-year {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: rgba(255,255,255,0.4);
   letter-spacing: -0.02em;
+  margin-bottom: 4px;
+  transition: color 0.5s ease;
 }
 
-.hero-stat-label {
-  font-size: 0.85rem;
-  color: rgba(255,255,255,0.5);
+.hero-timeline-node.completed .node-year {
+  color: var(--color-primary-light);
+}
+
+.hero-timeline-node.active .node-year {
+  color: #fff;
+  font-size: 1.4rem;
+}
+
+.node-label {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.35);
   font-weight: 500;
+  line-height: 1.4;
+  max-width: 120px;
+  transition: color 0.5s ease;
+}
+
+.hero-timeline-node.completed .node-label {
+  color: rgba(255,255,255,0.55);
+}
+
+.hero-timeline-node.active .node-label {
+  color: rgba(255,255,255,0.75);
 }
 
 .hero-scroll {
@@ -1568,7 +1652,9 @@ body.light-mode .stat-row-light .stat-box {
   .state-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-content { grid-template-columns: 1fr; gap: 32px; }
 
-  .hero-stats { flex-direction: column; gap: 24px; }
+  .hero-timeline { max-width: 100%; overflow-x: auto; padding-bottom: 8px; }
+  .hero-timeline-nodes { min-width: 600px; }
+  .hero-timeline-track { min-width: 600px; }
 
   .pathway-visual { flex-direction: column; align-items: center; }
   .pathway-arrow { transform: rotate(90deg); }
