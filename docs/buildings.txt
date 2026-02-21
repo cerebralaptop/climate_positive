@@ -1,0 +1,3778 @@
+Guidance for Green Star on the use of offsets and renewables
+
+With the assistance of
+
+With thanks to
+
+Our Climate Positive Partners
+
+Date of publication: 18/06/2021, Updated 25/11/2021 to reflect new targets for existing buildings. See Changelog for detailed changes.
+
+This paper was developed by the Green Building Council of Australia with the support of South Pole Group.
+From GBCA: Davina Rooney, Jorge Chapa, Taryn Cornell, Elham Monavari.
+With thanks to Andrew Cole, Alicia Maynard, Bruce Precious, David Clark, Carlos Flores, Francesca Muskovic, Haico Schepers,
+Monica Richter, and Richard Palmer for reviewing and providing feedback on this paper. We also want to thank the Property Council’s
+National Sustainability Roundtable, the teams at Climate Active and NABERS, as well as WorldGBC’s Advancing Net Zero Taskforce.
+
+2
+
+Contents
+On our shared goals and ambitions to a climate positive future
+
+4
+
+The global push for a climate positive built environment
+
+7
+
+What does climate positive mean?
+
+16
+
+Green Star’s climate positive targets
+
+26
+
+Rewarding climate positive buildings
+
+36
+
+The role of offsets in delivering a climate positive built environmnet
+
+39
+
+Next Steps
+
+44
+
+Appendix A. Guidance for renewables in Green Star
+
+45
+
+Appendix B. Guidance for offsets in Green Star
+
+58
+
+Appendix C. Claiming points in Green Star
+
+68
+
+Changelog
+
+74
+
+3
+
+3
+
+On our shared goals and
+ambitions to a climate positive
+future
+In 2018, we released ‘A Climate Positive Roadmap’*. This document outlined a path for
+how we planned to decarbonize the built environment, with a strong focus on using Green
+Star to set targets and guidance that industry could follow. That same year, WorldGBC
+launched the Global Commitment for Net Zero Carbon Buildings, which challenged
+industry to get to net zero by 2030.
+
+“Decarbonising the built
+environment will take leadership
+and engagement across all
+disciplines. Our industry is ready
+for this challenge”
+Davina Rooney
+Chief Executive Officer
+Green Building Council of Australia
+
+In a few short years, industry has adopted these targets as their own, and we have made
+progress at changing the conversation from should the built environment be ‘net zero’ to
+how we should achieve this goal.
+The need to decarbonise is significant. The Intergovernmental Panel on Climate Change
+(IPCC) SR15 report paints a clear picture of the steps we need to take to do this: fossil fuel
+free, highly efficient buildings, powered by renewables, built with low upfront carbon
+emissions, and offset with nature.
+The good news is that the means to do this is at our reach, and once again the built
+environment can be at the forefront of a fully decarbonized economy.
+This paper aims to help you do this. It builds on our roadmap to articulate a clear strategy
+that all buildings should follow. It also sets global and leadership targets that should be
+adopted and exceeded by every stakeholder in the built environment.
+We need not waste any more time thinking about how to decarbonise. The next step is to
+simply start doing it.
+* Formerly known as ‘A Carbon Positive Roadmap’
+
+4
+
+Purpose of this document
+Help drive the transformation of the built environment to a climate positive future.
+
+Understand the science of why and how we need to drive our emissions to zero
+and what actions are available to us.
+
+Understand how the built environment needs to act to lead on the ambitions noted in the Paris
+Agreement and the role and targets set in Green Star.
+
+Provide guidance on making claims for offsets and renewables in Green Star.
+
+5
+
+List of acronyms
+ACCU
+
+Australian Carbon Credit Unit
+
+AFOLU
+
+Agriculture, Forestry, and Other Land Use
+
+BECCS
+
+Bio-energy with Carbon Capture and Storage
+
+CCS
+
+Carbon Capture and Storage
+
+CDM
+
+Clean Development Mechanism
+
+ERF
+
+Emissions Reduction Fund
+
+GBCA
+
+Green Building Council Australia
+
+GS
+
+Gold Standard
+
+IPCC
+
+Intergovernmental Panel on Climate Change
+
+NBS
+
+Nature-Based Solution
+
+SDG
+
+Sustainable Development Goal
+
+tCO2e
+
+tonne of carbon dioxide equivalent
+
+VCS
+
+Verified Carbon Standard
+
+6
+
+The global push
+for a climate
+positive built
+environment
+
+7
+
+Links to the
+sustainability megatrends
+Global megatrends are shaping
+the built environment like never
+before. Climate action, resource
+depletion, and a focus on people
+are megatrends that the built
+environment must address.
+
+Climate
+Action
+
+Resource &
+circularity
+
+Health &
+Wellbeing
+
+In response to these megatrends, the
+built environment has focused on three
+strategic imperatives: Climate action,
+resource efficiency and circularity, and
+health and wellbeing.
+This paper aims to explicitly address
+the Climate Action imperative with a
+clear focus on driving net zero
+emissions and addressing embodied
+carbon, water, and nature.
+
+1
+
+Net zero emissions
+
+4
+
+Circular economy
+
+7
+
+Health and wellbeing
+
+2
+
+Climate resilience
+
+5
+
+Embodied materials
+
+8
+
+People and equity
+
+3
+
+Nature
+
+6
+
+Water cycle
+
+9
+
+Community resilience
+
+GBCA’s Climate Positive Roadmap
+GBCA’s Climate Positive Roadmap* outlines high-level actions and targets over the next decade to support new
+buildings and fitouts in addressing its emissions by 2030 and existing buildings and fitouts by 2050.
+The following 10 actions will help building and fitout owners achieve this vision:
+
+Measure and disclose the performance of building and
+fitouts
+
+Reduce the building’s upfront carbon emissions
+
+Reduce building and fitout energy demand
+
+Stimulate markets for carbon-neutral products and
+services
+
+Use 100% renewable energy
+
+Support high-quality offsets for remaining emissions as a
+transition strategy
+
+Switch away from fossil fuel use
+
+Increase access to active transport facilities and public
+transport
+
+Phase down refrigerants with a high global warming
+potential
+
+Support the adoption of electric vehicles
+
+(Source: GBCA’s Climate Positive Roadmap for the built environment (June 2018. Formerly known as ‘A Carbon Positive Roadmap’)
+
+9
+
+Why do we need to comprehensively address
+our emissions?
+Breakdown of contributions of global net CO2
+emissions in four illustrative model pathways
+In all scenarios outlined in the IPCC report (P1 to P4),
+emissions from the economy must come down to
+zero.
+
+Billion tonnes CO2 per year (GTCO2/yr)
+P1
+
+P2
+
+What this means for the built environment is all
+emissions that can be eliminated should be eliminated
+as quickly as possible, and any that cannot be, must
+be addressed by solutions that draw down carbon
+from the atmosphere.
+2060
+
+2020
+
+2100
+
+2060
+
+2020
+
+P3
+
+2100
+
+P4
+
+To achieve this, we need global targets, leadership
+targets, and a clear definition of what buildings should
+be aiming for.
+
+Fossil fuel industry
+Agriculture, forestry
+and other land use (AFOLU)
+2020
+
+2060
+
+2100
+
+2020
+
+2060
+
+2100
+
+Bio-energy with Carbon
+Capture and Storage (BECCS)
+
+(Source: IPCC SR15 Report, 2018)
+10
+
+On the need to decarbonize faster
+Two recent documents have highlighted the importance of
+decarbonising buildings faster than ever before.
+Climate Change 2021 The Physical Science Basis –
+6th Assessment Report of the Intergovernmental
+Panel on Climate Change (IPCC)
+
+Global direct CO2 emissions reductions by mitigation measure in buildings
++29%
+
++90%
+
+Activity
+
+Mitigation measures
+3
+
+Behaviour and
+avoided demand
+
+Activity
+
+Energy efficiency
+
+The report recommends strong, rapid, and sustained emissions
+reduction with a focus on methane reductions. It notes that emissions
+must be zero by 2050. It also recognises that we must compensate for
+existing and unabated emissions with nature-based carbon removal
+activities.
+
+Net Zero by 2050: A roadmap for the global energy
+sector – International Energy Agency
+
+2
+
+Electrification
++51%
+
+Hydrogen-based
+
+Measures
+
+Bioenergy
+
+1
+Other renewables
+
+GtCO2
+
+Released August 2021, it notes that we are currently at 1.1 degrees
+over pre-industrial levels and that we are on-track to exceed 1.5C in
+10 to 12 years. The report serves as a warning that action is urgently
+required.
+
++97%
+
+2020
+
+2030
+
+Other fuel shifts
+
+2050
+
+Electrification and energy efficiency account for nearly 70% of buildings-related emissions
+reductions through to 2050, followed by solar thermal, bioenergy and behaviour.
+Extract from Net Zero by 2050: A roadmap for the global energy sector, International Energy Agency (Figure 3.27)
+
+Released May 2021, it describes pathways, timelines, and
+recommendations for many industries, including buildings. It also defines
+the end state of buildings in 2050 as zero carbon ready buildings, or
+buildings that are highly energy efficient, use directly or indirectly a fully
+decarbonised energy supply, maximises the efficient use of materials, and
+helps facilitate the decarbonisation of other sectors.
+The report also outlines the aspects of buildings that provide the largest
+decarbonisation opportunities (see diagram to the right). Electrification is
+identified as the highest impact for change in the energy sector.
+Finally, the report outlines that globally, 50% of all existing buildings
+should be zero carbon ready buildings by 2040.
+
+11
+
+Our global targets
+Operational
+Carbon
+
++
+
+Embodied
+Carbon
+
+& other emissions
+
+=
+
+Whole
+Life Carbon
+
+By 2030, all new buildings must
+be highly efficient and fully
+powered by renewables.
+
+By 2030, all new buildings must have a
+40% reduction in embodied carbon.
+
+By 2030, all new buildings must have a 40%
+reduction in embodied carbon, be highly
+efficient, fully powered by renewables.
+
+By 2050, all buildings must be highly
+efficient and fully powered by renewables.
+
+By 2050, any remaining emissions that
+cannot be eliminated must be neutralised.
+
+By 2050, all buildings must be highly efficient,
+fully powered by renewables and neutralised
+the rest.
+
+12
+
+Our global commitment
+Driving change means moving faster than others, inspiring the rest, enabling regulatory change, and creating
+transformation in the supply chain. The green building movement, through WorldGBC set out a clear challenge.
+We must drive the built environment to net zero carbon as fast as possible. The two global targets are:
+
+All new buildings & major
+refurbishments
+
+Must be net zero carbon in construction
+
+All building operations
+
+Must be net zero carbon in operations
+
+By
+
+2030
+
+13
+
+From net zero to climate positive
+The many definitions of how to transform the built environment
+WorldGBC’s priorities aim to define global priorities to drive a built environment to be net zero.
+But global priorities will need to be adjusted over time and location. To help the Australian market
+understand the trajectory that these priorities may take, we have translated the concept to what we call
+‘climate positive’ buildings.
+
+Advancing Net Zero’s global
+priorities for buildings in operation
+
+Climate Positive
+
+• Energy efficiency (as much as
+possible)
+
+• Fossil fuel free
+
+• On-site renewable energy
+
+• Highly efficient
+• Powered by renewables
+
+• Off-site renewable energy
+
+• Built with lower upfront emissions
+(for new buildings)
+
+• Offsets as a last resort
+
+• Offset, or compensate, with nature
+
+14
+
+Definitions
+There are many definitions in this space
+that are used by industry. The following
+are the most commonly used versions of
+these terms, and are used in this paper.
+
+Net Zero
+
+Carbon Neutral
+
+Climate Positive
+
+The balance between the amount of greenhouse gas
+produced and the amount removed from the
+atmosphere on a net annual basis.
+
+Carbon neutral buildings are those that
+address all their emissions so that the carbon
+account is zero. Actions can include energy
+efficiency, use of renewables, and offsets,
+and must be considered in that order. The
+measurement is on a net annual basis.
+
+Climate positive buildings are those that address
+all relevant emissions, but do so in a manner that
+drives our built environment to be in line with a
+1.5C trajectory in the built environment.
+
+It is a technical, though open-ended term. Its use
+must be accompanied by the focus on emissions,
+e.g. net zero in operations, net zero for construction,
+etc.
+
+Practical building related actions
+that represent best practice to
+decarbonise buildings.
+
+Actions
+
+embodied
+carbon
+
+in operations
+
+energy
+emissions
+
+Fully powered by renewables
+
+✓
+
+Fossil fuel free
+
+✓
+
+Highly efficient
+
+✓
+
+Compensate for remaining embodied
+carbon
+
+✓
+✓
+
+The emissions from these scopes
+are addressed through avoidance,
+reductions, offsets.
+
+Refrigerants
+
+❍
+
+✓
+✓
+
+Lower upfront and embodied carbon
+
+Compensate for remaining emissions
+
+Scopes
+
+carbon
+
+In Australia, the term is defined by the
+Federal Government through the Climate
+Active Carbon Neutral program.
+
+These buildings are fossil fuel free, highly
+efficient, fully powered by renewables, with lower
+embodied emissions, and with remaining
+emissions offset with nature – essentially
+removing carbon from the atmosphere.
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+2
+
+✓
+
+4,5
+
+✓
+
+7,8
+
+✓
+
+2
+
+✓
+
+5
+
+✓
+
+8
+
+✓
+
+✓
+
+✓
+
+1
+1
+
+2
+
+Gas or other fuel use
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Electricity
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Water
+
+✓
+
+✓
+
+Waste
+
+✓
+
+✓
+
+✓
+
+✓
+
+Products and materials emissions
+3
+
+✓
+
+Meets WorldGBC's net zero carbon buildings
+commitment
+
+✓
+
+Formal accreditation
+❍ While not required, the standard strongly encourages the use of renewable electricity. This is
+regularly taken up by buildings going for certification.
+1 Emissions from emergency fuels are not generally material emissions in buildings
+2 The correct mechanism to be net zero would be through carbon removal activities. As there is no clear
+standard, this does not always occur.
+3 SBTI assesses corporates as being net zero carbon but their standard does not currently apply to
+buildings.
+4 Climate Active addresses embodied carbon in new buildings. For existing buildings, these would
+matter if they are significant (e.g. more than 5% of the emissions in the building).
+
+SBTI
+
+3
+
+Climate Active
+
+6
+
+Green Star
+
+5
+
+Climate Active requires compensation for carbon emissions. These are not only limited to removal
+activities but may also include emissions reduction.
+Climate Active certification can be achieved through NABERS, Green Star, or Climate Active.
+7 Applies to both new buildings, and embodied carbon from refurbishments or maintenance activities of
+the existing building.
+8 The Climate Positive Pathway explicitly requires carbon removal activities, specifically nature based.
+This is in line with current best practice.
+9 Green Star and ILFI’s Zero Carbon standard share a crosswalk that can be found here.
+6
+
+15
+
+9
+
+What does
+climate positive
+mean?
+
+16
+
+The Task Force for Climate-related Financial
+Disclosure and transition risk
+The Task Force for Climate-related
+Financial Disclosure (TCFD) was
+established as part of the G20 Financial
+Stability Board to enhance organisational
+consideration and reporting of financial
+risks related to climate change.
+TCFD recommendations include understanding distinct
+risks (physical and transition) and opportunities against
+which organisational strategy can be assessed.
+
+Transition risks
+
+Opportunities
+
+Policy and legal
+Resource efficiency
+Technology
+Energy Source
+Market
+Risks
+
+Products / Services
+Markets
+
+Physical risks
+Resilience
+
+Strategic Planning
+Risk Management
+
+Acute
+Chronic
+
+While physical risks relate to the impacts from changing
+climate conditions, transition risks relate to how the entity’s
+business activities need to change over time to account for
+a net zero carbon economy.
+Built environment organisations reporting in line with the
+TCFD recommendations should consider decarbonisation
+strategies in line with the Paris Agreement, and adjust their
+efforts appropriately.
+
+Opportunities
+
+Reputation
+
+Financial impact
+
+Revenues
+Expenditures
+
+Income
+Statement
+
+Cash Flow
+Statement
+
+Balance
+Sheet
+
+Climate-Related Risks, Opportunities, and Financial Impact (TCFD)
+
+Assets & liabilities
+Capital and financing
+
+Foundations for
+science-based net
+zero target setting in
+the corporate sector
+Published by the Science Based Targets
+initiative, the paper outlines a conceptual
+foundation for setting and assessing
+corporate net-zero targets based on
+robust climate science.
+
+Link: Foundations for science-based netzero target setting in the corporate sector (September 2020)
+To develop this paper, we also reviewed the SBTi Net Zero consultation paper which provides additional information that informed our views
+
+18
+
+The concepts of net zero emissions aligned
+with the Paris Agreement
+
+Source: Foundations for science-based netzero target setting in the corporate sector (September 2020)
+
+19
+
+The Oxford Principles
+for net zero aligned
+carbon offsetting
+The Oxford Principles for Net Zero Aligned Carbon Offsetting are
+designed to help clarify these questions, particularly for non-state
+actors who want to design and deliver rigorous voluntary net zero
+commitments and develop high quality carbon markets in line with
+the Paris Agreement.
+The four principles are:
+•
+
+Cut emissions, use high-quality offsets, and regularly revise offsetting strategy
+as best practice evolves
+
+•
+
+Shift to carbon-removal offsetting
+
+•
+
+Shift to long-lived storage
+
+•
+
+Support the development of net zero aligned offsetting
+
+(Source: The Oxford Principles for Net Zero Aligned Carbon Offsetting (September 2020))
+
+20
+
+The principles in practice
+How is the offset generated?
+
+Emission reduction
+
+Carbon removal
+
+Is carbon stored?
+No
+
+Yes
+
+Yes
+
+How is carbon stored?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Avoided emissions or
+emissions reductions
+without storage
+
+Emissions reduction with
+short-lived storage
+
+Emissions reductions with
+long-lived storage
+
+Carbon removal with shortlived storage
+
+Carbon removal with longlived storage
+
+e.g. Renewable energy
+clean fuels
+
+e.g. retaining stored carbon
+in land
+
+e.g. carbon capture in fossilfuel plants
+
+e.g. nature-based
+solutions
+
+e.g. Bioenergy with carbon
+capture and storage
+(BECCS)
+
+Less permanent
+Higher risk of reversal
+
+More permanent
+Lower risk of reversal
+
+Less permanent
+Higher risk of reversal
+
+More permanent
+Lower risk of reversal
+
+(Source: The Oxford Principles for Net Zero Aligned Carbon Offsetting (September 2020))
+
+21
+
+Eliminating, reducing, compensating
+The many roads to addressing your emissions
+
+Reduce
+
+Eliminate
+
+●
+
+Relevant for all emission
+scopes.
+
+●
+
+Currently relevant for scope 1
+and 2 emissions.
+
+●
+
+A must for any credible climate
+change mitigation claim.
+
+●
+
+●
+
+Relevant to continue doing over
+time.
+
+For new assets, avoid a lock-in
+effect of fossil fuels in the long
+term, and install systems that
+use low-impact refrigerants.
+
+●
+
+●
+
+For existing buildings, phase out
+fossil fuels, and move to lowimpact refrigerants.
+For electricity, can be
+completed today through
+renewable electricity.
+
+Compensate
+●
+
+Assists companies to make claims
+of carbon-neutrality and make a
+first step to address emissions as
+they decarbonise.
+
+●
+
+Relevant for emissions that cannot
+be immediately eliminated but
+should be over time (e.g. fossil fuel
+consumption).
+
+●
+
+For new buildings, relevant for
+emissions that cannot be easily
+eliminated at the time of
+construction (e.g. refrigerants and
+embodied carbon).
+
+Neutralise
+●
+
+Over-time, emissions that cannot
+be eliminated must be paired with
+actions that neutralise or withdraw
+an equal amount of carbon from
+the atmosphere.
+
+●
+
+Therefore, if emissions exist that
+cannot be eliminated they should
+be paired with investments that
+are long-term carbon storage
+projects.
+
+22
+
+These are the
+emissions of typical
+buildings over their
+lifetime
+
+Single purpose buildings
+(e.g. hospitals or schools)
+
+Tenanted buildings
+
+Waste to landfill
+Water consumption
+Scope
+3
+
+Product and material
+manufacturing and
+use
+Scope
+3
+
+Tenant
+
+In terms of building emissions, electricity
+in Australia continues to be the largest
+portion of typical building’s emissions,
+then, depending on location, embodied
+carbon, followed by gas, refrigerants,
+emissions from water consumption and
+waste.
+Each of these issues has different strategies that
+should be followed to address and get to a climate
+positive future.
+
+Scope
+2
+
+Whole building
+electricity*
+Base Building
+
+Scope
+1
+
+Scope
+2
+
+Scope
+1
+
+Gas and other fuels
+
+Refrigerants
+
+Source: Various, 2017
+
+The climate positive
+strategies for the built environment
+At a global level
+
+At an action level
+
+At a building level
+
+Reduce upfront carbon emissions
+by selecting Instruments
+better materials (new buildings)
+
+REDUCE
+Scope 1 + 2 + 3
+emissions
+
+Increased efficiency measures
+to reduce emissions and enable transformation of
+the grid
+
+REDUCE
+global GHG
+emissions
+
+Remove fossil fuels, move to low impact
+refrigerants and avoid the creation of lock-in
+
+ELIMINATE emissions
+within & outside of the
+value chain
+
+effects
+
+Move to renewables to eliminate emissions
+from energy consumption
+
+Compensate and neutralise
+INCREASE
+global CO2 sinks
+
+emissions
+through natural & technical
+removals within & outside the
+value chain
+
+(Source: Carbone 4, Net Zero Initiative, 2020 – adapted by South Pole and GBCA)
+
+Compensate for emissions by investing in
+nature-based carbon removal projects
+
+Neutralise emissions by financing longterm carbon removal projects
+
+24
+
+The three key barriers to decarbonizing our
+built environment
+Over the next 20 years we will have to decarbonise all buildings in Australia.
+To do this, we need to design, build, and refurbish buildings to address the
+following three key barriers.
+
+Refrigerants
+
+Fossil fuels
+
+There are now viable commercial
+alternatives to hydrofluorocarbons
+(HFCs). Natural refrigerants’ including
+ammonia, carbon dioxide and
+hydrocarbons, as well as manufactured
+substances, such as hydrofluoro-olefins
+(HFOs), are now viable alternatives with
+much lower impact.
+
+Fossil fuels in buildings can be typically
+found as natural gas in heating, cooking,
+hot water and power, while diesel is used
+for backup energy generation.
+
+The built environment must phase out
+HFCs for low impact alternatives from
+new buildings as quickly as possible and
+from existing buildings by 2040 at the
+latest.
+
+The IPCC SR15 report notes that the
+continued installation of fossil fuel
+infrastructure will likely result in the planet
+overshooting its climate targets.
+The built environment must phase out
+fossil fuel infrastructure from new
+buildings as quickly as possible and from
+existing buildings by 2040 at the latest.
+
+Emissions from sourcing, manufacturing,
+installation, and demolition of materials
+These emissions (known as embodied carbon)
+represent about 20% of a typical building’s emissions.
+Unlike operational carbon, the vast majority of these
+emissions are in the atmosphere on day one of the
+building’s lifetime (upfront carbon).
+Addressing these emissions can be done by improving
+building designs, by selecting lower carbon materials,
+and by using carbon neutral products.
+
+The built environment and the supply chain must jointly
+reduce embodied carbon in buildings by 40% by 2030,
+and reduce to zero by 2050.
+
+25
+
+Green Star’s
+climate positive
+targets
+
+26
+
+TCFD,
+Green Star
+& transition
+risks
+
+Climate-related risks
+While risks are determined at a group strategy level, individual assets
+have to address and ensure they meet these strategic goals.
+Climaterelated risk
+
+Classification
+
+Description
+
+Emissions level
+Energy source
+Greenhouse
+Gas emissions
+
+Emission intensity
+
+Embedded emissions
+
+Green Star Buildings and
+all new Green Star Future
+Focus rating tools have
+been designed to address
+both physical and
+transition risks with a
+focus on driving net zero
+carbon targets.
+
+Upfront carbon emissions
+
+Energy usage
+Energy use
+Transition
+risk
+
+Energy / Fuel
+
+Energy intensity
+
+Energy mix
+
+Land use
+
+Green Star can serve as a valuable
+tool to manage your transition risks at
+an asset level, which in turn helps
+address your strategic risks and
+opportunities.
+
+The following Green Star Buildings
+credits help you manage these risks
+at an asset level. The climate
+positive targets embedded in the
+rating tool ensure you are managing
+transition risks appropriately.
+
+Land use practices
+
+Changing consumer
+behaviour
+Market and
+reputation
+Shift in consumer
+preferences
+
+Energy use
+
+Nature stewardship
+Green Star’s other credits,
+independent verification, and trusted
+brand enable your asset to respond
+to changing consumer needs by
+delivering buildings that are healthy,
+resilient, and positive, built
+responsibly, and created to benefit
+people and nature.
+
+Green Star Buildings
+What climate positive means for assets in construction
+
+Built with
+lower upfront
+emissions
+
+Highly
+efficient
+
+Upfront carbon emissions
+
+Energy use
+
+Uses lower carbon products
+and incentivises change in
+the supply chain.
+
+Reduces and manages
+energy loads needed to
+operate the building.
+
+Reduce emissions
+
+Fossil fuelfree
+
+Powered by
+renewables
+
+Offset
+with nature
+
+Energy source
+The building does not use
+fossil fuels for heating,
+cooling, cooking or power,
+and uses low impact
+refrigerants.
+
+Other carbon sources
+
+The building is fully powered
+by on-site or off-site
+renewable energy.
+
+Invests in natural solutions to
+capture and store carbon
+from non-energy carbon
+emissions.
+
+Eliminate emissions
+
+Compensate
+
+Denotes Green Star Buildings (2020) credit
+
+28
+
+Our targets for new buildings in detail
+Green Star Buildings sets targets to decarbonise all buildings
+
+2020
+
+2023
+
+2026
+
+2030
+
+For Green Star Buildings,
+new assets will need to:
+Be net zero carbon in operations
+• Highly efficient
+• Fossil fuel free
+• Sources all energy from renewables
+• Reduces upfront carbon emissions
+• Offsets remaining scope 1 emissions
+
+Be climate positive
+• Highly efficient
+• Fossil fuel free
+• Sources all energy from renewables
+• Reduces upfront carbon emissions
+• Offsets all emissions under the owner’s control
+
+29
+
+Our targets for new buildings in detail
+Green Star Buildings sets the targets to decarbonise all new buildings by 2030.
+Credits
+
+Criteria
+
+2020*
+
+2023*
+
+2026*
+
+2030**
+
+Renewable electricity
+
+6 star
+
+5 star
+
+All registrations
+
+All certifications
+
+Renewable energy
+
+6 star
+
+5 star
+
+All registrations
+
+All certifications
+
+10% reduction
+
+All 6ratings
+star
+
+5 star
+
+20% reduction
+
+6 star
+
+5 star
+
+Energy source
+
+All certifications
+
+Energy use
+Reductions over typical
+building
+
+All registrations
+
+All certifications
+
+30% reduction
+10% reduction
+
+All 6registrations
+star
+
+5 star
+
+All certifications
+
+Upfront carbon emissions
+Reductions over a typical
+building
+
+20% reduction
+
+6 star
+
+5 star
+
+All registrations
+
+All certifications
+
+6 star
+
+All certifications
+
+5 star
+
+All registrations
+
+All certifications
+
+6 star
+
+5 star
+
+All certifications
+
+40% reduction
+Scope 1 eliminated or offset
+(refrigerants and fossil fuels)
+
+Other carbon emissions
+
+All remaining emissions offset
+(embodied carbon and other under
+control)
+
+* Denotes year of registration
+** Denotes year of completion
+
+6 star
+
+Tenant emissions in Green Star
+There are two key sources of tenant emissions in a building: energy emissions and fitout embodied carbon.
+Combined they are a significant portion of a building’s scope 3 emissions. The built environment should do
+what it can to help tenants be decarbonise by 2050.
+Energy emissions
+
+Embodied carbon
+
+Gas
+
+Electricity
+
+Fitout embodied carbon
+
+What the building
+owner can do
+
+Remove fossil fuel infrastructure
+from the building.
+
+Encourage the tenant to shift to
+renewable electricity or provide
+renewable electricity to tenants.
+
+Encourage the tenant to offset its
+embodied carbon, or provide and
+manage fitouts within the building to
+tenants.
+
+What the tenant
+can do
+
+Look for fossil-fuel free buildings.
+
+Buy 100% renewable electricity for its
+fitout.
+
+Reduce and offset its fitout embodied
+carbon.
+
+Energy source
+
+Tenant energy emissions
+
+Upfront fitout emissions
+
+The building does not include
+fossil fuel infrastructure for
+cooking, heating, or hot water.
+
+The building owner provides a facility or
+a method to encourage tenants to buy
+renewable energy. Most of the tenants
+use renewable energy.
+
+The fitout emissions have
+been offset by the building
+owner or the tenant.
+
+Green Star Buildings
+credit*
+
+Standard Green Star Buildings credit
+
+Sector-specific Green Star Buildings credit
+
+* Similar credits may be available for Green Star Performance
+
+31
+
+Green Star Performance
+What climate positive means for assets in operations
+
+Lower
+embodied
+emissions
+
+Highly
+efficient
+
+Embodied emissions
+
+Energy use
+
+Fossil
+fuel free
+
+Powered by
+renewables
+
+Energy source
+
+Offset
+with nature
+
+Partner for
+success
+
+Other carbon emissions
+
+Tenant energy source
+Other tenant emissions
+
+Uses lower carbon
+products and incentivises
+change in the supply
+chain.
+
+Reduces and manages
+energy loads needed to
+operate the building.
+
+The building does not use
+fossil fuels for heating,
+cooling, cooking or
+power, and uses low
+impact refrigerants.
+
+Reduce emissions
+
+The building is fully
+powered by on-site or
+off-site renewable
+energy.
+
+Eliminate emissions
+
+Invests in natural
+solutions to capture and
+store carbon from nonenergy carbon emissions.
+
+Assists tenants and
+occupants to decarbonise
+through quantifying
+emissions and procuring
+renewables
+
+Compensate
+
+Denotes Green Star Performance (2021) credit
+32
+
+Ultimately what we need to do is
+accelerate the decarbonisation of our
+buildings.
+
+Scope 1 (gas, diesel and refrigerants)
+Scope 2 (electricity)
+
+Emissions from the building
+
+When translated to an existing
+building in operations there is a
+significant opportunity to continue
+reducing emissions over time, but also
+go a long way to eliminate electricity
+emissions, compensate for emissions
+that are hard to abate, and eventually
+neutralise any remaining emissions in
+the value-chain.
+
+Emissions reduction through efficiency continue over time
+
+Scope 3 (other emissions, excluding
+tenant electricity)
+Carbon-removals with short term
+storage (nature-based solutions)
+
+Building emissions
+
+Carbon removals with long term
+storage (e.g. Bio-Energy with Carbon
+Capture and Storage – or BECCS)
+
+2050
+
+2020
+Offset activities
+
+Transitioning to
+a climate positive
+future for existing
+buildings
+
+Leading building in
+operations
+(today)
+Efficient building that offsets,
+or compensates, emissions
+from its energy consumption
+and other emissions.
+
+Leading building
+in operations
+(2022)
+Highly efficient building, that eliminated its
+electricity emissions through renewable
+electricity, that compensates for its
+remaining emissions as it transitions out
+of gas use
+
+Leading building
+in operations
+(2035)
+Highly efficient building, that
+eliminated its energy emissions by
+removing gas and using renewable
+electricity, that neutralises its
+remaining emissions
+
+33
+
+Our targets for existing buildings in detail
+The next version of Green Star Performance will set targets to
+decarbonise all buildings
+
+2023
+
+2026
+
+2030
+
+2035
+
+2040
+
+For Green Star Performance,
+existing buildings will need to:
+Be in alignment with Advancing Net Zero’s goals
+• Have a carbon action plan to decarbonise
+• Be highly efficient
+• Source all electricity from renewables
+• Eliminate or offset remaining emissions
+• Achieve Climate Active certification
+
+Be climate positive
+• Highly efficient
+• Fossil fuel free
+• Sources all energy from renewables
+• Reduces embodied carbon emissions
+• Offsets all emissions under the owner’s control
+• Partners to eliminate emissions from tenants
+
+All
+ratings
+
+All
+ratings
+
+Green Star Future Focus
+What climate positive means for the rest of the rating system
+To be introduced in a future update prior to 2030
+
+From release, to
+achieve a rating, all
+rated homes must be:
+
+From release, to
+achieve a rating, all
+rated fitouts must be:
+
+By 2030, all rated
+precincts must be:
+
+Highly
+efficient
+
+Fossil
+fuel-free
+
+Powered by
+renewables
+
+Built with
+lower upfront
+emissions
+
+Offset with
+nature
+
+Highly
+efficient
+
+Fossil
+fuel-free
+
+Powered by
+renewables
+
+Built with
+lower upfront
+emissions
+
+Offset with
+nature
+
+Highly
+efficient
+
+Fossil
+fuel-free
+
+Powered by
+renewables
+
+Built with
+lower upfront
+emissions
+
+Offset with
+nature
+
+35
+
+Rewarded initially,
+and required by
+2030
+
+Walkable and
+liveable
+
+Rewarding
+climate positive
+buildings
+
+36
+
+Our partnerships towards
+climate positive buildings
+
+NABERS is a suite of rating tools (Energy, Water, IE,
+Waste) that rates the operational performance of existing
+commercial offices, large retail centres, data centres,
+hotels, and office tenancies.
+
+The Climate Active Carbon Neutral Standard for Buildings
+(the standard) provides industry a recognised, streamlined,
+and agreed way to claim to be a carbon neutral building in
+operation.
+
+Together, NABERS and Green Star are working to create a
+more sustainable Australia where our buildings and
+precincts are making a positive contribution to our
+environment. Green Star relies on and encourages the use
+of NABERS Energy ratings as the method to show that
+buildings are well on their energy efficiency journey.
+
+The Climate Active Carbon Neutral Standard for Buildings
+has been established through collaboration between the
+Australian Government Department of Industry, Science,
+Energy and Resources, GBCA, and NABERS.
+
+37
+
+Aligning
+initiatives
+How Green Star Buildings and ILFI’s
+Zero Carbon Certification are jointly
+driving industry to a decarbonise.
+
+Available today on our website
+
+38
+
+The role of offsets
+in delivering a
+climate positive
+built environment
+
+39
+
+The role of offsets in Green Star
+Green Star Buildings (and in the future, other Green Star rating tools) allow the use of
+high-quality nature-based offsets for a selected number of emission scopes.
+
+Green Star Buildings
+
+Green Star Performance
+
+Refrigerants
+
+Low impact refrigerants preferred with emissions offset
+
+Can be offset until low-impact refrigerants can be used
+
+Gas or other fossil fuels
+
+Should be designed out or replaced with renewables
+
+Can be offset, but will require elimination over time
+
+Can only be addressed with renewable electricity
+
+Can only be addressed with renewable electricity
+
+Upfront carbon emissions
+
+Should be reduced and then offset
+
+-
+
+Other emissions (water,
+waste)
+
+Should be reduced and then offset
+
+Should be reduced and then offset
+
+Electricity
+
+Guidance for other rating tools will be developed over time, though it will likely follow a similar pattern.
+
+40
+
+Net zero emissions &
+nature based solutions
+Carbon removal projects are essential for
+achieving net zero emissions by mid-century.
+
+“With its dual role as a source of
+emissions and as a natural carbon
+sink, nature can and must play a
+critical role in climate mitigation
+strategies.”
+
+Users of offsets should increase the portion of their offsets
+that come from carbon removals, rather than from emission
+reductions, ultimately reaching 100% carbon removals by
+midcentury to ensure compatibility with the Paris Agreement
+goals. Creating demand for carbon removal offsets today will
+send the necessary market signal to increase supply.”
+
+Foundations for sciencebased net zero target setting
+in the corporate sector
+
+The Oxford Principles
+for net zero Aligned
+Carbon Offsetting
+
+41
+
+Nature-based solutions
+In addition to helping draw-down carbon, there are other benefits
+to nature-based solutions.
+Key benefits
+
+There are some things to consider:
+
+•
+
+Support livelihoods in disadvantaged
+communities
+
+•
+
+They should not be seen as an alternative to
+decarbonise energy systems
+
+•
+
+Restore soils, reduce fertiliser runoff,
+and increase resilience
+
+•
+
+Easy to consider afforestation in the wrong
+locations
+
+•
+
+Reduce flood and erosion, and stabilise
+river banks and slopes
+
+•
+
+Potential adverse impacts on local
+communities
+
+•
+
+Sustaining natural resources in drier
+and more variable climates
+
+•
+
+Failure to ensure benefits for biodiversity
+improvements
+
+•
+
+Buffering communities from the impacts
+of climate change
+
+42
+
+Nature-based solutions assist
+in achieving targets set by the
+17 Sustainable Development
+Goals.
+The impact can be direct or indirect.
+
+43
+
+Next steps
+•
+
+Register your asset for Green Star Buildings and
+showcase your leadership.
+
+•
+
+Be involved as we update our Green Star rating tools.
+
+•
+
+Support GBCA’s policy platform by advocating for
+decarbonised built environment.
+
+•
+
+Seek the support of government to make the necessary
+changes to policy and codes to drive climate positive
+buildings.
+
+•
+
+Partner with us to deliver skills, services, and mechanisms
+to drive change in industry.
+
+•
+
+Help us build a market for a lower upfront carbon
+emissions supply chain.
+
+•
+
+Partner with us and become a climate positive champion.
+
+•
+
+Provide us with feedback at greenstar@gbca.org.au
+
+44
+
+Appendix A.
+Guidance for
+renewables in Green
+Star
+
+45
+
+Emissions from new buildings in context
+This guidance
+
+Standard
+
+Fossil fuel
+free
+
+Typical building emissions
+profile
+
+Eliminate natural gas for
+space heating, domestic
+hot water and cooking.
+
+Highly
+efficient
+
+Powered by
+renewables
+
+Minimise energy
+consumption through
+demand reduction, energy
+efficiency and effective
+controls.
+
+Provide all electricity from
+100% renewable sources –
+on-site and/or off-site.
+
+Built with
+lower upfront
+carbon
+
+Offset with
+nature
+
+Select products and
+materials with lower upfront
+carbon and optimise the
+building’s design.
+
+After reducing all GHG
+emissions as much as
+possible procure nature
+based offsets.
+
+Legend
+Natural gas
+Space heating,
+DHW, cooking
+
+Electricity
+Ventilation, cooling, lighting,
+pumps, small power, lifts,
+security, controls, IT systems
+
+Other
+Emergency (backup) power,
+(also include refrigerant
+GWP)
+
+Materials in
+construction
+Emissions from products and
+materials used in construction.
+
+Renewables in
+Green Star
+Green Star recognises the emissions reductions
+benefits of on-site renewable energy systems,
+GreenPower, or off-site renewables.
+It does this to:
+•
+
+Promote the decarbonisation of the grid in Australia
+
+•
+
+Encourage a permanent transition to renewables in Australia.
+
+Throughout this paper, guidance is provided in the form of scenarios.
+These are described in more detail in the table at the end of this
+appendix.
+
+47
+
+Definitions
+The following definitions are used in this document:
+
+• Renewable Energy: Renewable energy is any source of energy that can be used without depleting its reserves including
+sunlight or solar energy, wind, wave, biomass, and hydro energy.
+• On-site renewables: Renewable electricity that is supplied directly to the building. The location of the renewable generation
+does not need to occur on the same site as the building, it may occur adjacent to it (for example). The key is the direct supply
+to the asset (known as ‘behind the meter’), and the traceability of the energy supply to the building or fitout itself.
+• Off-site renewables: Renewable electricity that is supplied to the grid, which in turn distributes energy to the building. As
+above, the location of the generator does not dictate whether it’s considered off-site or on-site. Rather, it is that the generator
+supplies the grid directly without such supply being directly used by the building itself.
+• Accredited off-site renewables: Renewable electricity supplied through the grid that has received GreenPower® or
+GreenPower® Connect accreditation. GreenPower® is the only voluntary government accredited program that enables an
+electricity provider to demonstrate that the purchased electricity is helping develop new renewable infrastructure in Australia.
+• Offsets: Offset Units are defined by the Climate Active Carbon Neutral Standard for Buildings as: ‘Represents reductions of
+greenhouse gases or removals of greenhouse gases from the atmosphere by sinks, relative to a business-as usual baseline.
+Offset units are tradeable and can be used to negate (or offset) all or part of another entity’s emissions’.
+
+48
+
+Definitions
+The following terms are also useful in understanding this document:
+
+• Small-scale technology certificate (STC): A certificate generated for systems that generate less than 100kw of
+power per year. STC’s generated behind the meter do not need to be surrendered.
+• Large generation certificate (LGC): A certificate generated for systems that generate more than 100kw of power per
+year. LGCs can be surrendered to the electricity regulator (in which case the certificate cannot be used by a second
+entity to make a claim). Alternatively, LGCs can be sold to a second entity, which can then make a claim against its
+liability.
+• Renewable energy certificate (REC): Both STCs and LGCs are examples of Renewable Energy Certificates.
+
+• Power Purchase Agreement (PPA): A contract identifying the duration of the power supply contract, supply
+availability (including proportion of off-site renewable electricity) and guaranteed GHG emission factor.
+• Renewable Energy Target (RET): an Australian Government scheme designed to reduce emissions of greenhouse
+gases in the electricity sector and encourage the additional generation of electricity from sustainable and renewable
+sources.
+
+49
+
+Making credible claims in Green Star
+To make claims with regards to renewable electricity usage, GBCA has reviewed the
+principles of RE100, as outlined in ‘RE100 technical briefing: Making credible
+renewable electricity usage claims’. We have also reviewed principles established by
+NABERS with regards to renewable energy use. Finally, we have also reviewed the
+‘Greenhouse Gas Emissions Protocol scope 2 Guidance’.
+
+Where the principles between schemes conflict, we have chosen the guidance that is most
+relevant to the Australian built environment in line with international best practice.
+
+As this document applies to older versions of Green Star, there is additional guidance for Green Star – Design & As Built, Green
+Star – Performance (2014) and Green Star – Interiors (2014) that is aligned with NABERS (scenario C, and D). This is maintained
+for legacy purposes. Project teams and applicants should note that scenarios C and D are not aligned with the newer rating tools
+or international best practice.
+
+50
+
+Making on-site renewable claims for
+Green Star submissions
+The following scenarios can be claimed as on-site renewable energy for purposes of Green Star (all rating tools):
+•
+
+On-site systems are present and only STCs are generated (Scenario A)
+
+•
+
+On-site systems are present and LGCs are generated and retired (Scenario B)
+
+For Green Star – Design & As Built (2014), Green Star – Interiors (2015), and Green Star – Performance (2013), these additional
+scenarios are allowed for legacy purposes. Project teams are strongly encouraged to not rely on these scenarios as they may
+hamper the assets ability to make credible claims on the international stage.
+•
+
+On-site systems are present and LGCs are generated and sold (Scenario C)
+
+•
+
+On-site systems are present and LGCs are generated and sold, and offsets are purchased (Scenario D)
+
+51
+
+Making off-site renewable claims for Green
+Star submissions
+The following scenarios can be claimed as off-site renewable energy for purposes of Green Star (all rating tools):
+•
+
+GreenPower® or GreenPower Connect® (Scenario E)
+
+•
+
+A Power Purchasing Agreement (PPA) between a generation source and user, where the Australian Renewable Energy
+Certificates are retired to the regulator (Scenario F and I*).
+
+* Scenario I only applies to Green Star Performance
+
+52
+
+Additional information
+The following scenarios are not considered renewable electricity in Australia for the purposes of Green Star:
+•
+
+Electricity purchased from a generator / retailer through a PPA or contract, where LGCs are provided to user and LGCs are sold by
+the user. (Scenario G)
+
+•
+
+Electricity purchased from a generator / retailer through a PPA or contract where LGCs are provided to user, LGCs are sold and the
+emissions from the electricity consumed are calculated at the grid factor and carbon offsets are purchased. (Scenario H)
+
+•
+
+Electricity is purchased and an equivalent amount of international RECs have been purchased to cover the amount of electricity
+used by the building, and these certificates are retired (Scenario J)
+
+•
+
+Electricity is purchased and an equivalent amount of offset units have been purchased to cover the greenhouse gas emissions
+attributed to scope 2 & 3 grid emissions from the building’s electricity use (Scenario K)*
+
+•
+
+Electricity is purchased and the retail electricity product is certified as carbon neutral against the Australian Government’s Climate
+Active Carbon Neutral Standard for Products and services (Scenario L)**
+
+* GBCA acknowledges it has provided conflicting guidance against Scenario K in the past for Green Star – Performance registered projects.
+From December 2021, no claims against Scenario K will be accepted regardless of it being previously allowed.
+** While not considered renewable electricity, some benefits are recognised in legacy rating tools. See FAQ 84 and Appendix C.
+
+53
+
+Calculating your renewable requirements
+Green Star and the market-based mechanism
+The Greenhouse Gas Protocol defines two mechanisms to allocate generator emissions
+(scope 2 electricity emissions) to the end-user: the location-based method and the
+market-based method.
+The location-based method uses the average emissions intensity of the grid where
+consumption occurs. The market-based method reflects emissions after allowing for
+renewable electricity purchases.
+In Australia, the market-based method means that the entity calculates scope 2
+emissions after allowing for renewable energy provided as part of Government targets
+and quotas, renewable energy voluntarily purchased via Large scale Generation
+Certificate (LGC) retirement and a residual mix factor for the remaining non-renewable
+electricity. Where the sum of mandatory renewable electricity and voluntary purchase
+renewable energy equals 100% scope 2 emissions are regarded as zero.
+Green Star recognises 100% renewable electricity procurement as calculated through
+the market-based method. NABERS and the Climate Active program also follow this
+approach when 100% renewable electricity is purchased.
+
+Green Star, renewable purchasing, and
+the Australian Capital Territory (ACT)
+The ACT announced in 2020 that they had procured
+100% renewable electricity for all electricity
+consumption in the territory. They have achieved
+this by procuring enough large scale generation
+certificates for the electricity used in the territory
+and surrendering these to the regulator. The ACT
+government will continue to do this every year.
+For purposes of Green Star Buildings, and the rest
+of the Green Star Future Focus rating tools,
+buildings located in the ACT are able to
+automatically claim the ‘Energy Source’ credit
+achievement. If the building does not use fossil fuels
+for heating, cooking, hot water, or power, then the
+building can also automatically claim the ‘Energy
+Source’ Exceptional Performance.
+
+This is the case, provided the ACT government
+continues with surrendering the certificates at the
+time of certification.
+
+54
+
+Renewable procurement scenarios in Australia
+On-site renewables
+Scenario
+
+A
+
+B
+
+C
+
+D
+
+Outcome
+
+Electricity from on-site
+systems where:
+
+Electricity from on-site systems
+where:
+
+Electricity from on-site systems
+where:
+
+Electricity from on-site systems
+where:
+
+• STCs are generated
+
+• LGCs are generated
+
+• LGCs are generated.
+
+• LGCs are generated
+
+• Certificates are sold
+
+• Certificates are retired
+
+• Certificates are sold
+
+• Certificates are sold
+• Offsets are purchased
+
+Considered renewable electricity in
+Australia
+
+Yes
+
+Yes
+
+No
+
+No
+
+Consistent with WorldGBC’s Net
+Zero Carbon Buildings Commitment
+
+Yes
+
+Yes
+
+No
+
+No
+
+Consistent with RE100
+
+Yes
+
+Yes
+
+No
+
+No
+
+Recognised by NABERS
+
+Yes
+
+Yes
+
+Yes
+
+Yes[2]
+
+Recognised by Climate Active
+Carbon Neutral Standard
+
+Yes
+
+Yes
+
+No
+
+Yes[3]
+
+Recognised in Greenhouse Gas
+Emissions in Green Star – Design &
+As Built (2014), Green Star – Interiors
+(2015), and Green Star – Performance
+(2013)
+
+Yes
+
+Yes
+
+Yes[1]
+
+Partial[1,2]
+
+Recognised in Energy Source in
+Green Star Buildings (2020)
+
+Yes
+
+Yes
+
+No
+
+No
+
+1 To align with guidance from NABERS, legacy rating tools recognise this method. Project teams should be aware that this method may not be in line with international best practice
+
+2 Though for purposes of NABERS and Green Star, the purchase of offsets is irrelevant.
+3 While not recognised as renewable electricity, this method is recognised within the Climate Active standard to compensate for building emissions from electricity.
+
+55
+
+Renewable procurement scenarios in Australia
+Off-site renewables
+Scenario
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Outcome
+
+Electricity purchased
+from retailers
+accredited through:
+
+Electricity purchased from a
+generator / retailer through
+a PPA or contract where:
+
+Electricity purchased from a
+generator / retailer through a
+PPA or contract where:
+
+Electricity is purchased and:
+
+• GreenPower®
+
+• LGCs are provided to
+user
+
+Electricity purchased
+from a generator /
+retailer through a PPA
+or contract, where:
+
+• GreenPower
+Connect®
+
+• LGCs are retired by the
+user.
+
+• LGCs are provided
+to user
+
+• LGCs are provided to user
+
+• LGCs are sold
+
+• LGCs are sold by the
+user.
+
+• The emissions from the
+electricity consumed are
+calculated at the grid factor
+and carbon offsets are
+purchased.
+
+• An equivalent amount of
+Australian RECs (LGCs)
+are purchased to
+retrospectively cover the
+amount of electricity used
+by the building
+• These certificates are
+retired are retired by the
+asset owner.
+
+Considered renewable electricity in Australia
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Consistent with WorldGBC’s Net Zero Carbon
+Buildings Commitment
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Consistent with RE100
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Recognised by NABERS
+
+Yes
+
+Yes[4]
+
+No
+
+No
+
+Yes[4]
+
+Recognised by Climate Active Carbon
+Neutral Standard
+
+Yes
+
+Yes
+
+No
+
+Yes[3]
+
+Yes
+
+Recognised in ‘Greenhouse Gas Emissions’
+in Green Star – Design & As Built (2014),
+Green Star – Interiors (2015), and Green Star
+– Performance (2013)
+
+Yes
+
+Yes
+
+No
+
+No
+
+Only in
+Green Star – Performance
+
+Recognised in Energy source in Green Star
+Buildings (2020)
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+3 While not recognised as renewable electricity, this method is recognised within the Climate Active standard to compensate for building emissions from electricity.
+4 NABERS has announced these methods will be recognised from late 2021 onwards.
+
+56
+
+Renewable procurement scenarios in Australia
+Electricity and offset scenarios
+Scenario
+
+J
+
+K
+
+L
+
+Outcome
+
+Electricity is purchased and:
+
+Electricity is purchased where:
+
+Electricity is purchased and:
+
+• An equivalent amount of
+international RECs have been
+purchased to cover the amount of
+electricity used by the building.
+
+• An equivalent amount of offsets
+have been purchased to cover the
+greenhouse gas emissions
+attributed to scope 2 & 3 grid
+emissions from the building’s
+electricity use.
+
+• The retail electricity product is
+certified as carbon neutral against
+the Australian Government’s
+Climate Active Carbon Neutral
+Standard for Products and
+services
+
+• These certificates are retired.
+
+Considered renewable electricity in Australia
+
+No
+
+No
+
+No
+
+Consistent with WorldGBC’s Net Zero Carbon
+Buildings Commitment
+
+No
+
+No
+
+No
+
+Consistent with RE100
+
+No
+
+No
+
+No
+
+Recognised by NABERS
+
+No
+
+No
+
+No
+
+Recognised by Climate Active Carbon Neutral
+Standard
+
+No
+
+Yes
+
+Yes[5]
+
+Recognised in ‘Greenhouse Gas Emissions’ in
+Green Star – Design & As Built (2014), Green
+Star – Interiors (2015), and Green Star –
+Performance (2013)
+
+No
+
+No
+
+Partial[5]
+
+Recognised in Energy source in Green Star
+Buildings (2020)
+
+No
+
+No
+
+No
+
+5 Carbon Neutral certified electricity is considered zero emissions electricity. For Green Star legacy rating tools, it is marked partial as its benefits are partly recognised through the renewable energy allowance.
+
+57
+
+Appendix B.
+Guidance for offsets
+in Green Star
+
+58
+
+Emissions from new buildings in context
+This guidance
+
+Standard
+
+Fossil fuel
+free
+
+Typical building emissions
+profile
+
+Eliminate natural gas for
+space heating, domestic
+hot water and cooking.
+
+Highly
+efficient
+
+Powered by
+renewables
+
+Minimise energy
+consumption through
+demand reduction, energy
+efficiency and effective
+controls.
+
+Provide all electricity from
+100% renewable sources –
+on-site and/or off-site.
+
+Built with
+lower upfront
+carbon
+
+Offset with
+nature
+
+Select products and
+materials with lower upfront
+carbon and optimise the
+building’s design.
+
+After reducing all GHG
+emissions as much as
+possible procure nature
+based offsets.
+
+Legend
+Natural gas
+Space heating,
+DHW, cooking
+
+Electricity
+Ventilation, cooling, lighting,
+pumps, small power, lifts,
+security, controls, IT systems
+
+Other
+Emergency (backup) power,
+(also include refrigerant
+GWP)
+
+Materials in
+construction
+Emissions from products and
+materials used in construction.
+
+A note on this document
+The guidance in this document applies to any use of offsets for recognition within Green Star.
+
+This is explicitly for:
+•
+
+Green Star Innovation Challenges (legacy rating tools)
+
+•
+
+Green Star Buildings
+
+•
+
+Any Green Star Future Focus rating tools, including future versions of Green Star Performance, Green
+Star Communities, Green Star Fitouts, and Green Star Homes.
+
+The guidance in this document does not place limitations on the use of offsets for the purposes of achieving
+Climate Active certification through Green Star.
+This document also presents the best available current guidance on the publishing and availability of offsetting
+opportunities. Over time, as the offsetting market evolves and based on potential changes due to the ratification
+of article 6 of the Paris Agreement, we expect that the guidance in this document related to offsets will change.
+
+60
+
+General requirements for carbon offsets
+Key criteria for credible offsets
+•
+
+New project. Implementation of the project has not yet started or is within the grace period
+according to the standard.
+
+•
+
+Additionality. The project has only been implemented thanks to revenue from emission
+reduction certificates. In general, this means that the project is
+•
+•
+•
+
+not economically feasible without carbon revenues
+not considered common practice
+not required by law
+
+•
+
+Permanence. The project needs to ensure that emissions are kept out of the atmosphere for a
+reasonable length of time.
+
+•
+
+No double counting. The emission reductions claimed do not conflict with claims made by any
+other organisations.
+
+•
+
+Sound monitoring. Emission reductions can be measured and verified.
+
+•
+
+Recognised methodology. The project is in line with the requirements and principles set by a
+recognised GHG accounting standard.
+
+The criteria above are intended to drive the use of high-integrity and high-quality
+compensation activities. As the offset market is still changing and maturing the guidance in
+this document will change over time.
+61
+
+What are the eligible activities?
+Afforestation, reforestation and improved forest management
+
+Afforestation activities
+Planting in areas with no woody
+vegetation in the previous 10 years
+
+Silvopastoral systems
+Planting trees in animal-grazing areas
+
+Reducing the impact of logging
+Improving the logging activities in a
+commercial plantation by reducing the
+impact of the logging
+
+Natural regeneration
+Enrichment and/or enhancing of
+natural regeneration
+
+Live fences
+Planting trees as fences
+
+Extending forest age
+Extend the rotation age or the cutting
+cycle of forest plantations
+
+Agroforestry systems
+Planting trees with crops
+
+Protecting the forest
+Changing the land use of a forest
+plantation from logged forest to
+protected forest
+
+Improving productivity
+Increase the productivity of forest
+plantation by improvements to
+management, thinning, fertilisation, etc.
+
+62
+
+Forest carbon sequestration project types
+The difference between Forest Regeneration,
+Forest Conservation and Improved Forest Management
+
+●
+
+Afforestation/Reforestation (A/R) or Afforestation, Reforestation & Revegetation (ARR) must be on
+land not previously forested. Also known as “Forest Regeneration”.
+
+●
+
+Reduced Emissions from Deforestation & Degradation (REDD+). Where it is planned to convert land
+from forest for agriculture, development, etc., REDD+ project implementation ensures that land remains
+forest. Also known as “Forest Conservation”.
+
+●
+
+Improved Forest Management (IFM) projects ensure that forest which has been commercially utilised in the
+past and/or would be commercially utilised in the future, in the absence of the project, is managed in a way
+that increases carbon stocks. IFM subcategories include improved management of plantations to increase
+carbon density, implementation of ‘reduced impact logging’, and conversion of logged forest to protected
+forest.
+
+63
+
+Credible carbon standards & labels
+The Verified Carbon Standard (VCS) developed by Verra is the world’s most widely used voluntary GHG reduction programme,
+with more than 1,000 projects.
+
+Established by WWF, The Gold Standard is endorsed by more than 80 NGOs. UN agencies use the Gold Standard for the
+development of their own carbon mitigation and sustainable development projects. Gold Standard is now also certifying SDGs.
+
+The Climate, Community & Biodiversity Standard (CCBA) is a partnership of NGOs with the aim of stimulating land-based
+carbon reduction activities, improving the wellbeing and reducing the poverty of local communities, and conserving biodiversity.
+
+The ERF Safeguard Mechanism provides an incentive for activities that count towards meeting Australia’s climate commitments
+under Paris Agreement and allows for voluntary carbon market participation.
+
+The Clean Development Mechanism (CDM) is established under the UNFCCC. Credits from CDM projects in developing
+countries can be used by industrialised countries to a meet a part of their compliance targets.
+
+The Social Carbon Standard was developed to strengthen social co-benefits of carbon offsetting projects and enhance the
+active participation of stakeholders. It is typically used in conjunction with a carbon accounting standard, such as the VCS.
+
+This list of standards represent offset programs of high-integrity and high-quality. The list may grow over time. If project teams wish to use a
+different offset program, they are encouraged to submit a technical question.
+
+64
+
+What are the eligible methodologies?
+Agriculture, Forestry and Other Land use (AFOLU)
+AFOLU project categories and available methodologies:
+●
+Afforestation, Reforestation and Revegetation (ARR)
+●
+Agricultural Land Management (ALM)
+●
+Improved Forest Management (IFM)
+●
+Reduced Emissions from Deforestation and Degradation (REDD+)
+●
+Avoided Conversion of Grasslands and Shrublands (ACoGS)
+●
+Wetlands Restoration and Conservation (WRC)*
+*WRC includes tidal and freshwater wetlands. Blue Carbon Ecosystem are wetlands and therefore the WRC
+category is applicable.
+
+In the case of mangroves, which are forests, REDD+ and ARR categories are also applicable, in combination with
+WRC methodologies.
+
+65
+
+Vintage year requirement
+●
+
+The “vintage year” of an offset here refers to the year in which the
+associated emissions reductions/removals occurred. Offset vintage year
+corresponds to the crediting period of projects that generate it.
+
+●
+
+Initially, GBCA will align its requirement for Green Star offset vintage year
+with that of CORSIA, to be compliant with the requirements for CORSIA
+Eligible Emissions Units (see ICAO Recommendation for more information).
+
+●
+
+Offsets eligible for use under Green Star are those with vintage year 20162020. Those offsets are issued to activities that started their first crediting
+period from 1 January 2016 and in respect of emissions reductions that
+occurred through 31 December 2020.
+
+●
+
+Guidance on offsets is an evolving topic. For example, SBTI is exploring
+introducing a 3 year vintage requirement. As such, we intend to update the
+Green Star offset vintage year requirement from 2023 as international
+guidance is developed.
+
+66
+
+Why CORSIA was chosen as the baseline for
+Green Star
+CORSIA is the “Carbon Offsetting and Reduction Scheme for International Aviation”, an offsetting
+program to partially meet the global airline industry emission reduction target, established by the International
+Civil Aviation Organization (ICAO). Vintage 2016+ applies to CORSIA’s pilot phase (2021-2023).
+●
+
+Aligned with the Paris Agreement entry into force.
+
+●
+
+It is also aligned with other domestic compliance programs (e.g. Korea Emissions Trading Scheme).
+
+●
+
+This scenario allows building developers to buy credits over-the-counter.
+
+●
+
+Offsets issued in 2016 onwards can be considered ‘old’. Appropriate care must be taken to ensure they
+are the right fit for your strategy.
+
+●
+
+This baseline will change over time as Green Star is updated.
+
+67
+
+Appendix C.
+Claiming points in
+Green Star
+
+68
+
+On-site renewables
+Scenario
+
+Off-site renewables
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Offsets
+F
+
+I
+
+L
+
+Electricity is purchased and:
+
+Electricity from on-site
+systems where
+
+Electricity from on-site
+systems where:
+
+Electricity from on-site
+systems where
+
+• STCs are generated
+
+• LGCs are generated
+
+• LGCs are generated.
+
+• Certificates are sold.
+
+• Certificates are retired
+
+• Certificates are sold
+
+Outcome
+
+Electricity from on-site
+systems where:
+• LGCs are generated
+• Certificates are sold
+• Offsets are purchased
+
+Electricity purchased from
+retailers accredited through:
+• GreenPower®
+• GreenPower Connect®
+
+Electricity purchased directly
+from a generator / retailer
+through a PPA or contract
+where:
+• LGCs are provided to user
+• LGCs are retired by the
+user.
+
+• An equivalent amount of
+Australian RECs (LGCs)
+are purchased to
+retrospectively cover the
+amount of electricity used
+by the building
+• These certificates are
+retired by the building
+owner or user.
+
+Electricity is purchased and:
+• The retail electricity
+product is certified as
+carbon neutral against the
+Australian Government’s
+Climate Active Carbon
+Neutral Standard for
+Products and services
+
+Green Star – Design & As Built (2014) and Green Star – Interiors (2015)
+Prescriptive Pathway (D&AB 15A.10)
+Prescriptive Pathway – Non
+Residential Fitouts (Interiors 16A.7)
+
+Prescriptive Pathway – Residential
+Fitouts (Interiors 16B.6)
+
+X
+
+X
+
+X
+
+X
+
+✔
+
+✔
+
+X
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+X
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+Greenhouse Gas Strategy –
+Performance Pathway (25A.3)
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+X
+
+✔
+
+Greenhouse Gas Strategy –
+Prescriptive Pathway (25B.3)
+
+✔
+
+✔
+
+✔
+
+✔
+
+X
+
+X
+
+X
+
+X
+
+Energy Use (22)
+
+✔
+
+✔
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Energy Source (23)
+
+✔
+
+✔
+
+X
+
+X
+
+✔
+
+✔
+
+X
+
+X
+
+NatHERS Pathway (D&AB 15B.2.10)
+BASIX Pathway (D&AB 15C.2)
+NABERS[1] Energy Commitment
+Agreement Pathway (D&AB 15D.2)
+NABERS Energy Commitment
+Agreement Pathway (Interiors 16C.2)
+Reference Building Pathway (D&AB
+15E.3, 15E.4, & 15E.5.3)
+
+Reference Fitout Pathway (Interiors
+16D.2)
+Green Star – Performance (2013)
+
+All Pathways (15A, 15B, 15C, 15D)
+Green Star – Communities (2012)
+
+Green Star Buildings (2020)
+
+69
+
+Green Star – Design & As Built and Green Star – Interiors
+Green Star – Design & As Built:
+• 15A Prescriptive Pathway (15A.10)
+• 15B NatHERS Pathway (15B.2.10)
+• 15C BASIX Pathway (15C.2)
+• 15D NABERS Energy Commitment Agreement Pathway
+• 15E Reference Building Pathway
+
+Scenario
+
+A
+
+Green Star – Interiors
+• 16A Prescriptive Pathway – Non-Residential Fitouts (16A.7)
+• 16B Residential Fitouts (16B.6)
+• 16C NABERS Energy Commitment Agreement Pathway
+• 16D – Reference Fitout Pathway
+
+Outcome
+
+How to apply in Green Star
+
+Electricity from on-site systems where:
+
+For pathways 15A, 15B, 15C in Green Star - Design & As Built and pathways 16A and 16B in Green Star – Interiors:
+
+•
+
+•
+
+STCs are generated & Certificates are sold.
+
+Not accepted - Submit a Technical Question if the project intends to claim under the relevant rating tool.
+
+On-site Renewables
+
+For pathway 15D in & 16C - NABERS Energy Commitment Agreement Pathway:
+Electricity from on-site systems where:
+B
+
+•
+
+LGCs are generated & Certificates are retired
+
+Electricity from on-site systems where
+C
+
+•
+
+LGCs are generated & Certificates are sold
+
+Electricity from on-site systems where:
+D
+
+Off – Site Renewables
+
+E
+
+F
+
+•
+
+Electricity purchased from retailers accredited through GreenPower® or GreenPower
+Connect®
+
+Electricity purchased directly from a generator / retailer through a PPA or contract
+where:
+
+•
+
+LGCs are provided to user & LGCs are retired by the user.
+
+Electricity is purchased and:
+I
+
+•
+•
+
+Offsets
+
+LGCs are generated, certificates are sold & offsets are purchased
+
+L
+
+•
+•
+•
+
+Model the electricity produced by the on-site renewable electricity systems
+Complete the relevant Green Star calculator.
+On-site renewables contribute to emissions reductions.
+
+For pathway 15E - Reference Building Pathway & 16D – Reference Fitout Pathway:
+
+•
+•
+•
+
+Model the electricity produced by the on-site renewable electricity systems
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+For the above pathways in the relevant rating tools:
+
+•
+•
+
+Procure a supply contract for Off-site Renewable electricity solutions.
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+Not Accepted.
+
+An equivalent amount of Australian RECs (LGCs) are purchased to retrospectively
+cover the amount of electricity used by the building
+These certificates are retired by the building owner or user.
+
+Electricity is purchased and:
+
+For the above pathways in the relevant rating tools:
+
+•
+
+•
+•
+•
+
+The retail electricity product is certified as carbon neutral against the Australian
+Government’s Climate Active Carbon Neutral Standard for Products and services
+
+Procure a supply contract for Carbon Neutral Certified electricity.
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+70
+
+Green Star – Performance
+• 15A NABERS Energy
+• 15B Building Energy Baselines
+• 15C Peer Group of Comparable Buildings
+• 15D Longitudinal Benchmarking
+
+Scenario
+
+Outcome
+
+How to apply in Green Star
+
+Electricity from on-site systems where:
+
+On-site Renewables
+
+A
+
+B
+
+•
+
+STCs are generated & Certificates are sold.
+
+Electricity from on-site systems where:
+
+For the above pathways in Green Star - Performance:
+
+•
+
+•
+•
+•
+
+LGCs are generated & Certificates are retired
+
+Electricity from on-site systems where
+C
+
+•
+
+LGCs are generated & Certificates are sold
+
+Meter, validate and monitor the use of on-site renewable electricity generated during the performance period.
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+Electricity from on-site systems where:
+D
+
+Off – Site Renewables
+
+E
+
+•
+
+LGCs are generated, certificates are sold & Offsets are purchased
+
+Electricity purchased from retailers accredited through GreenPower® or GreenPower
+Connect®
+
+Electricity purchased directly from a generator / retailer through a PPA or contract where:
+F
+
+•
+
+LGCs are provided to user & LGCs are retired by the user.
+
+For the above pathways in in Green Star - Performance:
+
+•
+•
+•
+
+Have a supply contract for Off-site Renewable electricity in place during the performance period.
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+For the above pathways in Green Star - Performance:
+Electricity is purchased and:
+I
+
+•
+•
+
+An equivalent amount of Australian RECs (LGCs) are purchased to retrospectively
+cover the amount of electricity used by the building
+These certificates are retired by the building owner or user.
+
+•
+•
+•
+
+Measure the amount of electricity consumed during the performance period and buy equivalent of amount of Renewables
+Energy Certificates (RECs).
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+Offsets
+
+For the above pathways in in Green Star - Performance:
+Electricity is purchased and:
+L
+
+•
+
+The retail electricity product is certified as carbon neutral against the Australian
+Government’s Climate Active Carbon Neutral Standard for Products and services
+
+•
+•
+•
+
+Have a supply contract for Carbon Neutral Certified electricity in place during the performance period.
+Complete the relevant Green Star calculator.
+Points are awarded accordingly as per the completed calculator.
+
+71
+
+Green Star – Communities
+• 25A Performance Pathway (25A.3)
+• 25B Prescriptive Pathway (25B.3)
+
+Scenario
+
+Outcome
+
+How to apply in Green Star
+
+Electricity from on-site systems where:
+
+On-site Renewables
+
+A
+
+•
+
+STCs are generated & Certificates are sold.
+
+Electricity from on-site systems where:
+B
+
+•
+
+LGCs are generated & Certificates are retired
+
+Electricity from on-site systems where
+C
+
+•
+
+For the above pathways in the in Green Star - Communities
+
+•
+•
+
+Model the electricity produced by the on-site renewable electricity systems.
+Provide evidence as per the submission guidelines.
+
+LGCs are generated & Certificates are sold
+
+Electricity from on-site systems where:
+D
+
+•
+
+LGCs are generated, certificates are sold & Offsets are purchased
+For pathway 25A:
+
+Off – Site Renewables
+
+E
+
+F
+
+Electricity purchased from retailers accredited through GreenPower® or GreenPower Connect®
+
+Electricity purchased directly from a generator / retailer through a PPA or contract where:
+
+•
+•
+•
+
+•
+
+For pathway 25B – Not Accepted.
+
+LGCs are provided to user & LGCs are retired by the user.
+
+•
+
+Have a supply contract for Off-site Renewable electricity in place and can be guaranteed into the future.
+Provide evidence as per submission guidelines.
+Points are awarded as per the submission guidelines.
+
+Submit a Technical Question if the project intends to claim under this pathway.
+
+Electricity is purchased and:
+I
+
+•
+
+•
+
+An equivalent amount of Australian RECs (LGCs) are purchased to retrospectively cover the
+amount of electricity used by the building
+
+Not Accepted.
+
+These certificates are retired by the building owner or user.
+
+Offsets
+
+For pathway 25A
+
+Electricity is purchased and:
+L
+
+•
+
+The retail electricity product is certified as carbon neutral against the Australian Government’s
+Climate Active Carbon Neutral Standard for Products and services
+
+•
+•
+•
+
+Have a supply contract for Carbon Neutral Certified electricity in place and can be guaranteed into the future.
+Provide evidence as per the submission guidelines.
+For every 3 points awarded for percentage improvement over the reference project, 1 point is awarded when the project
+team can demonstrate how the purchase of Carbon Neutral Certified electricity can be guaranteed into the future.
+
+For pathway 25B
+
+•
+
+Not Accepted. Submit a Technical Question if the project intends to claim under this pathway.
+
+72
+
+Green Star Buildings
+• Energy Use
+• Energy Source
+Scenario
+
+Outcome
+
+How to apply in Green Star
+For the purposes of Energy Use credit:
+
+Electricity from on-site systems where:
+
+On-site Renewables
+
+A
+
+B
+
+•
+
+STCs are generated & Certificates are sold.
+
+•
+•
+
+On-site renewable electricity generation cannot be used to demonstrate compliance with the Minimum Expectation.
+On-site renewable electricity generation can be used to demonstrate compliance with the Credit Achievement and
+Exceptional Performance
+
+Electricity from on-site systems where:
+
+For the purposes of Energy Source credit:
+
+•
+
+•
+
+LGCs are generated & Certificates are retired
+
+On-site renewable electricity generation under the control of the building owner can be used to demonstrate
+compliance with the Credit Achievement and Exceptional Performance
+
+Electricity from on-site systems where
+C
+
+•
+
+LGCs are generated & Certificates are sold
+Not Accepted
+
+Electricity from on-site systems where:
+D
+
+•
+
+LGCs are generated, certificates are sold & Offsets are purchased
+For the purposes of Energy Use credit:
+
+Off – Site Renewables
+
+E
+
+Electricity purchased from retailers accredited through GreenPower® or GreenPower Connect®
+
+Does not contribute towards the requirements of the credit.
+
+For the purposes of Energy Source credit:
+Electricity purchased directly from a generator / retailer through a PPA or contract where:
+F
+
+•
+
+LGCs are provided to user & LGCs are retired by the user.
+
+•
+•
+
+Procure a supply contract for Off-site Renewable electricity solutions for at least 5 years (or 3 where there is a public
+commitment).
+Provide evidence as per the submission guidelines
+
+Electricity is purchased and:
+I
+
+•
+•
+
+Offsets
+
+•
+
+An equivalent amount of Australian RECs (LGCs) are purchased to retrospectively cover the
+amount of electricity used by the building
+
+Not Accepted.
+
+These certificates are retired by the building owner or user.
+
+Electricity is purchased and:
+
+L
+
+•
+
+The retail electricity product is certified as carbon neutral against the Australian Government’s
+Climate Active Carbon Neutral Standard for Products and services
+
+Not Accepted.
+
+73
+
+Changelog
+
+74
+
+Changelog
+Date
+
+Page
+
+Change
+
+25/11/2020
+
+11
+
+New page referencing recent IEA and IPCC reports outlining the need to decarbonise faster
+
+15
+
+New page clarifying definitions used in the document.
+
+29
+
+Minor grammar corrections and alignment of terminology.
+
+32
+
+Amended to reflect proposed updates to framework for Green Star Performance as seen in the Climate Positive Pathway for Existing Buildings
+
+34
+
+Amended targets to reflect proposal outlined in the document noted above.
+
+46
+
+New page stating purpose of guidance for the renewables guidance section.
+
+59
+
+New page stating purpose of guidance for the offsets guidance section.
+
+75
+
+For feedback or more information
+Green Building Council of Australia
+Level 31, Tower Two, International Towers
+200 Barangaroo Avenue
+greenstar@gbca.org.au
+
+76
+
+
