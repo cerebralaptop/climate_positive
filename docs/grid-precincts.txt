@@ -1,0 +1,3797 @@
+The future is electric:
+A practical guide for
+grid-optimised
+precincts
+
+positivezero
+
+A practical guide for grid-optimised precincts
+
+A practical guide for grid-optimised precincts
+
+1
+
+Established in 2002, Green Building Council of Australia (GBCA)
+is the nation’s authority on sustainable buildings, communities
+and cities. Our vision is for healthy, resilient and positive places
+for people. Our purpose is to lead the sustainable transformation
+of the built environment. GBCA represents more than 550
+individual companies with a combined annual turnover of more
+than $46 billion.
+
+Technical partner
+
+positivezero
+
+Positive Zero was founded in 2022 by David Clark to provide
+independent sustainability advice, guidance, training and
+technical solutions to clients in the property sector.
+
+Funding partner
+Boundless uses the levers of philanthropy, investment and
+direct advocacy to make change and get Australia on the path
+to becoming a renewable energy superpower by 2030.
+
+With thanks to
+
+We would like to thank the following people for providing
+advice and insight int the development of this guide:
+•
+
+Gabrielle Kuiper – DER Expert
+
+•
+
+Karen Greaves - Lendlease
+
+•
+
+Paul Himberger - Landcom
+
+•
+
+Iris Bua – Endeavour Energy
+
+•
+
+David West – Sourced Energy
+
+•
+
+Tosh Szatow, Simon Evans – Flow Power
+
+•
+
+Gerard Healey – University of Melbourne
+
+•
+
+Jane Keddie – Hanson Partnerships
+
+•
+
+Simon Carter, Florian Richard - ESR
+
+GBCA would like to
+thank our Climate
+Positive Partners for
+their ongoing support.
+
+A practical guide for grid-optimised precincts
+
+A practical guide for grid-optimised precincts
+
+How to use
+this guide
+
+This guide outlines the key steps and principles to deliver new allelectric precincts. It discusses current technologies options, and how
+to prepare for the transition to electric vehicles (EVs), energy storage
+and a more dynamic renewable electricity grid. If you are a precinct
+owner, developer, planner, government official or consulting
+professional, this guide is for you.
+
+Decarbonising
+precincts
+
+These are the primary issues to address to decarbonize precincts. For
+buildings refer to our other Practical guides to electrification available on our
+website.
+
+Standard precinct
+Gas infrastructure to buildings.
+Electricity connection to grid.
+
+Introduction
+
+This guide
+
+Introduction ● Precincts covered by this guide ● The right solution today
+● Stakeholders and key roles
+
+From today’s precincts to the precincts of the future
+Typical precincts, all-electric precincts, and grid-interactive precincts
+● Stakeholders, roles, considerations and opportunities
+
+Fossil fuel free
+Eliminate gas and LPG in the
+precinct for stationary energy.
+Use alternatives to diesel back-up
+power. Use low-GWP refrigerants.
+
+Design considerations in grid-interactive precincts
+Planning for an all-electric precinct ● Precinct energy infrastructure ● Peak energy
+management ● On-site renewable opportunities ● Electric vehicle infrastructure
+● Battery storage ● Other forms of storage ● planning for all-electric buildings
+
+Highly efficient and flexible
+Reduce electricity consumption and
+peak demand in the precinct and
+provide grid-interactive solutions to
+optimise time of use of energy.
+
+Legend
+Planning and delivering
+Paying for energy infrastructure ● Marketing an all-electric precinct ● Checklist of
+key issues for an all-electric grid-interactive precincts
+
+GHG
+EMISSIONS
+
+Gas
+
+Case Studies
+Ginninderry, ACT ● The YARDS, NSW ● Harbour Shores, QLD
+
+`
+
+Electricity
+
+Rating tools and sustainable finance requirements
+Green Star ● Climate Bonds ● Sustainable finance frameworks
+
+More information
+Myths and barriers ● References ● Appendix: Terminology and making claims
+
+A practical guide for grid-optimised precincts
+
+Other
+
+Upfront
+Carbon
+Emissions
+
+USED
+FOR
+Heating, hot water,
+cooking, local
+electricity generation
+and manufacturing
+Heating, cooling,
+ventilation, lighting,
+precinct infrastructure,
+EV charging, etc
+Emergency (backup)
+power, diesel fire
+pumps, and refrigerant
+leakage.
+GHG emissions due to
+construction of new
+precincts (materials,
+products, site activities)
+
+Powered by renewables
+Provide all electricity from
+100% renewable sources, both
+on-site and/or off-site.
+
+Lower upfront carbon
+Reduce upfront carbon of buildings,
+infrastructure and open spaces
+through design choices, construction
+processes and material/product
+procurement.
+
+Address remaining emissions
+Procure nature-based offsets for the
+remaining GHG emissions until they
+can be eliminated.
+
+A practical guide for grid-optimised precincts
+
+1
+
+Introduction
+
+Climate change, health and wellbeing, natural resource
+depletion, consumer preferences, investor demand, community
+expectations and rising energy prices – these are vital issues that
+are impacting how we develop new residential, commercial,
+industrial, logistics, health and educational precincts.
+If we are to reduce GHG emissions due to the operation of
+buildings and infrastructure in precincts and meet net zero carbon
+goals, new precincts must be fossil fuel free, energy efficient and
+powered by renewables. The key steps are to eliminate the use of
+natural gas (and liquified petroleum gas (LPG)) and to design
+precinct infrastructure to be responsive to the way that electricity
+will be generated and consumed over the next decade.
+Burning fossil fuels to generate heat, hot water and to cook food
+has been the go-to solution since the industrial revolution. Natural
+gas boilers and cookers are the pinnacle of this technology in
+buildings. A decade ago, they offered lower carbon solutions than
+using Australia’s grid electricity, which saw generated primarily
+using coal. Not anymore.
+
+What do we
+mean by
+precinct?
+Greenfield
+
+Greenfield precincts are typically undeveloped land on the
+outskirts of urban areas.
+They necessitate the construction of new roads, public
+transport and utilities to integrate with adjacent urban
+infrastructure.
+
+Brownfield
+
+The revolution in clean, renewable energy, addressing the
+challenges of climate change, air quality and energy affordability,
+has changed this irrevocably. All-electric precincts, with buildings
+using proven electric technologies powered by this clean energy,
+are an essential step towards zero carbon and lower energy bills.
+The age of gas use in our precincts is coming to an end.
+
+Brownfield precincts are a formerly developed land for
+commercial or industrial use, now vacant or underused.
+They are a specific type of urban infill.
+Existing infrastructure on site may be suitable for reuse /
+upgrade, or may require removal and replacement with new.
+
+The revolution in electric vehicles is also gaining momentum in
+Australia as the world’s leading manufacturers commit to phasing
+out diesel and petrol vehicles. Precincts, not gas stations, will be
+where most vehicles are charged – at homes, in car parks or on
+streets.
+
+Urban infill
+A precinct in established urban areas that repurposes vacant or
+previously utilised sites. The site will typically connect to
+adjacent existing infrastructure.
+
+Every new precinct can be built to be all-electric today
+using technologies that are proven, efficient and
+available.
+Precincts play a key role as the interface between the electricity
+grid and the buildings and systems consuming, generating and
+storing electricity on site. This guide discusses how new precincts
+can be designed to support:
+•
+
+All-electric low energy buildings
+
+•
+
+Electricity grid resilience and demand reduction
+
+•
+
+Electric vehicle charging
+
+•
+
+Lower energy bills for households and businesses.
+
+A practical guide for grid-optimised precincts
+
+When we talk about precinct developments, we typically mean the
+following typologies.
+
+Campus
+
+Campuses are precincts typically owned by a single entity like a
+university, retirement living or healthcare provider.
+
+2
+
+A practical guide for grid-optimised precincts
+
+3
+
+The right
+solution today
+
+The concept of all-electric precincts is not novel. In regions further
+south, the presence of natural gas from Bass Strait and colder
+winters has historically led to a dependency on gas for heating.
+However, in many warmer parts of the country, all-electric solutions
+have often been the preferred choice for new developments.
+
+The solution to climate change
+Transitioning to all-electric buildings and precincts, especially those
+powered by renewable energy, emerges as the most viable strategy
+for reducing carbon emissions within the built environment. As the
+electricity grid becomes greener, any new development relying on
+gas will produce significantly more emissions than a comparable allelectric project, even one that only uses grid-supplied power. The
+environmental benefits are further amplified when these precincts
+incorporate onsite renewable energy sources.
+
+Lower costs – today and tomorrow
+Electrification not only minimises carbon footprints but also offers
+superior financial outcomes. By leveraging renewable energy at a
+precinct scale, electrification enhances the reliability of energy
+supply for both users and grid operators.
+For precinct operators, building owners, and tenants, all-electric
+models present opportunities to lower energy expenses, shield
+themselves from the fluctuations of global energy markets and
+geopolitical unrest, and avoid the costs associated with maintaining
+an increasingly obsolete gas infrastructure.
+By excluding gas networks, these precincts avoid the complexities
+and costs associated with gas infrastructure installation, such as
+trenching and navigating property easements. This simplification
+benefits development managers and contractors alike.
+
+Ready for the future
+An all-electric approach streamlines the coordination of energy
+generation, storage, and demand management, thus bolstering grid
+stability. The integration of onsite renewable energy sources, battery
+storage, smart demand management systems, and advanced
+electric vehicle (EV) charging stations with Vehicle-to-Grid
+capabilities ensures that all-electric precincts are well-equipped for
+future demands, delivering lasting value.
+
+assets aligned with clear decarbonisation goals. All-electric
+precincts, capable of utilising renewable energy, align with this
+trend and are gaining recognition within global sustainable finance
+frameworks.
+Furthermore, corporate reporting of greenhouse gas (GHG)
+emissions is becoming a standard practice, with mandatory
+disclosure requirements expected to extend to the built
+environment sector by mid-2024. The practice of offsetting gas
+emissions to claim carbon neutrality is increasingly viewed as
+insufficient.
+
+Government ready
+Legislative support for all-electric developments is strengthening,
+with previous mandates for gas infrastructure installation being
+revoked. Emerging policies are discouraging new gas connections,
+signaling a transition from gas as a mandatory utility to an
+increasingly restricted option. Amendments to the National
+Construction Code now require provisions for batteries and EV
+charging facilities in certain building categories.
+Government incentives for adopting electric appliances and
+installing battery systems are in place, with more expected to
+encourage the shift to all-electric buildings. This will further drive
+the development of industry capacity and expertise.
+
+Preferred by everyone
+Public awareness regarding the health and environmental
+implications of domestic gas use is growing, alongside a
+preference for EV-ready homes. This shift in consumer sentiment is
+evident in the housing market, influencing discussions around new
+home and apartment sales within these precincts.
+As efforts to decarbonise the economy intensify, there will be a
+growing need to retrofit existing assets and phase out fossil fueldependent systems. All-electric precincts are ahead in this
+transition, making them more attractive and future-ready
+investments.
+
+Industry leaders are increasingly committing to gas-free new
+constructions, and major property owners are formulating strategies
+to eliminate gas from their existing portfolios. The choice to
+incorporate gas infrastructure in new developments carries the risk
+of underutilisation, given the shifting market preferences.
+
+Follow the money
+Investors and financial institutions are increasingly favouring
+
+A practical guide for grid-optimised precincts
+
+4
+
+A practical guide for grid-optimised precincts
+
+5
+
+From today’s precincts to the precincts of the future
+Typical precinct
+
+All-electric precinct
+
+Grid-interactive precinct
+
+A typical precinct has electricity and gas infrastructure connecting
+buildings back to the national grids.
+
+All-electric precincts have no gas infrastructure and typically
+use electricity for heating, hot water, cooking and other
+processes.
+
+Grid-interactive precincts work together with the electricity
+grid to modulate when electricity is used throughout the day.
+Through a combination of efficiency, controls, generation,
+storage and sharing, the precinct’s energy profile can flex to
+better align with the supply and demand profile of the
+electricity grid.
+
+Key benefits:
+• Most parties familiar with the design requirements, costs,
+stakeholder processes and approval timeframes
+
+Key benefits:
+• Lower GHG emissions as no gas emissions (scope 1)
+and electricity grid is rapidly decarbonising (scope 2).
+
+Challenges:
+• Cost of installing gas infrastructure will ultimately be paid for by
+developers and/or consumers
+
+• Lower energy costs due to better efficiency and only
+paying for one energy supply instead of two.
+
+• Reliance on gas exposes consumers to fluctuating prices and
+higher energy costs.
+
+• Lower total cost of energy infrastructure as no gas pipes,
+valves, meters and trenching to install and maintain.
+
+• Shifting away from gas later may incur substantial retrofitting
+expenses which may be inequitable for those that can’t afford to
+do so.
+
+• Less utility trenching and easements on site .
+
+Key benefits:
+• Uses and stores electricity when prices are lower to
+reduce energy bills.
+• Reduces demand and consumption when electricity
+prices are higher to reduce energy bills.
+• Integrates on-site renewables and storage within the
+precinct to support grid stability.
+
+• See also page 5 for other benefits.
+
+Challenges:
+
+Challenges:
+
+• As more customers switch from gas, the cost of maintaining the
+gas infrastructure in the precinct will be met by a dwindling
+number of customers, increasing their energy bills further.
+
+• Uncertainty or conservatism in planning and designing
+an all-electric precinct may result in costlier electricity
+infrastructure and longer timeframes for approval.
+
+• Gas releases GHG emissions (both when combusted and
+through leakage) and reduces indoor air quality when used for
+cooking
+
+• Transitioning to electric technologies may require
+customer education and support.
+
+• Emerging systems and approaches to grid
+responsiveness and controls will require planning,
+expertise and management skills and capacity to be
+developed in the industry.
+• Potentially increased capital costs for smart controls and
+systems in buildings.
+• Regulatory and market constraints may restrict grid
+interaction and energy trading at the time the precinct is
+being developed (but this may change over time).
+
+Coal
+
+Gas
+
+Oil
+
+Solar
+
+Wind
+
+Hydro
+
+Biogas &
+green H2
+
+Storage
+
+Responding to the energy revolution
+The way that electricity is generated, distributed, stored and
+consumed in Australia is rapidly changing.
+By 2050 the grid is expected to be fully renewable with wind
+and solar predicted to produce over 80% of annual electricity.
+Most buildings and vehicles will be all-electric increasing the
+demand for electricity.
+
+By 2050
+
+Energy storage will also increase significantly with
+consumer-owned batteries (including buildings and EVs)
+accounting for 65% of storage capacity. Grid scale storage
+will support grid stability and long-term storage depth.1
+
+A practical guide for grid-optimised precincts
+
+6
+
+A practical guide for grid-optimised precincts
+
+76
+
+Stakeholder
+engagement
+
+Delivering precinct energy infrastructure involves many stakeholders. When planning for an an-electric precinct it is important to understand the roles of each, and to have early
+discussions to identify opportunities, address potential challenges and facilitate coordination and collaboration.
+
+Stakeholder
+
+Role
+
+Key issues to discuss
+
+Opportunities for the stakeholder
+
+Distributed
+Network
+Service
+Provider
+(DNSP)
+
+Manages the electrical distribution
+from high-voltage interfaces to
+buildings, excluding embedded
+networks.
+
+• Capacity for importing and exporting electricity.
+• Network upgrade costs and contributions.
+• Demand reduction with batteries in buildings, precincts and
+vehicle to home / grid (v2h/g) systems.
+• Potential for embedded networks or microgrids.
+• Easement considerations.
+
+• Innovative low-carbon, resilient, and fully electric solutions.
+• Optimise infrastructure through partnerships, reducing network limitations
+and costs.
+• Address early, the future increased demands from electric vehicles and
+solar power.
+
+Electricity
+Retailer
+
+Sells electricity from the electricity
+market to consumers.
+
+• Virtual Power Plant (VPP) energy sharing prospects.
+• Implementation and management of microgrids.
+• Overseeing precinct-level batteries and photovoltaic (PV)
+systems.
+
+• Development of innovative products centered on renewable energy
+generation, load management, and energy sharing within precincts and
+buildings.
+
+Planning
+Authority
+
+Approves the Precinct Structure
+Plan, staged development
+applications, and individual building
+applications.
+
+• Zoning adjustments to accommodate electrical infrastructure,
+including substations and renewable energy installations.
+• Incentives or requirements for renewable energy generation and
+storage within the precinct.
+
+• Alignment with state and council zero carbon goals and targets.
+• Boost precinct appeal with modern electrification solutions.
+• Establish benchmarks for electrified urban development.
+
+Local
+Government
+
+Manages streets, public spaces,
+street lighting, and public EV
+charging infrastructure.
+
+• Agree embedded network easements.
+• Responsibility for public EV chargers.
+• Responsibility for precinct PV and batteries.
+
+• Alignment with council zero carbon goals and targets.
+• Reduce energy bills for council owned assets in the precinct.
+• Efficient street lighting solutions.
+• Enhancements to cycling, walking paths and public transit access.
+
+Building
+Developers
+and Owners
+
+Develop, own and manage allelectric, grid-interactive buildings.
+
+• Develop buildings to be all-electric and grid-interactive.
+• Requirements for rooftop solar, batteries, V2H/G EV charging
+and energy sharing.
+• Participation in embedded networks / microgrids, or virtual
+power plans or other energy sharing models.
+
+• Integration into a low-carbon, electric-ready precinct.
+• Enhanced grid resilience, reducing outage risks.
+• Reduce peak electricity demand and charges.
+• Expanded EV charging for occupants.
+• New revenue from energy trading schemes.
+
+Investors &
+Funders
+
+Provide capital funding for precinct
+and building development.
+
+• Developing green bonds and sustainable finance options.
+• Accessing discounted rates and government incentives for
+energy storage and demand flexibility.
+• Investment opportunities in future-proofed precincts.
+
+• Investments meet ESG and sustainability standards.
+• Avoid risks associated with obsolete gas infrastructure.
+• Eliminate reputational risks linked to funding new projects using fossil
+fuels.
+
+Residents
+and
+community
+groups
+
+Live in or represent those that will
+live in the precinct.
+
+• Community input in precinct planning.
+• Electrification’s benefits on amenities and property values.
+• Access and affordability of electric services.
+
+• Reduce energy bills.
+• Better living environments and improved air quality
+• Enhanced property values with sustainable infrastructure.
+• Community involvement in local energy projects.
+
+A practical guide for grid-optimised precincts
+
+8
+
+A practical guide for grid-optimised precincts
+
+9
+
+Design considerations in all-electric grid-interactive precincts
+An all-electric grid-interactive precinct acts as the interface between the electricity grid and the
+buildings in the precinct. Designing an all-electric precinct requires consideration of both the
+physical infrastructure (what is installed and who owns it) and the commercial arrangements (how
+the electricity is traded). The physical infrastructure is critical as this is difficult and expensive to
+modify later, whereas the commercial arrangements (buying, selling and storing electricity) can
+vary over time, provided the right easements and metering is in place to provide flexibility for this.
+The diagram highlights the key components to consider when planning and delivering an allelectric precinct. These are described in more detail in the following pages of the guide.
+
+A
+
+Planning an all-electric grid-interactive precinct
+
+B
+
+Precinct energy infrastructure
+
+C
+
+Grid-interactive precincts
+
+D
+
+Peak energy management
+
+E
+
+On-site renewable opportunities
+
+F
+
+Electric vehicle infrastructure
+
+G
+
+Battery storage
+
+H
+
+Other forms of storage
+
+I
+
+Planning for all-electric buildings
+
+A practical guide for grid-optimised precincts
+
+10
+
+A practical guide for grid-optimised precincts
+
+11
+
+A
+
+Planning an all-electric grid-interactive precinct
+
+1
+
+Establish a vision
+•
+•
+
+3
+
+Consider how an all-electric approach contributes to the project vision for
+sustainability, liveability, resilience and affordability.
+
+Evaluate the mix of stakeholders who may occupy or use the precinct and
+how they will benefit from an all-electric precinct.
+
+•
+
+Some stakeholders may have specific needs that could influence the
+electrification strategy, including their own commitments to reducing their
+carbon impact, adopting renewable energy, and incorporating electric
+vehicles (EVs). These stakeholders could potentially become partners in
+the strategy's delivery.
+The precinct should be positioned to adapt to the rapid uptake of EVs and
+anticipate future changes in electricity tariffs, which are expected to evolve
+to reflect a more dynamic renewable electricity system.
+
+4
+
+Precinct master planning and Precinct Energy Plan
+•
+
+•
+
+Precinct Structure Plan
+•
+
+Confirm the objective to be an all-electric grid responsive precinct.
+
+•
+
+Start discussions with the Distributed Network Service Providers (DNSP) to:
+
+Understand how the benefits of a low carbon, all electric precinct will
+contribute to your organisation’s commitment to sustainability, and the
+ESG expectations of your investors.
+
+•
+
+•
+
+2
+
+Workshop with DNSP, planning authority, local government, relevant agencies and
+potential customers to explore opportunities for the site. Identify other stakeholders
+that may be relevant and how they may work together.
+Co-create a Precinct Energy Plan that sets the broad requirements for an all-electric
+precinct, taking into consideration:
+
+•
+
+Existing constraints in the network, such as connections to transmission
+infrastructure, or substation limitations.
+
+•
+
+Initial modelling of likely load profiles for the site, based on expected
+population, land uses, growth in EVs, rooftop solar PV and batteries.
+
+•
+
+Identify possible network models (e.g., microgrids, embedded networks) and
+associated governance ownership models, delivery partners and finance
+arrangements for precinct energy systems.
+
+•
+
+Set aside land through easements for location of precinct scale distributed
+energy resources such as batteries, solar PV shading and EV charging.
+
+A practical guide for grid-optimised precincts
+
+12
+
+•
+
+Understand local capacity (both supply and export from solar).
+
+•
+
+Review their five-year investment plans for upgraded or new distribution
+networks which may affect the precinct.
+
+•
+
+Determine potential for load management (including grid-interactive buildings,
+smart controls, batteries, embedded networks, etc).
+
+•
+
+Understand potential contribution charges, how these are calculated, and how
+they can be reduced through a collaborative approach to managing loads.
+
+•
+
+Identify key infrastructure requirements like easements and spatial provisions in
+buildings and precinct for energy generation, storage and EV charging.
+
+•
+
+Discuss with potential building developers and owners the requirements for allelectric buildings, and potential future proofing for solar PV, batteries, EV charging
+and grid interactive controls.
+
+Development approvals and applying for the precinct’s
+network connection
+•
+
+Ensure the masterplan has made adequate spatial provision for the infrastructure
+identified in the Precinct Energy Plan.
+
+•
+
+If embedded networks are proposed, identify the necessary easements and discuss
+these with the local council and DNSP.
+
+•
+
+Submit to the DNSP for approval to connect the precinct to the electricity grid in
+accordance with the Precinct Energy Plan. This may be needed before planning
+approvals are given by the planning authority.
+
+•
+
+Be aware that the processes for seeking approval will differ from one DNSP to
+another and may have additional or alternative steps based on your Precinct Energy
+Plan.
+
+A practical guide for grid-optimised precincts
+
+13
+
+B Precinct
+energy
+infrastructure
+
+Precincts provide an opportunity to create different methods
+of buying and selling electricity. There are currently four main
+types, but others may evolve over time.
+
+Traditional
+network
+
+Traditional
+network
+
+A traditional electricity network in a precinct typically involves a gridbased generation model, where power is produced off-site and
+distributed through a network of transmission and distribution lines
+to end users. For many decades, this power generation has been
+typically via coal fired power stations, but these are closing and
+replaced with renewable energy and grid scale batteries.
+A Distribution Network Service Provider (DNSP), owns and operates
+the poles and wires connected to the building or infrastructure
+within a specific geographic area, and are responsible for the
+provision of electricity through this system, with their costs built into
+the retailer’s customer tariffs. Customers have a choice of retailer,
+but not of DNSP.
+
+Embedded
+network
+
+The traditional model prioritises reliability and widespread
+accessibility, with regulatory frameworks in place to manage
+operations and tariffs.
+
+Key features and benefits:
+Microgrid
+
+•
+
+Grid generation: Power is produced off-site by large scale
+generators, allowing for economies of scale in electricity
+generation. While this can be more efficient, the electricity
+may be generated long distances from the precinct, with
+associated distribution losses and costs.
+
+•
+
+Regulated reliability: DNSPs are subject to regulatory
+standards, to maintain consistent and reliable electricity
+supply to all connected customers.
+
+•
+
+Widespread accessibility: The grid infrastructure supports
+broad coverage, providing electricity to a wide range of
+customers, from densely populated urban areas to remote
+rural locations.
+
+•
+
+Simplicity and familiarity: The traditional structure of
+generation, transmission, and distribution is well-established,
+offering a familiar framework for both providers and
+consumers.
+
+•
+
+Emergency response: DNSPs have established protocols for
+rapid response to outages and emergencies, ensuring swift
+restoration of services.
+
+Virtual Power
+Plant (VPP)
+
+Legend
+
+Grid electricity
+network
+
+Large scale
+renewable Power
+Purchase
+Agreements
+
+Precinct
+substation
+
+Owned by the
+Distributed
+Network Service
+Provider (DNSP)
+
+Owned by Embedded
+Network Operator
+(ENO)
+
+Renewable energy
+generated on site
+
+A practical guide for grid-optimised precincts
+
+Virtual demand
+aggregator
+Provided by the
+virtual demand
+aggregator
+
+14
+
+A practical guide for grid-optimised precincts
+
+15
+
+Embedded
+networks
+
+B
+
+Embedded
+network
+considerations
+
+D
+
+C
+
+A
+
+Embedded networks are privately owned energy systems within
+precincts, managed by an Embedded Network Operator (ENO) (A).
+These networks are common in shopping centres, retirement
+villages, university campuses, airports, industrial estates and holiday
+parks. In residential developments, especially those owned and
+operated by the developer for extended periods, embedded networks
+also exist, but are subject to additional rules to address consumer
+contestability (choice of energy retailer) and pricing. The ENO can be
+the precinct owner, or a separate contracted entity (which can also
+include the DNSP company).
+From the perspective of a Distribution Network Service Provider
+(DNSP) (B), an embedded network operates "behind the meter“. This
+means that the DNSP is not responsible for the management or
+safety of the embedded network within the precinct beyond the gate
+meter. DNSP’s impose requirements for connecting an embedded
+network to the DNSP’s network.
+
+These are issues to consider around precinct embedded networks:
+
+Scale
+•
+
+Registration and demand: ENOs must be registered as
+electricity providers. For smaller precincts, compliance costs
+may not be justified, so consider an external partnership.
+
+•
+
+Customer mix and demand: assess the balance and energy
+needs of residential and commercial occupants.
+
+•
+
+Onsite energy generation and storage: evaluate the capacity,
+distribution and storage potential of solar PV electricity
+produced within the precinct.
+
+Infrastructure
+•
+
+Access and easements: for the network need to be planned
+carefully, to avoid clashes with other easements and to enable
+access for upgrades/maintenance without impacting others.
+
+•
+
+Connectivity requirements: check if local regulations require
+connection to a DNSP’s network when selling a property lot.
+
+Negotiating with DNSPs
+•
+
+DNSP relationship: understand the DNSP's stance on
+embedded networks and its potential impact on their revenue.
+
+•
+
+Load management benefits: consider if an embedded
+network's load management can reduce the need for DNSP
+network enhancements, potentially lowering associated fees.
+
+•
+
+Regulatory interpretation: embedded network rules, especially
+for high-voltage systems, may vary by DNSP (and individuals
+within the DNSP’s own interpretation). Start discussions early.
+
+•
+
+Response times: gauge the DNSP’s commitment to timely
+responses for connection applications, as delays could affect
+the development timeline.
+
+Key features and benefits:
+•
+
+Cost of energy: Lowers precinct energy costs by purchasing
+from the wholesale electricity markets in bulk. Most precinct
+customers should be able to realise lower energy bills
+compared to buying individually from retailers (but depends on
+ENO’s pricing policies and profit margins).
+
+Customers
+•
+
+Utilising precinct renewables: Facilitates local distribution and
+storage of precinct-generated energy, avoiding DNSP
+transmission fees (C).
+
+Customer choice and pricing: residential customers can
+typically choose their own electricity retailer under
+contestability rules. Can the ENO offer competitive rates to
+maximise the number of customers signed up in the precinct
+to deliver further economies of scale?
+
+•
+
+Network service costs: customers must cover the ENO's
+network services fees, similar to a DNSP's charges.
+
+•
+
+Power Purchase Agreements: Enables long-term renewable
+power purchase agreements to be signed, reducing costs (D).
+
+•
+
+•
+
+Revenue opportunities: Creates potential income streams for
+precinct owners - selling electricity to precinct customers,
+selling stored/surplus electricity back to the grid, and providing
+frequency control and grid reliability services.
+
+Perceived risk: given that ENOs are private entities, with
+potentially less scale and rules than DNSPs, potential
+customers may be wary of future risks including reliability of
+supply and unregulated cost increases.
+
+•
+
+Load management: Enables active energy sharing within the
+precinct to manage peak loads and smooth import/export
+profiles with the grid.
+
+•
+
+A practical guide for grid-optimised precincts
+
+16
+
+A practical guide for grid-optimised precincts
+
+17
+
+Microgrids
+
+Virtual Power
+Plants (VPP)
+B
+A
+A
+B
+C
+
+Microgrids, typically under the ownership and management of a
+Distribution Network Service Provider (DNSP) (A), incorporate
+control systems for precinct-scale energy management. This
+setup enables localised energy generation and utilisation,
+alongside energy trading and demand management.
+
+A Virtual Power Plant (VPP) integrates various Distributed Energy
+Resources (DERs) (A) like rooftop solar panels, batteries, electric
+vehicles (EVs), smart appliances, and interactive building systems.
+These resources are collectively managed through software (B),
+allowing them to function as a unified power entity and engage in
+energy markets.
+
+Positioned "in front of the meter” (B), microgrids fall within the
+DNSP's overarching grid management responsibilities, aligning
+their operation with the broader network's standards.
+
+Key features and benefits:
+•
+
+Financial structure: Microgrids benefit the DNSP financially,
+unlike embedded networks.
+
+•
+
+Independent operation: Capable of 'islanding' to maintain
+power during external grid issues, enhancing safety and
+reliability. They may be used in remote areas as selfsufficient systems.
+
+Key features and benefits:
+
+•
+
+Community resilience: Can provide dependable energy
+during disruptions, such as extreme weather, ensuring
+community stability, when paired with on-site power.
+
+•
+
+Economical and reliable: Offers a cost-effective and reliable
+energy solution for remote areas compared to traditional
+network extensions.
+
+•
+
+Maintenance and safety: The DNSP is responsible for
+microgrid maintenance, upholding the same standards as
+the broader grid, contrasting with the self-managed
+approach of embedded networks.
+
+A practical guide for grid-optimised precincts
+
+VPPs are typically managed by DER Aggregators, which can be
+energy retailers or independent entities, including communityowned not-for-profits. The unique aspect of VPPs is that their
+participants need not be confined to a single location. The power
+generated from these entities can then be sold to third parties (C).
+This concept, especially energy sharing between buildings, is still
+emerging in Australia, with pilot projects underway to refine its
+implementation and address systemic needs.
+
+18
+
+•
+
+Aggregated electricity use: VPPs enable the aggregation of
+electricity from various sources, allowing the DER Aggregator
+or retailer to meet demand peaks without purchasing
+additional energy from the market.
+
+•
+
+Financial incentives: Households and businesses
+participating in VPPs receive financial rewards, encouraging
+wider adoption.
+
+•
+
+Community benefits: Non-profit community VPPs can offer
+more affordable energy solutions with reduced emissions.
+These models depend on having enough participants, having
+a baseline community energy load met by renewable sources
+(like solar or wind projects) and being optimised with a
+communal battery system.
+
+A practical guide for grid-optimised precincts
+
+19
+
+Why grid-interactive precincts matter
+The way that electricity is generated and used is changing rapidly:
+•
+
+There is a rise in overall demand as services powered by
+natural gas in buildings, and cars fueled with petrol, diesel and
+LPG, all make the switch to electricity.
+
+•
+
+There is a potential mismatch between when electricity is used
+and when electricity is generated by renewables, particularly
+from rooftop PV systems and solar farms.
+
+Without planning and management, these changes could lead to
+increasing national electrical infrastructure and generation capacity
+by more than needed, which could increase the cost of energy.
+Grid-interactive precincts can assist in smoothing the transition to a
+fully renewable national electricity grid by reducing electricity
+consumption, minimising peak demand, shifting the time of day that
+electricity is imported from the grid, and utilising electricity when it is
+in abundance and at its cheapest.
+
+The importance of time-of-use in electricity
+As renewable energy increasingly powers the electricity grid, the time
+of use of electricity (hours of kilowatts) will become as important as
+overall quantity of consumption (kilowatt hours).
+
+A
+
+DEMAND
+
+C Gridinteractive
+precincts
+
+6am
+
+This change to the shape of the electricity demand profile was
+nicknamed the 'duck curve’, by the California Independent Service
+Operator.3 The duck curve creates challenges for grid operators,
+particularly during the energy transition. To supply energy during the
+times where renewables are still not available, the grid continues to
+operate with fossil fuels.
+Coal-fired power stations currently provide the bulk of electricity
+generation in Australia but cannot ramp up and down quickly to
+reflect the supply and demand curve. The solution going forward is a
+more dynamic and responsive grid, by increasing energy storage and
+adding more renewable power diversity. AEMO, Australia’s energy
+market operator already has plans to address this.4
+Retailers are also responding. Traditionally, consumer electricity
+pricing was uniform, but the renewable energy revolution is
+prompting changes to tariff structures to better reflect the wholesale
+electricity prices paid to generators (lower during the day, highest in
+early evening). This will then incentivise customers to shift their
+demand to minimise consumption when prices and highest – to
+flatten the curve.
+
+C
+
+B
+
+Total demand profile
+with solar
+
+when electricity prices are at their highest. It’s a simple case of the
+market forces of supply and demand in action.2
+
+12pm
+
+Would you like to know more?
+
+6pm
+Total demand profile
+without solar
+
+Traditionally the energy network was built on having a level of
+generation to meet a predictable demand profile (A). However, with
+rapidly increasing amounts of on-site and off-site renewables, this
+has changed. As solar electricity generation kicks in the demand for
+grid electricity in buildings and homes rooftop solar falls (B). Any
+excess solar is exported to the grid. This surplus of electricity,
+together with reduced demand, drives down wholesale electricity
+prices during the day (10am to 4pm), often to less than $0 per MWh.
+The grid’s carbon footprint of electricity is also much lower as its
+nearly all from renewables. In the evening, solar production drops off
+at the same time as demand on the grid reaches its peak (C). This is
+
+A practical guide for grid-optimised precincts
+
+20
+
+The topic of managing time-of-use, and the
+challenges that this brings to Australia, our
+infrastructure, and our built environment is complex
+and multifaceted. The summary in this section has
+been streamlined for readability and skips over
+important detail and context. If you would like to know
+more, there are two reports worth reading:
+•
+
+‘From net zero to zero, a discussion paper on grid
+interactive buildings’, GBCA & Buildings Alive,
+2023
+
+•
+
+‘Clean Energy, Clean Demand’, Energy Efficiency
+Council, 2023.
+
+A practical guide for grid-optimised precincts
+
+21
+
+D
+
+Peak energy
+management
+
+The transition to electrified precincts could result in larger electricity
+infrastructure compared to a typical precinct, mostly due to:
+•
+
+The shift from gas to electricity for space heating, domestic
+hot water, and cooking.
+
+•
+
+The installation of EV charging stations for private, public, and
+industrial use.
+
+•
+
+The electrification of various processes, ranging from steam
+generation to light manufacturing activities.
+
+Precinct infrastructure is the interface between buildings and the
+electricity grid, and therefore will play an important role in integrated
+energy solutions. Changing electricity tariff structures will be key to
+incentivising solutions, both design and operations, to reduce peak
+demand and manage when electricity is used.
+Effective energy management within precincts can be achieved
+through a range of measures. These can be linked to signals from
+the electricity grid to further optimise when to use electricity and
+when to minimise.
+•
+
+Smart controls to manage demand, including modulating
+systems up and down across multiple buildings to avoid
+everything being on at the same time.
+
+•
+
+Battery storage – charge up when electricity is cheap and
+discharge when its expensive or to smooth out peak loads.
+Batteries can include EV charging.
+
+•
+
+Thermal energy storage – generate hot or chilled water when
+electricity is cheap, store in tanks, and then use this when
+electricity prices increase.
+
+This diagram showcases a
+residential precinct with typical
+energy consumption (A), leading to
+pronounced peaks in the electrical
+grid's load profile (B). This
+homogeneity in usage—often due to
+similar daily schedules or appliance
+use—exacerbates demand spikes,
+challenging grid stability and
+requiring expensive infrastructure
+upgrades.
+
+B
+A
+
+6am
+
+12pm
+
+6pm
+
+Diversity in precinct use can be used to smooth out peak demand at
+the precinct substation connection to the grid. A mix of building
+types — commercial peaking mid-afternoon and residential in the
+morning and evening — and energy sharing between them can help
+smooth overall precinct energy demand.
+Electrical infrastructure design should be based on diversified actual
+demand rather than the sum of individual peak demands, using
+empirical data to develop tailored diversity factors. This approach
+aligns with the DNSP's requirements and circumvents unnecessary
+upgrades.
+The overarching aim for an all-electric precinct is a balanced
+demand profile at both the precinct sub-station and within buildings.
+
+D
+A
+C
+
+6am
+
+A practical guide for grid-optimised precincts
+
+22
+
+12pm
+
+This diagram illustrates a diverse
+precinct with mixed-use buildings
+that achieve a balanced energy load
+profile (A and C), as shown by the
+overlaid sine waves. Varied
+occupancy and energy usage
+patterns, along with technologies like
+solar and batteries, lessen peak
+demands on the grid (D), showcasing
+the benefits of strategic urban
+planning for grid efficiency and
+sustainability.
+
+6pm
+
+A practical guide for grid-optimised precincts
+
+23
+
+E On-site
+renewable
+generation
+
+The benefits of
+on-site generation
+
+Solar photovoltaic (PV) is currently the cheapest form of electricity
+generation in Australia. Precincts should be designed and built to
+take advantage of on-site generation opportunities as doing so can
+have multiple benefits, from reducing costs, to helping improve the
+resilience of the grid and the community.
+
+Rooftop solar on homes
+30%-100% of the home’s electricity can
+be provided by renewables
+
+Rooftop solar on medium to
+high rise apartments
+5% to 20% building’s electricity can be
+
+On-site solar installations yields several benefits to all electric
+precincts:
+•
+
+Reduced energy costs: On-site solar significantly lowers
+energy expenses by harnessing free solar power. After
+recouping the initial solar panel investment, electricity costs
+decrease, offering long-term savings for all residents and
+building managers.
+
+•
+
+Increased energy independence: Generating their own power,
+precincts reduce reliance on external grids, enhancing
+resilience to outages and mitigating the effects of price
+volatility, especially where grid infrastructure is lacking.
+
+•
+
+Environmental sustainability: Solar power, a clean and
+renewable energy source, cuts greenhouse gas emissions and
+pollution, lowering precincts' carbon footprints and supporting
+global climate action.
+
+•
+
+Enhanced property values: Solar-equipped properties often
+gain in value due to reduced running costs and attractiveness
+to eco-conscious buyers, making solar a wise investment with
+potential for greater resale values and rents.
+
+•
+
+Support for local grids: Surplus solar energy can be fed back
+into the local grid, aiding community energy needs and
+possibly yielding financial returns through feed-in tariffs or net
+metering.
+
+provided by renewables
+
+Solar equity in
+precincts
+
+In some precincts it may not be possible for all residents or users
+to access the benefit of cheap electricity from rooftop solar
+because they live in an apartment or have a shaded roof. In
+existing buildings, challenges include not being able to afford the
+cost of installing solar, or renting a property where the landlord
+would pay for the solar but not realise the energy cost savings.
+The potential to install community solar systems so that all
+residents have the ability to access the benefits can be
+investigated for new precincts. There are a range of mechanisms
+available to deliver this.
+
+Rooftop solar on industrial
+building
+
+Solar over precinct
+infrastructure
+
+20% to more than 100% can be
+
+100% of all power can be provided
+
+provided by renewables
+
+to the precinct or other buildings
+
+A practical guide for grid-optimised precincts
+
+However, even if on-site solutions are limited, all-electric precincts
+still make sense – after all, the grid is already rapidly
+decarbonising.
+
+24
+
+A practical guide for grid-optimised precincts
+
+25
+
+Rooftop solar on
+houses
+
+A rooftop solar system can generate more than 100% of the annual
+electricity consumption of a household including electric vehicle
+charging. However, the time of generation (9am to 4pm) doesn’t
+align with the typical peak times of consumption (7am to 9am and
+4pm to 9pm).
+The electricity generation from rooftop solar is higher in the summer
+than the winter, while the consumption may be higher in the winter
+in some climates due to space heating by heat pumps.
+
+Rooftop solar on
+non-residential
+buildings
+
+Part J9 of Volume 1 of the National Construction Code 2022
+mandates future proofing non-residential buildings for solar PV to at
+least 20% of the roof area (with some exceptions).
+In some buildings there may be competition for roof space – for
+plant (equipment), plants (green roofs), people (roof terraces) and
+solar. Through good design these can all work together:
+
+Rooftop solar systems can be sized to generate the typical daily
+consumption of a peak day (winter or summer). However, without
+significant load shifting this would result in more electricity being
+exported to the grid.
+The surplus electricity generated during the day is typically exported
+to the precinct network. If this surplus can’t be used elsewhere in
+the precinct, then it will need to be exported to the electricity grid.
+Where there are precinct or grid capacity constraints it may not be
+possible to export the surplus electricity, leading to the PV being
+curtailed.
+
+A house can be designed to maximise use of solar electricity
+through a combination of:
+
+PV shading to terraces can make them more useable in
+summer months.
+
+•
+
+Putting plants below solar panels not only provides habitat,
+but the vegetation keeps the solar panels cooler, increasing
+their efficiency.
+
+As a building gets taller the opportunity for solar to make a
+significant contribution to the building’s energy demand reduces.
+
+The chart below shows the percentage of annual electricity able to
+be generated by rooftop solar covering 80% of the roof of a
+commercial office building in Sydney with a 5 Star NABERS Energy
+Whole Building rating (tenant and landlord).
+
+•
+
+Smart controls to manage time of use to smooth out the
+electricity consumption profile (a simple example is to run
+washing machines and dishwashers during the day not at
+night).
+
+•
+
+Thermal storage of domestic hot water (DHW) – generate hot
+water during the day for use later.
+
+•
+
+Provide space and electrical capacity for a battery and a
+V2H/G EV charger (to install on Day 1 or in the future when
+required) to store surplus electricity generated
+
+160%
+
+The electricity consumption profile for multi-unit developments can
+be like houses. The area of roof available per unit depends on
+number of storeys. Consequently, the proportion of electricity able
+to be generated on site using rooftop solar reduces as buildings get
+taller. This means there will be more reliance on both precinct and
+grid renewable energy systems to power the building.
+Apartment buildings can still take advantage of batteries, thermal
+energy storage and energy management systems to minimise
+import of electricity during peak cost periods. How this is delivered
+will depend on the electricity supply arrangements, including
+whether it is controlled centrally (including embedded networks) or
+at each individual unit.
+
+A practical guide for grid-optimised precincts
+
+PV shading to equipment prolongs the life of equipment.
+
+•
+
+On industrial and logistics buildings there are large areas of roof
+available for PV panels and these roofs should be designed to
+maximise PV coverage, with the NCC now requiring them to be
+structurally capable to take the load.
+
+Likely percentage generated
+
+Rooftop solar on
+apartments
+
+•
+
+140%
+120%
+100%
+80%
+60%
+40%
+20%
+
+0%
+
+1
+2 should
+3
+4 designed
+5
+6to easily
+7 share
+8
+9
+10
+This is why precincts
+be
+energy
+–
+so buildings with surplus generation
+sell it to those without.
+No. ofcan
+storeys
+
+26
+
+A practical guide for grid-optimised precincts
+
+27
+
+Rooftop solar on
+precinct
+infrastructure
+
+There are many other opportunities to install solar PV systems in
+precincts to generate electricity.
+One solution is to install PV shading to car parking spaces, both in
+public spaces and within lots developed privately. A car parking
+space covered with PV panels will generate more electricity per year
+than the average electric vehicle parked in the space will consume
+in a year.
+The issue of time of generation versus time of charging would still
+need to be addressed, and this is where battery storage can play a
+role. The EV also has a large battery and itself becomes part of the
+solution.
+Solar shading of car parking bays also reduces the heat island
+effect associated with large expanses of hard standing. Precinct
+developers could make this a conditional requirement for any
+development within the precinct, including parking provided within
+private lots.
+
+Other renewables
+
+There are limited options for other types of on-site renewable energy
+generation in most precincts. The following could be considered but
+are unlikely to be viable unless the location and type of precinct are
+suitable.
+
+Wind turbines
+These are most economical at grid scale and will play a very
+significant role in the decarbonisation of the grid in the coming
+years. The feasibility at a precinct scale is limited but may be
+relevant to remote and windy locations. Small scale wind turbines
+are not likely to be viable in a precinct development. Community
+owned wind turbines offsetting local energy use are possible, but
+developer/precinct operator led power purchase agreements are
+more likely.
+
+Energy from waste
+Most precincts would prefer not to have energy-to-waste power
+stations close to residential and commercial buildings due to odour,
+noise and air pollution issues. The focus on waste in precincts
+should be to reduce, reuse and recycle.
+
+A practical guide for grid-optimised precincts
+
+28
+
+A practical guide for grid-optimised precincts
+
+29
+
+F Electric
+Vehicles
+
+EVs in homes,
+apartments and
+civic spaces
+
+Precincts must prioritise walkability, cycling safety, and public
+transport to reduce car dependence — a key solution to
+decarbonising our economy.
+
+Under the National Construction Code, new residential buildings with
+car parking must include EV charging infrastructure for classes 2-9
+buildings. For single dwellings, installing a dedicated charging circuit
+in the garage is straightforward, allowing for both long-duration and
+rapid charging. The potential for vehicle batteries to serve as
+building energy storage is emerging. With electric car ranges
+exceeding 400 km in 20238 and expected to increase, the necessity
+for workplace or retail charging is reduced, given most trips are
+under 40 km. However, in civic spaces, retail centres, and
+workplaces, some designated top-up spaces are beneficial,
+alongside leveraging car batteries for peak load management.
+
+However, car use will persist in new and existing developments, with
+a significant shift towards electric vehicles (EVs) anticipated. Major
+automakers are transitioning away from petrol and diesel.
+Government policy will also drive this, with Australian states like
+Victoria, NSW, and Queensland targeting 50% EV sales by 2030.
+AEMO projects a 60% EV presence on Australian roads by 2040.
+This shift means that fueling the vehicle will occur in buildings,
+typically at home, rather than gas stations. Given the lifespan of
+precinct infrastructure and buildings compared to car ownership
+cycles, it's crucial to design electrical systems for the future EV
+landscape of 2040 and beyond, rather than the immediate needs of
+2025.
+
+Street charging will be essential for electric car owners without
+residential parking and for transient visitors needing a top up. The
+UK's emergence of shared EV charging platforms, akin to Airbnb for
+EV chargers (e.g., co-charger.com), highlights this trend.
+
+Public place,
+street charging
+and shared EV
+charging
+
+While immediate installation of EV chargers may not be necessary,
+having the infrastructure for future EV adoption will avoid costly
+upgrades. EV charging solutions will vary; the focus should be on
+future-proofing electrical capacities for the evolving EV landscape,
+ensuring buildings and public spaces can accommodate future
+charging needs.
+
+Logistics centres will require rapid charging for electric trucks,
+necessitating significant power management to accommodate the
+high electrical demand.
+
+Reducing energy costs for cars and
+homes
+
+1
+
+In 2022, the annual fuel cost for petrol cars averaged
+$2,400, in stark contrast to $400 for EVs.5 Petrol prices
+fluctuate due to retailers' pricing strategies and global
+oil market changes, both beyond car owners' control.
+Many people use apps to locate the cheapest petrol,
+which may not be the most convenient, to save a few
+cents per litre (< 5%).6 EV owners, however, can use
+apps to charge during low electricity price periods,
+without moving the car from their home, achieving
+savings above 300% compared to peak rates.7
+
+1
+
+3
+
+2
+
+3
+
+Vehicle-to-Home (V2H) technology allows some EVs to
+supply energy to buildings during peak times or
+outages. Similarly, Vehicle-to-Grid (V2G) enables EV
+batteries to feed electricity back to the grid. During high
+electricity price periods, EV owners can power their
+homes or sell excess energy back to the grid, thereby
+reducing their overall energy bills.
+
+A practical guide for grid-optimised precincts
+
+2
+
+5
+
+30
+
+4
+
+Power is used to charge EVs.
+These also contribute to grid.
+A charged EV heads home.
+
+4
+
+The EV provides power to the
+home’s switchboard.
+
+5
+
+Power from the roof solar goes
+to switchboard.
+
+6
+
+Power from EV and solar is
+used for the home to lower
+total and peak grid demand.
+
+7
+
+Power from solar used to
+charge EV, which can
+contribute to the total grid
+resilience in step B.
+
+7
+6
+
+Power from precinct solar or
+off-site solar goes to the
+precinct’s grid.
+
+A practical guide for grid-optimised precincts
+
+31
+
+G Battery
+Storage
+
+National Energy Storage Strategy
+In 2022, the Australian Energy Market Operator (AEMO) published a
+draft Integrated System Plan for the transition to a net zero carbon
+electricity grid.9 The expected pathway, the ‘step change’ scenario,
+forecasts that storage capacity will increase by a factor of 30, from 2
+GW in 2022 to 57 GW by 2050, with a total storage depth of 642 GWh.
+
+Building
+batteries
+
+They are currently not cost effective in most due to upfront
+costs. However, with the introduction of time of use tariffs more
+aligned to the wholesale electricity cost profile the business case for
+batteries will rapidly change. Combined with the expected reduction in
+the cost of batteries, we are on the cusp of batteries
+becoming financially advantageous in buildings. This is essential to
+deliver the distributed storage required in the AEMO Integrated
+System Plan.
+
+This storage comprises a combination of types, each having a
+different role in an integrated renewable electricity system:
+•
+
+Deep storage (> 12 hours) – to cover periods of lower-thanexpected variable renewable energy generation and seasonal
+smoothing of energy over weeks or months.
+
+There are several benefits to batteries in buildings:
+
+•
+
+Shallow storage (< 4 hours) – to provide capacity (GW), fast
+ramping and frequency control for grid stability purposes.
+
+•
+
+Medium storage (4 to 12 hours) – intra-day energy shifting
+capabilities to manage the duck curve, the daily shape of energy
+consumption and the diurnal solar generation pattern.
+
+•
+
+expensive to generate (4pm to 8pm), and to charge up when
+electricity is cheap and zero emissions.
+
+Consumer Owned Energy Resource (CER) Storage – behind-themeter household, business or industrial batteries, including EVs
+that may be able to send electricity back into the grid.
+
+​The draft Integrated System Plan projects CER Storage to account for
+37 GW (65%) of the total storage capacity by 2050- a massive rise
+from 0.2 GW today. Batteries in precincts, vehicles and buildings will
+be a significant proportion of this storage and are integral to the
+future of Australia’s integrated energy system.
+
+•
+
+Reduce energy bills: store surplus rooftop solar
+generated electricity, or import low-cost electricity from the grid,
+then use this electricity to reduce peak demand charges
+and/or consumption during peak electricity tariff periods.
+
+•
+
+Inflation proofing: a battery procured using a loan has a
+fixed monthly cost for 10 years (the loan repayments), while the
+cost of grid electricity will continue to rise with inflation and
+other factors.
+
+•
+
+Resilience: if the battery can operate in
+island mode, then resilience is provided during power outages –
+and a financial value can be allocated to this depending on how
+this affects the occupants of the building.
+
+•
+
+Revenue: batteries can participate in Virtual Power Plant
+(VPP) contracts to generate revenue for the battery owner.
+
+The design of new precincts, and the design requirements for
+buildings within these precincts, should be future proofed for the
+installation of batteries so that these can be installed easily in the
+future.
+
+Batteries on
+wheels
+
+EVs with vehicle to grid (V2G) capability can be used as batteries on
+wheels, acting as energy storage in a similar way to fixed building
+batteries. Most vehicles spend long periods of time parked at a
+building, and if connected to a bi-directional charger they can be
+charged and discharged in a similar way to building batteries.
+The vehicle owner will always have the choice about how much of the
+EV’s battery capacity is allowed to be charged and discharged, always
+leaving enough in reserve for unexpected journeys or a planned long
+drive the next day.
+
+Precinct-level
+battery 12
+
+Grid-level
+battery10
+
+Batteries in buildings are ‘behind the meter’ and primarily allow
+buildings to minimise importing electricity from the grid when it is
+
+Building-level
+battery 11
+A practical guide for grid-optimised precincts
+
+32
+
+A practical guide for grid-optimised precincts
+
+33
+
+Precinct
+Batteries
+
+Precinct battery systems can form an integral component of gridinteractive precincts. These systems serve as large-scale energy
+storage solutions tailored to the collective needs of a precinct.
+Precinct batteries are designed to be responsive to the grid's
+demands, capable of storing excess energy during periods of low
+demand—often generated from renewable sources like solar and
+wind—and discharging it during peak periods.
+Precinct batteries may also be installed by DNSPs to minimise total
+peak demand to avoid the cost of upgrading the electrical
+infrastructure (the “poles and wires” and substations) connecting the
+precinct back to the electricity grid.
+For example, a precinct battery could be charged during the day with
+surplus power from rooftop solar installations or even off-site
+renewable energy. During the evening, when the demand spikes and
+electricity prices are higher, the stored energy can be released,
+reducing the need for expensive and carbon-intensive peak
+generation.
+
+Community
+batteries
+
+Community batteries represent a scalable and communal approach
+to energy storage. Rather than each home or business installing
+individual battery systems, a community battery is a shared resource
+that multiple consumers can access. It's akin to a neighborhood-scale
+battery that offers a buffer for excess solar generation and a source
+of power during peak times or outages, without the individual
+investment and maintenance concerns.
+In Australian grid-interactive precincts, such systems aren't just
+theoretical—they're operational. For instance, communities in suburbs
+of Perth and Sydney have begun trialing community batteries, which
+allow solar panel owners to store excess energy for later use,
+providing benefits similar to those of home batteries but at a reduced
+cost and increased scale. This not only fosters a sense of community
+but also aligns with the broader national goals of reducing carbon
+emissions and promoting energy independence
+
+A practical guide for grid-optimised precincts
+
+34
+
+A practical guide for grid-optimised precincts
+
+35
+
+H Thermal
+Storage
+
+Energy storage in an all-electric precinct is not limited to storing
+electricity in batteries. Electricity can be used to generate
+domestic hot water (DHW), heating hot water (HHW) and/or
+chilled water (CHW) for use in buildings. This thermal energy can
+be stored allowing the time of generation (consumption of
+electricity) to be separated, in part or fully, from the time of use of
+the water.
+This then allows these systems to form part of the peak electricity
+demand reduction strategy – and the main cost is larger insulated
+storage tanks and the space to put them.
+
+Building storage
+
+Domestic hot water tanks
+Storage of Domestic Hot Water is already a very common form of
+energy storage. To enable it to form an effective part of a demand
+reduction strategy simply requires a larger tank. If it were sized to
+meet the evening and morning DHW demand in full, then all the
+hot water could be generated between 10am and 4pm and used
+when solar electricity is no longer available.
+The benefits are:
+
+District systems
+
+At a precinct level, buildings can be connected together in district
+heating or cooling systems with centralised and/or distributed
+energy generation and storage. While not common in Australia,
+the potential to install in new precincts, including combining with
+thermal storage, should be considered during the early stages of
+planning the energy infrastructure strategy for the precinct. The
+viability will be dependent on the precinct scale, type of buildings
+(heating/cooling demand profiles) and ownership structures.
+
+District cooling
+Central chilled water systems have been used on a number of
+university campuses and commercial precincts in Australia.
+The very first Green Star rated building in 2003, 8 Brindabella
+Circuit at the Brindabella Business Park in Canberra, is connected
+to a central chilled water system that served other buildings in the
+precinct. This was driven by cost savings as plant rooms for
+chillers and cooling towers were not required in each building.
+Another example is Barangaroo South in Sydney, which has a
+62 MW central chiller plant serving office, residential and retail
+buildings in the precinct. The plant utilises sea water cooling,
+reducing energy consumption and also water consumption due to
+eliminating cooling towers.
+
+•
+
+It utilises cheaper, lower carbon electricity, particularly if the
+building has rooftop solar to generate its own electricity.
+
+•
+
+It reduces electricity demand on the grid during peak
+morning and evening peaks.
+
+District Heating
+
+If using a heat pump, efficiency improves with higher
+outside air temperatures. As its warmer during the day when
+the hot water is generated less energy is needed to heat the
+water compared to mornings and evenings.
+
+District heating systems are widely used in Europe, China, Russia
+and North America to provide space heating and DHW to multiple
+buildings in precincts. These systems account for around of 9% of
+global heating demand in buildings and industry.13
+
+•
+
+Chilled water storage
+Chilled water storage has been used successfully on a number of
+university campuses in Australia which have central plant
+providing chilled water to multiple buildings. It comprises a large
+insulated tank (typically over 10m high for thermal stratification)
+that stores chilled water generated when cooling demand is lower
+and electricity is cheaper. This is then drawn upon during peak
+cooling periods or when electricity is more expensive.
+The benefits of chilled water storage include:
+
+•
+
+Reduced peak electricity demand.
+
+•
+
+Reduce the number of chillers required to deliver peak
+cooling capacity.
+
+•
+
+Increase resilience during power outages – to provide
+cooling from the tank only requires a water pump to operate.
+
+A practical guide for grid-optimised precincts
+
+36
+
+District heating can utilise a range of renewable heat sources
+including solar thermal, biomass, biogas and ground source heat
+pumps (including geothermal and sewer heat recovery). One
+advantage of district heating is the ability to share heat energy
+between buildings, particularly if lower grade heat can be used.
+For example, heat rejection from cooling in some buildings (e.g.
+data centres, refrigeration warehouses, offices) could be utilised
+to reduce heating energy demand in other buildings (e.g. DHW in
+residential and hospitals, leisure centre swimming pools). If a
+precinct has these opportunities, then it will require a series of
+pipes, pumps, heat exchangers, meters and controls to make it
+work.
+
+A practical guide for grid-optimised precincts
+
+37
+
+I All-electric
+buildings
+
+Existing buildings
+with gas
+
+All-electric precincts have all-electric buildings. This means that all
+heating, domestic hot water and cooking will use electricity
+instead of gas. This will require architects, mechanical, electrical
+and hydraulic consultants to collaborate to optimise the design.
+The GBCA Practical Guide to Electrification of New Buildings
+provides guidance on key issues to consider.
+
+Where a brownfield or campus precinct includes existing buildings
+that use gas, then a strategy will need to be developed to support
+the phase out the use of gas in those buildings over time.
+The strategy should identify when the gas systems in the building
+are reaching their end of life and what electrical infrastructure will
+need to be in place in the precinct when they decide to switch
+from gas to electric systems.
+
+The buildings will also need to be designed to integrate with the
+rest of the precinct, generating, storing and sharing energy to
+reduce energy bills and minimise demand on the electricity grid.
+
+The GBCA Practical Guide to Electrification of Existing Buildings
+provides guidance on key issues to consider.
+
+If the precinct developer is not delivering the buildings, and these
+are being designed, constructed and operated by other parties,
+then clear requirements will need to be established to ensure all
+the buildings on the precinct ‘play nicely together.’
+
+Space
+
+Space needs to be provided for all-electric systems, noting that heat
+pumps require more space than gas boilers. Space should also be
+allocated for future energy storage systems such as batteries, and
+for EV charging car parking spaces where appropriate
+
+Ventilation
+
+Air source heat pumps require good ventilation and are preferably
+located outside.
+
+Noise
+
+If air-source heat pumps are external, then noise levels need to be
+considered, particularly when located near neighbours.
+
+Efficiency
+
+New buildings should be designed to high performance standards,
+and preferably better than minimum code compliance, to reduce the
+demand for electricity. This includes setting minimum standards for:
+•
+
+building envelope insulation, glazing, shading and air tightness
+
+•
+
+energy efficiency of building services
+
+•
+
+water efficiency to reduce domestic hot water demand.
+
+A practical guide for grid-optimised precincts
+
+38
+
+Infrastructure
+
+Planning
+
+The requirements will include both planning and engineering
+design considerations as summarised below.
+
+PV Panels
+
+Rooftop solar PV is the cheapest form of electricity generation.
+Encourage buildings to have both east and west facing PV
+arrays to increase generation in mornings and afternoons and
+smooth out the solar generation profile during the day.
+
+EV charging
+
+The sale of EVs is increasing significantly each year. Buildings
+should be designed to allow easy installation of V2G EV
+chargers in the future to meet consumer demand. The number,
+type and location will depend on the building type
+– but its likely every home will want one in the future.
+
+Energy storage
+
+Consumer-owned batteries located behind the meter in
+buildings, will be a very significant component (> 50%) of the
+national electricity storage capacity in Australia by 2050.
+Designing the electrical infrastructure for the future installation
+of batteries in buildings is a key requirement for new buildings.
+
+Flexible demand
+control
+
+Reducing both peak electrical demand and the time of use of
+electricity is a key requirement for a grid responsive precinct.
+Buildings should include measures to manage demand include
+load shifting (e.g., DHW generation), control of EV charging,
+management of battery storage and smart controls, and grid
+responsive controls.
+
+A practical guide for grid-optimised precincts
+
+39
+
+Additional
+considerations
+for industrial &
+logistics
+precincts
+
+PV & Embedded Networks
+
+EV Truck charging
+
+Industrial and logistics precincts typically have large lots,
+sophisticated commercial tenants, and large areas of roof for PV
+electricity generation. On a precinct there may be a mix of
+electrical demand profiles ranging from very low (storage
+warehouses), medium (light industrial, refrigerated storage) and
+high (manufacturing process and high heat food prep). This
+makes them strong candidates for embedded networks. Benefits
+include:
+
+Electric trucks and commercial vehicles will require frequent
+charging, presenting an ideal opportunity during loading,
+unloading, or parking times in industrial and logistics areas. As
+charging technology advances, the methods used will also
+change. At present, AC charging is widely used for overnight
+charging and remains suitable for many businesses. However, for
+quick charging of heavy-duty truck batteries, such as during
+drivers' meal and rest breaks, DC charging will be necessary. This
+type of charging demands more power, necessitating a
+specifically designed electrical infrastructure.
+
+•
+
+The precinct owner / ENO can invest in rooftop solar
+systems and then sell the electricity generated within the
+precinct, generating a return on investment.
+
+•
+
+The precinct owner / ENO can procure renewable grid
+electricity in bulk, using long term Power Purchase
+Agreements (PPAs) at lower prices than smaller customers,
+and sell this to tenants, generating another revenue stream.
+
+•
+
+The tenants get cheaper and greener electricity.
+
+•
+
+If enabled by the ENO, the tenants can participate in
+demand response initiatives to further reduce their
+electricity costs.
+
+Battery technology is advancing swiftly. For instance, when Volvo
+introduced its first electric truck in 2019, the battery capacity was
+200 kWh. Just four years later, the capacity had increased to 540
+kWh.15 Another innovative approach under development is battery
+swap stations, enabling the replacement of a truck's battery with
+a fully charged one in less than 5 minutes.16
+Additionally, it's vital to monitor progress in hydrogen-powered
+transport, especially for logistics hubs serving tenants with
+longer-haul needs. The focus should be on understanding the
+current and future requirements of potential tenants and
+designing the precinct to support their decarbonisation goals.
+
+High heat industrial applications
+Moorebank Logistics
+Park, NSW
+
+Industrial heat pumps are available internationally to deliver heat
+up to 165°C. This is suitable for many industrial processes
+including food and beverage, the second highest industrial heat
+use in Australia.17 A study in 2022 identified that heat pumps up
+to 90°C are already commercially viable in Australia.18
+
+Solar Bay will install 60
+MW of rooftop solar
+across the estate and
+150MWh of battery
+energy storage to supply
+the embedded network
+with renewable
+electricity.20
+
+For applications which require temperatures up to 165°C
+industrial heat pumps should be thoroughly evaluated. New
+precincts can be designed for these electrical loads.
+Ultra-high temperature heat pumps with supply temperatures
+over 165°C are being developed and tested internationally.19
+These typically use different technologies to typical heat pumps
+for space heating and DHW in buildings. Where high heat
+applications (> 165°C) are required on site, and industrial heat
+pumps are not commercially available to deliver this, then
+renewable options to consider include:
+
+A practical guide for grid-optimised precincts
+
+40
+
+•
+
+Biomass or biogas
+
+•
+
+Green hydrogen
+
+•
+
+Geothermal
+
+•
+
+Concentrating solar thermal with thermal storage.
+
+A practical guide for grid-optimised precincts
+
+41
+
+Checklist of key issues for an all-electric, grid responsive precinct
+Planning an all-electric precinct
+
+All-electric, grid interactive buildings
+
+Demand reduction and control
+
+Has a vision and plan been prepared for an all-electric
+precinct?
+
+Has the precinct been planned and designed for all
+buildings to be all-electric?
+
+Has the precinct been designed to minimise peak loads to
+reduce the impact on the electricity grid (generation and
+supply infrastructure) to meet this demand?
+
+•
+
+Review ESG goals and customer expectations.
+
+•
+
+Confirm vision – all electric and/or fully grid
+responsive.
+
+•
+
+Consult with key stakeholders and customers.
+
+•
+
+Start discussions with DNSPs early and identify
+demand constraints and opportunities.
+
+•
+
+Ensure Precinct Structure Plan and master plan
+covers easements and spatial provisions for electric
+infrastructure and future proofing (e.g. batteries).
+
+•
+
+Develop a Precinct Energy Plan addressing key
+technical requirements, infrastructure ownership and
+commercial models.
+
+•
+
+Obtain DNSP connection agreement and
+development approval.
+
+Confirm electricity load profiles for the buildings on
+the precinct (current and future) and size
+infrastructure to support this demand.
+Prepare guidance for building owners/developers on
+the design requirements for all-electric, grid
+responsive buildings.
+
+Mandate the use of smart controls in all buildings on
+the precinct, with a minimum requirement to help
+manage and reduce peak loads.
+
+Identify if there are any gas uses in the building that
+cannot currently be switched to electric (e.g. some
+industrial processes). Work with the building owner
+to identify potential alternative fuels and, as a
+minimum future proof to transition in the future (e.g.
+industrial heat pumps, hydrogen pipes).
+
+Discuss potential for grid-interactive control with the
+DNSP and identify the controls, systems and
+commercial arrangements required to facilitate this.
+
+On-site renewables
+Has the precinct been designed to optimise the
+installation of on-site renewables?
+
+Delivering precinct energy infrastructure
+Have different commercial models for infrastructure
+ownership and buying/selling electricity been reviewed,
+and does the infrastructure design facilitate all of these to
+be implemented either now or in the future?
+•
+
+•
+
+Confirm who owns and manages the different
+components of the electrical infrastructure in the
+precinct – from the connection to the grid through to
+the buildings.
+Determine the cost of the electrical infrastructure,
+payment mechanisms and funding opportunities.
+This will include negotiating development charges
+with the DNSP.
+
+•
+
+Assess different models of buying/selling electricity
+in the precinct to determine most suitable based on
+precinct type – DNSP, embedded network, microgrid,
+VPP arrangements, etc.
+
+•
+
+Include requirements for building owners to comply
+with load management and energy sharing
+mechanisms as set out in the Precinct Energy Plan.
+
+A practical guide for grid-optimised precincts
+
+Set minimum requirements to reduce peak electricity
+demand in the design of buildings.
+
+Confirm the capacity of rooftop solar on buildings
+aligns with the Precinct Energy Plan and how any
+surplus generation will be managed
+Identify opportunities for precinct solar systems,
+including to provide shade for car parks and
+pedestrians.
+Investigate solar systems ownership models to allow
+building/homeowners who can’t install solar power
+to have access to the benefits.
+
+EV charging infrastructure
+Has the precinct been designed to support the transition
+to all-electric vehicles?
+Prepare an EV charging infrastructure plan to identify
+where and when EV charging infrastructure will be
+installed over time (buildings and public spaces) –
+and ensure the electrical infrastructure has the
+capacity for this.
+
+Thermal energy
+Has the precinct been designed to shift generation of heating
+and cooling away from peak electricity demand periods?
+
+Generate DHW during day and store for use during
+morning and evening periods.
+Review potential for chilled water storage in buildings
+with high cooling demand.
+Review potential for district heating or cooling
+networks to share thermal energy within the precinct.
+
+Batteries
+Has the precinct been designed to store electricity when it is
+cheap and abundant (typically during solar generation
+hours) and utilise this electricity when electricity demand
+and costs are higher?
+Design infrastructure to support installation of
+batteries and V2G EV chargers in every building.
+Discuss with DNSP options for precinct batteries, both
+to manage energy loads and for potential to reduce
+size of infrastructure needed to supply the precinct.
+Discuss with occupants of the precinct the potential to
+install a community battery.
+
+Ensure all precinct electrical infrastructure supports
+V2G EV charging.
+
+42
+
+A practical guide for grid-optimised precincts
+
+43
+
+Paying for precinct
+energy
+infrastructure
+
+In new precincts, electricity infrastructure is financed in part by
+developers. The exact contributions vary, as they are subject to
+negotiations with the Distribution Network Service Provider (DNSP).
+There are no standards covering determining costs.
+
+The cost of
+maintaining gas
+pipes
+
+Proactive discussions with the DNSP on solutions that reduce
+energy consumption, enhance energy generation and storage,
+charge electric vehicle, and mitigate grid peak demands can lead to
+decreased development charges for electricity infrastructure and
+expedite the approval process.
+
+The cost of
+installing gas
+pipes
+
+This situation precipitates the network’s ‘death spiral': as
+transmission and distribution expenses per consumer escalate, the
+financial viability of remaining connected to the gas network
+diminishes. This, in turn, propels more users towards electrification,
+exacerbating the financial strain on those who remain.
+Consequently, a network originally engineered for a substantially
+larger customer base becomes disproportionately expensive to
+maintain, leaving the dwindling number of gas consumers to
+shoulder the escalating costs. This scenario not only leads to
+increased charges for these consumers but also risks rendering the
+gas infrastructure 'stranded'—an underutilised asset with prohibitive
+upkeep expenses.
+
+Gas infrastructure is regulated in many states, allowing gas
+suppliers to fund the expansion of gas networks into and within
+precincts through future customer billing.
+In new developments, the cost of gas infrastructure is typically split
+between developers, gas companies, and occasionally government
+support, contingent on the project's specifics and regional
+regulations.
+Gas companies may invest in extending networks to serve new
+areas, with possible developer contributions for expansions.
+Government aid may come into play for key developments under
+urban or energy strategies., thus reducing upfront costs for
+developers.
+Nonetheless, developers could incur costs for internal connections
+and fees for network enhancements. Regulatory agencies, like the
+Australian Energy Regulator (AER), set the framework for how these
+costs are shared, often allowing recovery through consumer billing.
+The end-users ultimately bear the infrastructure costs through
+service charges, including network distribution (30%) and
+transmission from the gas fields(16%).
+
+35%
+
+16%
+
+Wholesale Market
+The cost of gas as
+determined by the
+international market and
+production costs.
+
+Transmission
+The cost of getting
+gas from the gas
+fields.
+
+30%
+
+Distribution cost
+The cost of
+maintaining the gas
+distribution network
+in the precinct or
+city.
+
+Preventative measures are vital to mitigate these challenges. A
+critical initial step is to refrain from investing in new gas
+infrastructure that is unlikely to deliver a return within its operational
+lifespan. Moreover, comprehensive government policies and
+strategic planning are essential to facilitate a swift, equitable
+transition for existing buildings to cleaner, more cost-effective
+energy solutions.
+
+100%
+
+Population using the network
+
+0%
+
+19%
+
+Energy retailer
+The energy
+retailer’s costs and
+profit margins.
+Low
+
+A breakdown of the costs of gas to the consumer
+
+Cost of network per user
+
+High
+
+Explainer of the ‘death-spiral’ that happen to networks as they are abandoned due to rising costs.
+
+(Adapted from ‘Our Pathway to Electrification’, ACT Government, 2022)
+
+A practical guide for grid-optimised precincts
+
+Currently, the costs associated with the transmission and
+distribution of gas are distributed across a broad user base,
+ensuring that individual charges remain relatively low. However, as
+the trend towards electrification gains momentum and consumers
+increasingly disconnect from the gas grid, the financial burden on
+the remaining users intensifies.
+
+44
+
+A practical guide for grid-optimised precincts
+
+45
+
+Marketing an
+all-electric
+precinct
+
+Investors
+
+Buyers and occupants
+
+An all-electric grid-interactive precinct is ready for the
+decarbonisation of the grid. Designed well, they are highly efficient,
+fossil fuel free, and powered by renewables. A precinct that achieves
+these is likely to be aligned with the latest science and
+recommendations from the following organisations:
+
+Grid-interactive precincts are a sale feature for prospective buyers or
+community occupants. Consumer attitudes are changing, and these
+precincts offer an advantage over typical precincts. Options to
+consider when communicating to customers include:
+
+•
+
+The Intergovernmental Panel for Climate Change (IPCC)
+
+•
+
+International Energy Agency’s net zero roadmap (IEA)
+
+•
+
+Taskforce for Climate-related Financial Disclosures (TCFD)
+
+This precinct would also likely be aligned with the requirements of
+the Climate Bonds Initiative,21 and in line with guidance from SBTI.22
+The reason for this is simple – the precinct is less likely to become a
+stranded asset as it features no fossil fuels and has the capacity to
+draw its entire energy from renewable electricity generated in
+Australia.
+More information on how these precincts comply with multiple
+sustainable finance frameworks is available in GBCA’s Practical
+Guide for Sustainable Finance.
+
+Planning authorities
+
+•
+
+“All-electric systems ensure lower energy consumption,
+translating to significant cost savings on utilities.”
+
+•
+
+“Your home will leverage renewable energy and smart
+technologies, drastically reducing your carbon footprint.”
+
+•
+
+“Benefit from reduced operational costs due to the efficiency of
+electric systems.”
+
+•
+
+“Enjoy cleaner air and a healthier living environment, thanks to
+the absence of fossil fuels.”
+
+•
+
+“The precinct’s infrastructure is futureproofed to changing
+nature of electricity procurement.”
+
+•
+
+Climate Resilient: Features and materials selected to withstand
+extreme weather and changing climate conditions, protecting
+your investment.
+
+Introducing all-electric grid-interactive precincts presents an
+opportunity for sustainable urban development, combining the latest
+in technological innovation with significant environmental and
+community benefits.
+By leveraging smart grid technologies, these precincts can efficiently
+manage energy use in real-time, harnessing renewable energy
+sources to significantly reduce carbon footprints and align with
+broader environmental goals.
+The economic benefits are equally compelling, with long-term cost
+savings achieved through reduced energy expenses and
+maintenance costs, alongside potential government incentives that
+make these projects financially attractive.
+Furthermore, the health and communal advantages cannot be
+overstated; improved air quality contributes to better health
+outcomes, while thoughtfully designed communal spaces foster a
+strong sense of community.
+Moreover, these precincts are designed with resilience in mind,
+incorporating features that ensure adaptability to climate change
+and technological advancements, ensuring their viability and
+relevance well into the future. This holistic approach not only
+addresses current urban challenges but also sets a forward-thinking
+standard for sustainable living urban environments.
+
+A practical guide for grid-optimised precincts
+
+46
+
+A practical guide for grid-optimised precincts
+
+47
+
+LEFT.
+Ginninderry, ACT
+
+Homes within Ginninderry’s first two suburbs of Strathnairn and
+Macnamara are not only all-electric, but are also required to have
+solar panels, home energy management systems, more efficient
+reverse cycle air conditioning systems, as well as solar or heat
+pump hot water systems. “These energy-saving measures are not
+only better for the environment but help to reduce the cost of living
+for our residents.” Jessica adds.
+The team at Ginninderry continue to run workshops and
+information sessions for residents and builders to ensure that they
+understand the reasons behind the all-electric requirements
+through the design and construction of their homes.
+The team at Ginninderry has also future-proofed its suburbs by
+allocating land for neighbourhood-scale batteries. These batteries,
+when installed, will provide an additional layer of storage and
+resilience to the electricity grid. Ginninderry has also run conduits
+for EV Charging points to ensure that there is charging capability at
+schools, commercial centres and neighbourhood parks.
+
+Case study:
+Ginninderry,
+ACT
+Location
+ACT
+Sector
+Greenfield Residential
+
+Developer
+Riverview
+Developments and
+Suburban Land
+Agencyelectric features
+Key electric features
+•
+
+All electric
+
+•
+
+Solar PV
+
+•
+
+Precinct scale
+batteries
+
+•
+
+EV charging
+
+Paving the way for all electric developments in the ACT
+Ginninderry, a Joint Venture between Riverview Developments
+and the ACT Government’s Suburban Land Agency, is a
+community with a difference. Aspiring to be a sustainable
+community of international significance, Ginninderry will cater to
+Canberra's needs as a growing city, eventually home to
+approximately 11,500 homes and 30,000 people by 2055.
+
+Ginninderry has been certified as a 6 Star Green Star –
+Communities rated development by the Green Building Council of
+Australia – a testament to its liveability and contribution to the
+local economy, alongside it’s innovation in governance,
+environmental considerations and design. Ginninderry is a
+master-planned community which will extend from the ACT into
+NSW and covers 1,600Ha of land, of which nearly 600Ha is
+dedicated conservation land. Planned amenities within the
+proposed 4 suburbs include new schools, shops, childcare
+centres, medical centre and recreation facilities.
+Ginninderry was the first development in Canberra designed
+without natural gas – a move that required considerable
+negotiation, given natural gas was mandated in the Territory Plan
+at the time. Jessica Stewart, Ginninderry’s Sustainability Manager,
+said “It was important for Ginninderry to build a community that
+was future-proofed for rapid advances in technology and for a
+changing climate.”
+
+A practical guide for grid-optimised precincts
+
+48
+
+Ginninderry is creating a new
+model for community-scale
+energy systems. By working in
+partnership with our energy
+network providers, we hope that
+our community can store and
+generate renewable energy much
+more efficiently.
+Jessica Stewart, Sustainability Manager, Ginninderry
+
+A practical guide for grid-optimised precincts
+
+49
+
+Case study:
+The YARDS
+
+Location
+Sydney
+Sector
+Industrial
+
+Developer
+Frasers Property and
+Aware Real Estate
+Key electric features
+•
+
+All electric Solar
+PV
+
+•
+
+Building based
+embedded
+networks
+
+•
+
+EV charging
+
+Frasers Property Industrial and Aware Real Estate have showcased
+the potential of an all-electric industrial precinct with The YARDS in
+Kemps Creek, marking a significant achievement as Australia's first
+Green Star Communities industrial precinct in May 2023, securing
+the top 6 Star Green Star Communities v1.1 rating for 'world
+leadership'.
+Tamara Williams, Director of ESG at Altis Property Partners,
+highlighted the project's distinctive approach: "We were really looking
+for that point of difference to provide our customers not only a
+pathway to their net zero targets, but also an experience at The
+YARDS that no one had attempted in the industrial space." This
+initiative caters to modern tenant needs and aims to prevent future
+asset redundancy.
+With gas accounting for nearly 30% of Australia's building energy
+use, the venture actively supports an electric future by eliminating
+fossil fuels. "Electrification is relatively easy in the logistics sector,
+because most tenants are distributors – rather than manufacturers
+– and they don’t need gas," they noted, aligning with the sector's
+dynamics.
+Each facility at The YARDS will incorporate rooftop solar panels, with
+the partners planning to install at least 2MW across the estate.
+Andrew Thai added, "We will be working with each customer to
+identify opportunities to expand their rooftop solar array and procure
+100% renewable energy." This effort is projected to reduce
+greenhouse gas emissions by 85% compared to standard
+operations, firmly supporting the tenants' sustainability journeys.
+
+So far, they have worked with one lot to increase the deployment of
+solar on the building, with the use of a building scale embedded
+network. This means that an embedded network operator will own
+the PV and associated electrical systems which make up the
+embedded network on the lot and manage the energy generation
+and where it flows. By doing this, the size of the system does not
+need to be limited by the building’s energy needs, as excess energy
+generated can be used on other buildings in the estate, or even in
+other estates operated by the embedded network operator. The
+tenant is offered 100% renewable electricity supply, which eliminates
+the mismatch of solar generation and onsite electrical demand.
+This approach to building scale embedded networks allows them to
+maximise the deployment of solar on individual buildings in the
+precinct. For this precinct, issues with public road easements
+prohibited their ability for an embedded network encompassing the
+whole precinct. This may not always be the case, however,
+particularly if the planning for an embedded network occurs early.
+
+A practical guide for grid-optimised precincts
+
+50
+
+ABOVE.
+Artists Rendition of THE
+YARDS
+
+The transition to an all-electric model not only brought financial
+advantages but also sparked new customer engagements.
+Despite initial concerns about potentially limiting their tenant pool by
+excluding gas, Andrew notes, "It was a worry. But demand has been
+high from customers wanting to join us and be part of our vision."
+He adds, "Some customers simply want a convenient location near
+major road networks – and The YARDS provides that. But we believe
+it is only a matter of time before net zero comes onto their radar.
+And when it does, we have built an all-electric precinct that is ready
+to help them." This reflects a confident outlook on the precinct's
+alignment with future sustainability goals.
+
+Our precinct is future proofed. By going all
+electric from the outset, we don’t need to
+spend any money stripping out gas down
+the track. We just didn’t put it in.
+Andrew Thai | Frasers Property Industrial’s National Sustainability Manager
+
+A practical guide for grid-optimised precincts
+
+51
+
+LEFT.
+Artist’s rendition of the
+Harbour Shores
+
+In the future, these chargers will also be available within the private
+building car parks, and tenants may receive credit back from their
+energy retailer if they minimise their energy use.
+Leveraging the benefits of the “sunshine state”, the precinct has the
+capacity to hold over 1,000kW of solar PV energy which will
+generate over 1,642,500kWh of sustainable energy per year and
+save more than 900,000kg CO2-e on average, year. Solar panels
+will be deployed on the rooftops of each building, reducing energy
+demand and bills. It is predicted the project will achieve a 34%
+reduction in peak electricity consumption compared to a
+contemporary reference development. This will help reduce
+community wide loads during peak times, such as mornings and
+evenings, when residents are at home and using appliances.
+
+Paul Davy, Director, dsquared Consulting:
+“Remarkably, building a fossil fuel free system had no significant
+sizing impacts on the electrical substations. The variable timing
+of when people use hot water and induction cooktops means
+electrical infrastructure modelling isn’t impacted in any significant
+way.”
+
+Image credit: Kate Longley, Breathe Architecture
+
+Case study:
+Harbour
+Shores
+Location
+Queensland
+Sector
+Residential
+Developer
+Lewis Land
+Key electric features
+•
+
+Active transport
+
+•
+
+EV charging
+
+•
+
+Solar PV
+
+•
+
+All-electric
+cooking
+
+In August 2023, the ambitious sustainability vision for Lewis
+Land’s latest mixed-use residential development was achieved.
+Harbour Shores, located in Queensland, Australia, is Lewis Land’s
+first fossil-fuel free, resort-style residential community and was
+granted a 6 Star Green Star Communities v1.1 rating. Lewis Land
+utilised dsquared Consulting throughout the planning and design
+process to maximise sustainability outcomes ensure the project
+is built to stand the test of time for generations to come.
+Lewis Land is committed to a 100% electric development with no
+natural gas usage within any operational energy. A typical
+development of this scale would use 14,762,367MJ of natural
+gas, so eliminating this entirely is an impressive feat with a 21%
+reduction in greenhouse gas emissions. This means residents will
+avoid pollutants from cooking or heating and experience high
+quality, clean air.
+To support the transition to low emission transport, a network of
+footpaths and cycling infrastructure has been included in the plan
+to encourage active and sustainable movement. Up to 75% of
+parking in the plan will be allocated for electric vehicle charging
+stations placed throughout the precinct. The load management
+system within the basement will control charging distribution and
+allocate energy in a dynamic fashion, meaning vehicles will only
+use spare electricity from the building and anything more will
+reduce the supply to the chargers.
+
+A practical guide for grid-optimised precincts
+
+52
+
+We wanted Harbour Shores to be our
+first completely fossil-fuel free
+development by transitioning from gas.
+We did this to ensure we were building
+for the future and acting in a socially
+responsible way. The success of this
+development means this approach will
+be used for future projects.
+Michael Long, Head of Development, Lewis Land
+
+A practical guide for grid-optimised precincts
+
+53
+
+Green Star
+and allelectric
+precincts
+
+Green Star
+Buildings v1
+
+Launched by the Green Building Council of Australia in 2003,
+Green Star is an internationally recognised rating system setting
+the standard for healthy, resilient, positive buildings and places. In
+summary, Green Star aims to:
+Reduce the impact of climate change.
+
+•
+
+All new precinct infrastructure to be fossil fuel free.
+
+•
+
+Enhance our health and quality of life.
+
+•
+
+•
+
+Restore and protect our planet’s biodiversity and
+ecosystems.
+
+A zero carbon action strategy to be developed for any existing
+energy infrastructure and buildings on the precinct to
+transition to be fossil fuel free, with a target date no later than
+2035.
+
+•
+
+Drive resiliency in buildings, fit-outs and communities.
+
+•
+
+Contribute to market transformation and a sustainable
+economy.
+
+The tool will also encourage increasing use of public transport,
+walking and cycling to reduce the reliance on cars.
+
+Green Star Buildings rates the design and construction of new
+and refurbished buildings. Introduced in 2020, it aims to deliver
+healthy, resilient, and positive places for people and nature, built
+responsibly and showcasing leadership.
+
+Any building registering after 2022 must achieve the Climate
+Positive Pathway to achieve either a 5 or a 6 Star rating. All
+projects registering after 2025 must achieve the Climate Positive
+Pathway to achieve any level of rating. Any building achieving
+practical completion after 2030 must also meet the climate
+positive pathway, irrespective of when they were registered.
+
+Communities
+
+Green Star Communities v2, to be released in 2024, will be
+fundamentally different to first version of the tool. Its structure
+and categories will align with Green Star Buildings v1. It will also
+include a Climate Positive Pathway requiring:
+
+•
+
+To align with limiting global heating to a 1.5°C trajectory, a
+Climate Positive Pathway was introduced. This includes a
+mandatory requirement to be ‘fossil fuel free’ which means no
+natural gas is allowed for space heating, domestic hot water and
+cooking.
+
+Green Star
+Homes
+Green Star
+
+Green Star
+Communities v2
+
+Green Star Homes was released in 2021 and sets the first
+certified standard for sustainable houses in Australia. It is
+primarily aimed at volume home builders. The rating tool is
+simpler that Green Star Buildings and focuses on three
+categories:
+•
+
+Positive – fully electric, draught sealed, energy efficient and
+powered by renewables.
+
+•
+
+Healthy – ventilated, comfortable and with low toxic
+products.
+
+•
+
+Resilient – water efficient and climate change ready.
+
+2023
+
+Zero carbon
+action plan
+
+All ratings
+
+Fossil fuel free
+
+All ratings
+
+Powered by
+renewables*
+
+All ratings
+
+Upfront carbon
+reductions*
+
+All ratings (10%)
+
+2026
+
+2030
+
+All ratings (20%)
+
+All ratings (40%)
+
+*Applies to buildings and infrastructure built, owned or operated by the applicant seeking a rating.
+There are other credits that encourage the applicant to work with other owners to achieve the same
+goals, but these are not required to achieve a rating.
+Note that the credits outlined in the pathway are mandatory. There are still credits and criteria that
+go above and beyond these requirements, seeking to influence and reward stakeholders to
+decarbonise beyond what is in the control of the precinct applicant.
+
+There are no points or star ratings. Certification is based on
+achieving the required standards. This includes having no gas.
+
+A practical guide for grid-optimised precincts
+
+Requirement
+
+54
+
+A practical guide for grid-optimised precincts
+
+55
+
+Myths and
+barriers
+
+We interviewed many stakeholders. These
+are answers to common questions we heard.
+
+Using electricity isn’t
+greener – we’re still
+burning coal
+
+The purpose of electrifying precincts is two-fold: encourage the
+generation (and storage) of renewable energy, and to ensure we
+aren’t locking in fossil fuel infrastructure for decades to come.
+Electricity networks are decarbonising more rapidly than previous
+projections. The Federal Government’s target is for 82%
+renewables by 2030, this will likely happen faster than most
+people realise.
+
+The sun doesn’t always
+shine on my solar PV
+system, so we still need
+coal
+
+There will always be days when the sun doesn't shine much on a
+precinct. But these cloudy days won’t be a problem for an
+integrated electricity grid powered by renewables as there will be
+a range of energy sources and storage feeding into the grid
+including solar (in other locations where it is not cloudy that day),
+wind, hydro, biogas, batteries, pumped hydro storage, etc. The
+days of relying on a handful of large coal fired power stations to
+power our society are rapidly coming to an end.
+
+The cost of heating with
+electric is more than with
+gas
+
+In most cases the cost of gas for space heating, hot water and
+cooking is more expensive than using energy efficient electrical
+systems (heat pumps and induction). If a building has solar
+panels, then the net cost of electricity is significantly reduced. The
+cost of gas is outside the control of the building user and will
+fluctuate based on national and international energy markets. The
+sun and the wind are not yet controlled by large corporations!
+
+I have to install natural
+gas to my building – it’s
+the law!
+
+It is no longer mandatory anywhere in Australia to install gas to
+new developments. In 2023 the ACT Government went a step
+further and banned the installation of gas in most new
+developments. From 2024 gas connections to new residential
+development in Victoria will be prohibited. Other states are likely
+to follow suit in the future to have any chance of meeting their
+zero carbon targets.
+
+What about carbon
+offsets?
+
+Offsets should not be used to offset emissions that can be readily
+eliminated through design choices. This includes eliminating gas
+in precincts and buildings. Credible net zero carbon standards will
+not allow offsets for natural gas in new buildings. Many offsets
+have questionable integrity, and companies relying on offsets to
+claim net zero status could find themselves facing accusations of
+greenwashing.
+
+A practical guide for grid-optimised precincts
+
+56
+
+The technology isn't
+sufficiently mature
+
+Heat pumps and induction equipment have been around for many
+years, are technically robust and readily available. Induction
+cooking is becoming increasingly common in Europe and Asia. You
+can now buy induction cooktops at IKEA and Bunnings. With the
+increase in demand, the pace of innovation is only likely to increase
+further leading to even better efficiencies, lower capital costs and
+lower energy bills.
+
+The electrical
+infrastructure capacity
+isn't large enough
+
+New precincts can be designed to be all electric from the outset.
+To manage the peak electrical demand, which influences capacity
+requirements, a range of measures can be introduced including
+energy storage (building batteries, precinct batteries and V2H/G
+electric vehicle charging) and grid interactive buildings to manage
+peak loads across the precinct.
+
+Homeowners only want
+gas for cooking
+
+People often like what they are used to. However, when people
+switch to induction, and quickly adapt to how it works, they
+typically do not want to go back to gas. Induction is faster, safer
+and easier to clean. Another big driver in homes is eliminating air
+pollutants including Nitrogen Dioxide and particulates (PM2.5).
+Studies have shown these can have a comparable risk of asthma
+to a child living with household cigarette smoke.23
+
+Electric cooking isn’t
+suitable for commercial
+kitchens
+
+Induction cooking is faster (up to 60% more efficient energy
+transfer) and provides instant response to changes in controls.
+There are far more choices becoming available as more equipment
+comes to market (including high intensity wok cookers), the
+technologies evolve to meet consumer expectations, and training is
+provided on how to adapt to different equipment. Leading chefs
+agree, with induction cooktops increasingly used in top restaurants
+because they are faster, more controllable and easier to clean.
+They also improve the work environment for staff by reducing heat,
+noise and air pollutants.
+
+Should I build gas now
+and convert later?
+
+No. Installing gas infrastructure in the precinct is an unnecessary
+upfront capital cost. It will also incur costs to maintain over its life.
+This cost burden will be met by a dwindling number of customers
+as more buildings choose to disconnect from gas and go allelectric. Companies also risk negative publicity for greenwashing if
+they install gas in ‘green’ developments they market as being
+sustainable.
+
+A practical guide for grid-optimised precincts
+
+57
+
+Can we use green gas
+(biogas and green
+hydrogen)?
+
+A common myth, promoted enthusiastically by the gas industry
+and their supporters, is that we don’t need to electrify buildings
+because the gas grid will transition to green gas (biogas, syngas,
+green hydrogen or a combination of these). The gas industry is
+less enthusiastic in stating how much green gas they will produce
+(not a lot), where it will be sourced from (to be confirmed), when it
+will be available (sometime in the distant future), and how it will
+upgrade both the network and systems in buildings for this gas (it
+can’t, normal appliances can’t use hydrogen or blended gases with
+more than 5% hydrogen). A primary purpose of promoting green
+gas in buildings is to maintain gas profits for as long as possible
+by delaying action to phase it out.
+Even if green gas was available to provide heat in buildings, it is a
+very inefficient and expensive use of a limited energy resource
+(see diagrams). Biogas and green hydrogen are likely to have an
+important role in decarbonising our economy, but only in sectors
+such as transport and heat intensive manufacturing processes.
+
+> 4 times more heat output in buildings using renewable
+electricity directly in heat pumps rather than converting to
+Green Hydrogen and using boilers to generate heat
+
+2.7 MWh
+of heat
+1 MWh of
+renewable
+electricity
+Building Electrification
+
+Green Hydrogen in Buildings
+
+Use renewable electricity distributed
+via electricity grid to supply heat pump
+with COP of 3
+
+Convert renewable electricity locally
+into green hydrogen, compress, store,
+transport to building, store and then
+supply 90% efficient hydrogen boiler
+
+Electrification of heating and cooking in buildings can be delivered
+today, using available and proven technologies and renewable
+energy resources. There is no need to wait for potential future
+energy industries to be developed, or to spend billions of dollars
+upgrading pipework and equipment to transport these renewable
+fuels to buildings.
+
+Biogas
+Biogas is typically generated in landfill or from agricultural byproducts, many of which are remotely located. Connecting biogas
+production sources to the existing gas grid could be expensive. In
+2020-21 biogas represented around 1% of the total gas
+consumption in Australia25, mostly consumed local to the source.
+
+Green hydrogen
+
+Generating electricity near the source of biogas, then exporting to
+the electricity grid, is a far more effective use of this limited
+resource.26 If sufficient storage is provided, these biogas power
+stations could potentially provide on-demand power to help
+manage peak loads and support grid stability.
+
+Green hydrogen is produced by electrolysis using water and
+renewable electricity. This is then compressed, stored and
+transported to where it is used. The total losses in the H2 process
+are currently around 40%, but as the industry develops the losses
+will potentially reduce to around 33% (as shown in the diagram
+opposite).24 For green hydrogen production to be viable, a cheap
+supply of renewable electricity is required.
+
+50% more heat output in buildings using biogas to generate
+renewable electricity for heat pumps rather than piping it to
+precincts to generate heat using gas boilers
+
+Using the renewable electricity to power heat pumps creates at
+least four times more heat in buildings than using the same
+electricity to create and transport green hydrogen to buildings.
+Transforming the gas network and buildings to use green
+hydrogen is substantially more difficult, time consuming and
+expensive than adding renewables to the electricity grid. The
+current gas infrastructure may need to be substantially upgraded
+to carry pure hydrogen (the hydrogen molecules are smaller and
+also react with steel to reduce expected life). Every building in the
+network would also need to have its equipment adapted or
+replaced prior to switching over to hydrogen.
+
+A practical guide for grid-optimised precincts
+
+58
+
+0.6 MWh
+of heat
+
+1.35 MWh
+of heat
+
+1 MWh of
+biogas
+
+0.85 MWh
+of heat
+
+Building Electrification
+
+Biogas in Buildings
+
+Convert biogas to electricity in gas
+turbine, feed into electricity grid and
+supply heat pump with COP of 3
+
+Transport biogas to building via natural
+gas pipelines and supply 90% efficient
+gas boiler
+
+A practical guide for grid-optimised precincts
+
+59
+
+Appendix: Valuable terminology
+
+Terminology to use when making claims
+
+Carbon offset
+
+A carbon offset refers to a mechanism that is used to compensate for emissions that occur
+elsewhere. Many offsets have questionable integrity. Even good offsets are considered a
+measure of last resort – they should be used to address unavoidable emissions such as Scope
+3 emissions. Installing natural gas in new precincts is not considered unavoidable.
+
+Emission
+scopes
+
+A mechanism for classifying different sources of greenhouse gas emissions used in carbon
+accounting.27 There are three ‘scopes’:
+
+GWP
+
+Heat pumps
+
+Hydrogen
+
+•
+
+•
+
+Scope 2 covers indirect emissions from the consumption of purchased electricity, and
+district heating and cooling.
+
+•
+
+Scope 3 covers activities not owned or controlled by the reporting organisation. This
+includes production of fuels, electricity transmission losses, embodied carbon in
+construction and maintenance (including materials and products), tenant energy
+consumption, waste treatment, water treatment and travel to/from buildings.
+
+Global Warming Potential (GWP) is a measure of the heat energy 1 tonne of a greenhouse gas
+will absorb over 100 years compared to the emissions of 1 tonne of carbon dioxide (CO2). The
+GWP of CO2 is 1. The GWP of methane (natural gas) over 20 years it is > 80 and over 100 years
+is 28.
+A heat pump is an electrical device that provides heating or cooling depending on which way
+the refrigerant flows around the system. There are two types of heat pumps based on what the
+evaporator (heat source) and condenser (heat delivery) are connected to.
+•
+
+‘Air source’ relies on outside air to heat the evaporator which transfers heat to the
+condenser. Air source is commonly used across temperate and warm climate zones in
+Australia.
+
+•
+
+‘Ground source’ uses water in pipes to transfer heat from the ground, aquifers or water
+bodies to the heat pump condenser.
+
+Hydrogen is a fuel that can be used to generate heat through combustion (similar to gas) or
+used in fuel cells to create electricity through a chemical process. There are three common
+ways to produce hydrogen fuel:
+
+A net zero carbon building or precinct is one where there is a balance
+between the amount of greenhouse gas produced and the amount removed
+from the atmosphere on a net annual basis. It is a technical, though openended term. Its use must be accompanied by the focus on emissions, e.g.
+net zero in operations, net zero for construction, etc.
+Net zero claims are often unverified, and there is no agreed standard that
+defines them at this stage.
+
+Carbon neutral
+A carbon neutral precinct, as defined in the Australian Government’s Climate
+Active standard29, is a precinct that:
+•
+
+Measures the relevant GHG emissions within the precinct boundary.
+
+•
+
+Implements an emissions reduction strategy (noting there are no set
+targets to meet for precincts or a requirement to be fossil fuel free).
+
+•
+
+Purchases renewable energy and/or carbon offsets to compensate for
+the annual GHG emissions.
+
+•
+
+Independently validates the process using a third party.
+
+Climate Positive
+
+•
+
+Green hydrogen is produced from renewable electricity. It is the only form of hydrogen that
+can be considered to be low carbon.
+
+The Climate Positive pathway30 in Green Star Buildings requires buildings to:
+
+•
+
+Blue hydrogen is produced from fossil fuels whose emissions have been captured and
+stored. This is untested technology at scale and lifecycle studies28 have shown it to be
+emissions intensive.
+
+•
+
+Meet an energy consumption target.
+
+•
+
+Meet an embodied carbon target.
+
+•
+
+Be fossil fuel free for space heating, domestic hot water and cooking.
+
+•
+
+Purchase 100% renewable electricity (Scope 2 GHG).
+
+•
+
+Purchase nature based offsets* for refrigerants (Scope 1 GHG).
+
+•
+
+Renewable
+energy
+
+Scope 1 covers direct emissions from owned or controlled sources. In a precinct this is
+typically emissions from burning fossil fuels (e.g. diesel, natural gas and LPG), leakage of
+fluorinated gases such as refrigerants, and fuel consumption of maintenance vehicles or
+back-up generators.
+
+Net zero carbon
+
+Grey or brown hydrogen is produced from fossil fuels and is where most hydrogen
+currently comes from. It is highly emissions intensive.
+
+Renewable energy is any source of energy that can be used without depleting its reserves
+including sunlight or solar energy, wind, wave, biomass, and hydro energy. They are generally
+classified as on-site renewable energy (where the generator is connected behind the meter), or
+off-site (where the generator supplies to the grid and this electricity is procured). Off-site
+procurement is a market-based method of procuring renewables, typically through a supplier
+that produces large generation certificates (LGC) that have been retired to the regulator. More
+information can be found here.
+A practical guide for grid-optimised precincts
+
+60
+
+Green Star Climate Positive Pathway claims are verified through an
+independent third party assessment process.
+* - these have to be eligible under Climate Active but are limited to nature based offsets or similar carbon
+removal offsets. More information can be found here4.
+
+A practical guide for grid-optimised precincts
+
+61
+
+Appendix:
+References
+
+1,4,9 AEMO 2023, Draft 2024 Integrated System Plan for the National
+
+18
+
+Renewable energy for process heat - Opportunity study phase 2.
+Final project knowledge sharing report, Australian Alliance for
+Energy Productivity, March 2022
+https://www.a2ep.org.au/process-heat-study
+
+19
+
+https://www.a2ep.org.au/heatpumps
+
+Electricity Market https://aemo.com.au/consultations/currentand-closed-consultations/draft-2024-isp-consultation
+2
+
+3
+
+5
+
+6
+
+From net zero to zero: A discussion paper on grid-interactive
+efficient buildings’, GBCA & Buildings Alive, June 2023.
+https://new.gbca.org.au/green-star/green-starstrategy/electrification/
+
+20 https://solarbay.com.au/project/moorebank-logistics-park
+
+https://www.caiso.com/Documents/FlexibleResourcesHelp
+Renewables_FastFacts.pdf
+https://www.dcceew.gov.au/sites/default/files/documents/
+national-electric-vehicle-strategy.pdf
+https://www.accc.gov.au/consumers/petrol-and-fuel/petrol-pricecycles-in-major-cities accessed 16/9/2023
+
+21
+
+https://www.climatebonds.net/
+
+22
+
+https://sciencebasedtargets.org/
+
+23
+
+https://cooksafecoalition.org/fact-sheets/
+
+24
+
+For more information on these calculations contact the GBCA
+
+25 Table 3 and Table 4, Australian Energy Update 2022, September
+
+2022, Australian Government Department of Climate Change,
+Energy, the Environment and Water
+
+7
+
+https://www.canstarblue.com.au/electricity/electric-vehiclepower-plans/
+8
+
+26
+
+https://www.drive.com.au/caradvice/electric-cars-australia-2022longest-range/ accessed 16/9/2023
+
+10 Tesla Battery Hornsdale, (2024)
+
+https://hornsdalepowerreserve.com.au/
+11 Image from Lot 163 at Waterlea, Vic, Stockland, Green Star
+
+Homes Certified.
+
+As defined in the Greenhouse Gas Protocol. World Resources
+Institute & World Business Council for Sustainable Development.
+(2015). The Greenhouse Gas Protocol – A Corporate Accounting
+and Reporting Standard.​
+https://ghgprotocol.org/sites/default/files/standards/ghgprotocol-revised.pdf
+28
+
+12 Ausgrid Community Battery (2021)
+
+https://www.ausgrid.com.au/About-Us/News/communitybattery-trial
+13
+
+https://www.iea.org/energy-system/buildings/district-heating
+
+15
+
+https://www.volvotrucks.com/en-en/newsstories/insights/articles/2023/mar/electric-truck-charging-in-dailyoperations.html
+16
+
+https://www.januselectric.com.au/
+
+17
+
+Renewable Energy Options for Industrial Process Heat, Prepared
+for ARENA, Nov 2019
+https://arena.gov.au/assets/2019/11/renewable-energy-optionsfor-industrial-process-heat.pdf
+
+A practical guide for grid-optimised precincts
+
+62
+
+Fore more information on these calculations contact the GBCA
+
+27
+
+Howarth, R. W. (2021, 1 October). How green is blue hydrogen?
+Wiley Online Library.
+https://onlinelibrary.wiley.com/doi/full/10.1002/ese3.956
+
+29 Climate Active. (2022). https://www.climateactive.org.au/be-
+
+climate-active/tools-and-resources/climate-active-carbon-neutralstandard-precincts
+30
+
+https://new.gbca.org.au/green-star/green-star-strategy/carbonclimate-change/#carbonpositive​
+
+A practical guide for grid-optimised precincts
+
+63
+
+Delivery
+team
+
+•
+
+Nick Alsop – Senior Manager Buildings, Precincts & Homes
+
+•
+
+Jorge Chapa – Chief Impact Officer
+
+positivezero
+•
+
+David Clark – Director
+
+Proudly funded by Boundless
+
+A practical guide for grid-optimised precincts
+
+64
+
+A practical guide for grid-optimised precincts
+
+

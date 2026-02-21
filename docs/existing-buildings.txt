@@ -1,0 +1,1768 @@
+A Green Star
+Performance
+Discussion
+paper
+November
+2021
+
+30 the Bond, NSW
+Dexus
+5 Star Green Star – Office As Built v1
+5 Star Green Star – Performance v1.2
+
+With thanks to
+
+Our Future Focus Partners
+Silver Partners
+
+Technical Partner
+
+Supporting Partners
+
+Our Climate Positive Partners
+
+Date of publication: 24/11/2021
+This paper was developed by the Green Building Council of Australia
+From GBCA: Jorge Chapa, Taryn Cornell, Jamie Wallis
+With thanks to our Building Performance Expert Reference Panel Members (Brenda Kingston – WSP, Bruce Precious – Six Capitals Consulting, Chewy Chang – Lendlease,
+Chris Chuah – Frasers Property Industrial, Emma McMahon – Goodman, Liam Murray – Building-Performance, Lisa Hinde – Colliers, Marc Gillespie – Cbus Property,
+Matea Cehovin – Vicinity Centres, Phil Senn – Woolworths, Pratik Shah – Northrop Consulting Engineers, Rob Sims – Dexus, Steven Peters – ISPT, Suruchi Pathak – NABERS,
+Vivien Li – Auckland City Council (NZGBC), Wayne Lobo – Arup).
+
+2
+
+Contents
+Introduction
+
+4
+
+Purpose of this paper
+
+5
+
+On the need to decarbonise existing buildings, faster
+
+6
+
+What you need to know about Green Star Performance
+
+7
+
+Definitions
+
+8
+
+A Climate Positive Pathway for Green Star Performance
+
+9
+
+Our trajectory to Climate Positive
+
+10
+
+Buildings operations and scope
+
+11
+
+We seek your feedback
+
+12
+
+Energy Source
+
+13
+
+Energy Use
+
+14
+
+Embodied Carbon Emissions
+
+15
+
+Other Carbon Emissions
+
+16
+
+Tenant Energy Source
+
+17
+
+Other Tenant Emissions
+
+18
+
+Our targets for buildings in operation in detail
+
+19
+
+The next steps in decarbonising our built environment
+
+20
+
+3
+
+Introduction
+From flooding in Europe to fires in our own backyard, it has become clear that
+climate change isn’t coming – it is upon us.
+The Intergovernmental Panel on Climate Change (IPCC) released the 6th
+assessment report in August 2021. The report notes that the changes that we are
+seeing are happening with an average increase of 1.1 degrees over pre-industrial
+levels. We are also on a trajectory to exceed 1.5ºC over the next two decades.
+The effects of this warming will be dangerous, costly, and potentially irreversible.
+This discussion paper takes this to heart.
+We propose targets to help set the stage to decarbonise existing buildings
+between now and 2050. These targets aim to transform the built environment
+alongside our targets for new buildings and precincts.
+
+Why focus on existing buildings?
+Existing buildings are the largest share of emissions in the built environment. Most
+of those emissions come from energy use (electricity, gas, and diesel), with other
+emissions occurring from embodied carbon in part due to maintenance and
+refurbishment as well as emissions from water and waste.
+Existing buildings can decarbonise, but this takes time. Over the next 30 years,
+millions of buildings will need to become more energy efficient, swap out
+equipment for one that doesn’t use fossil fuels, while at the same time ensuring a
+high level of comfort to the occupants.
+There’s not much time left. Together though, we can create a climate
+positive future.
+
+David Malcolm Justice Centre, WA
+MIRVAC
+6 Star Green Star Performance
+
+Our vision
+All existing buildings in Australia must be
+Climate Positive by 2050. All Green Star
+Performance rated buildings must achieve
+this by 2040. And all world leading
+buildings must achieve this by 2030.
+
+4
+
+4
+
+Purpose of this paper
+This paper seeks to:
+
+•
+
+Encourage more aggressive emission reduction targets in line with the expectations
+arising from recent science and analysis.
+
+•
+
+Drive transformation of existing buildings earlier than expected through the use of
+Green Star Performance.
+
+•
+
+Provide clear pathways and definitions for action by existing buildings.
+
+•
+
+Set targets for action for existing buildings over a 20-30 year time horizon.
+
+•
+
+Seek feedback from industry on the feasibility of these targets.
+
+Industry is encouraged to provide feedback by January 31 via the feedback survey
+form.
+
+What you should know before you read this paper
+This paper expands on a series of documents that we have published over the past three
+years. We recommend you review these documents if you aren’t familiar with them.
+
+A Climate Positive Roadmap for
+the built environment
+
+Green Star for Performance: A Future
+Focus consultation paper
+
+Climate Positive Buildings & our
+net zero ambitions
+
+Published in 2018, described the
+trajectory and strategies needed
+to drive our buildings to be climate
+positive by 2030 and 2050.
+
+Published in 2020, proposed changes to
+Green Star Performance, including new
+categories and an increased focus on
+decarbonising existing buildings.
+
+Published in 2020, set clear strategies
+for distinct emissions, including
+pushing for decarbonisation and the
+use of nature-based offsets.
+
+5
+
+On the need to decarbonise
+existing buildings, faster
+Two recent documents have highlighted the importance of
+decarbonising existing buildings faster than ever before.
+Climate Change 2021 The Physical Science Basis – 6th
+Assessment Report of the Intergovernmental Panel on
+Climate Change (IPCC)
+
+Global direct CO2 emissions reductions by mitigation measure in buildings
++29%
+
++90%
+
+Activity
+
+Mitigation measures
+3
+
+Behaviour and
+avoided demand
+
+Activity
+
+Energy efficiency
+
+Released August 2021, it notes that we are currently at 1.1 degrees over
+pre-industrial levels and that we are on-track to exceed 1.5C in 10 to 12
+years. The report serves as a warning that action is urgently required.
+
+2
+
+Electrification
++51%
+
+Hydrogen-based
+
+Measures
+
+Bioenergy
+
+1
+Other renewables
+
+GtCO2
+
+The report recommends strong, rapid, and sustained emissions
+reduction with a focus on methane reductions. It notes that emissions
+must be zero by 2050. It also recognises that we must compensate for
+existing and unabated emissions with nature-based carbon removal
+activities.
+
++97%
+
+2020
+
+Net Zero by 2050: A roadmap for the global energy
+sector – International Energy Agency
+Released May 2021, it describes pathways, timelines, and
+recommendations for many industries, including buildings. It also defines
+the end state of buildings in 2050 as zero carbon ready buildings, or
+buildings that are highly energy efficient, use directly or indirectly a fully
+decarbonised energy supply, maximises the efficient use of materials,
+and helps facilitate the decarbonisation of other sectors.
+The report also outlines the aspects of buildings that provide the largest
+decarbonisation opportunities (see diagram to the right). Electrification is
+identified as the highest impact for change in the energy sector.
+Finally, the report outlines that globally, 50% of all existing buildings
+should be zero carbon ready buildings by 2040.
+
+2030
+
+Other fuel shifts
+
+2050
+
+Electrification and energy efficiency account for nearly 70% of buildings-related emissions
+reductions through to 2050, followed by solar thermal, bioenergy and behaviour.
+Extract from Net Zero by 2050: A roadmap for the global energy sector, International Energy Agency (Figure 3.27)
+
+What does this mean for existing buildings?
+Our vision for existing buildings is for them to be fossil fuel free, powered by renewables
+and highly efficient, driving every building towards a Climate Positive future, with a
+focus on transformational change.
+This paper outlines how we plan to use Green Star Performance to achieve this goal for
+Australia.
+
+6
+
+What you should know about
+Green Star Performance
+Since 2013, Green Star – Performance has become an agent of change in the
+property sector. From industrial, retail, and commercial office portfolios, to the
+Sydney Opera House, the rating tool has been widely adopted. Supported by
+GRESB, and in partnership with NABERS, it has become a cornerstone of
+industry, and has delivered improvements in how buildings are managed.
+Since 2014,
+
+Green Star – Performance over time
+
+• More than 1,200 individual buildings have achieved at least one
+
+2014
+
+Number of individual buildings with at least one Green Star Performance rating
+0 star
+
+1 Star
+
+2 Star
+
+3 Star
+
+4 Star
+
+certification. Of the 1,200 buildings, 514 buildings have recertified at least
+once.
+
+• Out of the 514 buildings that have recertified, 61% have improved their
+rating by at least one star, with over half of those improving two stars or
+more.
+Like our other new rating tools, Green Star Performance will evolve to address
+issues such as health and wellbeing, resilience, and to align with the UN
+Sustainable Development Goals. There are other planned changes to Green
+Star Performance, including an annual certification process, alignment with
+Green Star Buildings, and a portfolio first approach.
+More importantly, the revision aims to help drive forward the decarbonisation of
+existing buildings. The rating tool will now award points for the energy used in
+the building and all three separate scopes of carbon emissions from the
+operations of the building. It will use the recertification process to also drive
+deep decarbonisation of existing buildings in line with our Climate Positive
+Pathway.
+
+2015
+2016
+2017
+2018
+2019
+2020
+
+7
+
+5 Star
+
+6 Star
+
+Definitions
+There are many definitions in this space
+that are used by industry. The following
+are the most commonly used versions of
+these terms, and are used in this paper.
+
+Net Zero
+
+Carbon Neutral
+
+Climate Positive
+
+The balance between the amount of greenhouse gas
+produced and the amount removed from the
+atmosphere on a net annual basis.
+
+Carbon neutral buildings are those that
+address all their emissions so that the carbon
+account is zero. Actions can include energy
+efficiency, use of renewables, and offsets,
+and must be considered in that order. The
+measurement is on a net annual basis.
+
+Climate positive buildings are those that address
+all relevant emissions, but do so in a manner that
+drives our built environment to be in line with a
+1.5C trajectory in the built environment.
+
+It is a technical, though open-ended term. Its use
+must be accompanied by the focus on emissions,
+e.g. net zero in operations, net zero for construction,
+etc.
+
+Practical building related actions
+that represent best practice to
+decarbonise buildings.
+
+Actions
+
+embodied
+carbon
+
+in operations
+
+energy
+emissions
+
+Fully powered by renewables
+
+✓
+
+Fossil fuel free
+
+✓
+
+Highly efficient
+
+✓
+
+Compensate for remaining embodied
+carbon
+
+✓
+✓
+
+The emissions from these scopes
+are addressed through avoidance,
+reductions, offsets.
+
+Refrigerants
+
+❍
+
+✓
+✓
+
+Lower upfront and embodied carbon
+
+Compensate for remaining emissions
+
+Scopes
+
+carbon
+
+In Australia, the term is defined by the
+Federal Government through the Climate
+Active Carbon Neutral program.
+
+These buildings are fossil fuel free, highly
+efficient, fully powered by renewables, with lower
+embodied emissions, and with remaining
+emissions offset with nature – essentially
+removing carbon from the atmosphere.
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+2
+
+✓
+
+4,5
+
+✓
+
+7,8
+
+✓
+
+2
+
+✓
+
+5
+
+✓
+
+8
+
+✓
+
+✓
+
+✓
+
+1
+1
+
+2
+
+Gas or other fuel use
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Electricity
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Water
+
+✓
+
+✓
+
+Waste
+
+✓
+
+✓
+
+✓
+
+✓
+
+Products and materials emissions
+3
+
+✓
+
+Meets WorldGBC's net zero carbon buildings
+commitment
+
+✓
+
+Formal accreditation
+❍ While not required, the standard strongly encourages the use of renewable electricity. This is
+regularly taken up by buildings going for certification.
+1 Emissions from emergency fuels are not generally material emissions in buildings
+2 The correct mechanism to be net zero would be through carbon removal activities. As there is no clear
+standard, this does not always occur.
+3 SBTI assesses corporates as being net zero carbon but their standard does not currently apply to
+buildings.
+4 Climate Active addresses embodied carbon in new buildings. For existing buildings, these would
+matter if they are significant (e.g. more than 5% of the emissions in the building).
+
+SBTI
+
+3
+
+Climate Active
+
+6
+
+Green Star
+
+5
+
+Climate Active requires compensation for carbon emissions. These are not only limited to removal
+activities but may also include emissions reduction.
+Climate Active certification can be achieved through NABERS, Green Star, or Climate Active.
+7 Applies to both new buildings, and embodied carbon from refurbishments or maintenance activities of
+the existing building.
+8 The Climate Positive Pathway explicitly requires carbon removal activities, specifically nature based.
+This is in line with current best practice.
+9 Green Star and ILFI’s Zero Carbon standard share a crosswalk that can be found here.
+6
+
+8
+
+9
+
+A Climate Positive Pathway for Green Star Performance
+All existing buildings in Australia must be Climate Positive by 2050. All Green Star Performance rated buildings
+must achieve this by 2040. And all world leading buildings must achieve this by 2030.
+This is our formula that every existing building should follow. These are the credits in Green Star Performance that will get you there.
+
+Highly
+efficient
+
+Fossil
+fuel free
+
+Energy use
+
+Energy source
+
+Reduces overall and peak
+energy load needed to
+operate the building.
+
+1
+
+2
+
+3
+
+The building does not use fossil
+fuels for heating, cooling,
+cooking or power, eliminating
+emissions from natural gas.
+
+1
+
+2
+
+Lower
+embodied
+emissions
+
+Offset
+with nature
+
+Partner for
+success
+
+Principles
+
+Embodied emissions
+
+Other carbon emissions
+
+Tenant energy source
+
+Credits
+
+Uses lower carbon products
+and incentivizes change in
+the supply chain.
+
+Uses purchasing power to
+capture and store carbon
+through increasing
+biodiversity reserves for nonenergy carbon emissions
+
+Other tenant emissions
+
+Powered by
+renewables
+
+3
+
+The building is fully powered by
+on-site or off-site renewable
+energy, eliminating emissions
+from electricity.
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+Assists tenants and
+occupants to decarbonise
+through quantifying
+emissions and procuring
+renewables
+
+3
+
+1
+
+9
+
+2
+
+3
+
+Relevant
+emissions
+scopes
+
+Our trajectory to Climate Positive
+Green Star Performance aims to drive every building towards Climate Positive Buildings in
+operation with a focus on transformational change over the next two decades.
+2023
+
+6
+
+Carbon neutral
+
+5
+
+Zero carbon
+action plan
+
+4
+
+Zero carbon
+action plan
+
+star
+
+star
+
+star
+
+1-3
+star
+
+Zero carbon
+action plan
+
+2026
+
+2030
+
+2035
+
+2040
+
+Climate positive
+
+Carbon neutral
+
+Climate positive
+
+Carbon neutral
+
+Climate positive
+
+Carbon neutral
+
+Climate positive
+
+10
+
+We seek your feedback
+The next few pages outline in more detail how we aim to implement the individual credits, what
+their structure might be, and how they may be required for distinct star ratings over time.
+The pages take a very similar structure. Each page:
+•
+
+Outlines the reason why we are tackling this issue
+
+•
+
+Details the outcome that is being sought by introducing this credit
+
+•
+
+Provides an outline of what the credit criteria might be and how it might be measured
+
+Feedback will be captured through formal processes only:
+
+•
+
+Shows how the distinct criteria will be introduced as an expectation to achieve a particular
+rating.
+
+• During the next few months, there will be one consultation webinar on the
+paper to be held in December.
+
+How to provide your feedback
+
+GBCA seeks feedback on the following:
+
+• Use the feedback survey form to submit your feedback
+
+•
+
+Are these the actions that would be expected of buildings as we decarbonise?
+
+• All feedback must be received by January 31, 2022.
+
+•
+
+Is the time scale appropriate?
+
+For some credits, we seek feedback on specific issues. These will appear on each page as
+well as in the feedback survey.
+The rating tool also applies to many different building types, divided into three key typologies.
+These are described in the next page. When considering these questions and providing
+feedback, please consider how the issue is affected by specific building typologies.
+Feedback can be provided on all or individual elements of the Climate Positive Pathway. A
+single page summary of the ambitions and target dates can be seen on page 18.
+
+11
+
+Building operation and scope
+Green Star Performance is a holistic rating tool for buildings. It will consider and provide
+distinct pathways for a diverse range of operational arrangements.
+The scope of some credits will change based on how the building is operated and
+occupied. The approach changes to account for challenges and opportunities that result
+from spaces that are operated by an entity separate to the building owner. Depending
+on the typology, the building owner may not have access to information for a significant
+portion of the building. This means the approach to achieve decarbonisation will need
+to change.
+•
+
+•
+
+•
+
+Owner occupied, where the building is occupied by the entity that owns it, and has
+control over the building operations either through direct management, or via a
+building management contract. Examples of these are hospitals, university buildings,
+or other social infrastructure projects. If tenants exist, they are a small part of the
+overall footprint e.g. a café or small retail store.
+Tenant occupied, where the building owner manages (by themselves or via a
+building management contract) the common areas of a building, with other spaces
+leased to a tenant (or tenants). Commonly referred to as a base-building / tenant
+situation. The building owner manages the common areas and shared services,
+which account for a significant portion of building impacts. The owner can exert
+influence over tenant decisions, but cannot directly control their decisions. Examples
+of these are most commercial office buildings, built to rent apartments, or a retail
+centre.
+Tenant operated, where the building is owned by one entity, but managed by the
+entity occupying it. In this situation, the tenant takes control over the operations of
+the building, including the vast majority of energy emissions, water use, and waste
+generation. The building owner is responsible for the upkeep of the building and
+other minor issues, but not responsible for any fitout works.
+
+The following table outlines the proposed scope each credit will cover.
+
+Credit
+
+Owner occupied
+
+Tenant occupied
+
+Tenant operated
+
+Energy Source
+
+✓
+
+1
+
+✓
+
+-
+
+Energy Use
+
+✓
+
+1
+
+✓
+
+-
+
+Embodied Emissions
+
+✓
+
+✓
+
+✓
+
+Other Carbon Emissions
+
+✓
+
+✓
+
+✓
+
+Tenant Energy Source
+
+-
+
+✓
+
+✓
+
+Other Tenant Emissions
+
+-
+
+✓
+
+✓
+
+2
+
+3
+
+1 Excludes energy consumed by a small tenancy, such as a café in the lobby.
+2 Does not include waste or water consumption from tenants, see next note.
+3 Includes waste and water consumption from tenants as they have control of the waste contract and activities, or in the case of water,
+
+GBCA is working with industrial asset owners to develop pathways for industrial and
+other tenant-operated assets within the rating tool.
+
+over the facilities and the water consumption.
+
+12
+
+Energy Use
+By 2040, all building operations should be highly energy efficient.
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+The IPCC report highlights two critical aspects that the built
+environment must pursue to be on a 1.5°C trajectory:
+Reducing our energy consumption and switching to
+renewable energy. The IEA Report goes further, noting that
+we need both to electrify buildings and continue to reduce
+our energy consumption, with this last one being the most
+important due to the influence it can have on user behaviour
+as well.
+
+As the market has developed, and thanks to an increase in
+the use of off-site renewables, it can be easy to dismiss the
+importance of driving continuing energy efficiency.
+
+The Energy Use credit aims to tackle the issue of a building’s
+energy consumption. The credit would have three levels of
+achievement (average, good, excellent), each recognising a
+distinct level of energy efficiency over a baseline.
+
+As a decarbonisation strategy, few will deliver as many
+benefits as reducing energy consumption.
+
+There are also other benefits. Energy Use is the cost to the
+occupant and reducing this has a net benefit to making
+sustainable buildings more attractive. It also means lower
+infrastructure needs, particularly when coupled with a
+stronger building fabric, and with other options that will help
+stabilise the grid (the goal of the Grid Resilience credit in the
+Resilient category, to be developed).
+
+This credit aims to recognise the importance of continuous
+energy efficiency. It recognises that energy efficiency is an
+ongoing process and encourages buildings to continue
+reaching to improve against a set benchmark. This credit
+addresses energy consumption, not emissions from energy
+consumption. This is important as the building implements
+the requirements of Energy Source and removes fossil fuels
+from heating, cooking, and hot water.
+This credit explicitly addresses energy consumption under
+the building owner’s control. Tenancy energy consumption
+from tenant equipment is not considered in this credit.
+Emissions from tenants will be under the Tenant Energy
+Source and Other Tenant Emissions credit. A sector specific
+Tenant Energy Use credit may be released in future.
+
+There would be four pathways in the credit used to set and
+measure benchmarks, which must be followed in order. That is,
+Pathway B can only followed if Pathway A does not apply. The
+pathways are expected to be based on the current Green Star –
+Performance ‘Greenhouse Gas Emissions’ credit, but modified
+to account for energy consumption. They are:
+
+a.
+
+NABERS Energy rating
+
+b.
+
+Commercial building energy disclosure baseline report
+(soon to be updated by the Federal Government).
+
+c.
+
+Comparison against peers.
+
+d.
+
+Comparison against a historical baseline.
+
+GBCA is working with the industrial sector to consider a
+prescriptive pathway for tenant operated buildings.
+
+Targets over time
+
+Energy Use
+
+Criteria
+
+2023
+
+2026
+
+Average performer
+
+3 star
+
+Good performer
+
+6 star
+
+2030
+
+2035
+
+2040
+
+All certifications
+
+5 star
+
+All certifications
+
+4 Star
+
+Excellent performer1
+1 While buildings that are excellent performers will be rewarded, there won’t be requirements to meet this level of performance to achieve a rating.
+
+13
+
+Energy Source
+By 2040, all buildings should only use sources of energy that are fully decarbonised.
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+The IPCC report highlights two critical aspects that the built
+environment must pursue to be on a 1.5°C trajectory:
+Reducing our energy consumption and switching to
+renewable energy. The IPCC report is clear that both need
+to occur. This is due to the need to continue decarbonising
+the grid and recognising that if current energy demands
+continue, achieving this goal will be difficult.
+
+The Energy Source credit responds to the need to
+decarbonise the grid. It aims to use the procurement power
+of the built environment to continue driving changes to the
+grid over time.
+
+The credit would have three criteria:
+
+The IEA Report goes further, noting that we need to electrify
+buildings in order to meet 1.5 degree targets.
+This means the focus has to be on ensuring both conditions
+are met, and not trade one off the other in the manner that is
+potentially possible in the current rating tool. By separating
+out in to Energy Source and Energy Use, Green Star
+Performance will reward projects for tackling these issues
+directly.
+
+Targets over time
+
+Credit criteria
+
+Removing fossil fuel use from existing buildings has time and
+cost implications. The credit recognises that transition
+planning needs to happen to ensure appropriate decision
+making is made when replacing or upgrading existing
+systems and equipment.
+The credit also aims to drive procurement or on-site supply
+of renewable electricity for base building uses, in addition to
+phasing out on-site fossil fuel use. In requiring 6 Star rated
+buildings to be fossil fuel free from 2026, the credit aims to
+drive uptake and innovation over a 15-year timeframe.
+The credit works well alongside other credits such as Other
+Carbon Emissions and Tenant Energy Source to drive
+change across the whole building.
+
+2023
+
+2026
+
+Zero Carbon Action plan
+
+Energy Source
+
+Renewable electricity
+
+• A Zero Carbon Action Plan: outlining how the asset or
+portfolio owner will transition away from the use of fossil
+fuels. This transition plan will provide clear steps to deliver a
+climate positive outcome from 2030 onwards.
+• Renewable Electricity: The building’s electricity must come
+from renewables. On-site or off-site renewables are
+acceptable. The requirement includes all building services
+under the control of the building owner or operator.
+Tenancy electricity use is not included in this criteria and will
+be covered by the Tenant Energy Source credit.
+• Renewable Energy: All energy consumed by the building
+comes from renewables. Energy is defined as all electricity
+consumed, as well as any fuels used for power, space
+heating and cooling, domestic hot water and cooking
+(whether used by base build or tenants)
+
+2030
+
+2035
+
+2040
+
+All certifications
+
+5 star
+
+Renewable energy1
+
+All certifications
+6 star
+
+4 Star
+
+5 star
+
+1 Renewable energy includes all electricity used, and any other fuels. In practice all buildings, barring some minor exceptions, will need to electrify
+
+14
+
+All certifications
+
+Embodied Carbon Emissions
+By 2040, all buildings should only use sources of energy that are fully decarbonised.
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+The built environment is a major consumer of global
+resources, with estimates stating that 50% of all materials
+are used in buildings. While most of these are due to new
+building construction, building maintenance and
+refurbishments are included in this number.
+
+To successfully drive down embodied carbon emissions
+during operations, this credit aims to create a practice of
+considering embodied carbon in a procurement setting. It
+also aims to recognize embodied carbon reductions across
+significant refurbishment or de-fit activities. The credit would
+also aim to recognize extending the life of a building’s major
+components where possible.
+
+The credit would have three parts:
+
+The carbon emissions from these materials, referred to as
+embodied carbon, have largely been overlooked. In a
+building’s emission profile, the emissions from use,
+maintenance, and refurbishment activities emissions are
+around 5 to 10% of all its emissions. As the energy sources
+become cleaner, the proportion of emissions from these
+activities becomes significant. As buildings are refurbished,
+to extend their life, the impact from these activities will be
+significant, with embodied carbon emissions being 85% of
+all remaining emissions in 2050 if no action is taken.
+
+Targets over time
+
+Criteria
+Policy
+
+Embodied Carbon Emissions
+
+Average performer
+Good performer
+
+This credit would also work well with other credits in the
+rating tool in the Responsible Category. For example, the
+Responsible Procurement credit aims to incentivise good
+practices. This would include the use of Climate Active
+Carbon Neutral product that would be recognised in
+embodied carbon emissions calculations for this credit.
+This credit explicitly addresses embodied carbon under the
+building owner’s control. Embodied carbon that forms part of
+a tenancy is addressed by the Other Tenant Emissions
+credit.
+
+2023
+
+2026
+6 star
+
+• A policy section, where the asset or portfolio owner would
+have a commitment to consider embodied carbon reductions
+for all major building works or de-fit activities. The policy
+would also delineate which works are included and set long
+term reduction targets.
+• Where refurbishment activities occur at the building level, a
+better than typical measurement, where the building works’
+embodied carbon reduction has been improved against a
+typical baseline.
+• Where the above is occurring, the embodied carbon
+reduction is significant.
+There are some aspects to consider. For example, there are
+questions about how to recognise situations where no
+activities have occurred during the year. There are also issues
+on the calculation methodology. Feedback is welcome on
+these two topics.
+
+2030
+
+2040
+
+All certifications
+
+5 star
+6 star
+
+2035
+
+All certifications
+
+5 star
+
+4 & 5 star
+
+6 star
+
+15
+
+All certifications
+
+Other Carbon Emissions
+By 2035, all building owners should compensate for remaining emissions with carbon removal activities
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+Once the emissions from energy and materials are taken
+into account, the emissions from refrigerants and other
+emissions under the building owners’ control become an
+issue of concern.
+
+This credit is aiming to create incentives to ensure the
+building or asset owner take responsibility for emissions
+which combined are a meaningful portion of the building’s
+lifetime emissions. The credit aims to do this, by placing a
+specific cost to these emissions by requiring offsetting of
+these on an ongoing basis and ensuring that they are driven
+down over time.
+
+The credit would have two parts:
+
+The impact of refrigerant emissions on climate change has
+not been properly quantified in buildings, but globally,
+phasing down refrigerants with a high global warming
+potential could avoid up to 0.4C of global warming by 2100.
+In 2019, the world agreed to the Kigali accord, which aims to
+phase out these refrigerants. This means buildings will need
+to be upgraded to account for them. However, 90% of
+emissions from refrigerants happen either through leakage
+or at the end of life.
+Other carbon emissions from buildings are also under the
+building owner’s control in most situations. Emissions from
+water consumption and waste generation and disposal can
+be heavily influenced by decisions made by the owner.
+These can account to be around 5% of the building’s total
+lifetime emissions. Remaining embodied carbon emissions
+also need to be addressed.
+
+Targets over time
+Other Carbon Emissions
+
+The credit recognises that there is an operational aspect to
+all these emissions, but also that there is an opportunity for
+improvements over time as plant and equipment is replaced.
+In the case of refrigerants, it would place additional
+emphasis on the drawdown and disposal of any refrigerants,
+and emphasise that replacements must be lower GWP.
+The credit works well alongside other credits such as
+Energy Source. That credit’s requirement for a zero carbon
+action plan would include actions related to refrigerants and
+other emissions.
+This credit explicitly addresses emissions under the building
+owner’s control. Emissions that form part of a tenancy is
+addressed by the Other Tenant Emissions credit.
+
+Criteria
+
+2023
+
+2026
+
+• The first part is focused on refrigerants, which should be the
+building’s remaining scope 1 emissions if the rest of the
+climate positive pathway was followed. This part would
+require the building owner to offset the entire refrigerant
+charge over time, with all being offset by the time of
+drawdown and disposal. It would also include a requirement
+to ensure drawdown and disposal is done correctly, and that
+any refrigerant replacement is lower GWP. Other scope 1
+emissions would also be required to be offset.
+• The second part is to reduce and address all remaining
+scope 3 emissions. These emissions would be considered to
+be emissions from water and waste, and any remaining
+embodied carbon emissions. It would not include tenant
+emissions.
+Both of these parts are related to building level emissions.
+Portfolios would be required to show that all buildings within it
+comply.
+Completing this credit as well as Energy Source, and Energy
+Use would enable the asset owner to also submit for Climate
+Active Carbon Neutral certification.
+
+2030
+
+2035
+
+2040
+
+Scope 1 eliminated or offset
+(refrigerants and fossil fuels)
+
+6 star
+
+5 star
+
+4 Star
+
+All certifications
+
+Water and waste emissions, and other
+Scope 3 material emissions are addressed
+
+6 star
+
+5 star
+
+4 Star
+
+All certifications
+
+16
+
+Tenant Energy Source
+By 2040, all buildings should only use sources of energy that are fully decarbonised.
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+One of the largest sources of emissions in the built
+environment is tenant emissions. These emissions are
+considered Scope 3 emissions, that is ancillary emissions,
+and are usually beyond the control of the building owner.
+However, the building owner does have the capacity to
+influence a tenant’s decisions.
+
+This credit aims to encourage influencing tenants to procure
+renewable energy or offset their emissions.
+
+This credit aims to ensure the building owner to proactively
+attempt to influence the tenant to procure renewables if they
+aren’t yet doing so.
+
+Most tenant’s energy use is limited to equipment and
+cooking activities. The energy use is partly limited by
+availability of equipment in the market, age of equipment in
+the tenancy, and user behaviour. As these are difficult to
+significantly change by the building owner, this means that
+the procurement of energy by the tenant is the biggest lever
+available to significantly reduce their emissions.
+
+Targets over time
+
+Moving tenants away from using gas, in most cases in
+cooking situations, or hot water in the case of apartments,
+can be done by the base building owner not providing gas in
+the building. However, this may take time, so until then, the
+best strategy is to work with tenants to shift their equipment
+away from gas and into electricity. In the vast majority of
+situations, the technology exists for this to occur.
+The other aspect is the source of electricity. Some tenants
+already have procurement plans to move into renewable
+electricity. Other tenants have not done this due to a lack of
+capability or knowledge that this is possible. Having the
+building owner provide a path for these tenants to access
+renewable electricity through any number of mechanisms,
+would allow these tenants to change their source of energy
+to renewables.
+
+Criteria
+Mechanism + small % signatories
+
+2023
+
+2026
+5 & 6 star
+
+The credit would have two components:
+• It would require the building owner to have a ‘mechanism’ by
+which tenants can sign up to procure renewable energy and
+decarbonise their emissions from operations. The
+‘mechanism’ can be through power-purchasing agreements,
+providing renewable electricity through an embedded
+network, or some similar pathway. A portion of tenants would
+also need to be powered by 100% renewable energy either
+through their own choice, or through the base building
+owner’s efforts.
+• The second part of the credit would simply require a higher
+threshold of tenants to procure 100% renewable energy.
+
+2030
+
+4 Star
+
+2035
+
+2040
+
+All certifications
+
+Tenant Energy Source
+High % signatories
+
+5 & 6 star
+
+4 Star
+
+All certifications
+
+17
+
+Other Tenant Emissions
+By 2040, all buildings should only use sources of energy that are fully decarbonised.
+Why is this important?
+
+What are we trying to do?
+
+What would the credit look like?
+
+As noted in Embodied Carbon Emissions, emissions from
+products and materials are a significant contributor to
+climate change. While the focus around embodied carbon
+emissions tends to be on structural materials, as they are
+the largest source of emissions, the impact from churn in
+fitouts should not be underestimated.
+
+This credit aims to encourage building owners to work with
+tenants to account, reduce and compensate any emissions
+from fitout works.
+
+This credit aims to ensure the building owner proactively
+influences the tenant to reduce and compensate for their
+emissions from fitout works.
+
+In the vast majority of cases the building owner has some
+capacity to influence the direction of fitouts in their building.
+They may also have more expertise than the tenant, helping
+them reduce their emission from a new fitout, and to help
+them compensate for any emissions through a well
+structured program. The building owner may choose to do
+this by providing options, encouraging a previous tenant to
+pass on their fitout, etc.
+
+The credit would have two components:
+
+In a typical building, as with emissions from operations, the
+emissions from fitout churn can be a quarter to half of the
+building’s lifetime embodied carbon emissions. In a typical
+tenanted building, it is likely that a tenancy will be
+refurbished at least once within a 5 to 7 year period. This
+churn of removing the existing fitout, making good the
+space, and reintroducing new fitout elements generates
+significant emissions which are rarely quantified.
+
+Targets over time
+
+The purpose overall, is to ensure the emissions from fitouts
+are being considered at all times, and to encourage
+measures to be taken to reduce their impact.
+
+Criteria
+Mechanism + small % signatories
+
+2023
+
+2026
+6 star
+
+• It would require the building owner to have a ‘mechanism’ by
+which tenants can receive help from the building owner to
+reduce and compensate for any emissions from fitout works.
+A portion of tenants would need to be signed up to this
+‘mechanism’.
+• The second part of the credit would simply require a higher
+threshold of tenants to be accounting for these emissions.
+
+2030
+
+5 star
+
+2035
+
+2040
+
+All certifications
+
+Other Tenant Emissions
+High % signatories
+
+4 Star
+
+5 & 6 star
+
+18
+
+All certifications
+
+Our proposed requirements for each star rating in one page
+Credits
+
+Criteria
+
+2023
+
+Average performer
+
+Energy Use
+
+Good performer
+
+2026
+
+2030
+
+3 star
+
+6 star
+
+2035
+
+2040
+
+All certifications
+
+5 star
+
+All certifications
+
+4 Star
+
+Excellent performer1
+
+Zero Carbon Action plan
+
+Energy Source
+
+Renewable electricity
+
+All certifications
+
+All certifications
+
+5 star
+
+Renewable energy2
+
+6 star
+
+5 star
+
+All certifications
+
+4 Star
+
+Scope 1 eliminated or offset
+(refrigerants and fossil fuels)
+
+6 star
+
+5 star
+
+4 Star
+
+All certifications
+
+Water and waste emissions, and other
+Scope 3 material emissions are addressed
+
+6 star
+
+5 star
+
+4 Star
+
+All certifications
+
+Policy
+
+6 star
+
+5 star
+
+Other Carbon Emissions
+
+Embodied Carbon Emissions
+
+Average performer
+
+6 star
+
+Good performer
+
+Mechanism + small % signatories
+
+All certifications
+
+All certifications
+
+5 star
+
+5 & 6 star
+
+4 Star
+
+All certifications
+
+4 & 5 star
+
+6 star
+
+All certifications
+
+Tenant Energy Source
+5 & 6 star
+
+High % signatories
+
+Mechanism + small % signatories
+
+6 star
+
+All certifications
+
+4 Star
+
+5 star
+
+All certifications
+
+Other Tenant Emissions
+High % signatories
+
+4 Star
+
+5 & 6 star
+
+1 This requirement will be available in the rating tool for projects to target, but is not required as part of the Climate Positive Pathway
+2 Renewable energy includes all electricity used, and any other fuels. In practice all buildings, barring some minor exceptions, will need to electrify
+
+19
+
+All certifications
+
+The next steps in
+decarbonising our built environment
+Over the next 20 years we will have to decarbonise all existing buildings in Australia.
+We also need to take further steps to address remaining emissions and maximise opportunities to take action.
+
+Grid resilience
+
+Renewables matching
+
+Carbon negative existing buildings
+
+Energy demand combined with increased variable
+renewable electrify generation as well as
+infrastructure constraints can place stress on the
+grid as it decarbonises if not planned well.
+
+The next version of Green Star Performance will
+strongly encourage the procurement of renewables
+on a net annual basis. As the grid decarbonises, it
+will be important to also match renewable
+generation to actual use.
+
+Removing carbon from the atmosphere has been highlighted as a
+key action that must be taken to ensure we can limit warming to
+1.5C. There is no pathway available that can get us there without
+explicit emission cuts, and explicit emission removals.
+
+Buildings consume over 50% of all electricity in
+Australia. As such, buildings must play a part to
+address these impacts by managing their loads
+dynamically. This can be done through energy
+efficiency, on-site photovoltaics, energy storage
+solutions, or demand shifting responses. With
+proper communication and controls, buildings can
+use electricity at optimum times, and with storage
+solutions, the consumption can be shifted to times
+where there’s peak load.
+
+Over time, we expect a move towards matching
+supply on an hourly basis, or even over 15 minutes
+intervals. Currently, matching renewables to grid is
+difficult as there is no good, easily available
+mechanism to do this in real time. Buyers of
+renewable power will also face increased costs if
+they moved to a high threshold of matching
+generation and consumption.
+
+These solutions can increase the reliability and
+resiliency of the grid, and can also be used to meet
+occupant comfort and other service requirements.
+
+Strategies to manage this issue will include better
+procurement mechanisms to include requirements
+for higher levels of matching. But it can also include
+storage and control solutions to shift use at the
+time of generation.
+
+Green Star Performance will include a Grid
+Resilience credit to address this issue.
+
+The issue of renewables matching will be the
+subject of an upcoming thought leadership paper.
+
+While the rest of this paper is focused on driving the emissions
+profile of a building to zero for future emissions, there is still the need
+to consider how the built environment should take responsibility for
+its historic emissions. Already we are seeing other companies take
+responsibilities and targets for historic emissions (Microsoft, Google,
+Velux), so one can expect similar strategies to show up over time for
+this sector.
+The goal of pushing for this strategy is to provide a meaningful
+pathway for the built environment to invest in carbon removals,
+beyond its current obligations. It can be easy to foresee a future
+where building portfolios will be required to calculate their carbon
+debt, with a carbon removals strategy created and attached to the
+building, akin to a carbon passport in the building’s balance sheet. In
+the future, buildings would be able to report a carbon debt of zero,
+making them more attractive investments.
+
+The concept of carbon negative existing buildings will be explored in a
+leadership challenge for Green Star Performance called Carbon debt.
+
+20
+
+Thank you
+gbca.org.au
+
+@gbcaus
+/gbcaus
+
+21
+
+A Green Star
+Performance
+Discussion
+paper
+
+30 the Bond, NSW
+Dexus
+5 Star Green Star – Office As Built v1
+5 Star Green Star – Performance v1.2
+
+November
+2021
+
+22
+
+

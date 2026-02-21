@@ -1,0 +1,2999 @@
+Carbon offsets,
+Last but not later
+A framework for the environmental integrity of offsets
+in the property sector.
+
+July 2023
+
+propertycouncil.com.au
+
+Project no: 2022/01
+
+Contents
+
+Document title: Offsets for net zero – Framework
+Document No.: PCA 2022/01
+Client name: Property Council of Australia
+Author: Bruce Precious
+Six Capitals Consulting
+ABN31660019338
+5/25-27 Wongala Cr
+Beecroft 2119
+Telephone: 0418 430 586
+www.sixcapitalsconsulting.com.au
+
+Foreword
+
+4
+
+1 The role of offsets in net zero
+
+3
+
+2 Developing an offset strategy
+
+4
+
+3 Conducting offset due diligence
+
+6
+
+4 Maintaining offset quality
+
+9
+
+Appendix A: Offset due diligence checklist
+
+10
+
+Appendix B: Example natural capital balance sheet
+
+14
+
+Appendix C: Scope 3 relevance and offsetting
+
+10
+
+Document history and status
+
+REVISION DATE
+
+DESCRIPTION
+
+DRAFT 0.5
+
+SEPTEMBER 2022
+
+Refocus on key outcomes
+
+DRAFT 1
+
+SEPTEMBER 2022
+
+For Customer review
+
+DRAFT 2
+
+OCTOBER 2022
+
+Incorporates first round consultation and second round consultation questions
+
+FINAL
+
+DECEMBER 2022
+
+Incorporates feedback from consultation
+
+Special thanks, for guidance, insights, analysis, and encouragement, to:
+• Tim Wheeler – Property Council of Australia
+• Francesca Muskovic – Property Council of Australia
+
+• Climate Active
+• Carbon Market Institute
+
+• Cassandra Lau – Property Council of Australia – Intern
+• Leon Massoud – Property Council of Australia – Intern
+• Jorge Chapa – Green Building Council of Australia
+• Property Council of Australia – Sustainability Roundtable
+• NABERS
+©Copyright 2022 Six Capitals Consulting. The concepts and information contained in this document are the property of Six Capitals Consulting. Limitation: This report has been prepared
+on behalf of, and for the exclusive use of Six Capitals Consulting’s’ Client, and is subject to, and issued in accordance with, the provisions of the contract between Six Capitals Consulting
+and the Client. Six Capitals Consulting accepts no liability or responsibility whatsoever for, or in respect of, any use of, or reliance upon, this report by any third party. This paper does not
+provide financial advice, readers are encouraged to seek alternative advice when investing in emissions offsets.
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+2
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+1
+
+Foreword
+
+Foreword
+Australian property companies are recognised as global leaders. Many are
+targeting net zero emissions by 2030.
+
+Low-upfront carbon, highly efficient, fossil-fuel free buildings fully powered
+by renewables and offset with nature – that is our formula for delivering a
+climate positive built environment.
+
+Their commitment to ever more sustainable commercial buildings reflects
+the urgency of avoiding the worst of global warming.
+
+The Intergovernmental Panel on Climate Change (IPCC) report highlighted
+the importance of carbon storage mechanisms, such as nature-based
+solutions, for achieving the ambitious target of limiting global warming to
+1.5°C. These approaches offer valuable means to mitigate carbon emissions
+while delivering broader environmental and social benefits. But as many
+have noted, the offset market is fraught with complexity, making it difficult
+to navigate, and there are real questions about its effectiveness.
+
+Our industry’s global leadership is built on a longstanding foundation
+of verifiable mitigation efforts targeting deep energy efficiency, the
+procurement and production of renewable electricity, and fuel switching
+from fossil fuels. Our sector emits almost a quarter of Australia’s emissions
+and must decarbonise for our economy to reach net zero.
+During this period of transition, some emissions are more difficult to
+abate than others. Where residual emissions exist, offsets can deliver
+environmental benefits, as a compensatory measure, at the same time as
+organisations work to eliminate their emissions.
+
+Mike Zorbas
+
+Offsets that satisfy the criteria of additionality and permanence provide an
+economically sound approach to early carbon mitigation. The development
+of these offset markets should be encouraged, particularly where cobenefits including biodiversity enhancement can be achieved.
+
+Davina Rooney
+
+As our understanding of this complex area grows, we must also recognise
+that the perfect offset probably isn’t available, and may never be, so
+the best path is to identify those offsets with the highest environmental
+integrity. This offset framework takes a “last, but not later” approach where
+offsets are applied last in the sequence of carbon mitigation but not delayed
+because of the complexities in determining offset integrity.
+The framework has been developed collaboratively with Property Council
+members, technical experts and with the support of the Green Building
+Council of Australia. The framework reflects the unique nature of Australian
+property, energy and emissions markets and the environments in which they
+operate.
+Applying the framework principles will equip organisations to ensure reliable
+carbon accounts are maintained. This reliability will underpin credible and
+high integrity net zero claims.
+The Property Council is privileged to work with our members who continue
+to lead the global journey towards net zero.
+
+This framework presents a robust process to evaluate and verify the
+authenticity and effectiveness of carbon offsets, tailored to real estate
+owners’ needs. It supports informed decision-making and maximises
+the positive impact of carbon offset investments. Guided by the Oxford
+Taxonomy of Carbon Offsets, the framework emphasises transparency,
+additionality, and long-term climate benefits. By using high-integrity, highquality carbon removal offsets, particularly those that are nature-based, real
+estate owners can combat climate change and create long-term value for
+their properties and communities.
+
+At the time of writing, markets for emissions offsets are in a state of flux
+with considerable work being undertaken to develop offset mechanisms
+that conform with Paris article 6 guidelines. Furthermore, the Australian
+Government is currently considering the outcomes of an Independent
+Review of Australian Carbon Credit Units.
+Global initiatives such as the Integrity Council for the Voluntary Carbon
+Market (ICVCM) combined with local programs of the Carbon Market
+Institute’s Code of Conduct are providing frameworks that will enhance the
+integrity of carbon markets and the environmental integrity of offsets.
+ASIC and the ACCC have both provided guidance in relation to the risks
+of greenwashing that should be consulted when developing corporate
+statements on environmental outcomes.
+
+We commend this framework to them and to our industry as a practical
+toolkit that supports measurable progress.
+
+As the carbon market continues to develop it will allow the most costeffective methods of ensuring environmental integrity of offsets to be
+explored and to mature. The “first principles” approaches proposed in this
+framework will evolve as regulations, contracts, and methods for creating
+and monitoring offsets continue to evolve.
+
+1
+https://www.cleanenergyregulator.gov.au/
+DocumentAssets/Pages/Information-Paperon-the-Offsets-Integrity-Standards.aspx
+
+Until this market maturity is achieved, users of offsets can form their
+own strategy to protect organisational reputation using the approaches
+detailed in this framework.
+
+https://www.accc.gov.au/media-release/
+businesses-told-to-be-prepared-to-backup-their-environmental-claims
+2
+
+3
+Low carbon Living CRC, Best Practice Policy
+and Regulations for Low Carbon Outcomes in
+the Built Environment, 2017
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+2
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+3
+
+Carbon offsets
+framework
+
+This framework recommends four related strategies to ensure
+environmental integrity of an offset program that delivers reliable and
+durable emission removal, mitigates the risk of greenwash challenges and
+avoids reputational damage.
+
+Definitions &
+acronyms
+
+ACRONYMS
+
+DEFINITIONS
+
+ACCU
+
+Australian carbon credit unit, 1 ACCU = 1 tonne CO2e
+
+Carbon
+neutral
+
+Condition in which human caused residual emissions are
+balanced by human-led removals over a specified period
+and within specified boundaries (Note: typically applied
+to a product or service level )
+
+Emission
+reduction
+
+Quantified decrease in greenhouse gas emissions
+specifically related to or arising from an activity between
+two points in time or relative to a baseline*
+
+The principles in this framework are designed to:
+
+GHG
+
+Greenhouse gases
+
+•	provide a template for consistent and transparent communication of
+net zero emissions strategies that:
+
+Net zero
+
+Net zero greenhouse gas emissions, condition in which
+human caused residual emissions are balanced by
+human-led removals over a specified period and within
+specified boundaries*( Note: typically applied as a whole
+of country, region, organisation, whole of portfolio target)
+
+Offset
+
+Emissions reduction or removal resulting from an
+action outside the organisation’s boundaries used to
+counterbalance the organisation’s residual emissions*
+
+Removal
+
+GHG removal, withdrawal of a greenhouse gas from the
+atmosphere as a result of deliberate human activities*
+
+Residual
+emission
+
+Greenhouse gas emissions that remain after taking all
+possible actions to implement emissions reductions*
+
+Four key components:
+1. Demonstrate the role of offsets in a science aligned net zero plan
+2. Document the offset strategy
+3.	Show how a program of due diligence ensures offsets meet the quality
+criteria in the offset strategy
+4.	Maintain a Natural Capital Balance sheet; a register of offsets
+maintained over time recording the results of ongoing stewardship
+checks and measurements of stored carbon
+
+o
+
+outlines an organisation’s approach to procurement of offsets
+
+o	allows business customers of commercial property to have
+confidence in net zero emission certifications, making carbon
+neutral a selection criterion when they are looking for space to lease
+and accelerating progress toward a net zero economy, and
+o
+
+defends net zero claims against “greenwash” challenges.
+
+•	enable companies to document and communicate an Offset Strategy
+that:
+o	articulates the company’s “houseview” of the features that make a
+credible offset, aligned to this framework
+o	promotes and preferences investment in nature-based GHG
+removals and carbon storage
+o	promotes use of offsets in the value chain only where elimination is
+unavoidable and where efficient use of the offset can be made, and
+
+*Marked definitions are extracts from “ISO Net Zero Guidelines IWA 42 2022-11”
+
+o	encourages the cost of offsets be used in business cases to
+influence lower emission outcomes (ie: similar to a shadow price on
+carbon).
+•	encourage well-functioning carbon markets with deep and liquid trade
+in offsets that:
+o	promote the development and deployment of the technologies,
+techniques and equipment needed for emissions reductions and
+sequestration by channeling investment to activities that might
+otherwise not occur, and
+o	encourages protection of offset supply for those sections of the
+economy with the hardest to abate emissions.
+•	provide a platform of advocacy to government to ensure policies and
+regulations support the earliest adoption of net zero buildings.
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+4
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+5
+
+The role of offsets
+in net zero
+
+In the commercial property sector greenhouse gas (GHG) emissions are
+created through all phases of a building lifecycle with emissions produced
+during manufacture of building products, during construction, throughout
+operations and even during demolition.
+Some of these emissions can be eliminated using strategies like energy
+efficiency, electrification and refrigerant replacement, while others are
+avoided by switching to renewable energy. Where residual emissions are
+difficult to eliminate or require a transition period, the use of offsets may be
+justified to bring forward the achievement of net zero or carbon neutrality.
+
+Net zero and carbon neutral commitments are both integral
+parts of the value creation strategy of leading organisations.
+While net zero and carbon neutral sound like they might describe the same
+thing, there is a distinction in practice where net zero targets are applied
+at the portfolio or whole of organisation level offering investors, and other
+stakeholders, information relevant to their assessments and decisions in
+decarbonising their investment portfolios. Net zero targets can be aligned
+with the World Green Building Council Advancing Net Zero program or with
+the Science Based Targets Initiative.
+
+1
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+Carbon neutral certification, applied at a building, product, or service level
+is a key enabler in the decarbonisation of supply chains. Carbon neutral
+tenants can demand and occupy carbon neutral buildings and in turn
+owners of carbon neutral buildings can create demand for carbon neutral
+building products and services.
+Buildings make up part of the supply chain for many organisations, and
+their selective preference for carbon neutral certification creates effective
+market signals for the ongoing decarbonisation of the property sector.
+Climate Active, administered by NABERS and the Green Building Council
+of Australia for buildings, is a carbon neutral certification program with an
+established “Buildings Standard”.
+
+6
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+7
+
+Offsets come last, but needn’t be delayed
+
+In summary, an organisation’s net zero plan should include:
+
+Building owners can typically act most rapidly to mitigate emissions under
+their control, whereas influencing others up or down the value chain can
+take more time. In an operational building the simplified chart below is an
+example of the relative contributions of renewable electricity and offsets in
+a portfolio of buildings that have targeted net zero by 2020.
+
+•a
+ ligning the net zero target with the latest international consensus on
+climate science
+•d
+ ocumenting the relatively minor and declining role expected of
+offsets to increase the credibility of the plan, and
+• t he organisation’s advocacy position supporting early net zero targets
+and urgent responses to climate change to enhance the credibility of
+the net zero strategy and application of offsets.
+
+Declining role of offsets in net zero operational emissions
+Efficiency measures reduce
+emissions year on year
+
+80,000
+
+Demonstrating that offsets are used in support of an emissions target that
+is aligned with climate science is an important first step in establishing the
+context for use of offsets.
+
+70,000
+
+In 2021 renewable
+electricity is purchased for
+the portfolio
+
+What this means for the built environment is all emissions that can be
+eliminated should be eliminated as quickly as possible. Any that cannot be,
+residual emissions, must be addressed by solutions that remove GHG from
+the atmosphere. Organisations that have joined Advancing Net Zero with
+the World Green Building Council have committed to net zero programs
+aligned with the science as described in the IPCC reports.
+
+In 2021 start purchasing
+offsets for gas emissions
+
+40,000
+30,000
+
+Electrify all systems by
+2030 and replace refrigerants,
+no further offsets required
+
+20,000
+10,000
+-
+
+Electricity emissions  
+
+2050
+
+2030
+
+2028
+
+2029
+
+2027
+
+2025
+
+2026
+
+2022
+
+Gas emissions  
+
+2023
+
+2021
+
+2019
+
+2020
+
+2017
+
+2018
+
+2016
+
+2015
+
+2013
+
+2014
+
+2011
+
+-10,000
+2012
+
+The report recommends strong, rapid, and sustained emissions reduction to
+net zero by 2050. It also recognises that we must compensate for existing
+and unabated emissions with nature-based carbon removal activities. In
+fact, in all scenarios outlined in the report, capturing, and storing carbon, in
+addition to deep and sustained cuts, is needed to achieve a 1.5°C trajectory.
+
+50,000
+
+2010
+
+The latest IPCC report, Climate Change 2021 The Physical Science Basis
+–6th Assessment Report of the Intergovernmental Panel on Climate Change
+(IPCC), released August 2021, notes that we are currently at 1.1°C over preindustrial levels and that we are on-track to exceed 1.5°C in 10 to 12 years.
+The report serves as a warning that action is urgently required and that
+carbon removals are a necessary element of the solution.
+
+Tonnes CO2e
+
+60,000
+
+2024
+
+Aligning net zero
+with climate science
+
+Offsets
+
+Figure 1 This simplified representation of operational scope 1 and 2 emissions from a portfolio
+of buildings shows how offsets may only be required in the near term for a small proportion of
+operational emissions. Demonstrating how offsets are used for a small proportion of baseline
+emissions, for a limited time, makes net zero claims more credible.
+
+The figure demonstrates that purchasing renewable electricity typically
+has a much more significant impact on reducing emissions than other
+fuel sources and that purchasing offsets can be a short-term measure to
+mitigate emissions while gas systems are converted across to electrical
+energy and refrigeration systems are converted to low/zero global warming
+potential gases.
+
+Leadership through action and advocacy
+In communicating alignment with climate science, it is increasingly common
+for stakeholders to ask about an organisation’s advocacy on climate change
+and emissions. Descriptions of your net zero plan are enhanced with the
+inclusion of advocacy positions taken individually or through membership
+organisations.
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+8
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+9
+
+Boundaries and
+strategies
+
+Net zero and carbon neutral plans have evolved to cover four different areas
+of a property organisation’s emissions: corporation or portfolio, operational,
+embodied, and organisational.
+Net zero corporation/portfolio
+
+GHG scopes
+1, 2 and 3
+
+In summary, offsets:
+•m
+ ay be used to mitigate scope 1 emissions in the short term, until they
+can be eliminated
+•a
+ re not recommended to be used to mitigate scope 2 emissions.
+This is reinforced by their lack of recognition in NABERS and Green
+Star. Instead, install renewable electricity systems and/or procure
+renewable electricity
+•c
+ an be used to mitigate scope 3 upstream emissions, accompanied by
+supply chain action to eliminate emissions, and
+
+Operational
+Carbon neutral
+
+Carbon neutral
+Organisation
+
+•c
+ an be used to mitigate scope 3 downstream emissions where
+support is provided to customers to either eliminate or offset their own
+scope 1 emissions and move to renewable electricity, avoiding their
+own scope 2 emissions.
+
+New build - Carbon neutral
+Embodied emissions
+
+Figure 2 Boundaries between net zero and carbon neutral targets often overlap
+
+Carbon neutral plans for operational property emissions typically rely on
+contributions from six key strategies:
+1.
+
+A net zero goal requires that emissions are mitigated across all three
+scopes of emissions:
+
+Managing energy for optimal efficiency
+
+2. Sourcing power from renewable electricity generated on or off-site
+3. Transitioning fossil fuel systems to renewable electricity alternatives
+4. Moving to zero global warming potential refrigerants
+5. Eliminating waste to landfill, especially organics
+6. Promoting elimination of emissions in value chains
+7.	Purchasing and retiring carbon offsets to counter emissions that can’t be
+immediately abated
+Carbon neutral plans for embodied emissions rely on similar, but different,
+strategies:
+• Dematerialisation in design, reducing material use
+
+Scope 3 emissions - value chain
+emissions - are divided between
+those emissions that occur
+because of activities upstream in
+the supply chain and downstream,
+when customers or others use
+buildings. The GHG Protocol
+nominates 15 categories of
+value chain emissions that may
+be relevant to an organisation’s
+emission inventory.
+
+• Low carbon materials, focusing on materials with a low carbon footprint
+• Encouraging construction material suppliers to measure and eliminate
+carbon and consider offsetting in the meantime.
+
+SCOPE
+
+SOURCES
+
+NET ZERO RESPONSE
+
+SCOPE 1
+
+Refrigerants
+
+Elimination preferred, alternatively plans for
+elimination are disclosed and offsets used as a
+strategy to compensate for residual emissions in
+the short term
+
+Fossil fuel
+combustion
+on site
+SCOPE 2
+
+Electricity
+
+Renewable electricity generated onsite and/
+or purchased via the grid. Note that applying
+offsets against electricity use does not result in
+a credible net zero position and does not lead
+to a sustainable outcome
+
+SCOPE 3
+
+Upstream value
+chain (supply
+chain
+
+Elimination preferred, alternatively plans for
+elimination are disclosed and offsets used to
+mitigate residual emissions until the supply
+chain is able to fully decarbonise.
+
+• Adopting low/no carbon transport and construction energy
+
+Procurement practice favors low carbon and
+Climate Active suppliers or other international
+carbon neutral schemes.
+
+Carbon neutral plans for organisational emissions capture the emissions
+of “head office”, emissions arising from electricity consumed by offices,
+business travel and other supply chain goods and services.
+
+-
+
+A real estate corporation targeting net zero will typically include operational,
+organisational and embodied emissions within the boundary. Key to any
+net zero target is transparency of what is included within the commitment
+boundary.
+Some leading organisations recognise that the environmental impact of
+carbon emissions is not a problem focused on annual flows, but one of
+atmospheric carbon stocks accumulated over time. The lifetime corporate
+emissions approach requires an estimate of emissions since an organisation’s
+inception and is aligned with a “balance sheet” approach to managing
+environmental impacts analogous to the “natural capital balance sheet”
+introduced in section 4.
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+10
+
+Downstream
+value chain
+(tenant/customer
+emissions)
+
+Elimination as tenants move all services to
+renewable electricity with offsets used to
+mitigate residual emissions in the short term
+
+1
+https://blog.google/outreach-initiatives/
+sustainability/our-third-decade-climateaction-realizing-carbon-free-future/
+2
+https://blogs.microsoft.com/
+blog/2020/01/16/microsoft-will-be-carbonnegative-by-2030/
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+11
+
+Appendix C provides a summary
+table including a sample scoring
+of the seven relevance categories
+proposed by the protocol to
+determine if a category should
+be included in an organisation’s
+emissions inventory. Organisations
+should conduct and disclose their
+own relevance assessment for
+scope 3 emissions
+Table 1 The GHG Protocol defines 15
+categories of scope 3 emissions that
+contribute to the value chain emissions of an
+organisation - this table includes upstream or
+supply chain emissions
+
+CATEGORY
+
+APPROACH
+
+USE OF OFFSETS
+
+1 Purchased
+goods and
+services
+
+Most relevant to developments,
+goods and services incorporated into
+new build. Through procurement,
+express a preference for low carbon/
+carbon neutral goods and services.
+Segment expenditure and identify
+low carbon options
+
+Yes, neutralising
+residual emissions
+while transforming to
+eliminate emissions
+
+2 Capital
+goods
+
+3 Fuel and
+energy
+related
+
+Appendix C provides a summary
+table including a sample scoring
+of the seven relevance categories
+proposed by the protocol to
+determine if a category should
+be included in an organisation’s
+emissions inventory. Organisations
+should conduct and disclose their
+own relevance assessment for
+scope 3 emissions.
+
+Most relevant to operational assets
+purchasing buildings or assets for
+buildings. Through procurement,
+express a preference for low carbon/
+carbon neutral capital equipment.
+Nominate projects that will track
+embodied carbon
+Most relevant to operational assets.
+Transmission and distribution losses,
+linked with energy source information,
+reduce through efficiency and
+transition to renewable energy
+
+4 Upstream
+transportation
+and
+distribution
+
+Most relevant to developments,
+transition to electric transport.
+Typically, low relevance to operational
+assets.
+
+5 Waste
+generated in
+operations
+
+Most relevant to operational assets.
+Waste management practices reduce
+organics to landfill and increases
+recycling resulting in lower emissions
+from tenant generated waste
+
+6 Business
+travel
+
+May be included in organisational
+carbon accounts, limited to employee
+travel for carbon neutral certification.
+Low relevance to operational assets.
+
+8 Upstream
+leased
+assets
+
+May be included in organisational
+carbon accounts for carbon neutral
+certification. Low relevance to
+operational assets.
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+Property development companies
+that build homes/buildings for the
+purpose of selling to future owners
+may also find category 11- Use of
+sold product, relevant.
+In both categories, the property
+company can ensure that tenants
+and future owners have the ability
+to use energy efficiently and use
+renewable energy. The application
+of offsets in these cases can mask
+emissions and is unlikely to lead to a
+sustainable market transformation.
+The relevance assessment matrix is
+a useful tool to explain the inclusion
+or exclusion of the downstream
+emission categories.
+
+CATEGORY
+
+APPROACH
+
+In all cases, the application of
+offsets can be best supported by
+demonstrating how the cost of the
+offset feeds into decision making in
+relation to elimination of emissions.
+
+12
+
+USE OF OFFSETS
+
+9 Downstream
+Generally not applicable
+transportation
+
+NA
+
+10 Processing
+of sold
+product
+
+Generally not applicable
+
+NA
+
+11 Use of sold
+products
+
+Most relevant to developments,
+encourages energy efficiency and
+renewable energy systems be
+installed early.
+
+Yes, to neutralise
+residual emissions while
+transforming to eliminate
+emissions and where
+future emissions can be
+reasonably estimated
+
+12 End of life
+
+Most relevant to developments.
+Embodied carbon in demolition
+materials is retained through
+high grade recycling. Demolition
+equipment moves to electric and
+renewable electricity
+
+Yes, to neutralise
+residual emissions while
+transforming to eliminate
+emissions if end of
+life emissions can be
+reasonably estimated
+
+13 Downstream
+leased assets
+
+Most relevant to operational assets.
+Emissions associated with tenant
+use of leased space. Collaboration
+for energy efficiency and access to
+renewable energy
+
+Yes, to neutralise
+residual emissions.
+Renewable energy
+certificates (LGCs)
+are preferred for
+mitigation of electricity
+related emissions as a
+sustainable solution.
+For either offset or
+REC approach there
+should be a price
+signal reflected back
+to the consumer to
+inform behaviours and
+management of energy
+
+14 Franchises
+
+Generally not applicable
+
+NA
+
+15 Investments
+
+Where investment is made in
+operational property the preference is
+to have an efficient asset powered by
+renewable energy.
+
+Yes, to neutralise
+residual emissions
+where the scope 1 & 2
+emissions from these
+assets have not been
+mitigated
+
+Table 2 Scope 3 downstream emissions
+showing that the application of offsets for
+these emissions require careful consideration
+
+Most relevant to organisational
+carbon accounts, reduced through
+avoided business travel and choice
+of travel mode. Low relevance to
+operational assets
+
+7 Employee
+commuting
+
+Table 2 details the categories of
+downstream emissions, those
+emissions that arise because of
+use of an organisation’s product.
+For the property sector the most
+relevant downstream emissions
+are downstream leased assets
+(category 13) where emissions
+arise from tenant activities such as
+burning natural gas in retail kitchens
+and using electricity to power office
+tenancies.
+
+Carbon offsets for net zero: A framework for the environmental integrity of offsets
+
+13
+
+Offsets in the
+supply chain
+
+Offsets in the
+supply chain
+
+In summary:
+• include net zero or low carbon requirements in all supplier guidelines
+and requests for proposal.
+• request Environmental Product Disclosures (EPD’s) for products, which
+allows for a fair comparison in procurement decision making and for a
+more accurate scope 3 inventory
+•d
+ emonstrate how the net zero requirement is influential in the
+purchasing decision, and
+
+Tier one suppliers
+As shown in Figure 3, tier one suppliers have scope 1 & 2 emissions,
+their suppliers, tier two suppliers, have scope 1 & 2 emissions, and so on.
+The goal of net zero procurement is to have every supplier, at every tier,
+eliminate their scope 1 emissions and transition to renewable electricity
+thereby avoiding scope 2 emissions. Successfully deploying this strategy
+will ultimately avoid the use of offsets in relation to purchased goods and
+services.
+Following this thinking, offsets are applied most efficiently, and most
+effectively, by the suppliers responsible for scope 1 emissions, however far
+back in the tiers of the supply chain. Forcing decisions to abate emissions
+up the supply chain allows those supplier businesses to transition across
+to renewable energy and to make their own business case decisions for
+eliminating or offsetting emissions. Using these market dynamics should
+see emissions abated at the lowest overall cost.
+
+•b
+ ecome a carbon neutral organisation and encourage your suppliers
+how to become carbon neutral suppliers.
+
+Carbon emissions become embedded in supply chains as the many
+organisations involved in the delivery of products and services rely
+on activities that create their own scope 1 and scope 2 emissions. An
+important point, scope 3 emissions are another organisation’s scope 1 and
+scope 2 emissions.
+
+In the meantime, all consumers can use their purchasing choice to
+preference low emission, carbon neutral or zero emission products and
+services thereby helping to drive the net zero market transformation.
+
+Tier 2 supplier
+Tier 1 supplier
+
+Purchaser
+
+Scope 2
+
+•	product disclosures, such as Environmental Product Disclosures (EPDs)
+showing carbon intensity of products
+
+Scope 3
+
+Scope 3
+
+Scope 3
+
+Scope 1
+
+Scope 2
+
+Scope 1
+
+Scope 2
+
+Scope 1
+
+Information provided by suppliers should include:
+
+•
+
+Tier 3 supplier
+
+•	Climate Active, carbon neutral certification with the Public Disclosure
+Statement including:
+
+Scope 3
+
+Tier 2 supplier
+Tier 1 supplier
+Scope 1
+
+Scope 2
+
+Carbon neutral certified
+
+Figure 3 Emissions in the supply chain accumulate from all tiers of suppliers. The least cost
+transition to net zero requires each supplier to mitigate their own scope 1, 2 and 3 emissions
+as shown by the carbon neutral tier 1 supplier
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+net zero target/status
+
+14
+
+-
+
+Products/services covered
+
+-
+
+Proportion of renewable energy used
+
+-
+
+Proportion of offsets purchased
+
+-
+
+Type of offsets purchased
+
+Giving Suppliers choice in the way they approach net zero allows them
+to optimise energy efficiency + renewable energy + offsets as well as
+influence their own supply chain pushing net zero deeper into the tiers of
+the supply chain.
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+15
+
+Developing an
+offset strategy
+
+In summary: creating an Offset Strategy helps stakeholders understand
+the steps being applied to ensure the environmental integrity of offsets
+and should include:
+• the preference for the type and source of offset (reduction or removal)
+• t he criteria set by the organisation to ensure the environmental
+integrity of offsets (using the list in Appendix A as a guide)
+•a
+ ny portfolio approach that may include a variety of types of offsets
+that from different sources and locations providing overall higher
+reliability of carbon mitigation
+•a
+ ny approach to investment in emerging technology offsets to assist in
+establishing a market
+•a
+ description of the approach to building a risk pool of offsets that
+can be accumulated and applied if some offsets are compromised
+(Noting that some offset methodologies already include the use of a
+contingency amount), and
+•e
+ xpert opinion and guidance: suitably qualified offsets consultants
+will hold an Australian Financial Services Licence (AFSL) and will have
+committed to the Australian Carbon Industry Code of Conduct.3
+
+2
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+Documenting and disclosing the offset strategy allows organisations to be
+strategic in the procurement of offsets, diminishing the risk of purchasing
+offsets with low integrity and enabling stakeholders to understand the
+preference for particular offsets and the actions planned should any not
+deliver the expected carbon removal.
+Offset selection criteria can include the type of offsets preferred and the
+risk strategies that will be applied to boost the integrity of offset claims.
+For example, creating a portfolio of offsets, spread across different forms of
+removal and across different geographic areas, different suppliers mitigates
+risks of bushfire, reforestation failure, or organisational failure.
+Similarly, creating a pool of reserve offsets is one way to ensure that there
+are offsets available to top up if some offsets are demonstrated to under
+deliver emission drawdown.
+There are a wide variety of carbon offsets created through two primary
+mechanisms: reducing carbon emissions or through carbon removal from
+the atmosphere.
+
+3
+https://carbonmarketinstitute.org/code/
+the-code/
+4
+
+16
+
+ISO Net Zero Guidelines IWA 42:2022
+
+Emission reduction offsets have been linked to energy efficiency projects,
+avoided chemical emissions and renewable energy projects in the past but
+it is increasingly difficult to demonstrate how these reduction projects meet
+additionality, permanence and avoidance of double counting criteria. As an
+example, renewable electricity generation is now among the most costeffective forms of generation available meaning it is very likely to happen
+anyway in a functional market. (see Additionality)
+The ISO Net Zero Guidelines requires that only removals offsets are used to
+counterbalance residual emissions to achieve net zero.4
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+17
+
+Offset creation
+and certification
+
+Offsets can be created under rules set by compliance bodies, such as the
+Clean Energy Regulator in the case of ACCU’s or independent bodies that
+certify voluntary offsets.
+
+Types of offsets
+
+Voluntary schemes recognised by Climate Active include:
+
+The Oxford Taxonomy of carbon offsets clarifies the distinction between
+offsets that are created through emissions reductions and those
+resulting from carbon removals. Carbon removed, or drawn down from
+the atmosphere, can be stored in biological material, trees and plants, or
+geological materials and structures.
+
+• Gold Standard: Verified Emission Reductions (VERs)
+How is the offset generated?
+
+• Verra: Verified Carbon Units (VCUs)
+• Certified Emissions Reductions (CERs)
+
+Emission
+reduction
+
+These organisations provide rules for the creation of offsets, methodologies
+for measuring, verification, certificate issuance and a registry for tracking
+offset certificates.
+
+Carbon
+removal
+
+Is carbon stored?
+
+Offset users can decide to either accept that the certification body
+provides the level of certainty required of an offset or can make further
+enquiries of their own to ensure they will be able to satisfy stakeholders
+own requirements for fitness for purpose, reliability, and performance in
+carbon abatement.
+
+N
+
+Y
+
+Y
+
+How is carbon stored?
+II
+
+I
+
+Avoided emissions,
+or emission reduction without storage
+
+III
+
+IV
+
+V
+
+Emission reduction
+with short-lived
+storage
+
+Emission reduction
+with long-lived
+storage
+
+Carbon removal with
+short-lived storage
+
+Carbon removal with
+long-lived storage
+
+Forward-looking,
+counterfactual
+baseline:
+
+Clear retrospective
+emission data:
+
+- Avoided damage
+to ecosystems
+
+- CCS on industrial
+facilities
+
+- Afforestation &
+reforestation
+
+- DACCS
+
+- Renewable energy
+
+- N20 abatement
+- Methane
+abatement
+
+- Changes to ag
+practices that
+retain alreadystored carbon
+
+- CCS on fossil-fuel
+power plant
+
+- Soil carbon
+enhancement
+
+- Mineralisation
+
+- Cleaner
+cookstoves
+
+Less permanent
+Higher risk of reversal
+
+- Ecosystem
+restoration
+More permanent
+Lower risk of reversal
+
+Less permanent
+Higher risk of reversal
+
+- BECCS
+- Enhanced
+weathering
+More permanent
+Lower risk of reversal
+
+Figure 4 The Oxford Taxonomy of Carbon Offsets illustrates the various type of carbon
+offsets emphasising the future role for carbon removal achieved through natural systems or
+mechanical/chemical systems
+
+Emission reductions offsets are often seen as being less reliable in relation
+to offset quality criteria but there may be a case to include some reduction
+offsets in a well-designed portfolio of offsets. Savanna burning projects are
+a unique case of nature-based emissions reduction where early season,
+cool fires release less methane and other GHG’s than late season, hot fires
+(Figure 4, category I).
+There are few (if any) geological removal offsets available at the time of
+publication, so the focus of this framework is on nature-based (biological)
+carbon removal (Figure 4, category IV) due to their high quality and
+associated co-benefits to nature.
+
+Correct at the time of writing, check for
+up to date information at https://www.
+climateactive.org.au/
+
+5
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+18
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+19
+
+Nature-based
+offsets
+
+Sources of
+nature-based
+offsets
+
+Nature-based offsets
+and Green Star
+The most recent revision to
+Green Star, which started in
+2020, recognised the use of
+offsets for the first time, in a
+limited manner. Specifically,
+the rating tool introduced
+two credits: ‘Other carbon
+emissions’ and ‘Nature
+Stewardship’. The ‘Other
+carbon emissions’ credit
+supports procuring offsets
+once all other outcomes
+have been exhausted to
+compensate for remaining
+emissions. The ‘Nature
+stewardship’ credit recognises
+investments in offsite
+biodiversity restoration.
+Nature-based offsets achieve
+both goals, providing an
+opportunity to drive change
+ay scale.
+
+Nature-based carbon removal occurs through photosynthesis capturing
+CO2 from the air and storing it in the biosphere, either above ground, as
+vegetation, or below ground - bound into the roots and surrounding soil.
+
+Quality of offsets
+
+Nature-based offsets can provide significant environmental co-benefits
+such as enhanced biodiversity, soil stabilization, and waterway protection
+as well as social benefits through jobs in land management and support of
+indigenous connection with land. Australia has significant opportunities to
+restore and maintain natural environments that store carbon.
+
+The environmental quality of an offset is critical in maintaining credibility
+in an offset program and related net zero or carbon neutral claims. High
+quality offsets will avoid reputational risks associated with “greenwash”
+challenges. The integrity attributes described below draw heavily from the
+10 core carbon principles of the ICVCM.8
+All the traditional offset quality criteria apply to nature-based offsets and it’s
+important to remember that there isn’t always a binary pass/fail assessment
+available, the degree of, for example, additionality, is important and useful
+for comparative purposes.
+Nature-based offsets can be created under Australia’s Carbon Credits
+Act 2011 using determinations and rules governed by the Clean Energy
+Regulator. Australian Carbon Credit Units (ACCUs) are tracked in the
+Australian National Registry of Emissions Units (ANREU).
+
+Carbon emissions can be reduced or carbon can be removed from the
+atmosphere through several nature-based approaches6:
+• reforestation/human induced regeneration: allowing a forest to grow
+on land that has previously been used for agricultural or other purposes
+where natural growth has been suppressed [Figure 4, category IV]
+
+As offset quality is not easily defined and sits on a continuum it is important
+to identify to stakeholders the quality of offsets that are acceptable to
+an organisation and, ideally, to have this as a topic of discussion with
+stakeholders. They will eventually decide if the net zero claims (and offset
+criteria) meet their own ambitions.
+
+• avoided deforestation/avoided clearing: where land clearing is permitted
+but has subsequently been avoided. This method should be considered
+with some caution as it carries associated risk related to overclaiming of
+expected clearing.7 [Figure 4, category II]
+
+Appendix A: Offset Due Diligence Checklist provides an example of how the
+selection of offsets can be communicated to interested stakeholders. Each
+of the criteria in the checklist is briefly explained below.
+
+• native forest from managed regrowth: changing land management
+practices to allow regrowth of native forests [Figure 4, category IV]
+• forestry plantation: recognises the carbon captured in plantation forests
+[Figure 4, category IV]
+• tidal restoration of blue carbon ecosystems: projects that remove or
+modify tidal restriction mechanisms and allow tidal flow to be introduced
+to an area of land that results in soil carbon sequestration and carbon
+sequestered in above and below ground biomass [Figure 4, category IV]
+
+Additionality
+
+Additionality requires that the carbon removal project would not have
+happened without the contribution of the offset. “GHG reductions are
+additional if they would not have occurred in the absence of a market for
+offset credits” 9
+
+• soil carbon: plants absorb CO2 via photosynthesis and transfer some of
+this carbon into the soil. Land management practices can be applied to
+improve how carbon is stored and maintained in soils. [Figure 4, category
+IV], and
+
+Testing for additionality rarely provides an absolute or binary result. There
+are many subjective decisions that determine the degree of additionality.
+Set the evidence bar too high and nothing can be called additional, set it
+too low and everything qualifies as additional.
+
+• savanna fire management: carbon emissions may be avoided by activities
+that reduce GHG emissions from fire in savannas. Management activities
+including annual early season burning to reduce the frequency and
+intensity of late dry season fires [Figure 4, category I].
+
+A common criterion is financial additionality, i.e. the carbon reduction/
+removal would not have occurred without the financial incentive of the
+offset trade, but even this criterion is difficult, if not impossible to prove.
+ACCU’s, as an example, must meet the following additionality criteria:
+
+Note: While these methods are all nature-based they do not necessarily
+provide the same levels of offset quality especially in relation to additionality
+and permanence. Further due diligence is required to establish the integrity
+of the carbon reduction or removal.
+
+“Emission reductions or removal must:
+• be new projects
+• not be required to meet government regulations, or
+• not be part of another government program.”
+
+6
+Descriptions are largely from the Clean
+Energy Regulator
+
+https://icvcm.org/the-core-carbonprinciples/
+
+8
+
+https://australiainstitute.org.au/post/
+serious-integrity-concerns-aroundaustralias-junk-carbon-credits/
+7
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+9
+https://www.offsetguide.org/high-qualityoffsets/additionality/
+
+20
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+21
+
+Permanence
+
+To be effective as an offset, carbon removals need to last for a period
+similar to the period carbon emission influence the environment. The range
+of greenhouse gases (CO2, CH4 etc) experience differing decay periods in
+the atmosphere with CO2 having an impact for 300 to beyond 1,000 years.10
+
+Avoiding leakage
+
+In effect, a nature-based offset is a service of nature facilitated by a project
+manager. The services of nature are in two parts, the capture of carbon and
+the storage of carbon for the medium to long term. Nature-based offsets
+may be considered as only short to medium term carbon removal because
+of the uncertainties inherent in the natural environment and related to
+socio/economic actions. Even a 100-year time frame creates unique
+challenges for contracting, measurement and monitoring.
+
+Carbon leakage can occur with any carbon reduction or removal project.
+Leakage refers to increases or reductions in removals that occur outside the
+project boundary as a consequence of the project activity.11 Direct leakage
+occurs when an emissions activity is moved to another location, outside
+the project boundary, while indirect leakage occurs when the benefits of an
+emissions removal project are negated by emissions increases outside the
+project boundary.
+For example, fossil fuels used in tractors and other management vehicle
+trips required to support a forestry regeneration project create indirect
+leakage emissions that dilute the impact of the offset project. Another form
+of leakage occurs when an area of land previously used for agriculture is
+allowed to regenerate forest while another area is cleared for agricultural to
+continue.
+
+Some offsets are credited based on a 25-year lifetime of carbon storage.
+The environmental merit of these offsets is difficult to determine. As such,
+any strategy should consider strongly why these are being procured when
+compared against longer term lifetimes. A 25-year lifetime offset is unlikely
+to meet permanence criteria and may need to be replaced, with more
+offsets, at the end of the 25-year period.
+
+Steps to avoiding impacts of leakage:
+• analyse each offset project to determine where leakage could occur and
+document the findings in the offset due diligence checklist (Appendix A)
+- query if emissions created in the conduct of the project have been
+netted out
+
+Contracting for services that occur over 100+ years presents unique
+challenges but also the opportunity to adapt to time scales relevant to
+nature’s capacity to balance ecological systems (see Nature-based Balance
+Sheet below).
+
+- query if there’s a risk that emissions have been transferred to another
+location
+•	purchase a portfolio of offsets, reducing the impact of leakage in any
+one project, and
+
+Strategies to reduce risks of impermanence include taking a portfolio
+approach, diversifying the locations and types of nature-based offsets
+along with purchasing a safety buffer of emissions.
+
+•	purchase and retire a contingency quantity of offsets (eg, an additional
+20%).
+
+https://climate.nasa.gov/news/2915/theatmosphere-getting-a-handle-on-carbondioxide/#:~:text=Carbon%20dioxide%20
+is%20a%20different,between%20300%20
+to%201%2C000%20years.
+
+10
+
+11
+Emissions Reduction Assurance Committee
+Information Paper March 2021
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+22
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+23
+
+Measurable
+
+Methods for measuring carbon removal must be accurate and not generate
+overestimates of carbon removal. Overcrediting can easily occur when
+calculating the scale of offsets. Most projects must compare actual
+emissions (or removals) to a counterfactual case, quantifying what would
+have occurred under business as usual. Overcrediting occurs when the
+counterfactual estimate allows for more generous attribution of carbon
+reductions.
+
+Avoiding double
+counting
+
+Some offsets are more susceptible to double counting than others.
+Internationally traded offsets are open to double counting until Paris
+Agreement compliant systems are agreed that adjust host countries
+emissions reduction baselines to compensate for the transaction. This
+is particularly the case where offsets are used as part of compliance
+schemes. (e.g. Australia’s Safeguard Mechanism)
+In the voluntary market, an emission reduction created in one country
+and transferred to an organisation in another country may not be double
+counted if it is reflected in the originating nations emissions but not in
+the national inventory of the organisation’s country.13 As an example,
+the Australian Government doesn’t have a mechanism to record use of
+voluntary offsets by Australian businesses for them to be included in
+Australia’s national inventory.
+
+Measurement is most accurate when it relies on field measurements
+post the carbon removal although some projects are “forward crediting”
+allowing investment to occur at project origination. There needs to be a
+balance struck between additionality, measurement, and any certification
+requirements that the creator of a nature-based offset is required to comply
+with. Forward crediting offsets may best demonstrate additionality but with
+a lower confidence in measurement of future carbon stored.
+
+Country A
+
+Measurement needs to consider leakage (as described earlier) and needs
+to be repeated through the lifetime of a carbon removal project.
+ACCUs can only be created using measurement methods approved by the
+Clean Energy Regulator with the regulations requiring that sequestration
+projects (including carbon removal) have a risk of reversal buffer of 5%
+when the project is subject to a 100-year permanence period. The buffer is
+designed to allow for carbon losses related to bushfire (that haven’t been
+reversed within the permanence period) or other loss of carbon.12
+
+Uniquely identified
+
+Organisation A
+
+Offset
+
+The ability to make a unique claim or have an exclusive right to an offset is
+critical to offset credibility and avoids the potential for double counting. A
+certificate and registry system where offsets can be retired for a specific
+purpose provides a high degree of transparency and allows for a visible
+market of tradeable offsets.
+
+Global inventory
+
+Country B
+
+An alternative to the registry model are contracts over specific carbon
+capture projects where offset purchases include an obligation that offsets
+are sold to only one customer/project.
+
+Organisation B
+
+Figure 5 Offsets traded between countries may avoid double counting if they are not included
+in both national inventories
+
+Even domestic emissions reduction offsets created as part of an energy
+efficiency project could be double counted unless the host organisation
+makes an adjustment to their own carbon account.
+Double counting can occur at both ends of an offset transaction unless
+controls are implemented. An offset generation project can sell a carbon
+removal to more than one customer, while an offset customer can apply an
+offset against multiple projects. Ensuring the certificate registry contains
+sufficient detail to identify the precise purpose of an offset when retired
+helps to remove opportunities for double claiming.
+
+12
+http://www.cleanenergyregulator.gov.au/
+ERF/Choosing-a-project-type/Opportunitiesfor-the-land-sector/Risk-of-reversal-buffer
+
+14
+
+13
+Briefing report on the article 6 rules agreed
+at COP 26 – Gilbert and Tobin
+
+A best practice guide for carbon project
+developers - February 2020
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+Seeking free, prior and informed consent
+from Indigenous communities for carbon
+projects
+
+24
+
+Local, nature-based, offsets are less susceptible to double counting. The
+strongest controls are to have offsets registered on a publicly accessible
+registry that uniquely identifies each offset, where and when it was
+generated, the current owner and the specific project it has been retired
+against. The more specific the information in the registry the lower the
+chance of double counting.
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+25
+
+Avoiding social
+or environmental
+harms
+
+For a project to produce high quality offsets it should not create other
+harms, social or environmental. Compliance with laws is a baseline measure
+and not an indicator of offset quality.
+
+Environmental and
+social co-benefits
+
+Investing in nature-based carbon offsets can result in a range of associated
+benefits such as providing habitat supporting biodiversity, providing
+indigenous employment, maintaining connection with land and even helping
+to protect soil and waterways.
+
+The vintage of an offset, the year that it was created, can be an indicator
+of offset quality. Older offsets in the market may fail contemporary quality
+criteria and may have been certified under older schemes or scheme rules.
+Climate Active requires offsets to have a vintage date after 201215 and
+Green Star requires offsets to have a vintage date after 2016. Programs
+such as SBTi could introduce more stringent vintage requirements therefore
+it is important to keep up to date with the program rules before committing
+to an offset purchase.
+
+In Australia, and in relation to nature-based offsets, it is an important
+condition of offset project development that free, prior and informed
+consent from Indigenous communities has been obtained.
+
+If these co-benefits are going to be included in the disclosures of an
+organisation, they should be described in the net zero strategy with targets
+and the system of monitoring detailed as shown in the Natural Capital
+Balance Sheet in Appendix B.
+Offset co-benefits can be linked to the UN Sustainable Development Goals.
+
+Monitoring plan
+
+Vintage
+
+Caution is required where offsets may be purchased and retired upfront
+as part of a commitment for carbon neutrality of a development project.
+These offsets may be years old once the construction phase of the project
+is complete and the final embodied carbon account can be completed and
+offsets applied for carbon neutral certification.
+
+Offset portfolio
+
+As described elsewhere, nature-based offsets are a long-term commitment
+relying on nature to provide a specific service. A system of audits over
+the permanence period is required to ensure that the carbon is stored
+and maintained as expected. These obligations can be contracted to a
+supplier and maximum confidence is achieved when periodic reports, using
+a recognised method of measurement and audit, are provided back to the
+offset user.
+
+Creating a portfolio of offsets provides several valuable functions, including
+diversifying the risks of particular projects achieving/maintaining the
+expected carbon abatement. For instance, a portfolio comprising naturebased reforestation projects, geographically spread, and a small proportion
+of direct air capture offsets can achieve a target “average” price while
+supporting an emerging technology.
+Another consideration for the portfolio is whether a reserve pool of offsets
+is intended to accumulate to replace any offsets that are found to have
+failed. The pool could accumulate over time to a predefined % of total
+offsets retired.
+
+Monitoring and reporting can also be applied to the expected co-benefits.
+
+Offset market
+development
+
+Leaders in net zero have an opportunity to assist in the development of
+markets for offset products. Markets that enjoy the benefits of diversity in
+offset project development and techniques can be more effective and more
+efficient in abating emissions. Allocating a percentage of offset spend to
+novel and emerging offset types can assist in developing new opportunities.
+
+12
+http://www.cleanenergyregulator.gov.au/
+ERF/Choosing-a-project-type/Opportunitiesfor-the-land-sector/Risk-of-reversal-buffer
+
+Climate Active: Technical Guidance
+Manual, p58
+
+15
+
+Briefing report on the article 6 rules agreed
+at COP 26 – Gilbert and Tobin
+13
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+26
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+27
+
+Offset rating
+systems
+
+There are emerging rating schemes for offsets that offer an assessment
+of offset quality against defined criteria. BeZero carbon ratings compare
+projects using six critical risk factors affecting the quality offsets:
+additionality, over-crediting, non-permanence, leakage, perverse incentives,
+and policy and political environment.
+The CDR Database (carbon dioxide removal) provides assessments of
+offset projects using the measures of mechanism, volume, negativity,
+permanence, additionality and specificity. A sample extract from the CDR
+Database is shown. Although maintenance of this database has been
+discontinued it serves as a useful reference for rating criteria.
+
+Documenting the
+offset strategy
+
+To mitigate claims of greenwashing it’s important to demonstrate that
+offsets are genuinely the emissions mitigation method of last resort and
+that plans are in place to eliminate residual emissions in a reasonable time.
+Thereafter, it’s all about defining and communicating the quality criteria and
+how risks of quality failure are approached. Appendix A provides a sample
+due diligence checklist that can be used to evaluate and communicate the
+attributes of offsets.
+In addition to the quality of specific offsets, organisations can apply other
+risk management measures that increase the probability of a portfolio
+delivering the desired outcomes.
+Additionality and permanence risk mitigation strategies include:
+•	purchasing a portfolio of offsets from different removal mechanisms and
+sources reducing the risk that all offsets fail to maintain quality
+•	establishing a process of always buying and retiring a fixed % more
+offsets than emissions helps to reduce the risk of underperforming
+offsets (example: for every tonne of offset required, purchase 1.25 tonnes
+of offsets)
+•	creating an insurance pool of offsets to apply in case of
+underperformance, and
+•	make good commitment: where an offset is shown to underperform in any
+of the quality criteria commit to replacing the offset with another that is
+more effective.
+Use the Offset Due Diligence Checklist in Appendix A to document the
+attributes and reasons for selecting preferred offsets.
+
+16
+
+https://bezerocarbon.com/ratings/
+
+https://carbonplan.org/research/cdrdatabase
+17
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+28
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+29
+
+Accounting
+for offsets
+
+Carbon accounting is most often conducted on an annual basis, allowing an
+inventory to be aggregated and year on year change to be demonstrated
+in both compliance (NGERS) and voluntary reports. The annual accounting
+process leads to offsets being treated as an annual transaction cancelled
+out against an emission to achieve the net zero status.
+The description of nature-based offsets in this paper demonstrates that
+nature is providing a service for 100+ years and like any other service
+provider good management practice demands that there is a process to
+check that the contracted services are being provided. Stored carbon
+and any co-benefits are ongoing Natural Capital Assets whether they are
+“owned” or “leased”, as is the typical case of an offset. It makes sense
+to manage them like any other asset of the business that has enduring
+features.
+
+Measuring and
+valuing associated
+benefits
+
+• soil and sediment retention
+• water purification
+• coastal protection.
+These co-benefits to the carbon offset generally enhance biodiversity and
+are restorative to the environment and can be measured and managed over
+time to ensure planned outcomes are achieved.
+
+Case Study – Accounting for Nature®
+Accounting for Nature (AfN) is an Australian not-for-profit organisation
+who implement the Accounting for Nature® Framework. Accounting for
+Nature® is a global outcomes-based environmental condition accounting
+framework for measuring, monitoring, certifying and reporting the condition
+of environmental over time. Environmental Assets include the following
+categories:
+
+The Natural Capital Balance Sheet can act as a cumulative register of
+offsets that an organisation has applied in net zero accounts with the
+register maintained over time with up-to-date management reports from
+offset project administrators. This process gives greater confidence of the
+permanence of offsets.
+An example of a Natural Capital Balance Sheet is shown in Appendix B.
+
+Organisations that intend or could build up a bank of offsets should work
+with their finance team to understand the implications of holding an asset
+of this type that has a commercial value until it has been retired against a
+specific project. Buying offsets upfront results in the organisation holding a
+tradeable asset.
+
+NATIVE VEGETATION
+
+30
+
+SOIL
+
+NATIVE FAUNA
+
+FRESH WATER
+
+MARINE
+
+The Framework relies on summarising complex scientific information
+(i.e.multiple indicators of condition) into a single metric – the Econd®
+to describe the condition of each asset as a score from 0-100 (100
+being reference/undegraded condition), so that condition can be easily
+understood by anyone and more easily be incorporated into decision
+making. An Environmental Condition Account is generated in accordance
+with a fit-for-purpose and scientifically rigorous AfN Accredited Method.
+
+18
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+• nursery population and habitat maintenance
+
+• waterflow regulation, and
+
+The commercial property sector is familiar with managing long lasting
+assets on balance sheet and this process is instructive and can be applied
+to long-term management of nature-based offsets.
+
+Financial
+accounting for
+offsets
+
+Projects that include reforestation and restoration of natural environments
+are also a means of providing other nature-based services including:
+
+https://www.accountingfornature.org/
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+31
+
+Measuring and
+valuing associated
+benefits cont.
+
+Environmental Condition Accounts can be used for many different reasons
+including, but not limited to: supporting green claims (such as “nature
+positive”), identify nature-risk, and underpin nature-related disclosures and
+reporting (e.g. under the TNFD, or ESG reporting), underpin environmental
+markets e.g. nature-based solutions for climate change through measuring
+environmental co-benefits associated with carbon offset projects.
+
+Procuring
+offsets
+
+Membership of the Carbon Market Institute is a good sign that they are well
+acquainted with the Australian offset market.20
+
+In particular, landholders developing nature-based offsets would monitor
+the performance of the project over time using an AfN Accredited Method
+and achieve certification of the outcomes.
+ASSET CLASS
+
+ECOND®
+2020
+
+ECOND® TREND
+2010-2020
+
+CONFIDENCE
+LEVEL®
+
+STATUS
+
+Procurement of offsets will often be through a market intermediary that
+specialises in offset transactions. Ensure that they are AFSL licensed,
+can demonstrate a track record in the type of transaction you need and
+understand your requirements for the type and integrity of offsets.
+
+Banking and
+retiring
+
+76
+SOIL
+
+52
+
+The Natural Capital Balance Sheet approach to accumulating a record of
+investment in offsets allows for full traceability of offsets and the emissions
+they are compensating for.
+The Balance Sheet is like an asset register and should be managed in a
+similar way with a process for ongoing evaluation of nature-based offsets
+to ensure the expected carbon removal is achieved and maintained over
+time. Maintenance processes could be documented in an organisations
+Environmental Management System for ongoing management and
+continuous improvement.
+Some organisations may elect to purchase bundles of offsets that can
+be identified in the register while not being retired or allocated against a
+project, creating an offset “bank”. The Balance Sheet allows transparency
+to this process.
+
+FRESH WATER
+
+Similarly, any allocation of offsets to create a safety buffer or contingency
+pool can be clearly identified. Vintage of certificates remains important
+from a relevance perspective. Older certificates may have been generated
+using different rules and potentially with less rigor than offsets with a more
+recent creation date.
+
+24
+NATIVE
+VEGETATION
+
+https://carbonmarketinstitute.org/
+membership/
+
+20
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+32
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+33
+
+Conducting offset
+due diligence
+
+In summary:
+• use the Due Diligence Checklist in Appendix A to document how
+offsets meet the quality criteria.
+Having developed a set of criteria defining the organisation’s expectations
+of an acceptable offset it is important to demonstrate how particular
+offsets, applied as part of a net zero inventory, have met them.
+The Due Diligence Checklist in Appendix A is an example of a simple form
+that could be used to demonstrate the primary and critical features of a
+sequestration project. This information could also be included in a net zero
+or carbon neutral “Public Disclosure Statement” as used in the Climate
+Active program.
+The Checklist is also a useful communication tool when procuring offsets
+focusing the attention market intermediaries to source only offsets that
+meet the criteria.
+
+3
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+34
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+35
+
+Maintaining
+offset quality
+
+In summary:
+• nature-based offsets are a long-term commitment to the stewardship
+of nature-based services. The Natural Capital Balance Sheet in
+Appendix B is one way to document the cumulative investment in
+nature-based offsets and to track their performance over time.
+Nature-based offsets can provide a unique service in relation to the
+capture and storage of carbon for the long term. To ensure the reliability
+of the carbon sequestration over 100+ years presents a challenge, not
+only of recalling the offsets that were applied in previous years, but also
+understanding where information is available to satisfy anyone of the
+ongoing integrity of the carbon stored.
+To provide the highest certainty that offsets are maintained, organisations
+may choose to monitor the performance of sequestration projects through
+time but could also contract out this responsibility, potentially to the
+sequestration project manager, or preferably through the offset certifiers
+and the registry system.
+
+4
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+Ideally, the offset registry will provide ongoing access to audit reports that
+detail the success, or otherwise, of projects. The offset would still need to
+be in an organisation’s register so that routine testing of the offset integrity
+can be completed.
+The Natural Capital Balance Sheet in Appendix B is proposed as an example
+of a register where offsets can accumulate over time. It not only provides
+a simple reference to offsets used historically it also demonstrates the
+accumulated investment in nature contributing to nature positive outcomes.
+Where an offset is found to not have delivered the carbon sequestration
+expected remediation steps might be required. For environmental integrity
+a failed offset must be remediated or “made good”. The sequestration
+project manager may offer to replace it from their risk pool, or an
+organisation could choose to apply offsets from a risk pool they hold.
+
+36
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+37
+
+Future of
+offsets
+
+As the target date for many net zero commitments approaches, the global
+demand for quality offsets can be expected to increase while supply
+remains limited.
+While it isn’t the role of this framework to provide advice on the future
+cost of offsets, the supply demand imbalance and the cost of creating
+highest quality offsets are likely to lead to an increase in prices. Naturebased offsets, with their accompanying co-benefits and low input costs are
+constrained by land availability and competition with agriculture for land
+area. Climate change may also challenge how carbon can be stored using
+nature-based systems.
+Negative emission technologies (NETs) that capture and store CO2 are
+predicted to play a large role in future mitigation of global warming. They
+include Direct Air Carbon Capture and Storage (DACCS) and Bioenergy with
+Carbon Capture and Storage (BECCS). Each with significant input costs,
+such as energy in the case of DACCS.
+EY provide this estimate of future offset prices:
+Increasing demand, expectations of quality, and unit supply cost will
+make carbon credits scarce and expensive
+
+5
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+Carbon credit price outlook, 2020-2050
+US$ per t-CO2e; 2020 dollars
+300
+
+Natire-enabled
+Net Zero
+
+250
+200
+
+Tech-enabled
+Net Zero
+
+150
+
+Below 2°c
+US$
+150-200
+
+100
+
+Announced Plans
+(well above 2°c)
+
+US$
+80-150
+
+50
+0
+
+Central price
+estimate
+
+2020
+
+2035
+
+2050
+
+Commercial property companies will increasingly find it most cost effective
+to eliminate operational emissions avoiding the need for offsets.
+
+21
+https://assets.ey.com/content/dam/eysites/ey-com/en_au/topics/sustainability/
+ey-net-zero-centre-carbon-offsetpublication-20220530.pdf
+
+38
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+39
+
+Appendix
+
+Appendix A:
+Offset due diligence checklist
+
+Carbon offset - quality evaluation
+Offset type:
+
+Emissions removal through
+environmental plantings
+
+e.g. Emissions reduction
+Emissions removal
+
+Permanence:
+
+ACCU
+
+e.g. Gold Standard
+Verra
+ACCU
+Other
+
+QUALITY
+CRITERIA
+
+EVALUATION
+NOTES
+
+SCORE (0 - 10, WHERE 10
+= FULLY MEETS CRITERIA)
+
+GUIDANCE
+
+Additionality:
+
+Meets primary ACCU requirements,
+ex grazing lands recovered with
+environmental plantings since 2010
+
+10
+
+New project, not required by
+regulation, not part of a government
+program
+
+Permanence:
+
+100 year + permanence through on-title
+protection
+
+7
+
+25 years
+<=100 years
+> 100 years
+Mineralised into stable geological
+formations
+
+Leakage:
+
+Leakage is mitigated where the
+displaced form of grazing is no longer
+conducted in the region
+
+6
+
+Describe potential for leakage
+pathways and how avoided
+
+Measurable:
+
+Measured as per ACCU methods
+
+9
+
+Is carbon storage measured or
+planned ?
+
+Unique
+identified:
+
+Certificate numbers provided on
+purchase with allocation to project
+noted in registry
+
+10
+
+Link to registry, type of certificate, or
+form of contract
+
+Double
+counting:
+
+The creator of offsets provides a
+declaration that the emission removal is
+not accounted for by any other entity
+
+10
+
+Traceability from generation to
+retirement against specific emissions
+
+Social or
+environmental
+harm
+
+The project is supported by the Regional
+indigenous Land Council and Regional
+LGA
+
+10
+
+The project has been reviewed for
+other social or environmental harm
+
+Environmental
+benefits:
+
+Environmental plantings provide habitat
+for endangered parrots. Accounting
+for Nature (AfN) methods are used
+to measure habitat quality at 5 yearly
+intervals
+Watercourse protection is provided
+throughout the planting areas with
+improved water quality and mitigation of
+erosion. Measured using AfN methods
+
+10
+
+Goals for environmental benefits and
+how they'll be measured
+
+Social
+benefits:
+
+The project provides traineeships
+for indigenous students to study the
+ecology and biodiversity welfare.
+Reported to offset users each 2 years.
+
+8
+
+Goals for social benefits and how
+they'll be measured
+
+8
+
+How will stored carbon be monitored ?
+What frequency of reporting ?
+
+Monitoring plan: ACCU methods
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+40
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+41
+
+Appendix B:
+Example natural capital balance sheet
+
+Carbon offset - quality evaluation cont.
+QUALITY
+CRITERIA
+
+EVALUATION
+NOTES
+
+Market
+development:
+
+Vintage:
+
+Offset
+portfolio/
+Buffer reserve
+
+SCORE (0 - 10, WHERE 10
+= FULLY MEETS CRITERIA)
+
+GUIDANCE
+
+8
+
+How these offsets contribute to
+creating investment in natural capital
+and general development of the offset
+market
+
+Original environmental plantings
+occurred in 2010, measurement and
+certificate creation has occurred in
+2015, 2020. Only 2020 certificates are
+used in this case
+
+10
+
+ACCU risk reversal buffer of 5% is
+applied. Proposed to purchase a
+further 5% buffer in an accumulating
+account
+
+7
+
+Offset evaluation score
+
+8.69
+
+YEAR OF
+PURCHASE
+
+SOURCE OF
+SERVICES
+
+REGISTRY
+
+CERTIFICATE
+NUMBERS
+
+DUE DILIGENCE
+CHECKLIST
+
+2018
+
+ACME Offsets
+
+CER
+
+xxx-yyy
+
+(link)
+
+2019
+
+ZEUS Offsets
+
+CER
+
+xxx-yyy
+
+(link)
+
+Forestry Offfsets
+
+ACCU
+
+xxx-yyy
+
+(link)
+
+Is the date of offset creation within
+x years of the planned retirement
+date, does the vintage year meet the
+requirements of programs such as
+Climate Active, Green Star, SBTi
+Is the offset intended to be part of
+a portfolio, if yes, how are the other
+offsets differentiated ? Is there an
+intention to hold a reserve buffer pool
+of offsets that can be applied should
+some fail to deliver expected carbon
+abatement ?
+
+Total Natural Capital
+
+NATURE BASED SERVICES*
+
+Total averaged score
+
+GLOBAL
+CLIMATE
+REGULATION
+
+NURSERY
+POPULATION
+AND HABIAT
+MAINTENANCE
+
+SOIL AND
+SEDIMENT
+RETENTION
+
+WATER
+PURIFICATION
+SERVICES
+
+WATERFLOW
+REGULATION
+
+COASTAL
+PROTECTION
+
+tones CO2e
+
+units
+
+units
+
+units
+
+units
+
+units
+
+3,600
+3,200
+
+1,800
+
+2,100
+
+3,600
+
+10,400
+
+1,800
+
+-
+
+2,100
+
+-
+
+-
+
+SUSTAINABLE
+DEVELOPMENT
+GOAL LINK
+
+ECOSYSTEM
+ACCOUNTING
+AREA
+
+OFFSET
+RETIREMENT
+RETIREMENT
+
+RETIREMENT
+YEAR
+
+LATEST
+CONDITION
+REPORT
+
+CONFIDENCE
+
+SDG#
+
+heactares
+1,000
+
+Head office travel
+
+2017
+
+2018
+
+High
+
+890
+
+120 Dampier St, Gas
+
+2020
+
+2021
+
+High
+
+900
+
+2,790
+
+Services are as described in: United Nations et al. (2021). System of Environmental-Economic
+Accounting - Ecosystem Accounting (SEEA EA). White cover publication, pre-edited text subject
+to official editing. Available at: https://seea.un.org/ecosystem-accounting.
+
+*
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+42
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+43
+
+Appendix C:
+Scope 3 relevance and offsetting
+
+The scope 3 relevance table following provides a generalised ranking of relevance criteria, each organisation is
+encouraged to conduct their own, tailored, review and to publish the resulting table for comprehensive transparency.
+RELEVANCE CRITERIA FROM GHG PROTOCOL (SCORED 0 TO 5, WHERE 5 IS HIGH INTEREST)
+CATEGORY
+1. Purchased
+goods and
+services
+
+SIZE
+
+INFLUENCE RISK
+
+STAKEHOLDERS OUTSOURCING SECTOR
+GUIDANCE
+
+OTHER
+
+TOTAL
+
+APPROACH
+
+VOLUNTARY USE OF OFFSETS
+
+5
+
+5
+
+2
+
+5
+
+0
+
+5
+
+0
+
+22
+
+Most relevant to developments, goods and services incorporated into new build. Through
+procurement, express a preference for low carbon/carbon neutral goods and services.
+Segment expenditure and identify low carbon options
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+5
+
+5
+
+2
+
+5
+
+0
+
+5
+
+0
+
+22
+
+Most relevant to operational assets purchasing buildings or assets for
+buildings. Through procurement, express a preference for low carbon/carbon
+neutral capital equipment. Nominate projects that will track embodied carbon
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+1
+
+5
+
+0
+
+0
+
+0
+
+4
+
+0
+
+10
+
+Most relevant to operational assets. Transmission and distribution losses,
+linked with energy source information, reduce through efficiency and transition to
+renewable energy
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+4. Upstream
+transportation
+and distribution
+
+1
+
+3
+
+0
+
+0
+
+0
+
+4
+
+0
+
+8
+
+Most relevant to developments, transition to electric transport. Typically, low
+relevance to operational assets
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+5. Waste
+generated in
+operations
+
+3
+
+5
+
+2
+
+5
+
+0
+
+5
+
+0
+
+20
+
+Most relevant to operational assets. Waste management practices reduce
+organics to landfill and increases recycling resulting in lower emissions from
+tenant generated waste
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+1
+
+5
+
+0
+
+1
+
+0
+
+1
+
+0
+
+8
+
+Most relevant to organisational carbon accounts, reduced through avoided
+business travel and choice of travel mode. Low relevance to operational assets
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+7. Employee
+commuting
+
+1
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+May be included in organisational carbon accounts, limited to employee travel
+for carbon neutral certification. Low relevance to operational assets.
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+8. Upstream
+leased assets
+
+1
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+6
+
+May be included in organisational carbon accounts for carbon neutral certification. Low
+relevance to operational assets.
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions
+
+9. Downstream
+transportation
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Generally not applicable
+
+NA
+
+10. Processing of
+sold product
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Generally not applicable
+
+NA
+
+4
+
+4
+
+2
+
+4
+
+0
+
+0
+
+0
+
+14
+
+Most relevant to developments, encourages energy efficiency and renewable
+energy systems be installed early.
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions and where future emissions can be
+reasonably estimated
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Most relevant to developments. Embodied carbon in demolition materials is
+retained through high grade recycling. Demolition equipment moves to electric
+and renewable electricity
+
+Yes, to compensate for residual emissions while transforming to
+eliminate emissions if end of life emissions can be reasonably
+estimated
+
+Most relevant to operational assets. Emissions associated with tenant use of
+leased space. Collaboration for energy efficiency and access to renewable
+energy
+
+Yes, to compensate for residual emissions. Renewable energy
+certificates (LGCs) are preferred for mitigation of electricity
+related emissions as a sustainable solution. For either offset or
+REC approach there should be a price signal reflected back to the
+consumer to inform behaviours and management of energy
+
+Generally not applicable
+
+NA
+
+Where investment is made in operational property the preference is to have an
+efficient asset powered by renewable energy.
+
+Yes, to compensate for residual emissions where the scope 1 &
+2 emissions from these assets have not been mitigated
+
+2. Capital goods
+
+3. Fuel and
+energy related
+
+6. Business travel
+
+11. Use of sold
+products
+12. End of life
+
+13. Downstream
+leased assets
+
+14. Franchises
+
+15. Investments
+
+5
+
+2
+
+0
+
+4
+
+0
+
+5
+
+0
+
+16
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+3
+
+0
+
+4
+
+0
+
+5
+
+0
+
+17
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+44
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+45
+
+The GHG Protocol provides guidance on the relevance criteria to be considered when creating a carbon inventory
+including scope 3 emissions. These definitions support the development of inventories that meet the Protocol
+principles of relevance, completeness, transparency, and accuracy.
+Defining the relevance criteria:23
+
+Size
+
+They contribute to the company’s total anticipated scope 3 emissions
+
+Influence
+
+There are potential emissions reductions that could be undertaken or influenced by the company
+
+Risk
+
+They contribute to the company’s risk exposure (e.g., climate change related risks such as financial, regulatory, supply
+chain, product and customer, litigation, and reputational risks)
+
+Stakeholders
+
+They are deemed critical by stakeholders (e.g., customers, suppliers, investors, or civil society
+
+Outsourcing
+
+They are outsourced activities previously performed in-house or activities outsourced by the reporting company that are
+typically performed in-house by other companies in the reporting company’s sector
+
+Sector guidance
+
+They have been identified as significant by sector-specific guidance
+
+Other
+
+The meet any additional criteria for determining relevance developed by the company or industry sector
+
+23
+Corporate Value Chain (Scope 3) Accounting
+and Reporting Standard – GHG Protocol
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+46
+
+Carbon offsets, Last but not later: A framework for the environmental integrity of offsets in the property sector.
+
+47
+
+Level 1, 11 Barrack Street
+Sydney NSW 2000
+
+T: (02) 9033 1900
+E: info@propertycouncil.com.au
+W: propertycouncil.com.au
+
+

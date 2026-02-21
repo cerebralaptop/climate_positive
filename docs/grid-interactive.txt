@@ -1,0 +1,5643 @@
+Discussion
+Paper
+June
+2023
+
+From net zero to zero
+
+A discussion paper on grid-interactive
+efficient buildings
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+01
+
+contents
+
+01
+05
+06
+
+From Buildings Alive:
+Craig Roussac,
+Co-founder and CEO
+Hao Huang, Head of
+Research & Development
+
+About this paper
+The evolution of power generation
+09
+10
+11
+
+Brad Schultz, Head of
+Customer Engagement
+From the Green Building
+Council of Australia
+
+13
+15
+
+Jorge Chapa,
+Chief Impact Officer
+Taryn Cornell,
+Senior Manager Strategy
+& Development
+Andrew Fischer, Head of
+Policy and Research
+
+24
+
+Katy Dean, Policy Adviser
+With thanks to:
+Stephen White, Energy
+Efficiency Leader, CSIRO
+
+Funding provided by
+NSW Government
+
+The mission of the Office of
+Energy and Climate Change
+is to accelerate NSW’s
+transformation to a sustainable
+future. It delivers key strategies
+and programs that focus on
+addressing some of the most
+significant issues facing our
+state including energy reliability,
+climate change and emissions
+reduction. Its work is integral to
+the state’s economy and is a key
+pillar of NSW economic policy.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+02
+
+Distributed energy resources (DERs)
+Virtual Power Plants (VPP)
+24/7 renewable energy
+
+International outlook
+Australia’s energy market
+15
+16
+17
+17
+21
+
+The spot market
+The rise of renewables
+Transitioning from a single-sided to a two-sided market
+The future of renewables in Australia
+The changing nature of the energy market
+
+Shifting the peak
+25
+
+Addressing the
+
+29
+
+The built environment’s role in the transition
+
+37
+
+Case Studies
+
+43
+
+Unlocking the potential of grid-interactive efficient buildings
+
+51
+
+Our role in driving grid-interactive efficient buildings
+
+Ian Lieblich,
+Head of ESG, EG Funds
+
+Funding has been provided
+for this report by the NSW
+Government. This report does
+not however, represent the
+views or policy of the NSW
+Government.
+
+Executive summary
+
+57
+59
+61
+67
+
+30
+32
+
+38
+39
+40
+41
+
+43
+44
+49
+51
+52
+53
+54
+55
+56
+
+What is a grid-interactive efficient building?
+Potential benefits
+
+University of Technology Sydney: Dr Chau Chak Wing Building
+Grosvenor Place
+EG Funds Management
+Sydney Opera House
+
+Stakeholders
+From challenge to opportunity
+Roadmap
+Delivering climate positive grid-interactive efficient buildings
+Driving a climate positive built environment
+Advocating for grid-interactive efficient buildings
+A grid-interactive Green Star
+From peak electricity demand reduction to grid resilience in Green Star
+Next steps in Green Star
+
+Taking action today is critical
+Appendix A: definitions
+Appendix B: Calculating the benefits of grid-interactive buildings
+Appendix C: A review of industry knowledge
+
+Executive
+summary
+1. Assuming an average home
+emits 15 tons of CO2 per year
+
+The Australian Government
+has set a goal to move our
+electricity grid from 36%
+renewable energy to 82%, by
+2030, in line with Paris targets.
+But as we race toward this
+target, we also need to ensure
+our buildings will be fit for
+purpose in a zero-carbon world.
+In order to drive the built
+environment from net zero
+to zero, our buildings need to
+become grid-interactive. This
+means they are electrified,
+efficient, smart and flexible, so
+they can support clean energy
+generation by shifting load to
+ensure energy is used when it is
+at its cheapest and cleanest.
+Buildings consume
+approximately 50% of
+Australia’s electricity, but during
+peak periods, they consume
+around 77% of system capacity.
+By shifting one third of the
+load in buildings for just three
+hours a day, five days a week,
+we would reduce Australia’s
+annual Greenhouse Gas (GHG)
+emissions by 0.6% (equivalent
+to 180,000 homes),1 without
+decreasing energy use; and
+reduce the cost of supplying
+electricity to Australia’s
+buildings by $1.7 billion each
+year.
+
+sources. Grid-interactive
+efficient buildings can increase
+grid stability, resilience, and
+efficiency, to ultimately reduce
+the need for fossil fuel use and
+greenhouse gas emissions.
+They can shift demand to times
+when ample cleaner, more
+affordable power is available,
+providing a much more
+balanced load demand and
+lowering costs for consumers.
+If a building owner knows
+when the energy supply is
+peaking, they can match the
+demand to create an efficient
+market. Likewise, when the
+energy supply is low, demand
+can be reduced to avoid
+peak pricing events. This is
+done, for example, by using
+air conditioners to pre-cool
+buildings before the late
+afternoon peak in temperature
+and corresponding peak in
+wholesale prices.
+These measures must
+obviously be used within an
+efficient system that enables
+the building to retain the effects
+through measures such as
+insulation and shading.
+
+A load shift of this magnitude
+would be a revolution in how
+Australia invests in the peak
+capacity of the electricity
+The potential for grid-interactive system. It would effectively
+efficient buildings to align
+provide new peak capacity for
+our environmental outcomes
+other energy users, equivalent
+with economic outcomes
+to half of Australia’s existing
+is enormous. They can help
+coal fleet (52% of rated
+to cut energy costs, ease
+capacity) or more than all
+demand on over-stretched
+of Australia’s gas and diesel
+networks and support the
+generators (108%).
+transition to renewable energy
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+01
+
+Additionally, having a gridinteractive efficient building
+allows owners to understand
+their true carbon footprint. We
+know that every kWh of energy
+a building uses doesn’t have
+the same carbon content. If the
+owner had a live understanding
+of the carbon content of energy
+being used, they can utilise
+load shifting and demand
+management as new levers to
+reduce emissions.
+A grid-interactive efficient
+building would use renewable
+energy to shift its peak at the
+right times through demand
+management. The International
+Energy Agency (IEA) calls these
+‘zero-carbon-ready’ buildings.
+A zero-carbon-ready building
+can use 24/7 renewable energy,
+meaning that every kilowatthour of electricity consumption
+is met with carbon-free
+electricity sources, every hour
+of every day, everywhere.
+Enhanced demand flexibility
+will be essential to transition
+to high levels of renewables
+at a reasonable cost and to
+fill the growing load balancing
+gap. For this to happen,
+demand flexibility, or the use
+of communication and control
+technologies to shift electricity
+use throughout the day, must
+evolve into a reliable resource
+that is incorporated into energy
+procurement and forecasting
+processes.
+
+With coordinated action
+from grid-interactive efficient
+buildings:
+T
+ he clean energy transition
+and electrification of the built
+environment will cost less
+T
+ he electricity system will be
+more stable
+R
+ enewable energy
+investment returns will be
+higher
+T
+ he building sector will be
+responsible for emitting less
+carbon.
+At GBCA, we’ve been working
+to develop a set of principles
+and actions that help the built
+environment become more
+grid-interactive. In short, to
+continue transitioning from
+net-zero to zero, buildings
+should support grid stability
+through increased flexibility and
+reduced peak demand. This
+need served as the basis for
+the new grid resilience credit in
+all new Green Star rating tools.
+The principles will also support
+our advocacy and education
+program over the coming
+years. Grid-interactivity is a
+critical objective for the built
+environment, and as we move
+to continue decarbonising the
+built environment, incorporating
+grid-interactive strategies into
+building design, operation,
+and management will become
+increasingly important.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+02
+
+Key recommendations for governments
+
+2. A
+ ppendix B provides further
+references and calculations
+related to these numbers
+
+GBCA has identified 3 key areas for governments to focus their efforts on.
+ eview building codes and
+1. R
+standards to accelerate
+the deployment of gridinteractive technologies
+as the grid decarbonises.
+GBCA recommends introducing
+consideration for grid-interactive
+technologies in buildings as part
+of the Australian Building Codes
+Board’s workplan. This is in line with
+recommendations from the IEA. In the
+short term, we support reviewing the
+content of the NCC and its supporting
+standards to ensure all new buildings
+are designed and delivered as allelectric buildings. GBCA recommends
+that the Australian Government,
+working with state and territory
+governments should:
+Introduce requirements for all
+electric solutions for heating,
+cooking, and hot water in buildings
+Introduce requirements to account
+for the future electrification of the
+transport fleet and the effects on
+the building’s electrical systems
+Explore further requirements for
+grid-interactive technologies,
+such as demand controlled
+air conditioning systems, for
+introduction in future updates of
+the National Construction Code.
+
+2. C
+ ontinue with efforts to
+decarbonise the grid, and
+enable grid-integration
+
+3. I nvest in applied research
+and provide information
+and tools
+
+GBCA recommends that all levels of
+government:
+
+GBCA recommends that the
+Australian Government, working
+with state and territory governments
+should:
+
+Explore how incentive or rating
+programs, such as NABERS, can be
+used to incentivise electrification
+and grid-interactive solutions in the
+built environment
+Provide guidance on how to ensure
+utility infrastructure is upgraded to
+address the increase in electricity
+demand and interactive solutions
+Develop a digital strategy that
+will allow for the integration of
+buildings as distributed energy
+resource (DER) nodes in the
+electricity system through better
+use of data flows and appropriate
+software, including directing
+renewable energy generation
+to the points of best use,
+coordinating batteries in millions
+of electric vehicles (via buildings),
+synchronising heat pumps,
+hot water systems and other
+appliances
+
+Undertake research to understand
+further opportunities for gridinteractive efficient buildings
+Explore how to improve the
+current renewable energy
+certificate schemes to add realtime information in preparation
+of potential changes to the
+Greenhouse Gas Emissions
+Protocol
+
+The opportunity in numbers2
+B
+ uildings consume approximately
+50% of Australia’s electricity
+
+ Shifting the load for three hours per
+day, five days per week, would:
+
+A
+ pproximately 77% of Australia’s
+electricity system capacity at peak
+times is used by residential and
+non-residential buildings
+
+R
+ educe Australia’s annual
+Greenhouse Gas (GHG)
+emissions by 0.6% (equivalent
+to the emissions of 180,000
+homes), without decreasing
+energy use.
+
+R
+ educe the cost of supplying
+electricity to Australia’s buildings by
+$1.7 billion each year
+
+With thanks to our
+Climate Positive
+partners
+
+This paper outlines the opportunities that grid-interactive
+efficient buildings present for building owners, energy market
+operators, retailers, service providers and policy makers. It
+provides recommendations on behaviour changes and policy
+drivers which would enable these outcomes.
+
+Pilot digitalisation technologies
+and establish a program
+to implement digitalisation
+technology and demand flexibility
+in government buildings
+Provide incentives, clear
+communication, and education to
+promote opportunities for testing
+and delivering grid-interactive
+efficient buildings at scale.
+
+Introduce obligations for
+retailers to engage with / support
+customers on active efficiency
+measures.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+03
+
+Grid-interactive efficient buildings discussion paper v.1
+
+04
+
+About this paper
+
+This paper aims to start a
+conversation on the role of GBCA and
+its members in understanding the
+impact of the built environment on a
+rapidly transforming electricity grid,
+and vice-versa, as well as to outline
+opportunities in this transformation.
+It is intended to serve both as a
+primer, and as a discussion paper
+on the topic. Feedback for this
+paper can be submitted here.
+This paper is broadly structured to
+provide the following information:
+ A primer on the grid in Australia
+A
+ review of the current state
+of renewables, and an analysis
+of how the built environment
+interacts with the transition to
+a stable decarbonised grid
+A
+ discussion paper aiming to
+help industry identify its role in
+the clean energy transition
+
+The evolution
+of power
+generation
+
+This discussion paper is geared to:
+G
+ overnment policy makers
+and energy market regulators,
+including AEMO
+E
+ nergy-market consultants
+and experts in the wholesale
+demand response mechanism
+
+3. IRENA, Renewable Power
+Generation Costs in 2021. Accessed
+April 2023
+
+ Energy retailers
+ Portfolio managers
+
+4. IRENA, Renewable Power
+Generation Costs in 2021. Accessed
+April 2023
+
+ Heads of sustainability
+
+5. OpenNEM, Accessed April 2023
+
+ Building owners and operators
+
+ Sustainability consultants
+ Engineering professionals.
+The outcomes of several industry
+workshops are presented throughout
+this paper in boxes with a grey
+background. These are intended
+to help drive discussion and seek
+feedback on future actions. Questions
+to the reader to prompt feedback
+are presented in blue boxes.
+
+The state of industry
+Three workshops were conducted to understand industry perception of the
+built environment and the evolution of the grid towards 100% renewables.
+The findings of these workshops were used to shape the discussion points
+in the rest of the paper. The workshops involved 30 participants from
+building developers, consultants, utility companies, service providers, and
+policymakers. A more detailed summary of the workshops is provided in
+Appendix C.
+
+Current situation
+
+The Australian economy is fast
+approaching a tipping point, with
+27% of electricity in the National
+Electricity Market (NEM) coming
+from non-dispatchable renewable
+sources in 2022, up from 9% in 2017
+and less than 1% as recently as
+2009.5 In fact, it is now expected to
+be close to 80% by 2035 or earlier.
+This change in the source of
+energy in our electricity grid is
+emerging in three key ways:
+
+Dispatchable to non-dispatchable
+Whilst the increase in renewable
+energy means more generation
+capacity is available, the amount can
+vary based on weather conditions.
+Whenever the sun is shining and the
+wind is blowing, renewables are being
+produced, and are oftentimes the
+dominant source of energy on the grid.
+While renewables can’t be generated
+on demand, they are much easier to
+curtail than fossil fuel solutions. This
+means that preference in the market
+is currently given to keeping fossil
+fuel sources running, with renewables
+being curtailed when demand is low.
+Carbon intensity
+When zero emissions renewable
+energy is available and demand exists
+for it, electricity is at its cheapest
+and cleanest. When this matching
+of supply and demand doesn’t
+occur and renewables are curtailed,
+fossil fuel plants take over which
+leads to higher emission electricity.
+The correlation between electricity
+wholesale prices and carbon intensity
+is becoming stronger – the cleanest
+electricity is usually the cheapest.
+
+A
+ reduction in the carbon intensity
+of the grid, in total but also
+varying by time of day based
+on the source of the energy
+
+ On-site energy production and storage
+ Energy efficiency and demand management
+
+A
+ rise in price variability
+including an increase in
+negative pricing events.
+
+ Measurement and verification
+Other actions noted included preparing for the integration of distributed
+energy resources through studies and participating in demand
+management and information analytics research projects.
+
+
+
+This model is evolving. Power grids
+are diversifying with renewables.
+According to the International
+Renewable Energy Agency (IRENA),
+unsubsidised renewable energy is
+often the cheapest source of energy
+generation.3 Globally, renewable
+energy added in 2021 was forecast
+to reduce electricity generation costs
+by at least $55 billion in 2022.4
+
+These combined factors mean
+there is a shift away from a onedirectional market driven by demand,
+to a two-directional market, driven
+by matching supply (of nondispatchable power) and demand.
+
+A
+ shift from dispatchable to
+non-dispatchable energy, with
+curtailment events increasing
+
+The workshops broadly indicated that participants were becoming more
+sophisticated in their approaches to managing their building’s impacts on
+the grid. In summary, participants noted three actions at the building level
+that they were working on, or towards:
+
+Grid-interactive efficient buildings discussion paper v.1
+
+The 20th century power generation
+model was one-sided: coal, gas,
+or hydro power plants supplied
+electricity via a transmission and
+distribution network. Electricity
+supply would vary with demand,
+not the other way around, with
+broad pricing signals used to help
+incentivise some change in demand.
+To help smooth out demand and
+encourage electricity at times where
+demand was low, ‘peak’ and ‘off-peak’
+electricity tariffs were created. They
+helped maintain network stability.
+
+05
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+06
+
+6. AEMO, 2022 Integrated System
+Plan, Accessed April 2023
+
+Price variability
+Currently, the wholesale price of
+electricity on the National Energy
+Market – the price that electricity
+generators and retailers trade
+electricity at to sell to consumers – is
+extremely volatile. It can range from
+negative $1,000 per megawatt hour
+(-$1/kWh) to $15,000/MWh ($15.00/
+kWh) at times of peak demand. This
+spread in pricing, which can occur
+within a period of hours, reflects
+the fact that consumer demand
+is generally unresponsive to price
+signals because consumers pay fixed
+contract rates for their electricity.
+In the next five years,6 13% of the
+NEM’s dispatchable capacity is slated
+to be removed with the retirement of
+7GW of coal-fired generators. This
+will place significant upward pressure
+on electricity prices, particularly
+in the mornings and evenings.
+The influx of daytime renewable
+electricity has also seen an increase
+in negative price events in electricity
+networks, which are situations where
+due to oversupply the wholesale
+price of electricity drops below zero,
+meaning that generators must pay
+to supply power to the grid. Negative
+prices are becoming more frequent
+
+FIGURE 1
+
+and more extreme in some electricity
+markets, as the penetration of
+renewable energy increases and
+the demand for electricity changes.
+They can occur for various reasons,
+such as high renewable generation
+(especially solar and wind), low
+demand (due to energy efficiency,
+distributed generation, or mild
+weather), transmission constraints
+(limiting the ability to export excess
+power), or inflexible generation (such
+as coal-fired plants that cannot ramp
+down quickly). This poses challenges
+and opportunities for the existing and
+future participants in the electricity
+sector, as they adapt to the changing
+market dynamics and price signals.
+
+The Duck Curve in California showing the progressive impact of renewables on
+the grid
+
+Graphing supply vs demand
+The evolving daily demand profile has
+a name: the ‘Duck Curve’. In 2013,
+the California Independent System
+Operator published a chart that is
+now commonplace in conversations
+about large-scale deployment of solar
+photovoltaic (PV) power. The Duck
+Curve named after its resemblance
+to a duck shows the difference in
+daily electricity demand and the
+amount of available solar energy.
+
+7.  US. Department of Energy,
+Confronting the Duck Curve: How
+to Address Over-Generation of
+Solar Energy, Accessed April 2023
+8.  The pattern has since been firmly
+established and has extended
+into Victoria, see: https://aemo.
+com.au/-/media/files/majorpublications/qed/2023/qed-q12023-report.pdf
+9. AEMO, maintaining-operationaldemand-in-south-australia.pdf
+(aemo.com.au), Accessed April
+2023
+
+As illustrated by California’s ‘Duck
+Curve’, increased investment in largescale solar and wind generation leads
+to more electricity generation hitting
+the system, and growth in rooftop
+solar reduces demand on the system.
+Increased penetration of home air
+conditioning and electrification of
+cooking increase the evening peak.
+Combined, this leads to excess
+supply when the sun is shining and
+wind is blowing, and shortfalls when
+it is not, which is reflected in the
+behaviour of wholesale markets.
+
+Due to the success of renewables
+in South Australia there has been
+oversupply of renewable energy
+during the day. This meant that
+the average price of electricity was
+negative from 9:30 am to 3:30 pm
+during the first three months of
+2021.8 Essentially there was too
+much electricity being supplied
+at this time. Because of this, after
+putting in place ‘emergency’ powers,
+the market operator ‘tripped’ 12,000
+solar generation units on purpose in
+March 2021 to keep the grid stable.9
+
+As noted by the California Independent
+System Operator, the Duck Curve is
+a threat to grid stability. It drives up
+infrastructure costs, and it devalues
+the contribution of renewable energy.7
+
+This is again shown by the experience
+of South Australia, where the average
+wholesale price paid for energy made
+by rooftop solar panels in early 2021
+was 0.9c/kWh, while gas generators in
+the same market were paid an average
+of 8.5c/kWh, almost 10 times more.
+
+South Australia’s experience provides
+insight into the challenges electricity
+networks face with the growth of
+cheap renewable energy supply.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+07
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+08
+
+Distributed
+energy resources
+
+
+10. ESB, Integration of Consumer
+Energy Resources (CER) and
+flexible demand (2023), Accessed
+April 2023
+11. Energy Networks Australia,
+Electricity Network Transformation
+Roadmap, Accessed April 2023
+12. ESB, op. cit.
+13. ARENA, What are distributed energy
+sources, Accessed April 2023
+14. AEMO, Engineering Roadmap to
+100% Renewables, Accessed April
+2023
+
+In Australia, distributed energy
+resources (DERs) such as rooftop
+photovoltaics and home batteries are
+becoming more popular, with one in
+four homes now having solar.10 The
+Electricity Network Transformation
+Roadmap, a joint publication by
+Energy Networks Australia and the
+CSIRO, estimated that over 40% of
+energy customers will use a DER by
+2027.11 By 2030, the Australian Energy
+Market Operator (AEMO) expects
+around 50% of consumers, including
+large businesses, to use some form
+of distributed energy resources to
+participate in the demand side of
+the national electricity market.12
+The increasing penetration of
+DERs offers a raft of benefits and
+opportunities. Customers with
+DER assets generally pay less for
+electricity. This is because of two
+reasons, the first is that once capital
+costs are recovered, the electricity
+that is produced and consumed
+within their activities is effectively
+cheaper than electricity procured
+through retailers. The second is that
+they can sell power back to the grid
+or are compensated for using their
+storage systems to help stabilise
+the grid during peak periods. Cost
+savings also apply to the overall
+
+energy network. With consumers
+investing in their own DERs, power
+network expansion costs could be
+reduced by as much as 60% between
+now and 2050.13 Finally, DERs can
+help balance the grid, improving its
+reliability, particularly in the wake
+of increased reliance on variable
+energy sources like wind and solar.
+However, there are some constraints
+today. Currently, only so many DERs
+can be connected to, and operated
+by, a distribution network due to
+hosting capacity. In addition, DERs
+can only be integrated into the power
+grid within acceptable risk levels
+to network safety of reliability. It is
+likely that the power grid will require
+upgrades and modernisation to safely
+integrate DERs into the network.14
+The effective integration of DERs
+and flexible demand is key to the
+future of the NEM. As such, the
+Energy Security Board released the
+Post-2025 DER Implementation Plan
+in October 2021. The Plan outlines
+several reforms to support Australia’s
+grid and deliver better outcomes
+for customers and businesses.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+09
+
+Virtual Power Plants
+
+The growing popularity of DERs has
+given rise to Virtual Power Plants
+(VPPs). A VPP is a network of DERs
+that work together to effectively form
+one single power plant. Leveraging
+communications technology and
+sophisticated software, a VPP
+operator can charge or discharge
+energy from their generating resources
+
+and batteries and trade it on the
+NEM. VPPs amplify the benefits of
+DERs. With many DERs working
+together, small individual actions can
+compound to deliver large amounts
+of energy to help support the grid in
+times of need and reduce customer
+power bills at the same time.
+
+The South Australia Virtual Power Plant
+Operational since 2018, the South Australia Virtual Power Plant (SA VPP)
+was Australia’s first VPP, and the world’s largest. A growing network
+of homes with solar and home battery systems, it was designed to
+demonstrate how a VPP can reduce energy costs for participating
+households and support the energy grid to reduce energy costs for all
+South Australians. The first VPP in Australia to help stabilise the grid, SA
+VPP has assisted with:
+ A tripped power station in Queensland – in October 2019
+D
+ isconnections of the grid between South Australia and Victoria
+– in November 2019 and January 2020
+P
+ roviding power to Port Lincoln residents during catastrophic fire
+– in November 2019
+ High and low power supply issues – in December 2019.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+10
+
+24/7 renewable energy
+15. Xu, Q., & Jenkins, J., Princeton
+University, Electricity System and
+Market Impacts of Time-based
+Attribute Trading and 24/7 Carbonfree Electricity Procurement,
+Accessed April 2023
+16. Rocky Mountain Institute (RMI),
+Clean Power by the Hour, Accessed
+April 2023
+
+Renewable energy sources such as
+wind and solar are becoming more
+affordable and widespread, but they
+also face a major challenge: how
+to provide reliable and consistent
+power. This is where the concept of
+24/7 renewable energy comes in.
+24/7 renewable energy means that
+every kilowatt-hour of electricity
+consumption is met with carbon-free
+electricity sources, every hour of every
+day, everywhere. It is both the end
+state of a fully decarbonised electricity
+system, and a transformative
+approach to energy procurement,
+supply, and policy design that is
+critical to accelerating its arrival.
+Some of the benefits of 24/7
+renewable energy are:
+It reduces greenhouse gas
+emissions and mitigates
+climate change by eliminating
+the need for fossil fuels to
+balance variable renewables
+ It enhances energy security
+and resilience by diversifying
+the energy mix
+ It supports economic development
+and social equity by creating
+jobs, lowering energy costs, and
+improving access to clean and
+affordable electricity for all.
+
+A study by Princeton University15
+analysed the electricity system-level
+impacts of 24/7 carbon-free energy
+procurement across two regional
+power systems: California and the
+Eastern Interconnection Grid in the
+US (PJM Interconnection). The study
+was concerned with whether 24/7
+carbon free electricity procurement,
+and associated technologies, would
+build on the success of net renewable
+purchases, to remove remaining
+emissions as the grid decarbonises.
+The study found that a shift to 24/7
+carbon-free electricity enables deeper
+emissions reductions and deeper
+transformation of the electricity sector
+than 100% annual matching by driving
+early deployment of advanced clean
+firm and long-duration energy storage
+technologies. However, it comes with
+a potentially significant cost premium
+for early leaders, a premium paid
+to accelerate innovation, maturity,
+financeability, and widespread
+availability of clean firm resources
+that can make it much easier for
+broader society to follow on the
+path to a 100% carbon-free grid.
+
+Clean Power by the Hour16
+The Rocky Mountain Institute (RMI) report Clean Power by the Hour is a
+comprehensive analysis of the benefits and challenges of implementing
+time-of-use (TOU) electricity pricing in the United States. TOU pricing is
+a dynamic pricing scheme that charges customers different rates for
+electricity depending on the time of day and the level of demand. The
+report argues that TOU pricing can help reduce greenhouse gas emissions,
+lower customer bills, increase grid reliability, and enable greater integration
+of renewable energy sources. The report also provides recommendations
+for policymakers, regulators, utilities, and customers on how to design and
+implement effective TOU pricing programs that are fair, transparent, and
+customer-friendly.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+11
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+12
+
+International
+outlook
+17 IEA, Net Zero by 2050: A Roadmap
+for the Global Energy Sector,
+Accessed April 2023
+18 UNEP, 2020 Global Status Report
+for Buildings and Construction:
+Towards a Zero-emissions, Efficient
+and Resilient Buildings and
+Construction Sector - Executive
+Summary (unep.org). Accessed
+April 2023
+19 IEA, Demand Response, Technology
+Deep Dive Demand Response
+– technology deep dive, IEA,
+September 2022. Accessed April
+2023
+
+The IEA in its roadmap for the global
+energy sector, Net Zero by 2050,
+has highlighted buildings as being
+crucial to the transformation of the
+global energy system required to
+meet the decarbonisation objectives
+of the Paris Agreement.17 This is
+because buildings, through their
+operations, consume more than half
+(55%) of all electricity generation18
+and therefore represent the largest
+demand-side lever available to help
+balance electricity networks and
+support the continued growth in wind
+and solar electricity generation. The
+
+IEA has identified a significant role
+for buildings in helping drive the next
+wave of clean energy investment
+through a blend of energy efficiency,
+electrification, digitalisation, and
+behaviour changes. Further, the IEA
+notes that energy efficiency standards
+for buildings need to include
+connectivity and smart functionality
+to drive demand response outcomes.
+These are needed to unlock close
+to 250GW globally in buildings
+alone19 which will enable the net
+zero by 2050 goals to be achieved.
+
+… it is no longer sufficient to utilise energy efficiency only as a
+static resource. Energy systems – new homes, replacement
+heating and cooling equipment, industrial processes, and
+the like – must be both highly efficient and flexible to the
+maximum extent possible. Flexibility means interactivity with
+the grid: the ability to manage energy usage, proactively and
+situationally, to minimise both its cost drivers and its carbon
+content.20
+
+FIGURE 2
+
+Demand response availability at times of highest flexibility needs and share in
+total flexibility provision in the Net Zero Scenario, 2020 and 2023
+
+20. Kenney, Michael, Heather
+Bird, and Heriberto Rosales.
+2019. 2019 California Energy
+Efficiency Action Plan.
+California Energy
+Commission, 2019 California
+Energy Efficiency Action
+Plan. Publication Number:
+CEC-400-2019-010-CMF,
+Accessed April 2023
+21. California Public Utilities
+Commission, Assessment of
+energy efficiency potential
+and goals and modification
+of portfolio approval and
+oversight process, Accessed
+April 2023
+
+Much of this thinking is already being
+operationalised in California by the
+California Energy Commission (CEC)
+through its Market Informed Demand
+Automation Server (MIDAS), which
+includes a database of current, future,
+and historic time-varying electricity
+
+prices and greenhouse gas emissions
+intensities. As the CEC explained in
+the Foreword to its 2019 California
+Energy Efficiency Action Plan:
+
+Grid-interactive efficient buildings discussion paper v.1
+
+13
+
+Their more recent report,21 two years later, then stated,
+
+The current focus on first-year energy
+savings only, in the form of kWh, kW,
+and thermal savings, does not capture
+all of the policy goals and benefits of
+energy efficiency. The value of energy
+efficiency varies significantly based
+on the hour, season, GHG benefits,
+climate zone, and lifecycle savings
+of each measure. While these values
+are captured in the cost-effectiveness
+calculations, they do not come
+together to represent a single goal
+for the program administrators to
+optimise around.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+14
+
+Australia’s
+energy market
+
+AEMO manages Australia’s two
+wholesale electricity markets: the
+
+National Energy Market (NEM), and the
+Wholesale Electricity Market (WEM).22
+
+25. Clean Energy Council, Clean Energy
+Australia Report, Accessed April
+2023
+
+22. While most of this report discusses
+the NEM, the issues it outlines apply
+equally to the WEM. To simplify the
+paper, the NEM is used throughout.
+
+The spot market
+23. AEMO, National Electricity Market
+Fact Sheet. Accessed April 2023
+24. https://www.aemo.com.au/-/
+media/Files/Electricity/NEM/
+National-Electricity-Market-FactSheet.pdf idem
+
+The rise of renewables
+
+26. https://www.cleanenergycouncil.
+org.au/resources/resources-hub/
+clean-energy-australia-report idem
+27. There are multiple ways of engaging
+in these agreements – While this
+report won’t delve into the specifics,
+there are many distinct benefits and
+challenges with each, and they may
+also lead to additional generation
+being created in Australia. Those
+entering into these agreements are
+encouraged to review the issues
+in detail. More information is
+available in this guide for procuring
+renewables by WWF.
+28. Business Renewable Centre,
+Corporate Renewable Power
+Purchase Agreements in Australia:
+State of the Market 2022. Accessed
+April 2023
+
+The NEM operates as a ‘pool’, or a spot
+market, in which power supply and
+demand are matched instantaneously
+via a centrally coordinated dispatch
+process. Generators offer to supply
+the market with specified amounts of
+electricity at specified prices for set
+time periods and can re-submit the
+offered amounts at any time. From
+all the bids offered, AEMO decides
+which generators will be deployed to
+produce electricity, with the cheapest
+generator put into operation first. The
+wholesale electricity price received
+by all generators is the price offered
+by the last generator to be called on
+at any given five-minute period.
+The NEM is designed to meet
+electricity demand in the most costefficient way. Electricity production is
+matched to electricity consumption,
+and spare generating capacity is
+kept in reserve in case it’s needed.
+Electricity production is also subject
+to transmission limitations so that
+the network is not overloaded.
+
+The National Electricity Rules set a
+maximum spot price, also known
+as the Maximum Price Cap. Since
+1 July 2020, this cap has been set
+at $15,000 per megawatt hour and
+is adjusted annually for inflation.23
+The Rules also set a minimum spot
+price, called the market floor price,
+which is -$1,000 per megawatt
+hour.24 The Australian Energy Market
+Commission’s (AEMC) Reliability
+Panel reviews the market price cap
+and market floor price settings every
+four years to ensure that they align
+with the NEM reliability standard.
+The WEM supplies electricity to the
+south-west of Western Australia
+via the South West Interconnected
+System (SWIS). A unique feature of
+the WEM is the Reserve Capacity
+Mechanism, which ensures that
+there is enough generation to
+meet demand at all times.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+29. https://businessrenewables.org.
+au/wp-content/uploads/2021/12/
+SOM22.pdf Idem
+
+Renewable energy accounted for
+32.5% of Australia’s total electricity
+generation in 2021, a 5% increase
+on 2020.25 Small-scale solar led this
+growth, which added 3.3GW of new
+capacity to record its fifth-straight
+FIGURE 3
+
+Electricity generation in Australia in 2021 in GWh (Clean Energy Council)9
+
+Total grid
+breakdown
+
+15
+
+Renewables
+breakdown
+
+59.1% Coal
+
+35.86% Wind
+
+32.5% Renewables
+
+24.88% Small-scale solar
+
+7.7%
+
+21.58% Hydro
+
+Gas
+
+0.06% Non-metered fossilf fuels
+
+12.29% Large-scale solar
+
+0.1% Liquids
+
+4.3%
+
+Power Purchase Agreements (PPAs)
+are gaining traction in Australia as
+a cheaper and greener alternative
+to ‘grid sourced’ energy. Under a
+Corporate PPA, electricity users agree
+to buy power or Large Generation
+Certificates27 from a renewable
+energy project at a fixed price longterm. The Australian Renewable
+Energy Agency (ARENA) estimates
+that 137 Corporate PPAs have been
+negotiated for 5.6GW of renewable
+energy generation since 2017.28
+According to the Business
+Renewables Centre Australia, the
+market for large-scale renewable
+energy has become more diverse
+thanks to the increase in Corporate
+PPAs, which now play a significant
+role in the energy transition. While
+retailer PPAs have slowed down due
+to meeting their legislated purchase
+obligations under the Renewable
+Energy Target, investments in
+large-scale renewable energy have
+continued thanks to Corporate
+PPAs and public sector retailers.29
+Most developed energy markets
+feature Energy Attribute Certificate
+(EAC) schemes which allow
+
+
+
+record-breaking year. Australia’s
+leading source of renewable energy in
+2021 was wind, which accounted for
+35.9% of renewable generation, and
+11.7% of total electricity generation.26
+
+Bioenergy
+
+consumers to ‘choose’, in an
+accounting but not physical sense,
+the source of energy used to generate
+the electricity they use. In Australia,
+these schemes include GreenPower™
+and Renewable Energy Certificates
+(RECs) comprising both small-scale
+technology certificates (STCs) and
+large-scale generation certificates
+(LGCs). While many EAC schemes
+have been successful in driving clean
+energy investment over the past two
+decades, none that are currently in
+operation account for the emerging
+challenges of managing the supply
+and demand for renewable energy
+generation at scale, in real-time.
+With changing technology and
+increasing temporal variability of
+renewable energy supplies driven
+by growth in wind and solar power,
+international interest in ‘time-stamped’
+certificates has begun to emerge.
+(WEM) supplies electricity to the
+south-west of Western Australia
+via the South West Interconnected
+System (SWIS). A unique feature of
+the WEM is the Reserve Capacity
+Mechanism, which ensures that there
+is enough generation to meet demand
+at all times.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+16
+
+Transitioning from a
+single-sided to a twosided market
+
+Historically, Australia’s energy
+market has been single-sided,
+reflecting one-way flow. Customers
+have an agreed rate for electricity.
+Real-time price fluctuations
+are not a factor that customers
+respond to, or even know about.
+In a two-sided electricity market,
+buyers and sellers both actively
+respond to price fluctuations. Rather
+than passively consuming power,
+customers actively participate in the
+market via demand management
+and response.
+
+The future of renewables
+in Australia
+
+AEMO has published its 2022
+Integrated System Plan (ISP), which
+outlines a 30-year roadmap of
+investments for the NEM. The ISP
+aims to efficiently enable low-cost,
+firmed renewable energy - wind and
+solar backed up by storage and new
+transmission - to replace existing coal
+generation. The ISP will help industry
+participants, investors, governments,
+and communities plan for the
+decarbonisation of the power system
+to deliver low-cost, firmed renewable
+electricity with reliability and security.
+As part of developing the ISP,
+AEMO and stakeholders identified
+the most likely future for the NEM,
+called the ‘step change’ scenario,
+which forecasts annual electricity
+consumption from the grid to double
+by 2050. This is due to a move away
+from the use of natural gas for
+direct energy consumption towards
+electrification of existing energy
+uses. To maintain a secure, reliable,
+and affordable electricity supply for
+consumers through this transition
+to 2050, investment is required for
+a nine-fold increase in grid-scale
+wind and solar capacity, triple the
+firming capacity, and a near fivefold increase in distributed solar.
+
+In practice, this means that customers
+monitor their power usage, and
+consume less electricity when prices,
+or carbon emissions, are high by
+turning off appliances. Added to this,
+excess electricity that is generated
+by DERs is discharged or stored. This
+type of firming helps to overcome
+the challenges associated with the
+‘Duck Curve’, while keeping wholesale
+costs low. Transitioning to a two-sided
+market will help secure the future
+operation of the NEM and deliver
+enduring benefits for consumers.
+
+The step change scenario is a
+consumer-led transformation of
+the energy sector and coordinated
+economy-wide action. It sees a
+consistently fast-paced transition
+from fossil fuel to renewable energy
+in the NEM to fulfil Australia’s net
+zero policy commitments. By 2050,
+most consumers will rely on electricity
+for heating and transport, and the
+global manufacture of internalcombustion vehicles will have all
+but ceased. Increased digitalisation,
+such as smart meters, building
+management systems, and demand
+response enabled equipment helps
+both demand management and grid
+flexibility, and energy efficiency is as
+important as electrification. There is
+also a step change in global policy
+commitments, supported by rapidly
+falling costs of energy production,
+including consumer devices. Some
+domestic hydrogen production
+supports the transport sector and
+as a blended pipeline gas, with some
+industrial applications after 2040.
+
+30. AEMO, 2022 Integrated System
+Plan. Accessed April 2023
+
+FIGURE 4
+
+NEM carbon budgets and the resulting emissions trajectories (AEMO 2022).30
+
+This emission reductions profile in the step change scenario does include
+a significant increase in the amount of available renewables in the grid
+(Figure 4), with distributed storage and coordinated DER emerging
+to provide three-quarters of dispatchable capacity (Figure 5).
+FIGURE 5
+
+Forecast NEM capacity to 2050, step change scenario, with transmission
+(AEMO 2022)30
+
+The emissions reductions in the step
+change scenario are significant. By
+2035, the NEM’s emissions will have
+fallen 85% from 2021 levels. This is
+due to a significant increase in the
+penetration of renewable electricity.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+17
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+18
+
+31. AEMO, 2022 Integrated System
+Plan. Accessed April 2023
+32. ASBEC, Unlocking the pathway:
+Why electrification is the key to net
+zero buildings. Accessed April 2023
+
+FIGURE 6
+
+Forecast of MW storage capacity (left) and energy storage capacity (right),
+step change (AEMO 2022).31
+
+Unlocking the pathway: Why electrification is the
+key to net zero buildings32
+Published by the Australian Sustainable Built Environment Council
+(ASBEC) in December 2022, this report highlights that Australia will
+not achieve its legislated emissions reduction targets unless the built
+environment decarbonises its building operations by electrifying. It
+highlights that as noted by AEMO’s ISP, as the electricity grid decarbonises,
+the remaining source of emissions – fossil gas burned for heating, hot
+water and cooking – comes into sharper focus.
+The report modelled three scenarios to determine which was the least
+cost pathway to decarbonise the built environment – 100% electrification
+(assuming the step change scenario), a combination of electrification and
+green gas (hydrogen), and finally a combination of electrification, fossil
+gas, hydrogen, and offsets (based on the progressive change scenario).
+The findings clearly showed that electrifying the built environment would
+deliver almost $50 billion in savings compared to business as usual. It
+notes that for both other scenarios, the technologies were not available
+at scale, more expensive, or relied on solutions which when considered in
+totality were unachievable.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+19
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+20
+
+The changing nature of
+the energy market
+33. See breakout box on p.28 which
+outlines the upcoming changes to
+the greenhouse gas accounting
+protocol later in this document
+
+Recent changes to the NEM will help
+to overcome some of the challenges
+associated with the Duck Curve.
+The wholesale market has been
+opened to commercial and industrial
+customers (through intermediaries)
+who are be able to bid ‘demand
+response units’ into the market as a
+substitute for electricity generation.
+
+In addition, the market has shifted
+from half-hourly settlements to
+five-minute settlements. Combined,
+these changes can help support the
+emergence of a genuine two-way
+market that will operate in near-realtime, unlocking the full potential of
+information technology, emerging
+generation, and storage technologies.
+
+Five-minute settlement
+To deliver electricity, a dispatch price
+must be determined. On 28 November
+2017, the AEMC passed a ruling to
+change the settlement period for the
+electricity. Commencing on 1 October
+2021, Five-Minute Settlement (5MS)
+shifted the 30-minute wholesale
+electricity spot market settlement
+period to five minutes, providing a
+better price signal for investment in
+faster response technologies, such as
+batteries and gas peaking generators.
+5MS provides significant opportunities
+for energy users to participate in
+the market by way of demandresponse. Previously, the value of
+demand response would have been
+‘settled’ across a half hour interval,
+meaning that to make a meaningful
+contribution, a building would need
+to significantly reduce demand over
+
+a full half an hour. In a hypothetical
+scenario, where buildings were able
+to bid for demand response units
+(they currently can’t), with 5MS
+fast spikes in prices can potentially
+be responded to immediately by a
+brief cut in HVAC energy use (for
+example), resulting in no noticeable
+impact to the building’s indoor
+conditions, but resulting in a small
+windfall for the building operators.
+In addition to this, five-minute
+interval data will become critical
+to active-efficiency and real-timecarbon management.33 Further
+supporting this is the trend of
+metering providers offering the option
+to connect to clients’ data in ‘near
+real time’, enabling data delivery
+(and response to this information)
+to happen as the day progresses.
+
+34. AEMC, Wholesale demand response
+mechanism, Accessed April 2023
+35. AEMC, Wholesale demand response
+mechanism final rule, Accessed
+April 2023
+36. Energy Transformation Taskforce,
+Western Australia, Whole of System
+Plan, Accessed April 2023
+37. Energy Transformation Taskforce,
+Western Australia, Distributed
+Energy Resources Roadmap,
+Accessed April 2023
+
+Wholesale demand response
+On 31 August 2018, the AEMC
+received a rule change request from
+the Public Interest Advocacy Centre
+(PIAC), Total Environment Centre
+(TEC) and The Australia Institute (TAI)
+seeking to introduce a mechanism
+for wholesale demand response in
+the NEM.34 The Wholesale Demand
+Response (WDR) mechanism was
+included in the National Electricity
+Rules in June 2020 after significant
+public consultation. Commencing
+on 24 October 2021, WDR enables
+demand side (consumer) participation
+in the NEM spot market at any
+time, but it will most likely occur at
+times of high electricity prices.
+According to AEMC, this represents a
+significant reform for the NEM. Under
+this rule, consumers can sell demand
+response in the wholesale market
+either directly or through specialist
+aggregators for the first time.35 This
+rule introduces a low-cost mechanism
+for transparently engaging the
+demand side in central dispatch.
+
+Since the NEM commenced, the
+demand side has rarely participated
+in the market. However, under this
+mechanism, industrial electricity
+customers, virtual power plants or
+demand response aggregators will
+be able to actively participate in
+central dispatching electricity and be
+rewarded for the value they provide
+to the system. The rule is designed
+to provide greater opportunities
+for consumers to participate in the
+wholesale market by bidding in
+demand reductions as a substitute
+for generation, thereby unlocking
+under-utilised demand response in
+the NEM. The mechanism is intended
+to promote greater demand side
+transparency, as well as price and
+reliability-related benefits.
+This new rule allows for new
+technologies, particularly those
+brought about by increased
+digitalisation, to be valued within the
+market. This is an important step on a
+path toward a two-sided market.
+
+Western Australia’s energy transformation
+The Energy Transformation Taskforce
+of Western Australia introduced
+the ‘Whole of System Plan’36 report,
+offering guidance to investors and
+stakeholders in the region’s electricity
+market. This report outlines four
+scenarios, all aiming to achieve over
+70% renewable energy sourcing
+for the South-West Interconnected
+System (SWIS) by 2040, under
+the regulation of the WEM. In all
+scenarios, distributed energy plays
+a crucial role, with expectations
+of growth from one in four
+households to one in two by 2030.
+
+causing daytime grid demand to drop
+significantly, which may jeopardise
+system stability if unaddressed.
+Consequently, the Distributed
+Energy Resources Roadmap37
+was released. This report seeks to
+establish a transition plan towards
+a decentralised, democratised, and
+data-driven power infrastructure.
+It offers an overview of DER and
+their transformative impact on the
+electricity sector, as well as strategies
+for integrating DERs into the power
+system to bolster, rather than
+undermine, overall system security.
+
+The Taskforce highlights that the
+rising prevalence of rooftop solar is
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+21
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+22
+
+38. AEMO, Engineering Roadmap to
+100% Renewables, Accessed April
+2023
+
+AEMO’s ‘Engineering Roadmap to 100 percent renewables’
+The Australian Government has
+set a goal to have 82% of energy in
+the NEM sourced from renewables
+by 2030. Inevitably, this will mean
+that the entire grid will operate for
+extended periods with generation
+from wind and solar exceeding
+demand, i.e., at 100% renewables. To
+provide the power systems capable of
+supporting this new and very different
+operating environment, AEMO is
+developing an engineering framework
+
+that assumes the penetration of
+renewables will reach 100% for
+brief (approx. half-hour) periods as
+early as 2025.38 AEMO’s Engineering
+Roadmap addresses this challenge
+under the assumption that there will
+need to be significant distributed
+storage and coordinated DER storage;
+however there is no specific mention
+of a demand-side contribution from
+buildings, or the built environment.
+
+Shifting the peak
+39. PV Magazine, A tale of two causes
+curtailment as renewable records
+break’, Accessed April 2023
+40. Alliance to Save Energy, Why
+Demand Flexibility Is Essential For
+Decarbonization, Accessed April
+2023
+
+Variability in renewable power
+supply causes periods of over and
+undersupply, and periods of negative
+energy prices – where clean energy
+generators must pay to dispatch their
+electricity output. To avoid dispatching
+at low or negative prices, in periods
+of sunny but mild weather it is not
+uncommon for more than 20% of
+the entire system output (most of
+the solar and wind generation) to
+be curtailed.39,40 Curtailment is any
+action that reduces the amount of
+electricity generated to maintain the
+balance between supply and demand,
+which is critical to avoid blackouts.
+These challenges indicate that
+enhanced demand flexibility is
+essential to transition to high levels of
+renewables at a reasonable cost and
+to fill the growing load balancing gap.
+For this to happen, demand flexibility,
+or the use of communication and
+control technologies to shift electricity
+use throughout the day, must
+evolve into a reliable resource that is
+incorporated into energy procurement
+and forecasting processes.
+Historically, the focus of balancing
+supply and demand has been
+predominantly on ensuring that
+variable demand is met with available
+supply. However, as variable renewable
+energy enters the system, it becomes
+
+necessary to consider compensating
+for variable supply. The management
+of variability on the supply side is
+broadly referred to as ‘firming’. While
+firming is a concept that is relatively
+new to the Australian power system,
+the underlying principle of responding
+to supply-demand imbalance is
+core to the operation of any secure
+and reliable electricity system.
+To maintain stability in a system
+with significant variable renewable
+energy, demand-side options are
+required that can start, stop and
+change – quickly, reliably and ondemand (dispatchable); and sustain
+capacity over a required period.
+The best way to leverage the
+affordability of clean power is to
+‘balance the load’ through firming.
+Firming refers to maintaining the
+output from an intermittent power
+source for a required length of time;
+in other words, making sure enough
+energy is always available. Essentially,
+firming of renewables involves storing
+excess electricity when low carbon
+electricity generation exceeds the
+demand, and then releasing it when
+the demand exceeds the supply. The
+aim is to create a permanent supply of
+low carbon power and—by extension—
+low power prices, without volatility.
+
+NSW Peak Demand Reduction Scheme (PDRS)
+In 2022, the NSW Government launched the PDRS to encourage the
+deployment of peak demand reduction technologies. The scheme creates
+a competitive market and incentives to deliver cost-effective peak demand
+reduction. Households and businesses choosing to install technologies
+that reduce electricity demand during peak times can receive a discount or
+other financial incentive.
+Reducing peak demand on an industrial scale places downward pressure
+on wholesale electricity prices and will support electricity system reliability
+in NSW. For more information, visit energy.nsw.gov.au.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+23
+
+Grid-interactive efficient buildings discussion paper v.1
+
+24
+
+Addressing the
+opportunity
+
+Energy efficiency is a focus of most
+property owners’ and operators’ net
+zero carbon plans. For most, this
+simply means ‘use less energy’.
+However, if buildings were to interact
+with electricity grids intelligently
+and dynamically, then they could
+support much higher penetration of
+renewables and reduce the entire
+energy system’s dependence on
+fossil fuels. This could be done by
+using more electricity, while emitting
+less carbon at a reduced cost.
+The market price and carbon intensity
+of electricity varies in proportion to
+the amount of renewable energy in
+the supply mix. When the proportion
+of renewables goes up, greenhouse
+
+FIGURE 8
+
+gas emissions (CO2-eq) per unit of
+energy go down. On the flipside,
+electricity generated from fossil
+fuels contributes more emissions.
+
+Carbon intensity of the electricity grid in New South Wales
+
+This can be easily observed in Figure
+7 which shows the carbon intensity of
+the electricity grid in South Australia
+for a five-day period (blue) overlayed
+with the National Greenhouse Account
+(NGA) carbon intensity factor (green).
+The emissions from one kilowatt-hour
+of electricity vary from almost zero to
+more than 600 grams/kWh. whereas
+the NGA factor takes an annual
+straight-line approach which glazes
+over the opportunities and costs of
+using electricity from the grid when
+more renewable power is available.
+
+FIGURE 9
+
+Carbon intensity of the electricity grid in Queensland
+
+FIGURE 7
+
+Carbon intensity of the electricity grid in South Australia
+Similar variability can be seen in New South Wales, Queensland and Victoria.
+
+FIGURE 10
+
+Carbon intensity of the electricity grid in Victoria
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+25
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+26
+
+Forecasting the carbon intensity of
+electricity supplies is complex, yet
+crucial for informing actions aimed at
+driving down emissions. In the above
+examples, the variability is explained
+by the combination of demand on the
+system and the contributions of wind
+and solar power.
+
+If a 24-hour forecast for a building’s
+electricity demand is overlaid
+(illustrated by the blue shaded area in
+Figure 11) over the carbon intensity
+of the grid for the same period (red
+line), one can see that the carbon
+intensity profile is very different to
+the energy consumption profile.
+
+FIGURE 11
+
+Carbon intensity of the grid compared to building energy consumption for a
+building in South Australia
+
+41. Greenhouse Gas Protocol, Scope 2
+Guidance – background memo and
+list of questions. Accessed
+April 2023
+
+What is EnergyTag?
+The EnergyTag Initiative is a global non-profit, industry-led effort to create
+a market for Granular Certificates that allows energy users to verify the
+source of their electricity and carbon emissions in real-time. It is supported
+by companies such as Google, Microsoft, Mitsubishi and Vattenfall.
+By adopting an hourly accounting period for certificates, consumers can
+understand where and when their energy is coming from and what their
+carbon emissions are at any given moment, which builds trust, supports
+storage and flexibility, enables accurate carbon accounting, and supports
+new market models. The goal of the EnergyTag Initiative is to establish
+Granular Certificates as a common, tradable instrument that provides
+traceability across markets for power, flexibility, and carbon.
+
+Updates to the Greenhouse Gas Emissions Protocol
+Scope 2 reporting method
+In 2022, the Greenhouse Gas Protocol started a process to collect
+stakeholder input to understand whether guidance to Scope 2 emissions
+reporting from the location and market-based methods were needed. This
+is the first review of the standard since September 2015, highlighting how
+much this space has evolved.
+
+The above graph shows that, from
+a carbon perspective, reducing
+consumption in the middle of the
+day does not make sense. It makes
+sense at this time to use low, or zero
+carbon energy being generated to
+provide more comfort to occupants.
+To take advantage of the lower
+emissions profile from the grid,
+Building managers must be able
+to shift their demand in real time
+through smart energy management.
+National greenhouse gas accounting
+standards do not account for this
+variability – they have been designed
+to create an average of the year, for
+the purposes of annual emissions
+reporting. There is also a lack of
+real-time information available to
+building managers – which limits
+their ability to manage their energy
+and therefore carbon in real time.
+
+In the graph above, active efficiency
+strategies could reduce greenhouse
+gas emissions by trimming loads at
+the beginning and/or end of the day
+and potentially increasing loads in
+the middle, for example by increasing
+the building’s indoor air quality or
+thermal comfort using solar power
+distributed through the grid. Active
+efficiency is a very new concept,
+which may seem daunting. Active
+efficiency strategies are cost cutting
+strategies. They are price-aware, they
+drive smarter investment, enable
+higher penetration of renewable
+generation sources, and are arguably
+the most important contribution that
+buildings, in addition to electrification,
+can make to a zero carbon future.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+27
+
+For Scope 2 emissions, which are emissions from the electricity grid,
+the questions relate to the reporting of an immediate GHG emission
+reduction without needing to demonstrate a corresponding immediate and
+equivalent reduction in emissions to the atmosphere. At this point in time,
+the protocol requires all reporting on a net basis – that is, averaged over
+a year. However, questions in the protocol indicate that there will likely be
+updates to better reflect time of use,41 amongst other issues.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+28
+
+The built
+environment’s
+role in the
+transition
+42. ASBEC, Unlocking the pathway:
+Why electrification is the key to net
+zero buildings. Accessed April 2023
+
+Despite being responsible for a
+significant portion of global energy
+consumption and greenhouse
+gas emissions, buildings are
+often not considered part of the
+electricity system or market. As
+a result, building operators are
+insulated from price changes and
+are often unaware of their energy
+consumption’s implications.
+This lack of engagement with
+electricity networks hinders the
+decarbonisation of electricity grids and
+could slow the transition to achieving
+net-zero emissions by 2050. This
+is supported by ASBECs ‘Unlocking
+the pathway: Why electrification is
+the key to net zero buildings’42 report
+which notes that it will be impossible
+to achieve a net zero goal without
+the built environment electrifying and
+being part of the energy transition.
+
+Internationally, the IEA also agrees,
+with their zero-carbon-ready definition
+explicitly highlighting the need for
+buildings to be able to integrate
+to the wider energy system.
+To support the growth of renewable
+energy investment, improve network
+reliability, and drive down the cost
+of energy, buildings must actively
+engage with electricity networks
+and consider the real-time carbon
+intensity of their consumption and
+demand pressures on electricity
+markets. By doing so, buildings can
+play a vital role in accelerating the
+transition to a cleaner energy future.
+There are four ways that the built
+environment can be part of the
+solution to the grid’s transition.
+
+Efficient
+
+Electrified
+
+Minimising energy consumption
+reduces the demand placed on grid
+resources and infrastructure.
+
+Uses renewable electricity for all its
+power needs, removing the need for
+any fossil fuel use in the building.
+
+Smart
+
+Flexible
+
+Efficiency, flexibility, and occupant
+outcomes can be co-optimised
+using analytics that are backed
+by sensors and controls.
+
+Energy consumption can be
+decreased, rescheduled, or modified
+by utilising distributed generation,
+storage, and dynamic loads.
+
+
+
+43. ACEEE, State of the Market: GridInteractive Efficient Building Utility
+Programs. Accessed April 2023
+
+A grid-interactive efficient building
+(GEB) is a fully-electric building
+capable of providing energy-efficient
+building services and dynamic
+grid services through connected,
+smart control of multiple flexible
+building loads and DERs.
+As outlined by the American Council
+for an Energy-Efficient Economy
+(ACEEE), GEBs can be viewed
+from two perspectives: that of the
+individual building system, and that
+of the building as part of the grid
+system.43 From a building systems
+perspective, GEBs are first and
+foremost energy efficient and fully
+electric. They are well insulated,
+have energy-efficient windows, and
+use highly efficient mechanical and
+lighting systems. They also use
+electricity for all their energy needs.
+GEBs leverage advanced technology
+like smart equipment, sensors, and
+controls to optimise energy use
+based on occupancy, weather, and a
+whole range of other factors. In the
+commercial sector, these controls
+go a step further, to encompass
+an energy management and
+information system (EMIS), building
+management and control systems
+(BMCS), submeters, advanced power
+boards, electronic window solar
+film, and smart lighting controls.
+GEBs differ from efficient smart
+buildings in a key way: their ability to
+connect and interact with the local
+grid system. The two-way flow of
+information between the grid and a
+GEB enables the building to act as a
+flexible resource for grid managers.
+For instance, the building can draw
+on energy storage when the grid is
+at peak use, thereby shifting its load.
+It can also reduce load during peak
+times, such as through lighting control
+
+These four elements, when combined create a zero-carbon all-electric gridinteractive efficient building.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+What is a grid-interactive
+efficient building?
+
+29
+
+or reducing HVAC energy consumption
+during peak times. Grid-interactive
+efficient buildings can respond to
+time-dependent grid needs, making
+them a part of the evolving electricity
+grid. The ability to communicate
+with the grid in real-time allows for
+smarter energy consumption and
+reduced carbon footprint. Figure
+12 shows the elements commonly
+found in a commercial GEB.
+Grid-interactive efficient buildings
+support advanced monitoring
+and control for buildings and
+community energy systems.
+They are characterised by several
+capabilities, such as co-optimising
+multiple end-uses (lighting, HVAC)
+and DERs, including generation and
+storage. They optimise operations
+over a time window and incorporate
+predictions about relevant inputs
+into the optimisation. This capability
+allows buildings to leverage storage
+and other sources of scheduling
+flexibility to shape energy use over
+multiple time scales to respond
+to grid needs while minimising
+negative impacts on occupants. Gridinteractive efficient buildings can help
+ensure that they are part of the 24/7
+renewable energy transformation.
+One of the most significant benefits
+of grid-interactive efficient buildings
+GEBs is their flexibility in providing
+dynamic load control to support the
+electricity grid. They can shed, shift,
+and modulate loads, which provide
+ancillary services such as frequency
+regulation and voltage control. In
+general, fast responding controls,
+communications, and loads can
+provide a broader set of grid services.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+30
+
+Potential benefits
+
+FIGURE 12
+
+Buildings as batteries
+
+Grid-interactive efficient buildings can increase grid stability, resilience,
+and efficiency, to ultimately reduce the need for fossil fuel use and
+greenhouse gas emissions. They can shift demand to times when
+ample cleaner, more affordable power is available, providing a much
+more balanced load demand and lowering costs for consumers.
+
+(Source: https://www.aceee.org/sites/default/files/pdfs/Grid-interactive efficient
+buildings-103019.pdf)
+
+Grid-interactive efficient buildings
+
+Energy and cost savings
+
+45. ACEEE, Grid-Interactive Efficient
+Building Utility Programs: State of
+the Market. Accessed April 2023
+46. ACEEE, State of the Market: GridInteractive Efficient Building Utility
+Programs. Accessed April 2023
+
+Built environment/
+Building Owners/
+Operators
+
+Infrastructure/Utilities/
+Retailers
+
+Cost savings/
+Revenue source
+
+Greater service
+offering, creating
+a future focused
+business model
+
+Grid-interactive technologies offer energy savings and greater system
+control through smart energy management. Smart control devices and
+Reduced ‘bill shock’
+sensors can identify energy-saving opportunities in large commercial
+45
+buildings. Grid-interactive efficient buildings participating in demandresponse programs can receive compensation for reducing or shifting Accelerated
+decarbonisation
+energy consumption during events. In service territories with time
+varying rates, customers can shift demand to low-cost periods to
+reduce costs. Australia’s 5MS introduced in October 2021 provides
+opportunities for buildings to participate in the market through
+demand-response, potentially resulting in small windfalls for building
+operators.
+
+Grid stability and efficiency
+
+44. IEA, Net Zero by 2050: A Roadmap
+for the Global Energy Sector, IEA,
+2021. Accessed April 2023
+
+According to the IEA,44 zero-carbon-ready buildings are buildings that can
+achieve net-zero carbon emissions over their lifetime without requiring
+major retrofits or changes in occupant behaviour. To be zero-carbon-ready,
+buildings need to meet three criteria:
+T
+ hey must be highly energy-efficient, minimising the energy demand
+for heating, cooling, lighting and appliances
+
+Load flexibility and demand response
+Grid-interactive efficient buildings provide flexible demand to the grid,
+allowing it to manage the energy supply more efficiently. While energy
+efficiency programs, DERs and VPPs can offset energy demand,
+they can also make the grid less stable and flexible. Grid-interactive
+technologies can shift energy demand to help manage supply peaks,
+providing a more consistent supply of energy to the grid. This is
+important because variable power sources like solar and wind can
+require other types of power supply or storage to meet peak loads.
+
+T
+ hey must use low-carbon energy sources, such as renewable
+electricity, solar thermal, to meet their remaining energy needs
+T
+ hey must be flexible and smart, enabling demand response and
+integration with the wider energy system.
+Zero-carbon-ready buildings are essential for achieving the IEA’s netzero emissions scenario by 2050, which requires all new buildings to be
+zero-carbon-ready by 2030 and all existing buildings to be retrofitted by
+2050. Zero-carbon-ready buildings can also provide multiple benefits
+for occupants, owners and society, such as improved comfort, health,
+productivity, resilience and affordability.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+Improved operational Clearer model to
+outcomes
+operate and manage
+
+Grid-interactive buildings can increase grid reliability, efficiency and
+stability by smoothing out both supply and demand peaks. For example,
+coupling building systems with demand and emissions forecasting can Greater predictability
+be used to enhance ventilation and pre-cool spaces during times of peak of demand and
+supply
+energy supply, and reduce loads during peak demand. Relieving strain
+on the grid reduces the likelihood of power outages and brownouts,
+improves power quality and grid reliability, and can moderate WEMs
+by avoiding the high price spikes that can occur during peak demand
+periods. Reducing congestion can provide other benefits such as
+distribution voltage support and grid frequency regulation.
+
+IEA’s Zero-Carbon-Ready Buildings definition
+
+Reduction of greenhouse gas emissions
+
+31
+
+Grid-interactive efficient buildings reduce greenhouse gas (GHG) emissions by using less energy and reducing reliance on carbon-intensive
+energy supply to balance variable renewables. Investing in demand
+flexibility, rather than relying on natural gas generation, can produce
+20% fewer CO2 emissions per year.46 Reducing peak electricity demand
+can also reduce emissions by avoiding inefficient sources of generation. Efficient and smart buildings lead to less energy generation and
+fewer GHG emissions.
+
+Improved relationships
+with customers
+
+Shifts from a being
+just a retailer toward
+product-as-a-service
+model
+
+Lower cost of
+electricity at peak
+times
+
+More efficient
+operating system, less
+risk of load shedding,
+blackouts etc.
+
+Accelerated
+decarbonisation,
+reporting to
+investors
+
+Improved outcomes for
+investors
+Business model stays
+relevant
+
+47. New Buildings Institute, GridOptimal
+Metrics Offer Guidance on
+Optimizing Building-Grid Interaction.
+Accessed April 2023
+48. USGBC, GridOptimal Building ACP.
+Accessed April 2023
+
+GridOptimal Buildings Initiative47
+The GridOptimal Buildings Initiative is an effort by the New Buildings
+Institute (NBI), in partnership with the U.S. Green Building Council,
+to promote the adoption of grid-interactive efficient buildings. The
+GridOptimal Buildings Initiative provides technical assistance, training,
+and resources to building owners, developers, and designers to help them
+integrate GEB strategies into their building designs and operations. The
+initiative also works with utilities, policymakers, and other stakeholders to
+promote policies and programs that support the deployment of GEBs and
+their integration into the grid.
+The initiative developed new metrics by which building features and
+operating characteristics that support more effective grid operation can
+be measured and quantified. There are currently eight core GridOptimal
+metrics that are scored on a scale of 0-100%. These combine two basic
+approaches to evaluate the quality of building-grid interactions: (1) building
+energy consumption patterns (load shape or demand profile), and (2)
+building assets (capabilities). In May 2021, they also delivered a LEED Pilot
+Credit,48 to encourage refining these metrics.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+33
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+34
+
+Challenges and
+opportunities
+Participants in the three workshops
+were asked to note challenges that
+needed to be overcome to achieve
+their desired scenario, and the
+opportunities that presented if their
+scenario became true. A review of
+the feedback showed all scenarios
+shared similar challenges and
+opportunities.
+
+Challenges
+
+Opportunities
+
+When asked, correspondents noted significant challenges to being
+successful in any of the scenarios above. In particular, the following six
+challenges were highlighted:
+
+When asked, correspondents noted significant opportunities
+that would be available in any of the scenarios above. In
+particular, the following six opportunities were highlighted:
+
+ Infrastructure constraints: The need to upgrade and/or retrofit
+existing infrastructure, such as electrical systems and the grid, as
+well as existing buildings is a common challenge mentioned in all
+three scenarios.
+
+D
+ ecentralised generation: The use of decentralised generation,
+such as on-site solar and battery systems, is mentioned in all
+three scenarios as a means of avoiding the need for expensive
+infrastructure investments and improving grid stability.
+
+ Regulatory challenges: The pace of regulatory change and the
+need to regulate various aspects of energy systems and
+infrastructure was noted. It was noted the grid was decarbonising
+significantly quicker than expected, and policies and plans had not
+adjusted to suit.
+
+D
+ emand response and real-time carbon tracking: The
+use of demand response initiatives and real-time carbon
+tracking that would be needed in all scenarios would provide
+an opportunity to further reduce emissions, particularly
+as the grid arrives to near-100% renewable state.
+
+ Demand response: Introducing and further cementing demand
+response initiatives in construction and building operations was
+noted repeatedly. A key challenge was identifying the level of action
+and infrastructure needed at a building, precinct, or grid level – with
+opinions split between all three scenarios.
+
+C
+ ollaboration and cross-industry engagement: The
+need for collaboration and engagement across various
+sectors and industries is mentioned in all three scenarios
+as a means of scaling solutions and driving change.
+Electrification and the rise of energy storage: The
+electrification of buildings and the rise of localised storage
+and electric vehicles is mentioned as a potential opportunity.
+It was noted that smart electrification was fundamental
+to ensuring buildings could respond in real time.
+
+ Cultural challenges: The need to overcome cultural challenges,
+such as the difficulty in winning over building owners and
+operators, is mentioned in all three scenarios. It became clear
+throughout the consultation process that there were multiple
+expectations of what needed to be done, but differing opinions
+about where responsibility lies. This was also the case due to the
+problems with the cost of deploying any solution.
+
+E
+ fficiency and cost reduction: Continued focus on driving down
+energy consumption, and peak consumption was seen as a
+great opportunity to drive down energy costs. In particular, the
+link between peak demand management and energy efficient
+buildings, and the need to reduce infrastructure investment was
+seen as a powerful opportunity that was yet to be explored fully.
+
+ Data access and integration: The need for better structured and
+cloud-connected building data and the integration of context data
+and grid signals was repeatedly mentioned. Participants noted that
+while information was available, it was difficult to parse, or wasn’t
+linked to performance data in any meaningful way.
+
+M
+ arket dynamics and pricing: The use of market
+dynamics and pricing to drive behaviour change would
+drive new potential revenue opportunities that would make
+investing in transforming existing buildings possible.
+
+ Fair cost of power: Ensuring that the cost of power is fair and that
+the grid is paid fairly for its services was also repeatedly mentioned.
+In addition to the above, there were items that were common amongst
+scenarios, but mentioned less frequently. These are:
+
+ re there any opportunities that result from the integration
+A
+of the built environment and the grid?
+
+ Aging buildings and lack of space for storage and large electrical
+infrastructure. Older buildings not designed with local solar and
+battery in mind
+Challenge of retrofitting smart grid-interactive metering
+B
+ uilding codes not adequately dealing with the issue of peak
+demand, energy storage, or electric vehicles in buildings
+B
+ uildings optimising on-site generation for themselves
+rather than overall emissions or grid services.
+
+Are there any other challenges that we should consider?
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+35
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+36
+
+Case Studies
+
+C
+A
+S
+E
+S
+T
+U
+D
+Y
+
+University of Technology Sydney:
+Dr Chau Chak Wing Building
+
+University of Technology Sydney:
+Dr Chau Chak Wing Building
+
+Grosvenor Place
+
+Location
+Sydney, NSW
+Sector
+Education
+
+EG Funds Management
+
+Network capacity charges in the
+Sydney CBD and surrounding suburbs
+are based on a building’s maximum
+half-hourly demand during the
+weekday hours 2.00pm – 8.00pm,
+and are set on a rolling twelve-month
+basis. To avoid a forecast ‘reset’ on
+17 January 2022, at 8:00am the
+
+global temperature setpoint in the
+Frank Gehry-designed business
+school building was changed from
+the normal summer setpoint (23.0°C)
+to 22.0°C. It was then raised to
+24.5°C at 1:45pm. The setpoint
+was returned to the normal 23.0°C
+setting at the end of the day.
+
+Sydney Opera House
+
+F
+ orecast GHG emissions: 6,370 kg CO2-eq (grid)
+Demand reduction: 175 kW
+M
+ easured GHG emissions: 5,350 kg CO2-eq (grid)
+GHG saving: 16%
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+37
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+38
+
+Grosvenor Place
+C
+A
+S
+E
+S
+T
+U
+D
+Y
+
+Grosvenor Place’s all-electric HVAC
+system includes a large thermal
+storage plant (ice and hot water)
+which facilitates the shifting of
+electrical loads from peak to offpeak. Until recently, the electricity
+grid needed more demand at night.
+But with demand increasing during
+daylight hours, this has created an
+opportunity for Grosvenor Place to
+adjust the operating strategy, as
+illustrated below.
+On Sunday 17 July 2022, building
+management scheduled chillers to
+run as heat pumps from 10:30am to
+3.00pm, generating hot water to help
+with the usual warm up on Monday
+
+morning. This demand is illustrated in
+the first plot, showing GHG emissions
+from electricity used throughout the
+day. Theoretically, using the official
+NSW emissions factor published
+by the Australian Government for
+reporting purposes (0.79 kg/kWh),
+the building contributed 24,013kg of
+CO2-eq emissions to the atmosphere
+during that 4.5-hour window (the
+green line). However, by taking into
+account the carbon emissions
+occurring in real-time from all the
+generators feeding the local electricity
+grid during the period, 15,790kg of
+CO2-eq emissions were measured:
+8,223kg (34.2%) less.
+
+C
+A
+S
+E
+S
+T
+U
+D
+Y
+
+Location
+National
+Sector
+Commercial
+
+EG Funds Management
+EG is proud to operate at the
+intersection of property, technology,
+and carbon. That’s why EG has
+committed to achieving ‘Real Zero’
+carbon by 2030, going beyond net zero.
+Grid interactivity is central to the target
+which takes a sophisticated, datadriven approach to reducing emissions.
+The Government’s NGA Factors for
+scope 2 emissions are merely an
+annual average of emissions intensity,
+one data point which assumes that
+every kWh of electricity consumed has
+the same carbon intensity. Given the
+pace at which different forms of energy
+– both renewable and non-renewable
+– enter and exit the grid, we know that
+this is simply not the case. Real Zero
+takes a far more granular approach to
+carbon accounting.
+Considering the live carbon intensity
+of the grid every 15 minutes, as
+opposed to once annually, allows EG to
+operate with over 35,000 data points
+
+Location
+Sydney, NSW
+Sector
+Commercial office
+
+The saving occurred because 17 July
+was a sunny day, which generated
+a significant volume of solar power
+relative to demand, reducing the need
+for coal-fired generators. In fact, for
+much of the period when the chillers
+were in operation, the wholesale
+price of electricity in NSW was zero
+or negative, reducing the need for
+fossil-fuelled generators even further.
+
+when seeking emissions reduction
+activities. One way to efficiently reduce
+carbon emissions is to identify the
+most carbon intensive energy our
+buildings are using. Reducing that
+use, rather than the energy used
+from solar generated on site or when
+there is high solar penetration in the
+grid, is an effective, cheaper way to
+achieve emissions reductions.
+Analysing a breadth of additional
+data points allows new emissions
+reduction tactics, such as demand
+management, load shifting and 24/7
+renewable energy procurement, to be
+deployed. This approach allows EG
+to go beyond net zero targets, now
+ubiquitous across the sector, seizing
+opportunities for tangible emissions
+reductions rather than depending
+on purchasing carbon offsets and
+renewable energy certificates.
+Find out more about EG’s Real
+Zero target at eg.com.au/esg
+
+If the team opted to make the same
+quantity of hot water on Monday
+morning before 7.00am (rather than
+leveraging the solar power in the
+middle of the day on the Sunday),
+GHG emissions would have been
+5,487kg higher. So, even making some
+allowance for a small amount of heat
+loss overnight, the strategy delivered
+a reduction of 5 tonnes CO2-eq of
+greenhouse gases in the atmosphere.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+39
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+40
+
+C
+A
+S
+E
+
+Between 12–3pm the building
+achieved close to 500 kWh load
+reduction on the Chiller plant
+and AHU meters compared to a
+directly comparable day (9 October
+2022, also a Sunday), without
+conditions in the venue areas
+falling outside normal limits.
+
+S
+T
+U
+D
+Y
+
+While the experiment was a clear
+success and paves the way for
+ongoing deployment of load flex
+strategies, there were no emissions
+savings because favourable weather
+meant there was enough renewable
+generation to cover the entire
+building demand until 3pm (the test
+was scheduled days in advance).
+This outcome highlights the scale
+of the opportunity and the value of
+automating the relationship between
+the forecast signal and the response.
+
+Location
+Sydney, NSW
+
+Sydney Opera House
+
+Sector
+Performing Arts
+
+The Sydney Opera House has an
+innovative power purchase agreement
+(PPA) that ties its electricity demand
+to the output of solar and wind farms
+in regional NSW. In 2022, the City of
+Sydney awarded the Opera House
+an Environmental Performance
+Innovation Grant to further explore
+ways to match its demand more
+closely to renewable energy
+production, utilising fine-grained
+forecasts of both demand and supply.
+On Sunday 7 May 2023, renewable
+energy generation was forecast to
+be plentiful in the morning before
+
+dropping off in the early afternoon.
+Drawing on a five-day-ahead forecast,
+management programmed the
+building automation system (BAS)
+to pre-cool and dehumidify three
+venues (Joan Sutherland Theatre,
+Studio and Drama Theatre) in the 90
+minutes preceding the renewables
+generation drop-off point (10:30am
+–12pm) and then shed load by
+allowing conditions to gradually return
+to normal setpoints when renewables
+were forecasted to drop (12-3pm).
+At 3pm all overridden control points
+were released back to auto.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+41
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+42
+
+Unlocking the
+potential of
+grid-interactive
+efficient buildings
+
+There are a variety of reasons why building owners and operators
+do not currently flex their load to support network capacity and
+stability. To be successful, any GEB program will need to offer
+rewards for participation that exceed the costs (perceived and real).
+
+Future role (by 2035)
+Build and own
+buildings
+Have strategies for
+managing energy
+use alongside the
+network
+Implement
+strategies in
+the portfolio
+to create new
+revenue streams
+from managing
+loads and selling
+capacity back to
+the network.
+
+Stakeholders
+These are the critical stakeholders that are part of this transition.
+
+Real estate
+executives, fund
+managers
+
+Developers, Building
+Owners & Investors
+
+Facility Managers,
+Asset & Portfolio
+managers,
+Professional
+Services, Technical
+service providers /
+contractors
+
+Utilities, energy
+retailers
+
+Government,
+regulators, policy
+makers
+
+ uild, own, and
+B
+manage ‘in front
+of the meter’
+infrastructure,
+e.g., utility scale
+generation,
+transmission,
+distribution and
+metering assets
+
+ rovide regulatory
+P
+frameworks,
+incentives and
+obligations to
+ensure the energy
+system meets
+community
+expectations for
+secure, reliable
+and affordable
+electricity supply
+
+Build and own
+the ‘behind the
+meter’ segment
+of the Australian
+electricity system
+– DER – which
+account for
+approx. 50% of
+all active system
+infrastructure.
+
+Design, operate
+and actively
+manage ‘behind
+the meter’
+infrastructure as
+DERs, including
+energy-using
+equipment, submetering, fabric
+and facades,
+distributed
+generation,
+distributed
+storage, control
+systems
+
+Build, own and
+manage ‘in front
+of the meter’
+segment of
+the Australian
+electricity system
+which accounts
+for ap <?xml
+version=”1.0”
+
+A
+ s previous page.
+
+Procure electricity
+and actively
+manage demand
+and supply
+according to its
+real-time price and
+carbon content
+to minimise cost
+and environmental
+impact.
+
+Current role
+ uild and own
+B
+buildings
+ se electricity
+U
+as required
+without regard
+for the network or
+wholesale market
+ eport on carbon
+R
+emissions on a net
+basis.
+
+ uild and own
+B
+buildings’ ‘behind
+the meter’
+infrastructure,
+e.g., energyusing equipment,
+cabling, submetering,
+distributed
+generation,
+distributed
+storage, control
+systems
+ se electricity
+U
+as required
+without regard
+for the network or
+wholesale market.
+
+ esign and
+D
+operate ‘behind
+the meter’
+infrastructure
+ rocure electricity
+P
+via retailers
+Influence
+electricity use
+without regard
+for the network or
+wholesale market.
+
+ alance and
+B
+control the grid
+through market
+participation and
+operations
+ nsure secure,
+E
+reliable and
+affordable
+electricity supply
+for consumers.
+
+ evelop strategies,
+D
+implement
+plans, and
+monitor progress
+towards meeting
+commitments
+made under the
+UNFCCC’s Paris
+Agreement.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+43
+
+From challenge to
+opportunity
+
+Governance
+Challenge: Federal and state governments, policymakers, and
+regulators play a vital role in supporting, and facilitating and
+incentivising demand flexibility, but there is a lack of consistent
+standards and regulations and supportive policies and programs.
+Opportunity: State programs like NSW’s Peak Demand Reduction
+Scheme and QLD’s Peaksmart promote demand response opportunities.
+Green Star introduced a ‘Grid Resilience’ credit to advance the
+discussion, while NABERS is partnering with the GBCA to explore ways
+to support 24/7 renewable energy. Amendments to the NCC could
+help foster grid-interactive solutions in the built environment.
+
+Industry awareness
+Challenge: GEBs are not considered ’business-as-usual’,
+and there is limited industry awareness and negative
+perception about how difficult they are to deliver.
+Opportunity: Industry associations and key innovators are mainstreaming
+the idea of buildings as solutions. Electrifying buildings offers
+opportunities to implement smart systems and relevant upgrades.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+44
+
+49. CSIRO & DeltaQ, Digital Innovation
+Opportunity for Energy Productivity
+in Non-Residential Buildings.
+Accessed April 2023
+
+Technical feasibility
+
+Cost and complexity
+
+Challenge: GEBs require expertise, client demand, and technical know-how,
+but the building and construction industry lacks familiarity with grid-interactive
+technologies and design tools.
+
+Challenge: Consumers are hesitant to adopt grid-interactive efficient building
+technologies due to high upfront costs and complexity. Demand flexibility
+functionality can add complexity to technology operation and present an
+additional barrier, particularly in commercial buildings where demand response
+capability comes from non-automated (i.e. manual) peak load reductions.
+
+Opportunity: Governments and industry stakeholders can promote education
+and training programs focused on grid-interactive technologies and design
+tools, increasing familiarity and expertise within the building and construction
+industry. This will encourage adoption and help create client demand for GEBs.
+
+Technology maturity
+Challenge: Some grid-interactive efficient building technologies are rapidly
+changing, introducing a potential risk of technological obsolescence to early
+adopters, which can limit their deployment.
+Opportunity: Governments and market players can collaborate to establish
+incentives, such as tax breaks or grants, for early adopters of emerging
+technologies. This can help mitigate the risk of obsolescence, encourage
+adoption, and accelerate the deployment of GEBs.
+
+Opportunity: Governments and industry stakeholders can provide
+financial incentives, such as rebates or low-interest loans, to offset high
+upfront costs and promote the adoption of grid-interactive technologies.
+Additionally, they can invest in research and development to simplify
+demand flexibility functionality and improve user interfaces, making
+the technologies more accessible and appealing to a broader range of
+consumers, including commercial building owners. Artificial intelligence
+solutions will also reduce the complexity by being able to manage large
+amount of data and take predictive actions based on network conditions.
+
+Lack of understanding or incentives
+
+Connectivity and interoperability
+Challenge: Reliable, cyber-secure connectivity and interoperability are crucial
+for ensuring adoption at scale, but seamless connectivity is not yet widespread,
+resulting in expensive integration efforts.
+Opportunity: Governments and industry stakeholders can collaborate to develop
+and implement standardised, secure protocols and frameworks that promote
+seamless connectivity and interoperability. By doing so, they can reduce
+integration costs, enhance cyber-security, and foster the widespread adoption of
+GEBs.
+
+Challenge: Generally, owners and operators of large non-residential buildings
+do not prioritise energy management, and the same is true for residential
+customers. Any grid-interactive efficient building program will need to engage
+and motivate building owners and operators by offering tangible benefits.
+Opportunity: Governments and industry stakeholders can develop and promote
+awareness campaigns showcasing the economic and environmental benefits of
+grid-interactive efficient building technologies. By highlighting cost savings and
+revenue generating opportunities as well as move accurate and reduced carbon
+emissions, these campaigns can engage and motivate building owners and
+operators to prioritise energy management and adopt grid-interactive solutions
+
+Utility trust and incentives
+
+Digital Innovation Opportunity for Energy Productivity in Non-Residential Buildings49
+Published by CSIRO in 2023,
+the report discusses digital
+technologies and systems,
+digitalisation applications for energy
+productivity, costs, examples of
+Australian companies, barriers
+and drivers for increased adoption,
+recent unpublished surveys
+and focus group, standards and
+certification review, national benefit
+potential, pilot narratives, synthesis,
+and recommendations:
+
+.
+
+ eveloping a national
+D
+digitalisation program that
+includes a range of initiatives
+such as pilot programs, research
+and development, and industry
+engagement
+ stablishing a Smart Building
+E
+Digital Technology Accelerator
+pilot program that focuses on
+developing digital technologies
+that can improve energy
+productivity in non-residential
+buildings
+
+ ncouraging industry
+E
+collaboration to develop new
+digital technologies that can
+improve energy productivity in
+non-residential buildings.
+According to the report, the national
+benefit potential of digital innovation
+in non-residential buildings is
+significant. The report suggests that
+digitalisation can lead to a 5-10%
+reduction in energy consumption,
+which translates to a potential
+saving of $1.3 billion per year.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+45
+
+Challenge: Utilities and power grid operators may not trust
+demand flexibility performance and do not have sufficient financial
+incentives to pursue energy efficiency and demand flexibility.
+Opportunity: Governments and regulatory bodies can re-evaluate and adjust
+existing regulatory frameworks to incentivise utilities and power grid operators to
+invest in energy efficiency and demand flexibility. This can include performancebased incentives, development of pilots, and establishing demand response
+markets. These actions will help foster greater trust and collaboration between
+utilities, grid operators, and grid-interactive efficient building stakeholders.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+46
+
+50. Energy Efficiency Council, Clean
+Energy, Clean Demand. Accessed
+April 2023
+
+Financial payback
+
+What would industry like to see from all stakeholders?
+
+Challenge: While grid-interactive efficient building and zero-carbon-ready
+buildings have a higher upfront cost than other green and non-green buildings,
+investor and owner returns on investment can differ greatly depending on
+the market in which the building is built, taking into account energy costs,
+incentive programs, and climate policies such as a tax on carbon.
+
+When asked, correspondents noted there were several actions that they would want to see from all stakeholders
+to ensure success. Similarly, stakeholders were asked to do this with their chosen scenario – however, analysis
+showed that while the amount that needed to be done differed between scenarios, the broad levers were similar:
+
+Opportunity: Governments and industry stakeholders can work together to
+establish comprehensive, region-specific incentive programs and supportive
+policies that account for local energy costs and climate goals. By doing so,
+they can help level the playing field for grid-interactive and zero-carbon-ready
+buildings, making them more attractive investments and facilitating broader
+market adoption. These changes can also drive investment in GEBs by turning
+them into revenue-generating assets, rather than just consumers of energy.
+
+Renewable energy
+and storage
+
+A
+ ccelerate the move to 100% renewable energy and increase renewable generation,
+grid storage, and stability infrastructure
+M
+ ake EVs and battery storage cheaper and increase the use of hydrogen storage.
+
+Carbon pricing and
+energy efficiency
+
+Implement a carbon pricing mechanism and add carbon pricing to existing white
+certificate schemes
+S
+ hift the focus from energy efficiency to carbon efficiency, calculated in real time,
+and implement carbon accounting standards that recognise demand flexibility
+P
+ romote real-time carbon accounting and increase disclosure across all building
+types.
+
+Grid participation
+and market design
+
+Clean Energy, Clean demand
+
+50
+
+Published by the Energy Efficiency Council in 2023, The report “Clean
+Energy, Clean Demand” covers a wide range of issues related to energy
+management, renewables and electrification. It acknowledges the dramatic
+changes in the energy sector in the past decade and how low-cost
+renewable energy and electrification impact energy efficiency.
+The report notes the following findings:
+
+P
+ rovide practical guidance and technology support to users at different scales to
+assist with the transition to a more sustainable energy system
+Establish a clear connection between energy markets and demand signals and
+provide incentives for GEBs
+P
+ romote community grid participation and reimagine the full value stack to allow
+deferred network investment to flow through to end users
+Implement simple market design with clear market signals and update current rules
+around embedded networks and microgrids to allow flexibility
+
+M
+ anaging demand and supply is critical for a fast, reliable, and
+affordable energy transition.
+
+E
+ ncourage leadership and bravery in government to try new approaches and provide
+a roadmap for the grid
+
+E
+ lectrifying efficiently will support the rapid, affordable decarbonisation
+of electricity.
+
+Foster a shift in people’s relationship with energy and make the transition to a more
+sustainable energy system intuitive and easy for everyone.
+
+D
+ riving down the total cost of our energy systems will reduce bills for
+consumers.
+
+There were other items that were discussed, including,
+
+T
+ ransforming energy demand requires urgent focus.
+Two recommendations are directly related to the question of GEBs. In
+particular, the report notes the challenges of modelling and optimising
+demand- and supply-side measures and recommends building capacity to
+be able to do this. The report also notes the need to integrate demand-side
+solutions from buildings and appliances.
+
+ The need for technologies to enable buildings to interact with the grid in both directions
+T
+ he importance of mandatory disclosure, policies regarding energy management systems and vehicle-to-grid
+integration, and the requirement for developments to contribute to new renewable and storage infrastructure
+T
+ he need for actual disclosure of the source of electricity used, behind-the-meter net energy metering
+equivalent systems, and clear market signals
+T
+ he need for greater flexibility in accessing and using the network to distribute power, incentives for GEBs, and
+a shift in focus from efficiency to demand management.
+
+Is there any other policy or private solution that you would like to see?
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+47
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+48
+
+Roadmap
+
+Medium-term actions (5-10 years)
+Monitor and report GHG
+emissions based on
+hourly intensity data
+
+Developers, Building
+Owners & Investors
+
+Facility Managers, Asset
+& Portfolio managers,
+Professional Services,
+Technical service providers
+/ contractors
+
+Utilities, energy retailers
+
+Deploy DER investments
+to actively manage load
+in real-time to minimise
+carbon emissions
+
+Government, regulators,
+policy makers
+
+Leaders will achieve
+24/7 renewable energy
+operations within this
+timeframe.
+
+Short-term actions (2-3 years)
+ ngage with training and
+E
+awareness programs
+addressing real-time
+carbon accounting and
+management
+
+ ngage with training and
+E
+awareness programs
+addressing real-time
+carbon accounting and
+management
+
+ evelop strategies and
+D
+begin implementing
+plans to harness ‘behind
+the meter’ infrastructure
+for real-time carbon and
+cost savings
+
+ eek opportunities to
+S
+achieve commercial
+outcomes from
+implementing realtime carbon and cost
+management
+
+ ommence reporting
+C
+GHG emissions based
+on real-time carbon
+intensity of electricity
+supplies, in addition
+to average annual
+emissions factors
+
+ ngage with retailers
+E
+to procure electricity
+with incentives for realtime carbon and cost
+management.
+
+ ommit to ‘zero carbon’
+C
+goals, i.e. beyond ‘net
+zero’.
+
+Introduce attractive
+retail products that
+pass-through wholesale
+market price signals to
+reward active efficiency
+behaviours.
+
+Introduce a real-time
+carbon accounting
+standard
+ ake real-time carbon
+M
+data easy to access and
+widely available
+ ransition energy
+T
+efficiency ratings to
+carbon efficiency ratings
+and/or establish new
+ones
+Introduce obligations for
+retailers to engage with
+/ support customers
+on active efficiency
+measures
+
+Design, operate and
+actively manage ‘behind
+the meter’ infrastructure
+as DERs through
+automated control and
+interfacing with market
+data
+Procure electricity
+and actively manage
+demand and supply
+according to its realtime price and carbon
+content to minimise
+cost and environmental
+impact.
+
+Operate and support
+an active two-sided
+electricity market
+that supports full
+‘behind the meter’ /
+DER participation and
+provide the products,
+services and technology
+interfaces to reward
+active efficiency
+behaviours.
+
+F
+ urther develop and
+enhance suite of shortterm actions noted on
+page 49. Government,
+regulators and policy
+makers must act swiftly
+and decisively to create
+the conditions for other
+stakeholders to act over
+the medium-term.
+
+Long-term actions (10-20 years)
+Monitor and report
+progress towards 24/7
+renewable energy
+operations
+Actively manage DERs
+in real-time to minimise
+cost and carbon
+emissions.
+
+Further develop and
+enhance suite of
+medium-term actions
+noted above.
+
+Eliminate any distinction
+between in-front of
+the meter / behind the
+meter (DER) market
+participation.
+
+F
+ urther develop and
+enhance suite of
+medium-term actions
+noted above.
+
+ evelop training and
+D
+awareness programs.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+49
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+50
+
+was established in 2002 and
+Our role in driving GBCA
+since then, we have developed rating
+tools which are respected around
+grid-interactive
+the world, forged strong networks,
+efficient buildings and built a strong reputation within
+
+industry and government. By working
+collaboratively to drive the uptake of
+
+the Green Star rating system, we have
+encouraged leadership, transformed
+industry practice, and created
+enduring value for asset owners,
+investors, managers, and the people
+who live, work, and play in buildings.
+
+We lead the sustainable transformation of our built environment
+
+Rate
+
+Delivering climate
+positive grid-interactive
+efficient buildings
+Global megatrends are shaping the
+built environment like never before.
+
+Advocate
+
+Educate
+
+Since then, we introduced the Grid
+Resilience credit in Green Star
+Buildings and Green Star Performance
+v2. In the release of ‘A Climate Positive
+Roadmap for Precincts’ we noted that
+this issue would also be addressed
+in Green Star Communities v2.
+
+Climate action, resource efficiency
+and health & wellbeing are at the
+top of issues to address. Issues
+related to these, such as resilience,
+biodiversity and nature losses, and a
+stronger focus on social impacts are
+
+rising in importance. The megatrends
+and issues can be best described
+in this diagram (Figure 13), which
+outlines how they are both distinct
+issues and also interrelated.
+
+FIGURE 13
+
+Global megatrends and issues. Adapted from World Green Building Council
+2020-2022 strategy
+
+Resource
+Resource
+& &
+circularity
+Circularity
+
+Driving a climate
+positive built
+environment
+
+to set the context of a future situation
+with the goal of building consensus on
+what an appropriate response should
+be from the private and public sectors.
+
+The built environment is key to achieving our climate goals. Our Climate Positive
+Roadmap outlines six elements needed to decarbonise the built environment:
+
+Collaborate
+
+In 2018, with the release of ‘A Climate
+Positive Roadmap for Buildings and
+Fitouts’, we emphasised the need to
+resolve how the built environment
+would need to interact with the
+grid to continue driving further
+decarbonisation of our sector.
+
+Climate
+Climate
+Action
+Action
+
+As part of the Climate Action
+megatrend, the built environment
+must act now to decarbonise as
+rapidly as possible. Key to this is the
+built environment’s role in the context
+of a changing grid. This paper aims
+
+Health
+Health
+&&
+Wellbeing
+Wellbeing
+
+1 1
+
+Net
+zero
+emissions
+Net
+Zero
+emissions
+
+4 4
+
+Circular
+Circulareconomy
+economy
+
+7 7
+
+Health and
+and wellbeing
+wellbeing
+
+2 2
+
+Climate
+resilience
+Climate
+resilience
+
+5 5
+
+Embodied
+Embodiedmaterials
+materials
+
+8 8
+
+People
+and equity
+equity
+People and
+
+3 3
+
+Nature
+Nature
+
+6 6
+
+Water cycle
+Water cycle
+
+9 9
+
+Community resilience
+Community resilience
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+Lower embodied
+emissions
+
+Highly efficient
+
+Fossil fuel-free
+
+Uses lower carbon
+products and
+incentivises change
+in the supply chain.
+
+Reduces and manages
+energy loads needed to
+operate the building.
+
+The building does
+not use fossil fuels
+for heating, cooling,
+cooking or power,
+and uses low impact
+refrigerants.
+
+Powered by
+renewables
+
+Offset with nature
+
+Partner for success
+
+The building is fully
+powered by on-site
+or off-site renewable
+energy.
+
+Invests in natural
+solutions to capture
+and store carbon from
+non-energy carbon
+emissions.
+
+Assists tenants
+and occupants to
+decarbonise through
+quantifying emissions
+and procuring
+renewables.
+
+These six elements underpin our advocacy, education activities, and guide the
+evolution of the Green Star rating tools. GEBs help resolve two of these: highly
+efficient and fossil fuel free.
+Our goal is simple: drive the built environment from net zero to zero.
+
+51
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+52
+
+Advocating for
+grid-interactive
+efficient buildings
+
+A grid-interactive
+Green Star
+
+GBCA has identified the following key areas for governments to focus
+their efforts in ensuring buildings can be part of the discussion as the grid
+decarbonises.
+
+Green Star aims to significantly
+drive the decarbonisation of the
+built environment. The Positive
+category aims to challenge industry
+to deliver fossil fuel free, highly
+efficient buildings, fully powered by
+
+Review building codes and standards to accelerate the
+deployment of grid-interactive technologies
+GBCA recommends introducing
+consideration for grid-interactive
+technologies in buildings as part
+of the Australian Building Codes
+Board’s workplan. This is in line with
+recommendations from the IEA. In the
+short term, we support reviewing the
+content of the NCC and its supporting
+standards to ensure all-electric
+buildings are the norm and to ensure
+all new buildings are designed and
+delivered as all-electric buildings.
+GBCA recommends that the Australian
+
+Government, working with state
+and territory governments should:
+Introduce requirements for all
+electric solutions for heating,
+cooking, and hot water in buildings
+Introduce requirements to account
+for the future electrification of the
+transport fleet and the effects on
+the building’s electrical systems
+Explore further requirements for
+grid-interactive technologies for
+introduction in future updates of
+the NCC.
+
+GBCA recommends that all levels of
+government:
+E
+ xplore how incentive or rating
+programs, such as NABERS, can be
+used to incentivise electrification
+and demand response solutions
+in the built environment
+P
+ rovide guidance on how to ensure
+utility infrastructure is upgraded to
+address the increase in electricity
+demand and demand response
+solutions
+D
+ evelop a digital strategy that
+will allow for the integration of
+
+buildings as energy nodes in
+the electricity system through
+better use of data flows and
+appropriate software, including
+directing renewable energy
+generation to the points of best
+use, coordinating batteries in
+millions of electric vehicles (via
+buildings), synchronising heat
+pumps, hot water systems and
+other appliances
+
+U
+ ndertake research to understand
+further opportunities for GEBs.
+E
+ xplore how to improve the current
+renewable certificate scheme
+to add real-time information in
+preparation of potential changes
+to the Greenhouse Gas Emissions
+Protocol.
+
+Responsible
+
+Positive
+
+Places
+
+People
+
+Nature
+
+Leadership
+
+a similar outcome. Figure 14, for
+example, outlines the credits in Green
+Star Performance v2.
+
+Healthy
+
+Resilient
+
+Positive
+
+ Industry development
+
+ Clean air
+
+ Climate change resilience
+
+ Energy use
+
+ Responsible operations
+
+ Light quality
+
+ Operation resilience
+
+Energy source
+
+ Ongoing operations
+
+ Acoustic comfort
+
+ Community resilence
+
+ Tenant energy source
+
+ esponsible Resource
+R
+Management
+
+Exposure to toxins
+
+Grid resilience
+
+ Other carbon emissions
+
+Responsible procurement
+
+Pilot digitalisation technologies and
+establish a program to implement
+digitalisation technology and
+demand flexibility in government
+buildings.
+Provide incentives, clear
+communication, and education to
+promote opportunities for testing
+and delivering GEBs at scale.
+
+
+
+Resilient
+
+FIGURE 14
+
+Introduce obligations for retailers to
+engage with / support customers
+on active efficiency measures.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+Healthy
+
+Driving a climate positive built environment in Green Star Performance v2
+
+Invest in applied research and provide access to information
+and tools
+GBCA recommends that the Australian
+Government, working with state
+and territory governments should:
+
+Responsible
+
+Green Star Buildings, Green Star
+Performance v2, and Green Star
+Communities v2 will feature a
+combination of credits that drive
+
+Continue with efforts to decarbonise the grid, and enable
+grid-integration
+
+renewables. The resilient category
+recognises that the infrastructure will
+be critical in this decarbonisation step.
+The grid resilience credit is within this
+category.
+
+53
+
+ Connection to nature
+
+ Upfront carbon emissions
+
+ Thermal comfort
+
+ Waste reduction
+
+ Health promotion
+
+ Water use
+
+ Amenity and comfort
+
+ Tenant fitout waste reduction
+
+Places
+
+People
+
+Nature
+
+Leadership
+
+Movement and place
+
+ Indigenous inclusion
+
+ Impacts to nature
+
+ Market transformation
+
+ Enjoyable places
+
+Procurement and workforce
+economic inclusion
+
+Biodiversity enhancement
+
+ Leadership challenges
+
+ Inclusive buildings
+
+ Waterway protection
+
+ Culture, heritage and identity
+ Amenity diversity
+
+ Privacy
+
+ Nature stewardship
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+54
+
+51. IEA, Net Zero by 2050: A Roadmap
+for the Global Energy Sector.
+Accessed April 2023
+
+This new credit works in tandem with
+the rest of the energy related credits in
+the Positive Category. The table below
+outlines how the multiple Green Star
+rating tools align with the IEA’s criteria
+for zero-carbon-ready buildings.51
+
+As part of the redevelopment of the
+rating system, and based on more
+recent understanding of the rapidly
+
+Description (adapted from IEA’s
+definition)
+
+Green Star
+Credit
+
+Energy use
+
+Passive design, building upgrades,
+efficient equipment and good operations
+reduce energy demand
+
+Energy use
+
+Energy
+supply
+
+Buildings should be fossil fuel free, and
+use local renewable generation and energy
+storage in addition to grid renewables
+
+Energy
+source
+
+Integration
+with power
+systems
+
+Buildings must use automation to manage
+electricity use, becoming a flexible
+resource for the energy system.
+
+Grid
+Resilience
+
+Buildings
+and
+construction
+value chain
+
+Materials selected should be the lowest
+upfront carbon, with design solutions used
+to reduce the need for products in the
+building.
+
+Upfront
+carbon
+emissions
+
+Homes
+
+IEA
+definition
+
+Communities
+v2
+
+transitioning grid, the decision was
+made to develop grid resilience. This
+new credit shared some elements of
+the old credit, but featured a revised
+outcome and areas of interest. The
+new outcome states: The building is
+more resilient to a transitioning grid,
+grid events, and is reducing its burden
+on the grid.
+
+Performance
+v2
+
+Since the beginning, Green Star as
+a rating system for buildings had
+always had a credit for managing
+peak energy, or electricity, demand in
+some form. That credit, or its multiple
+variations, had the aim: To encourage
+the reduction of peak demand load on
+the electricity network infrastructure.
+That credit, which mostly went by
+the name ‘Peak electricity demand
+reduction’ was commonly met
+through a combination of reducing
+energy consumption in the building in
+total’s demand, with some element of
+additional generation.
+
+Buildings
+
+From peak electricity
+demand reduction
+to grid resilience in
+Green Star
+
+*
+
+*
+
+* G
+ reen Star Homes has a requirement for ensuring batteries or other storage can be introduced at a later time.
+Future updates of this standard will have requirements introduced on both topics.
+
+Next steps in
+Green Star
+
+A key element in being able to further
+deliver GEBs is the lack of indicators
+that can be used to measure success.
+While we currently have indicators
+in Australia for energy efficiency and
+greenhouse gas emissions in the
+building sector, we lack indicators to
+understand how to shift from ‘net’ zero
+buildings to zero carbon buildings.
+As part of future development
+of Green Star, and in continued
+partnership with NABERS, we will
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+55
+
+work with industry to develop a
+potential ‘time of use’ indicator that
+can be used to benchmark a building’s
+use of renewables in real time. This
+work is expected to occur in 2024,
+starting with the development of
+leadership challenges for Green Star
+Performance v2.
+If you are interested in assisting us in
+this area, please contact us via this
+survey.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+56
+
+Taking action
+today is critical
+52. AEMO, 2022 Integrated System
+Plan, Accessed April 2023
+53. Infrastructure Australia,
+Infrastructure Workforce Skills
+Supply Workforce, Accessed April
+2023
+54. WELD Australia, 2023 Member
+Survey, Accessed April 2023
+
+Let’s work together
+to help deliver gridinteractive buildings
+
+With coordinated action from GEBs…
+
+The clean energy transition and electrification of the built
+environment will cost less.
+AEMO, in its ISP published in June
+2022, has projected a nine-fold
+increase in grid-scale wind and solar
+capacity and a near five-fold increase
+in distributed solar by 2050. To
+accommodate this transformation
+of the Australian electricity system,
+AEMO has called for “urgent efforts”
+to invest $12.7 billion in currently
+actionable transmission infrastructure
+projects. This investment constitutes
+about 4% of the $315 billion total
+spend “needed to develop, operate
+and maintain the generation, storage
+
+and future network investments of the
+NEM to 2050”.52
+While AEMO’s modelling takes into
+consideration the energy efficiency
+policies of state and federal
+governments, currently there are
+limited policies outside of NSW (see
+NSW Peak Energy Demand Reduction
+Scheme breakout box on p.24) to
+harness the potential for GEBs. AEMO
+has therefore had to assume an
+unnecessarily high cost to provide
+additional generation, storage, and
+network infrastructure.
+
+This document aims to start a
+discussion on how to deliver GEBs,
+and there’s plenty more to do
+before we can ultimately deliver
+them. GBCA aims to release further
+work and updates to Green Star to
+address this topic. We also aim to
+work with partners such as NABERS
+to continue advocating for better
+building and grid integration.
+We all have a role to play in delivering
+a more resilient built environment.
+We are calling on industry to:
+Achieve Green Star certification
+for your buildings
+
+update our Green Star rating tools.
+ oin us in providing feedback on
+J
+this paper through this survey
+ upport GBCA’s policy platform by
+S
+advocating for more transparency
+in the energy sector
+ eek the support of government
+S
+to make the necessary changes to
+policy and codes
+ artner with us to deliver skills,
+P
+services, and mechanisms to drive
+change in industry
+ elp us build a market for a
+H
+climate positive built environment.
+
+Be involved as we continue to
+
+The electricity system will be more stable.
+As noted by AEMO, even if actionable
+projects “progress as urgently as
+possible”, in some cases “the optimal
+timing would be earlier than what
+is achievable” (p.12). Large-scale
+infrastructure investments can be
+delayed for myriad reasons, including
+shortages in the availability of
+labour, skills, finance, and materials
+and the need to take community
+and environmental considerations
+into account. For example, by 2024
+Australia is expected have a shortfall
+of 41,000 engineering professionals
+required to deliver currently committed
+
+public infrastructure projects53
+and Weld Australia is forecasting a
+shortfall of 70,000 welders by 2030.54
+Stop-gap measures may be required
+to maintain grid stability and address
+delays in the delivery of planned
+infrastructure investments. These
+include involuntary curtailment
+(shutting off) of variable renewable
+energy generation during favourable
+wind and solar conditions and brownouts, black-outs, and involuntary load
+shedding at times of peak demand.
+
+Renewable energy investment returns will be higher.
+Because non-dispatchable renewable
+energy generators like wind and
+solar rely on the weather, they must
+use financial instruments or storage
+technologies to manage their market
+exposure and access the most
+favourable pricing. Alternatively, they
+can just disconnect from the grid at
+times when weather conditions are
+good and wholesale power prices are
+negative.
+All of these approaches are costly
+and discourage investment because
+
+they diminish investment returns.
+By contrast, if so-called ‘firming’
+can instead be provided from GEBs
+shifting their demand according to
+the availability of clean energy, the
+wholesale market price becomes more
+stable. Excess generation at times of
+high wind and solar availability will be
+taken up by buildings at a fair price to
+the generators, thus enhancing their
+investment returns and driving more
+investment.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+57
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+58
+
+Appendix A:
+definitions
+
+Grid interactivity is a rapidly evolving area. As such, terminology
+can evolve quickly too. The list below outlines key terms and their
+definitions as intended in this paper.
+
+Load management or demand-side management: The process of balancing
+the supply of electricity on the network with the electrical load by adjusting or
+controlling the load rather than the power station output.
+
+24/7 renewable energy: A situation where every kilowatt-hour of electricity
+consumption is met with carbon-free electricity sources, every hour of every day,
+everywhere. It is the end state of a fully decarbonised electricity system.
+
+Net zero carbon buildings: The World Green Building Council defines a net
+zero carbon building as a highly energy efficient building that produces on-site,
+or procures, enough renewable energy to meet building operations energy
+consumption annually.
+
+Active efficiency: A method to optimise energy usage that combines traditional
+energy efficiency and demand response measures with the opportunities
+afforded by digital technology (such as smart meters).
+
+Virtual Power Plant (VPPs): A network of DERs that work together to perform
+services resembling the output of a power plant.
+
+Baseload capacity: The minimum level of demand on an energy grid over a
+specific period, such as a week. This demand can be met by power plants,
+dispatchable generation or a collection of smaller intermittent energy sources.
+Demand for electricity fluctuates vastly throughout a day, so baseload power
+may not necessarily be enough.
+
+Zero-carbon-ready building: Defined by the International Energy Agency (IEA)
+as a highly energy efficient building that either uses renewable energy directly or
+uses an energy supply that will be fully decarbonised by 2050, such as electricity
+or district heat.
+
+Curtailment: Any deliberate action taken by grid managers that reduces the
+amount of electricity generated within an energy grid (such as turning off solar
+or wind power). This action is usually taken to maintain the balance between
+supply and demand to manage voltage and power quality.
+Demand response: A voluntary reduction or shift in the rate of electricity
+consumption undertaken by a building owner or operator. It can help balance
+electricity supply and demand, ensuring a power grid is stable, flexible and
+reliable. This is particularly important as power grids are comprised of an
+increasingly large share of renewable energy.
+Distributed energy resource (DER): Resources that are connected to the
+distribution system that generate or store electricity, or actively manage
+electricity demand. These resources may be connected behind-the-meter
+(rooftop solar or household batteries) or in-front-of-the-meter (community-scale
+battery). It may also include electric vehicles and related charging and vehicleto-grid infrastructure, and technology used to actively manage a consumer’s
+electricity demand.
+Energy efficiency: An ongoing reduction in energy use to provide the same
+or improved functionality. For example, energy-efficient LED light bulbs use
+75% to 80% less electricity, while still producing the same amount of light as
+incandescent light bulbs.
+Firming: Maintaining the output from a variable, intermittent power source, such
+as wind or solar, for a committed period of time.
+Grid-interactive efficient building: An energy-efficient building that uses smart
+technologies and on-site DERs to provide demand flexibility to reduce GHG
+emissions while optimising for energy costs, grid services, and occupant needs.
+A grid-interactive efficient building is capable of providing energy-efficient
+building services and dynamic grid services through connected, smart control of
+multiple flexible building loads and DERs.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+59
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+60
+
+Australia’s Electricity
+System
+
+Range
+
+1. Key findings
+
+Consumption
+(commercial / inst.)
+
+kWh/m2
+
+225
+
+100-350
+
+Source: NABERS reverse
+calculator, assumes a ~3-star
+average all-electric building
+
+Consumption
+(residential)
+
+kWh/m2
+
+46
+
+20-70
+
+Source: Various online, author
+experience, assumes ave
+dwelling 25kWh/day, 200m2
+
+Demand (commercial
+/ inst.)
+
+W/m2
+
+40
+
+25-60
+
+Source: Buildings Alive data
+
+Demand (residential)
+
+W/m2
+
+20
+
+10-40
+
+Source: Various online, author
+experience, assumes ave
+dwelling 4kW peak 1/2 hourly
+demand, 200m2
+
+Office buildings
+
+m2
+
+70
+
+Source: author estimate
+based on PCA investment
+grade
+
+Retail buildings
+
+m2
+
+50
+
+Source: author estimate
+based on PCA investment
+grade
+
+Institutional buildings
+
+m2
+
+30
+
+Source: estimate
+
+Other buildings
+
+m2
+
+50
+
+Source: estimate
+
+Residential
+
+m2
+
+1400
+
+Source: author estimate,
+assumes 25M population,
+3.5 people per 200m2
+household (57m2 per person)
+
+ uildings account for approximately 50% of Australia’s electricity
+B
+consumption, residential / non-residential split is ~60/40
+Approximately 77% of Australia’s available electricity system capacity at peak
+times is used by residential and non-residential buildings
+If 30% of electricity demand from buildings was shifted from peak times
+to the middle of the day, 23% would be added to Australia’s dispatchable
+capacity, this is equivalent to:
+– 47% of Australia’s existing coal generation capacity
+– 98% of Australia’s existing gas and liquid-fuelled generation capacity
+
+Unit
+
+Range
+
+This paper calculated benefits related to GEBs. They are
+presented here to allow for review and improvement.
+
+Peak
+
+Appendix B:
+Calculating
+the benefits of
+grid-interactive
+buildings
+
+Annual
+Estimate
+
+Summer/Winter
+
+– 154% of Australia’s existing hydro generation capacity
+– 720% of Australia’s existing pumped hydro & battery storage capacity
+If that amount of load shift occurred for three hours every weekday, i.e.
+driving up demand for three hours in the middle of the day and reducing
+it by the same amount in the morning / evening (but not reducing overall
+consumption):
+– Australia’s GHG emissions would reduce by 0.5%
+– The cost of supplying electricity to Australia’s commercial, institutional and
+residential buildings each year would reduce by $1.5 billion.
+
+Currently, the NEM relies on dispatchable firm capacity from:
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+61
+
+Coal-fired generation
+
+23,000
+
+Source: here
+
+Gas-fired and liquidfuelled generation
+
+11,000
+
+Source: here
+
+Hydro generation
+
+7,000
+
+Source: here
+
+Pumped hydro &
+battery storage
+
+1,500
+
+Source: here
+
+TOTAL MW
+
+42,500
+
+Source: here
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+62
+
+NEM carbon intensity
+evening / morning
+
+kg/kWh
+
+NEM carbon intensity
+middle of day
+
+kg/kWh
+
+0.8
+
+0.5
+
+Range
+
+Annual
+Estimate
+
+Unit
+
+Range
+
+Australia’s Electricity
+System
+
+Peak
+
+Summer/Winter
+
+Australia’s Electricity
+System
+
+CALCULATIONS (NB. these include WA SWIS as well as the NEM)
+Consumption
+(commercial / inst.)
+
+GWh/yr
+
+45,000
+
+20%
+
+Source: Buildings Alive,
+generated from NEM fuel-mix
+data
+
+Consumption
+(residential)
+
+GWh/yr
+
+64,400
+
+29%
+
+Consumption (nonbuilding uses)
+
+GWh/yr
+
+110,600
+
+50%
+
+Consumption - ALL
+
+GWh/yr
+
+220,000
+
+100%
+
+Demand (commercial /
+inst.)
+
+MW
+
+8,000
+
+17%
+
+Demand (residential)
+
+MW
+
+28,000
+
+60%
+
+Other sources of
+demand (at peak times)
+
+MW
+
+10,750
+
+23%
+
+Dispatchable capacity AU ALL
+
+MW
+
+46,750
+
+100%
+
+$/MWh
+
+200
+
+Source: Buildings Alive,
+generated from NEM fuel-mix
+data
+
+Wholesale price
+middle of the day
+
+$/MWh
+
+20
+
+Source: Buildings Alive,
+generated from NEM fuel-mix
+data
+
+kt CO2-e
+
+Quantity % of total
+
+Source: Buildings Alive,
+generated from NEM fuel-mix
+data
+
+Wholesale price
+evening / morning
+
+Australia's national
+greenhouse gas
+emissions account
+
+Unit
+
+50%
+
+Source: derived from here (FY22
+approx. 200GWh on the NEM and
+20GWh on the SWIS)
+
+77%
+
+488,000
+
+Assuming a peak load shift in buildings of …
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+63
+
+of Australia’s annual electricity
+consumption comes from buildings
+
+of Australia's available capacity at
+peak times is used by residential and
+non-residential buildings
+
+33%
+
+Peak demand reduction
+(commercial / inst.)
+
+MW
+
+2,640
+
+(equiv. peak capacity increase)
+
+Peak demand reduction
+(residential)
+
+MW
+
+9,240
+
+(equiv. peak capacity increase)
+
+Dispatchable capacity
+from buildings
+
+MW
+
+11,880
+
+25%
+
+would be added to Australia's
+dispatchable capacity
+
+52%
+
+of Australia's existing coal generation
+capacity
+
+108%
+
+of Australia's existing gas and liquidfuelled generation capacity
+
+170%
+
+of Australia's existing hydro generation
+capacity
+
+792%
+
+of Australia's existing pumped hydro &
+battery storage capacity
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+64
+
+Australia’s Electricity
+System
+
+Unit
+
+Quantity
+
+…and assuming peak to daytime load shift is for…
+Reduction in emissions
+(commercial / inst.)
+
+kt/yr
+
+618
+
+Reduction in emissions
+(residential)
+
+kt/yr
+
+2,162
+
+Reduction in emissions
+from buildings
+
+kt/yr
+
+2,780
+
+Reduction in
+electricity supply cost
+(commercial / inst.)
+
+$ mil
+
+371
+
+Reduction in electricity $ mil
+supply cost (residential)
+
+1,297
+
+Reduction in electricity
+supply cost to buildings
+
+$ mil
+
+3
+
+hours per day, 5 days per week
+
+0.57%
+
+reduction in Australia's total annual
+greenhouse gas emissions
+
+$1,668
+
+reduction in the cost of supplying
+electricity to Australia's commercial,
+institutional and residential buildings
+each year
+
+2. Some other points to consider
+In the United States, buildings account for
+approximately 75% of electricity consumption (www.
+energy.gov/quadrennial-technology-review-2015), so our
+50% may be an underestimate
+
+GEBs are an enabler for other DER storage and flex
+technologies, because they can pass on the signal to
+do the flex / store. This includes operation of stationary
+batteries and EV charging
+
+Shifting some load to the middle of the day can be
+expected to drive up wholesale prices in the middle of
+the day and down at the ends. This would support more
+renewable energy investment, particularly solar
+
+The GEB flexibility envisaged in this analysis can be
+expected to deliver co-benefits for building occupants
+including enhanced indoor environmental quality (IEQ)
+
+Wholesale electricity prices regularly go negative on
+the NEM – in SA, multiple times per week. Our analysis
+assumes that they remain positive at a level that
+supports substantial PV investment growth ($20/MWh),
+an important co-benefit
+ ome may consider a 33% load shift for 3 hours large.
+S
+However, currently, building operators / occupiers (and
+their equipment) do not receive dynamic price signals
+(perversely, their incentive is to avoid ‘peak’ pricing in the
+middle of the day)
+
+More broadly, co-benefits of a GEB strategy include
+better utilisation of existing network infrastructure and
+avoided transmission capacity, free up bottlenecks
+in the economy (steel, engineers and welders can do
+something else), least environmentally harmful / least
+toxic / wasteful solution
+GEB flexibility could start being delivered at scale within
+months. The envisaged 23% capacity increase could
+comfortably be achieved by 2030 – fastest and best
+value of all the available options.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+65
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+66
+
+Appendix C:
+A review
+of industry
+knowledge
+
+As part of this discussion paper, we held three workshops to capture the
+understanding of the issues related to the built environment and the ongoing
+evolution of the grid to 100% renewables. The work captured views from across
+the sector from building owners, consultants, energy utility companies and
+policy makers, on where priority actions lie and where coordinated, collaborative
+action could make a difference.
+The aim of this exercise was to understand current industry understanding to
+help shape the discussion points in the rest of the paper. This was not intended
+to be a comprehensive review, but rather a starting point to help inform next
+steps.
+Consultation: Three sessions with a total of 30 participants were held. The
+three workshops were held independent of each other. One workshop involved
+building developers and consultants, the second with utility companies and
+service providers, and the third one with policymakers.
+
+Current situation
+
+As part of the consultation exercise, we also asked industry participants to note
+what actions they were taking today. The responses can be grouped into five
+areas:
+On-site energy
+production and storage
+
+Installing on-site renewable and storage
+Adding solar PV to rooftops and installing
+batteries for load management and load
+shifting.
+
+Energy efficiency and
+demand management
+
+ esigning electrified buildings and advising
+D
+clients on electrification options
+Installing EV chargers with load demand
+management
+Implementing energy efficiency measures and
+investigating grid interactivity
+Coordinating major tenancy refits with
+sustainability upgrades
+Persuading clients to eliminate gas heating
+Designing frameworks for existing building
+ratings to provide information on energy
+use and the contribution of solar and energy
+efficiency to reducing demand and bills.
+
+Measurement and
+verification
+
+Investigating standardised measurement
+and verification for calculation of hourly load
+profiles and peak savings.
+
+Research and
+development
+
+ reparing for the integration of distributed
+P
+energy resources through studies
+Participating in demand management and
+information analytics research projects.
+
+Outreach and
+collaboration
+
+ ducating clients on new opportunities
+E
+Examining the use of real-time carbon as a
+driver for building management
+Coordinating with local governments to
+bundle and connect tools and incentives and
+engage with targeted communities to drive
+change
+Collaborating with other organisations
+through impact partnerships to promote
+market change, best practice tools and
+guidelines, and innovation.
+
+The consultation session involved participants considering one or multiple
+scenarios that may occur in the future and being asked to define the scenario
+and address challenges and opportunities.
+Attendees
+Alan Fok, Dexus
+Craig Roussac, Buildings Alive
+David Hershan, Shell Energy
+David Pryor, NSW Government
+Declan Kelly, Flow Power
+Ed White,
+Geoff Hilboune, Grovesnor Place
+Ian lieblich, EG Funds
+Jackson Hobbs,
+James Pikover, Voltage
+James Vesper, Goodman
+Jo Brennan, DECCEW
+John Derrick, Grovesnor Place
+Kate Read, Resilient Sydney
+Lester Partridge, LCI Consultants
+Lisa Hinde, Colliers
+
+Louise Brian,
+Manuela Crank, Property NSW
+Matt Williams, Lendlease
+Mel Dewsnap, City of Sydney
+Michael Karaiskos, Brookfield
+Rob Brimblecombe, Monash
+University
+Rob Hughes, DCCEW
+Sally Moxham, Sustainability
+Victoria
+Simon English, Powercor
+Stephen White, CSIRO
+Steve Hennessy, WT Consulting
+Steve Refshauge,
+Tim Grigg, Property NSW
+Tim Wheeler, Property Council of
+Australia
+
+Understanding priorities: Overall, the feedback received on the workshop
+focused on a range of topics related to the transition to smarter, renewablepowered buildings and grid interactivity. Participants were asked what they
+wanted to get out of the workshop and the topic at hand.
+Participants in the workshop were interested in learning about the current state
+of renewable-powered buildings and grid interactivity, as well as regulatory
+barriers and opportunities. They wanted to understand the role of buildings
+in the transition and how they could interact with the grid. They also wanted
+to discuss conditions that could accelerate the adoption of grid interactive
+technology. Many participants noted they were interested in learning about the
+perspectives of utilities, energy companies, and retailers on the opportunity for
+grid interactive buildings. They were also seeking insights on the pathways for
+implementation of research findings and the potential for pilot opportunities, as
+well as the role of government intervention.
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+67
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+68
+
+The five scenarios
+
+One of the key challenges identified as part of this work is trying to identify what
+the future looks like with regards to the relationship between the grid and the
+built environment.
+To help understand what distinct stakeholders felt would be the future that they
+would be expecting to work towards, five scenarios were set out. Stakeholders
+were asked to place themselves in one of these scenarios and asked to define
+them further.
+
+Defining scenarios
+
+Once scenarios were selected, participants were asked to define, for each
+scenario, what they believed the future looked like in 2035 for the grid and for
+buildings. These are described below.
+
+Scenario 2
+Grid
+
+By 2035, the grid is expected to be close to 100%
+renewable. The grid will be able to generate electricity
+from all directions without any constraints. To achieve
+this goal, a lot of work will be dedicated to managing peak
+demand and using storage solutions as these elements
+will drive infrastructure costs and development. This will
+in turn move design decisions to consider more strongly
+the impact of peak demand reduction, with price signals
+highlighting this point.
+
+Buildings
+
+By 2035, buildings will play a role in managing grid impacts
+by being efficient and reducing emissions through peak
+demand response and the use of smart infrastructure.
+As the grid decarbonises, large buildings and precincts
+will have improved monitoring systems to manage their
+demand. However, much of the existing building stock may
+not change significantly. There will be a lot of variation
+in the capacity of different buildings to manage their
+consumption and emissions, with large and well-managed
+buildings being the main active players and smaller
+buildings relying on coordination from the grid.
+
+The diagram below outlines the scenarios and the number of stakeholders that
+assigned themselves to each.
+
+Scenario 1
+
+Scenario 2
+
+Scenario 3
+
+Scenario 4
+
+Scenario 5
+
+The grid (and other
+parts of the economy)
+provides solutions for
+generation, demand
+management, and
+resilience with no
+assistance from the
+built environment.
+
+The grid (and
+other parts of the
+economy) provides
+some solutions for
+generation, demand,
+and resilience, with
+the built environment
+assisting somewhat.
+
+The grid (and
+other parts of the
+economy) and the
+built environment
+equally share the
+responsibility
+for solutions for
+generation, demand,
+and resilience.
+
+The built environment
+(and other parts
+of the economy)
+take a more active
+role in solutions for
+generation, demand,
+and resilience, with
+the grid supporting
+this work.
+
+The built environment
+(and other parts
+of the economy)
+take a significant
+role in solutions for
+generation, demand,
+and resilience, with
+the grid just focusing
+on generation.
+
+4 Owners and
+consultants
+4 Policymakers
+
+7 Owners and
+consultants
+5 Policymakers
+5 Energy utilities
+and retailers
+
+5 Policymakers
+
+Grid-interactive efficient buildings discussion paper v.1
+
+Scenario 3
+
+
+
+69
+
+Grid
+
+In 2035, the grid is expected to be 100% renewable with
+large-scale energy storage. The grid will operate on a
+distributed model and offer flexible demand/generation
+options based on availability and pricing. There will be a
+significant increase in renewable energy for transport and
+industry, and the use of fossil fuels will decrease. There
+may be a shift from energy efficiency to maximising use of
+cheap, renewable energy.
+
+Buildings
+
+In 2035, there is a strong partnership between the grid
+and buildings, with buildings operating demand response
+solutions in coordination with the grid. There will be
+increased electrification and the use of EVs to support
+peaks, with building owners investing in electrification and
+automated demand management. Virtual power plants
+and energy sharing platforms may be well-established, but
+there may still be some unchanged buildings and a range
+of capabilities among buildings and owners. Regulatory
+barriers to energy sharing by decentralised buildings may
+have been resolved, and NABERS may have evolved to
+focus on more than just energy efficiency.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+70
+
+Scenario 4
+Grid
+
+The grid in 2035 will be primarily distributing DERs with a
+smaller share of centrally-generated electricity. It will send
+flex signals to the market, which will mostly be located
+behind the meter through buildings and their DERs, to
+optimise for cost and carbon outcomes. The grid will
+also use dynamic operating envelopes and commercial
+incentives for realtime flexibility to meet demand. Hourly
+Renewable Energy Certificates or other time-of-use carbon
+certificates will drive generation and usage behaviours with
+the goal of reducing carbon emissions. The grid will include
+a large amount of firming, such as storage, to dispatch as
+needed to meet demand.
+
+Buildings
+
+In 2035, buildings will be using intelligent energy
+management systems with smart DERs to optimise their
+energy demand and supply for cost and carbon. They
+will focus on moving their energy demand to times when
+renewables are cheap and plentiful and may use electric
+vehicles (EVs) as storage during peak demand. Demand
+charges will be dynamic, requiring buildings to continuously
+adapt their strategies, and equipment will be connected
+to markets and automated in response. Gas usage in
+buildings will likely be minimal.
+
+In summary,
+Regardless of which scenario one considers, in all cases:
+The grid and buildings will need to have a strong partnership, with buildings
+operating distributed energy resources (DERs) and offering demand/export
+services in coordination with the grid – the difference is the extent of the
+partnership
+There will likely need to be changes to encourage more energy sharing and
+demand management solutions
+
+Buildings are expected to have smart infrastructure and be able to control
+their demand and generation in response to real-time emissions and the
+needs of the grid
+
+Challenges
+When asked, correspondents noted significant challenges to being successful
+in any of the scenarios above. In particular, the following six challenges were
+highlighted:
+Infrastructure constraints: The need to upgrade and/or retrofit existing
+infrastructure, such as electrical systems and the grid, as well as existing
+buildings is a common challenge mentioned in all three scenarios
+Regulatory challenges: The pace of regulatory change and the need to
+regulate various aspects of energy systems and infrastructure was noted. It
+was noted the grid was decarbonising significantly quicker than expected,
+and policies and plans had not adjusted to suit
+Demand response: Introducing and further cementing demand response
+initiatives in construction and building operations was noted repeatedly. A
+key challenge was identifying the level of action and infrastructure needed
+at a building, precinct, or grid level – with opinions split between all three
+scenarios
+Cultural challenges: The need to overcome cultural challenges, such as the
+difficulty in winning over building owners and operators, is mentioned in
+all three scenarios. It became clear throughout the consultation process
+that there were multiple expectations of what needed to be done, but
+consideration of where responsibility lied differ. This was also the case due to
+the problems with the cost of deploying any solution
+Data access and integration: The need for better structured and cloudconnected building data and the integration of context data and grid signals
+was repeatedly mentioned. Participants noted that while information was
+available, it was difficult to parse, or wasn’t linked to performance data in any
+meaningful way
+Fair cost of power: Ensuring that the cost of power is fair and that the grid is
+paid fairly for its services was also repeatedly mentioned.
+
+Aging buildings and lack of space for storage and large electrical
+infrastructure. Older buildings not designed with local solar and battery in
+mind
+Challenge of retrofitting smart grid-interactive metering
+
+There will be increased electrification, and a level of storage and demand
+management solutions at the building or precinct level required. Optimising
+energy use and minimising demand and emissions will continue to be a
+focus, though managing peak demand will play a larger part.
+
+
+
+While participants were asked to note challenges that needed to be overcome
+to achieve their desired scenario, and the opportunities that presented if their
+scenario became true, upon review of all of the feedback it became clear that all
+scenarios shared similar challenges and opportunities.
+
+However, in addition to the above, there were items that were common amongst
+scenarios, but mentioned less frequently. These are:
+
+There may be a range of capabilities among buildings and owners, with some
+buildings and owners being more advanced than others
+
+Grid-interactive efficient buildings discussion paper v.1
+
+Challenges and
+opportunities
+
+71
+
+Building codes not adequately dealing with the issue of peak demand, energy
+storage, or electric vehicles in buildings
+Buildings optimising on-site generation for themselves rather than overall
+emissions or grid services.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+72
+
+Challenges and
+opportunities (cont.)
+
+Opportunities
+When asked, correspondents noted significant opportunities that would be
+available in any of the scenarios above. In particular, the following six challenges
+were highlighted:
+
+Carbon pricing
+and energy
+efficiency
+
+Decentralised generation: The use of decentralised generation, such as
+on-site solar and battery systems, is mentioned in all three scenarios as a
+means of avoiding the need for expensive infrastructure investments and
+improving grid stability
+
+Collaboration and cross-industry engagement: The need for collaboration
+and engagement across various sectors and industries is mentioned in all
+three scenarios as a means of scaling solutions and driving change
+Electrification and the rise of energy storage: The electrification of buildings
+and the rise of localised storage and electric vehicles is mentioned
+as a potential opportunity. It was noted that smart electrification was
+fundamental to ensuring buildings could respond in real time
+Efficiency and cost reduction: Continued focus on driving down energy
+consumption, and peak consumption was seen as a great opportunity
+to drive down energy costs. In particular, the link between peak demand
+management and energy efficient buildings, and the need to reduce
+infrastructure investment was seen as a powerful opportunity that was yet to
+be explored fully
+Market dynamics and pricing: The use of market dynamics and pricing to
+drive behaviour change would drive new potential revenue opportunities that
+would make investing in transforming existing buildings possible.
+
+When asked, correspondents noted there were several actions that they
+would want to see from all stakeholders to ensure success. As with the above,
+stakeholders were asked to do this with their chosen scenario – however,
+analysis showed that while the amount that needed to be done differed between
+scenarios, the broad levers were similar:
+Renewable
+energy and
+storage
+
+S
+ hift the focus from energy efficiency to carbon efficiency,
+calculated in real time, and implement carbon accounting
+standards that recognise demand flexibility
+P
+ romote real-time carbon accounting and increase
+disclosure across all building types.
+
+Demand response and real-time carbon tracking: The use of demand
+response initiatives and real-time carbon tracking that would be needed in all
+scenarios would provide opportunity to further reduce emissions, particularly
+as the grid arrives to near-100% renewable state
+
+What would industry
+like to see from all
+stakeholders?
+
+Implement a carbon pricing mechanism and add carbon
+pricing to existing white certificate schemes
+
+Accelerate the move to 100% renewable energy and
+increase renewable generation, grid storage, and stability
+infrastructure
+
+Grid
+participation
+and market
+design
+
+P
+ rovide practical guidance and technology support to
+users at different scales to assist with the transition to a
+more sustainable energy system
+E
+ stablish a clear connection between energy markets and
+demand signals and provide incentives for GEBs
+P
+ romote community grid participation and reimagine the
+full value stack to allow deferred network investment to
+flow through to end users
+Implement simple market design with clear market
+signals and update current rules around embedded
+networks and microgrids to allow flexibility
+E
+ ncourage leadership and bravery in government to try
+new approaches and provide a roadmap for the grid
+F
+ oster a shift in people’s relationship with energy and
+make the transition to a more sustainable energy system
+intuitive and easy for everyone.
+
+There were other items that were discussed, including,
+T
+ he need for technologies to enable buildings to interact with the grid in both
+directions
+T
+ he importance of mandatory disclosure, policies regarding energy
+management systems and vehicle-to-grid integration, and the requirement
+for developments to contribute to new renewable and storage infrastructure
+T
+ he need for actual disclosure of the source of electricity used, behind-themeter net energy metering equivalent systems, and clear market signals
+T
+ he need for greater flexibility in accessing and using the network to
+distribute power, incentives for GEBs, and a shift in focus from efficiency to
+demand management.
+
+Make EVs and battery storage cheaper and increase the
+use of hydrogen storage.
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+73
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+74
+
+References and further
+information
+
+ACEEE, ACEEE, State of the Market: Grid-Interactive Efficient Building Utility
+Programs, Accessed April 2023
+
+Evans, B., & Sidat, S. (2018), The use of temporal factors for improved CO2
+emissions accounting in buildings. Building Services Engineering Research and
+Technology, 39(2), 196–210. , Accessed April 2023
+
+ACEEE, Summer Study on Energy Efficiency in Buildings, Accessed April 2023
+AEMC, Wholesale demand response mechanism, Accessed April 2023
+AEMC, Wholesale demand response mechanism final rule, Accessed April 2023
+
+Greenhouse Gas Protocol, Scope 2 Guidance – background memo and list of
+questions, Accessed April 2023
+
+AEMO, Engineering Roadmap to 100% Renewables, Accessed April 2023
+
+IEA, Net Zero by 2050: A Roadmap for the Global Energy Sector, Accessed April
+2023
+
+AEMO, National Electricity Market Fact Sheet, Accessed April 2023
+
+IEA, Demand Response, Technology Deep Dive, Accessed April 2023
+
+AEMO, Maintaining operational demand in South Australia on 14 March 2021,
+Accessed April 2023
+
+Infrastructure Australia, Infrastructure Workforce Skills Supply Workforce,
+Accessed April 2023
+
+AEMO, 2022 Integrated System Plan, Accessed April 2023
+
+IRENA, Renewable Energy Power Generation Costs 2021, Accessed April 2023
+
+Alliance to Save Energy, Why Demand Flexibility Is Essential For
+Decarbonization, Accessed April 2023
+
+New Buildings Institute, GridOptimal Metrics Offer Guidance on Optimizing
+Building-Grid Interaction, Accessed April 2023
+
+ARENA, What are distributed energy sources, Accessed April 2023
+
+PV Magazine, A tale of two causes curtailment as renewable records break,
+Accessed April 2023
+
+ASBEC, Unlocking the pathway: Why electrification is the key to net zero
+buildings, Accessed April 2023
+Business Renewable Centre, Corporate Renewable Power Purchase Agreements
+in Australia: State of the Market 2022
+California Energy Commission, 2019 California Energy Efficiency Action Plan,
+Accessed April 2023
+California Public Utilities Commission, Assessment of energy efficiency potential
+and goals and modification of portfolio approval and oversight process,
+Accessed April 2023
+Clean Energy Council, Clean Energy Australia Report, Accessed April 2023
+CSIRO & DeltaQ, Digital Innovation Opportunity for Energy Productivity in NonResidential Buildings, Accessed April 2023
+Dahl Knudsen, M. and Petersen, S. (2016). , Demand response potential of model
+predictive control of space heating based on price and carbon dioxide intensity
+signals. Energy and Buildings, 125, pp.196-204. , Accessed April 2023
+
+Xu, Q., & Jenkins, J., Princeton University, Electricity System and Market Impacts
+of Time-based Attribute Trading and 24/7 Carbon-free Electricity Procurement,
+Accessed April 2023
+Risner, J., & Sutherland, A. (2021). , Static grid carbon factors – Can we do
+better? Building Services Engineering Research and Technology, 42(3), 257–
+277., Accessed April 2023
+RMI, Clean Power by the Hour, Accessed April 2023
+UNEP, 2020 Global Status Report for Buildings and Construction: Towards a
+Zero-emissions, Efficient and Resilient Buildings and Construction Sector Executive Summary (unep.org), Accessed April 2023
+United Nations Environment Programme (2022). , 24/7 Carbon-free Energy
+Compact, Accessed April 2023
+US Department of Energy, A National Roadmap for Grid-Interactive Efficient
+Buildings, Accessed April 2023
+
+Department of Climate Change, Energy, the Environment and Water, National
+Greenhouse Accounts Factors: 2021. , Accessed April 2023
+
+US Department of Energy, Confronting the Duck Curve: How to Address OverGeneration of Solar Energy, Accessed April 2023
+
+Energy Efficiency Council, Clean Energy, Clean Demand, Accessed April 2023
+
+USGBC, GridOptimal Building ACP, Accessed April 2023
+
+Energy Networks Australia, Electricity Network Transformation Roadmap,
+Accessed April 2023
+
+WELD Australia, 2023 Member Survey, Accessed April 2023
+
+Energy Transformation Taskforce, Western Australia, Whole of System Plan,
+Accessed April 2023
+Energy Transformation Taskforce, Western Australia, Distributed Energy
+Resources Roadmap, Accessed April 2023
+ESB, Integration of Consumer Energy Resources (CER) and flexible demand
+(2023), Accessed April 2023
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+75
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+76
+
+Grid-interactive efficient buildings discussion paper v.1
+
+
+
+077
+
+

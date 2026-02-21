@@ -1,0 +1,3512 @@
+A practical guide to
+electrification
+For existing buildings
+
+Established in 2002, Green Building Council of Australia (GBCA)
+is the nation’s authority on sustainable buildings, communities
+and cities. Our vision is for healthy, resilient and positive places
+for people. Our purpose is to lead the sustainable transformation
+of the built environment. GBCA represents more than 550
+individual companies with a combined annual turnover of more
+than $46 billion.
+Technical partner
+
+Cundall is a global, multi-disciplinary consultancy delivery
+sustainable engineering design solutions and ESG, Zero Carbon,
+and Existing Building advisory services across the built
+environment. We have contributed to many leading green
+buildings in Australia and across the world and continue to
+engage with industry to help drive sustainable outcomes. Cundall
+is a Carbon Neutral certified business global and is a founding
+signatory of the World Green Building Council’s Net Zero Carbon
+Building Commitment. Our Zero Carbon Design 2030 initiative is
+to deliver zero carbon solutions on every project we do, with the
+end goal that all our projects after 2030 will be zero carbon.
+
+Funding partners
+
+The CEFC is a specialist investor at the centre of efforts to help
+deliver on Australia’s ambitions for a thriving, low emissions
+future. With a strong investment track record, we are committed
+to accelerating our transition to net zero emissions by 2050.
+In addressing some of our toughest emissions challenges, we are
+filling market gaps and collaborating with investors, innovators
+and industry leaders to spur substantial new investment where it
+will have the greatest impact. The CEFC invests on behalf of the
+Australian Government, with a strong commitment to deliver a
+positive return for taxpayers across our portfolio.
+
+The mission of the Office of Energy and Climate Change is to
+accelerate NSW’s transformation to a sustainable future. It will
+deliver key strategies and programs that focus on addressing
+some of the most significant issues facing our state including
+energy reliability, climate change and emissions reduction. Its
+work is integral to the state’s economic recovery and a key pillar
+of NSW economic policy.
+
+The information provided in this guide is for illustrative purposes only. In all cases, building owners are encouraged to consult with
+dedicated professionals to assist them in electrifying a building.
+
+How to use
+this guide
+
+This guide outlines the steps involved in retrofitting existing buildings to
+be all-electric and the types of technologies that can be used today to
+replace natural gas systems with electric solutions. If you are a building
+owner, developer, facilities manager, consultant or building professional,
+this guide is for you.
+
+Understand the case for electrification
+
+Delivering
+Climate
+Positive
+Buildings
+
+The diagram shows typical steps to decarbonise buildings. This guide
+covers the first: how to eliminate fossil fuels for space heating, hot
+water and cooking in existing buildings. A separate guide is available
+focusing on new buildings. We encourage you to apply all these steps
+in every building in your portfolio.
+
+Standard building
+
+Climate change ● Investor benefits ● Resilience and risk reduction
+● Health and safety ● Tenant and consumer preferences
+
+Measure typical greenhouse
+gas (GHG) emissions due to
+energy use and repair,
+maintenance & refurbishment.
+
+Planning for electrification
+
+This guide
+
+Planning to electrify a portfolio ● Electrifying a building over time
+● Intervention points ● The stakeholders
+
+Seven key issues to consider when
+electrifying an existing building or portfolio
+Space heating ● Domestic hot water ● Cooking ● Other systems
+● Electric vehicles ● Electrical capacity ● Space & location
+
+Highly efficient
+
+Case studies
+
+Legend
+
+600 & 678 Victoria Street ● Vicinity Centres portfolio
+● 275 Kent Street & 8 Chifley Square ● QuadReal Property Group
+● Kawakawa, Dargaville & Kaitaia hospitals ● 22 The Terrace
+
+GHG
+EMISSIONS
+
+Marketing all-electric buildings ● Green Star ● NABERS
+● Other frameworks
+
+Electricity
+
+Ventilation, cooling,
+lighting, pumps, small
+power, lifts, security,
+controls, and IT systems.
+Emergency (backup)
+power, and refrigerants.
+
+More information
+Other
+
+Myths & barriers
+
+Appendices
+
+Materials in
+operation
+
+Terminology ● References
+
+A practical guide to electrification: For existing buildings
+
+USED FOR
+
+Space heating,
+domestic hot water
+Natural gas and cooking.
+
+Marketing & certification
+
+A separate guide for
+New Zealand is available
+from the New Zealand
+Green Building Council
+
+Fossil fuel free
+Eliminate natural gas for
+space heating, domestic
+hot water and cooking,
+both base building and
+tenants.
+
+01
+
+Emissions from
+products, materials and
+activities for repair,
+maintenance and
+refurbishment.
+
+Significantly reduce all building
+energy consumption through
+demand reduction, energy
+efficiency and effective controls.
+
+Powered by
+renewables
+Provide all electricity from 100%
+renewable sources – on-site
+and/or off-site.
+
+Reduce embodied
+carbon
+Significantly reduce embodied
+carbon through material/product
+selection during operations and
+refurbishment.
+
+Offset with nature
+After reducing all other GHG
+emissions as much as possible
+procure credible nature based
+offsets.
+A practical guide to electrification: For existing buildings
+
+02
+
+A guide to
+electrification
+
+Climate change, health and wellbeing, natural resource
+depletion, consumer preferences, investor demand - these are key
+issues that are impacting how we operate and upgrade existing
+buildings in our towns and cities. A key challenge across all of them is
+how we move away from traditional solutions to deliver more
+sustainable and higher performing buildings.
+If we are to significantly reduce operational greenhouse gas (GHG)
+emissions in the built environment and meet net zero carbon goals, it
+is crucial that existing buildings undergo a transition to be fossil
+fuel free, primarily by eliminating the use of natural gas.
+
+Most buildings standing today will still be operational in
+2050. Electrifying existing buildings now will ensure they
+are future-proofed for a decarbonised world.
+Technologies are available to design out fossil fuels for all typical
+uses in a building today. An all-electric building comes with many
+benefits:
+Natural gas typically represents between 10% and 30% of
+building GHG emissions. The electricity grid is rapidly
+decarbonising and renewable electricity is readily procurable,
+while the decarbonisation of the natural gas network is unlikely
+in the foreseeable future.
+Separate bills for gas (consumption and standing charges) are
+eliminated, as are gas maintenance and safety checks.
+Healthier internal spaces are achieved by reducing gas
+combustion and leakage inside buildings.
+Corporate tenants and debt and equity investors with zero
+carbon goals are increasingly attracted to all-electric buildings
+powered by renewables.
+
+The most common uses of fossil fuels in buildings that
+can be electrified are:
+Natural gas for space heating, domestic hot water and cooking
+Diesel for emergency/backup generators and fire system
+pumps.
+There are other uses of fossil fuels that are found in some buildings
+such as gas for high heat industrial processes, portable gas heaters
+for external spaces, gas for laboratory purposes or similar and LPG for
+barbeques. While not the subject of the guide, building owners are
+encouraged to consider alternatives to all natural gas use wherever
+possible.
+
+A practical guide to electrification: For existing buildings
+
+03
+
+The case for
+electrification
+– the right
+solution today
+
+Burning fossil fuels to generate heat and to cook food has been the
+go-to solution since the industrial revolution. Natural gas boilers and
+cookers are the pinnacle of this old technology in buildings, and have
+previously offered lower carbon solutions than grid electricity
+generated using coal.
+But we are seeing a revolution in clean energy to address the
+challenges of climate change, air quality and energy affordability.
+Electrifying buildings is an essential step to do this. The technologies
+already exist - the key challenges are changing perceptions and
+improving understanding of the benefits of electrification and how to
+implement it.
+In the business case for an all-electric building, the following factors
+can be considered:
+Climate change: all-electric buildings powered by renewables
+are the preferred pathway to decarbonise our built environment.
+Removing fossil fuels from buildings is necessary to reduce
+climate change impacts. Electrification is also the best enabler to
+deliver buildings fully powered by renewables today.
+Investor benefits: investors are looking for assets that are on a
+clear decarbonisation pathway. All-electric buildings that use
+renewable energy will be able to access sustainable finance,
+potentially at lower interest rates.
+Resilience and risk reduction: as we move into a state of
+decarbonising the economy, the need to retrofit assets and
+remove equipment using fossil fuels from service will only
+become more important. An all-electric building is a step ahead,
+making it a more valuable and desirable asset, ready for the
+future.
+Health benefits: using natural gas for cooking in buildings
+generates toxic air pollutants. Occupants are exposed to these
+pollutants during combustion as well as due to leakage. These
+impacts can increase asthma and exacerbate respiratory
+illnesses. All-electric services eliminate these pollutants,
+improving indoor air quality.
+Tenant and consumer preferences: many organisations have
+set goals for zero carbon. Natural gas and other fossil fuels are
+incompatible with these goals. An all-electric building will be
+more attractive to these organisations and consumers as well.
+Each of these reasons is expanded in the next few pages, including
+references that provide more information. Understanding the drivers
+and benefits for electrification will help in developing a business case
+to electrify an existing building and/or portfolio.
+
+A practical guide to electrification: For existing buildings
+
+04
+
+1
+
+we drastically reduce GHG emissions. If we don’t, the effects of this
+warming will be dangerous, costly, and irreversible.
+
+The built environment is a significant contributor to our national GHG
+emissions. It accounts for almost a quarter of total emissions in
+Australia. Of these emissions, natural gas use in buildings accounts
+for 15% 2 of all operational emissions (around 14 million tonnes of
+CO2 a year). Eliminating these emissions matters.
+It is not only the amount of emissions that matter – there is a time
+impact as well. Emissions from the use of natural gas, or methane,
+include both the direct emissions from combustion in a building
+(Scope 1) and the emissions from its extraction, processing, and
+distribution (Scope 3). The emissions due to methane escaping to the
+atmosphere are three times more impactful over a 20-year period
+than over a typical 100 year spana. As noted above, the next ten years
+is critical.
+
+Grid electricity Scope 2 & 3 GHG emissions factor (kgCO2e per kWh)
+
+To minimise the risk of catastrophic climate change the average
+The case for
+global temperature rise must be keep to below 1.5°C. According to
+electrification – the Intergovernmental Panel for Climate Change (IPCC) , the
+climate change world has eight to ten years left before we cross this threshold unless
+
+Victoria
+
+0.95
+
+New
+South
+Wales
+
+0.82
+
+South
+Australia
+
+0.34
+
+a As noted by the Clean
+
+Energy Regulator, when
+the Global Warming
+Potential (GWP) of
+methane is measured
+over 20 years (GWP20),
+the impact of methane is
+84-87 times that of CO2.
+If measured over 100
+years (GWP100), the
+impact is 28 times that
+of CO2. This is due to
+methane being shorter
+lived in the atmosphere
+before breaking down
+into CO2 and water. This
+CO2 continues to warm
+the atmosphere.
+
+It is clear, electrification is a critical pathway on
+the decarbonisation journey to net zero buildings
+and precincts.
+Zero carbon fuels, such as biofuels and green hydrogen, have a part
+to play in decarbonising our economy, but they are likely better used
+in other sectors such as transport and manufacturing processes.
+
+A practical guide to electrification: For existing buildings
+
+05
+
+Equivalent GWP 100 year kgCO2/kWh for gas boiler
+
+0.42
+
+0.19
+
+100%
+renewable
+electricity
+
+0.10
+0
+2050
+
+2040
+
+2030
+
+2020
+
+2060
+
+Assumed grid decarbonisation over time
+
+The IPCC noted in its latest report1 that methane emissions should
+be reduced at a much faster rate than previously assumed. This
+formed the basis of the Global Methane Pledge3 at COP26 in
+Glasgow.
+In buildings this means eliminating natural gas. Of the available
+alternatives to natural gas, including hydrogen biofuels, electrification
+is supported as the preferred path for buildings by the IPCC and the
+International Energy Agency (IEA) 4. The Australian Government
+has highlighted5 electrification as a key technology available now for
+decarbonisation. The ACT Government has released an electrification
+pathway detailing the transition away from fossil fuel gas to reach the
+Territory's target of net zero emissions by 20456. NABERS
+benchmarks will be regularly updated to use the latest electricity grid
+emission factors. As the grid decarbonises this will favour
+electrification as a means of improving ratings.
+
+Equivalent GWP 20 year kgCO2/kWh for gas boiler
+
+The chart above shows the point at which the use of gas boilers
+becomes more carbon intensive than producing the same amount
+of heat using an average electric heat pumpb when considering the
+projected rate of grid decarbonisation5.
+The bubbles below show the cumulative operational GHG
+emissions (tCO2e) generated for an average heat pump and gas
+boiler in different statesc over 25 years based on producing 1MWh
+of heat per year.
+
+6.0
+
+2.2
+
+1.2
+
+0.6
+
+Gas boiler
+(100 year
+GWP)
+
+Heat
+pump in
+VIC - grid
+electricity
+
+Heat pump in
+NSW - grid
+electricity
+
+Heat pump
+in SA - grid
+electricity
+
+b Assuming a heat
+
+pump with an average
+coefficient of
+performance of 3 and
+a gas boiler with 90%
+efficiency.
+
+c different states have
+
+different grid
+coefficients. In
+Australia, Victoria has
+the most emission
+intensive grid, with
+South Australia one of
+the cleanest.
+
+Heat pump
+with 100%
+renewables
+
+What these charts outline is that any building
+that uses gas will emit far more than an allelectric building, even if the building did not
+procure renewable electricity. When paired with
+on-site or off-site renewables, the GHG
+emissions savings are substantial.
+A practical guide to electrification: For existing buildings
+
+06
+
+The case for
+electrification
+– investor
+benefits
+
+Green, social, and sustainable bonds, green and sustainabilitylinked loans, and sustainability-linked bonds resulted in global
+sustainable debt capital surpassing US$700 billion in 20217, a 30%
+increase compared to 2019.
+Sustainability linked loans are finance instruments in which the
+terms of the loan (for example the interest rate, where lower rates
+are possible for good performance) are linked to the borrower’s or
+project’s environmental, social, and governance (ESG)
+performance. By 2021 their global volume reached US$350 billion
+for the year7. For example, in Australia, Charter Hall funded a $500
+million loan with targets aligned to NABERS and Green Star8.
+Organisations such as the Clean Energy Finance Corporation
+(CEFC) and Climate Bonds Initiative are helping unlock investment
+capital to deliver enhanced sustainability performance.
+With access to $10 billion to invest on behalf of the Australian
+Government, the CEFC invests to address some of Australia’s
+toughest emissions challenges. Its property-related investment
+commitments include ‘demonstration’ projects with the ability to
+deliver best-in-class emissions performance using renewable
+energy, energy efficiency and low emissions technologies - across
+new and existing commercial, industrial and residential
+buildings. A new CEFC program in 2022 is also seeking to
+substantially cut construction-related embodied carbon emissions,
+through the use of mass engineered timber as a greener alternative
+to conventional construction materials.
+The Climate Bonds Initiative is an international organisation that
+works to mobilise the $100 trillion bond market for climate
+solutions. Several green bonds issued in Australia and New
+Zealand are financing low carbon commercial buildings. Last year,
+the Initiative recognised9 Green Star’s Climate Positive Pathway as
+an automatic compliance route due to its electrification
+requirements and energy reduction targets.
+Recently, the EU Taxonomy10 for sustainable activities outlined how
+finance streams should be directed to deliver a decarbonised
+economy. While the guidance on the use of natural gas is limited, it
+is clear that all-electric buildings that are highly energy efficient
+comply with its requirements. This will help direct even more
+investor interest to these assets.
+
+The case for
+electrification
+– resilience
+and risk
+reduction
+
+Buildings that are not resilient to climate change or responding to
+changing regulatory and economic environments may end up as
+stranded assets11. At the very least, they may be uncompetitive in a
+sector that is rapidly responding to the climate change challenge.
+The coming desirability for all-electric buildings is predictable. Over
+the past several decades policies have been introduced that
+resulted in buildings becoming more energy efficient. The
+Australian Government’s own ‘Long Term Emissions Reduction
+Plan (2021)’ highlights electrification as a desirable outcome.
+Policies to achieve this aren’t far behind.
+In 2017, the Taskforce for Climate Related Financial Disclosures
+(TCFD) recommended12 that Boards of Directors review and
+analyse the potential for both physical risk and transition risk.
+Amongst the many recommendations was the consideration of an
+asset becoming a stranded asset due to its use of fossil fuels, its
+increased costs due to the use of costlier fuel sources, changing
+consumer habits and preferences for zero carbon. As the TCFD
+recommendations are being adopted by bodies such as the
+International Sustainability Standards Board (ISSB), which is part of
+the International Financial Reporting Standard Foundation,
+disclosing climate risk will become expected in all corporate
+reporting.
+Business leaders also have a financial responsibility to deliver
+assets that are affordable and represent value for money over the
+long-term. This includes being future-proofed for a changing
+climate and the potential future costs associated with carbon
+emissions. In 2020, 72% said they conduct a structured and formal
+review of environmental, social and governance (ESG) disclosures
+(up from 32% in 2018) while a further 25% evaluate non-financial
+disclosure informally13.
+Managing for the volatility of gas prices makes sense. Over the
+period of 2010 to 2021, wholesale and retail gas prices have risen
+significantly14. Natural gas prices in Australia are linked to global
+prices. These are subject to major shocks, including geopolitical
+upheaval associated with the major gas producers such as Russia.
+Decoupling the operating costs of buildings from global politics by
+utilising locally generated renewable electricity is a key benefit of
+all-electric buildings.
+Finally, there is the question of future-proofing assets. Maintaining
+natural gas systems and infrastructure in current buildings means
+continued reliance on, and maintenance of, aging fossil fuel
+infrastructure, which may eventually be decommissioned.
+
+A practical guide to electrification: For existing buildings
+
+07
+
+A practical guide to electrification: For existing buildings
+
+08
+
+The case for
+electrification
+– health and
+safety benefits
+
+The case for
+electrification
+– tenant and
+consumer
+preferences
+
+Natural gas produces a range of harmful pollutants including
+nitrogen dioxide, carbon monoxide and fine, toxic particulate
+matter.
+During extraction and production, spills and leaks of dangerous
+chemicals can occur, and these can have significant impacts on
+human health15. Air pollution from gas processing, venting and
+flaring can also impact air quality and nearby communities16.
+Using natural gas in buildings can directly impact the health and
+wellbeing of occupants and users17:
+When gas cooktops are used, pollutants are introduced into
+the kitchen. Good ventilation and modern exhaust fans can
+reduce harmful indoor air pollution but can’t eliminate it.
+Kitchens with gas cookers are also hotter to be in, as the
+heat from gas combustion heats the kitchen as well as the
+pans. This results in a less thermally comfortable home or
+workplace.
+Recent research18 has found that the effect of gas cooktops
+in homes on childhood asthma is comparable to the impact
+of passive smoking in the household. Much of this impact is
+due to ongoing leakage from cooktops when they are not in
+use.
+Space and water heating with gas produces similar pollutants.
+These have less impact within buildings as they are mostly (but
+not always) vented directly outside. While this mitigates the risk of
+these pollutants in an indoor environment, the building still
+contributes to the air pollution of our cities. Air pollution is an
+ongoing concern and thought to contribute to the deaths of almost
+5,000 Australians each year19.
+
+Many organisations and governments have made clear public
+commitments to GHG emissions reduction targets. Demonstrating
+a commitment to keep global warming below 1.5ºC, and executing
+on it, is now a competitive advantage.
+The World Green Building Council’s (WorldGBC) Net Zero Carbon
+Buildings Commitment (NZCBC)20 aims to create a market for net
+zero carbon buildings by 2030. As of June 2022, more than 30
+organisations and governments from Australia have signed up.
+The Science Based Targets Initiative21 and RE10022 (which requires
+the use of 100% renewable energy by 2030) have hundreds of
+global companies signed up to their programs.
+Green Star Performance v223, the new rating tool for the operation
+of buildings, has already set clear targets to remove fossil fuels
+from buildings between now and 2040. This requirement starts in
+2026 for 6 Star rated buildings and cascades down to all ratings by
+2040 at the latest. Green Star is used by many organisations to
+identify green buildings to lease or occupy.
+Influential commercial chefs are waking up to the opportunity and
+praising the benefits of induction equipment in their restaurants.
+The benefits are many, from cleaner, safer kitchens, to more
+comfortable environments to cook in. See here.
+
+If you can’t stand the heat, get the gas out of the
+kitchen.
+Consumers also want better options. ASBEC’s Roadmap for
+Sustainable Homes24 notes that consumers are looking for green
+and healthy homes and apartments. Health is a major concern, and
+as awareness grows on the link between poor health outcomes and
+cooking with gas, this impact and interest in all-electric homes will
+grow. Consumers are also becoming more safety-minded, with
+many noting gas stoves remain hot for some time after turning off
+and pose a fire risk.
+Consumer preferences will be influenced as environmental and
+health campaigns scale up. Already home renovation shows on TV
+are demonstrating the benefits of induction, and global campaigns
+promoting the health benefits of all-electric cooking will likely help
+change minds further.
+
+From a health perspective, as a doctor and
+mother, there's a double impact from gas.
+Not only is it a major source of health pollution
+in people’s homes, it's also a fossil fuel.
+Dr. Kate Charlesworth, “Cooking with gas? Research finds health and
+emissions risks even when stoves are off”, ABC news, 27 Jan 2022
+
+A practical guide to electrification: For existing buildings
+
+09
+
+A practical guide to electrification: For existing buildings
+
+10
+
+Between now and 2040
+
+First steps
+
+Planning to electrify a portfolio
+
+Set zero carbon goals
+
+Prepare high level portfolio plan
+
+Set a target date for the portfolio to be fossil fuel free
+(preferably well before 2040) as part of a Zero Carbon
+portfolio plan covering reducing energy consumption,
+renewable energy, embodied carbon, refrigerants and
+other operational GHG emissions.
+
+Review fossil fuel consumption across the portfolio,
+the uses for natural gas, and the type and age of gas
+equipment and systems.
+
+Identify any changes to central or local plant that may
+impact on tenants including service disruptions, lease
+clauses, energy costs and capital cost contributions.
+
+Identify who has control or ability (building owner and/
+or tenant) to remove gas from a building or tenancy.
+
+Implement a due diligence process for acquisitions that
+identifies and prices carbon reduction and includes
+electrification requirements to support achieving the
+Zero Carbon portfolio plan.
+
+Prepare a feasibility study for each building, including
+types of electric technologies and any technical or
+spatial challenges (refer to ‘six things to consider’
+section)
+
+Where tenants use gas directly (e.g. gas cooktops) then
+engage with tenants to discuss benefits and costs of
+converting to all electric and discuss how gas could be
+phased out. Consider potential incentives and triggers
+(e.g. lease renewal, new fitout)
+
+Commit to no gas connections in new developments
+(see ‘A Practical Guide to Electrification for New
+Buildings’).
+
+Identify priority opportunities for the next five to ten
+years, including budget allowances, and align where
+possible with other upgrades or tenant refits planned
+across the portfolio.
+
+Prepare building plans
+
+Deliver
+
+Prepare a detailed electrification plan for each building
+– refer to “Electrifying a building over time” on the next
+page for further guidance.
+
+Integrate the building electrification plans into the
+asset management and upgrade plans and budgets
+for the portfolio. Implement the electrification projects
+at the earliest opportunity in each building.
+
+Share your experiences and lessons learned with others
+and encourage tenants to do the same – the whole built
+environment needs to rapidly decarbonise, not just the
+leaders (the people reading this guide).
+
+Continue to actively advocate and engage with tenants
+to speed up electrification of their tenancies –
+technologies are rapidly evolving, and initial resistance
+may soon be replaced with embracing the benefits.
+
+Prepare a strategy to make the building more resilient
+and responsive to a changing electricity grid.
+
+Identify potential trigger points, such as end of life of
+equipment, lease renewals, tenant fitouts and base
+building upgrades (e.g. lobby upgrade, new End of Trip
+facilities, EV charging rollout, etc.) and align
+electrification projects with these where possible.
+Integrate electrification with other zero carbon plans
+and strategies, such as Electric Vehicle charging
+rollout, installing on-site renewables and energy
+storage systems.
+
+Communicate your plans with investors to demonstrate
+the benefits of all electrification. Identify if sustainable
+finance is available to help fund the projects.
+
+A practical guide to electrification: For existing buildings
+
+11
+
+Engage with tenants and users
+
+Amend future leasing agreements to eliminate future
+gas connections, and work with current and
+prospective tenants to incentivise early electrification.
+
+Next steps
+
+If you sell a building before you can electrify it, then
+share the electrification plan with the purchaser. This
+helps ensure that the building you previously owned
+continues to be on a path to decarbonisation.
+
+A practical guide to electrification: For existing buildings
+
+12
+
+Review
+
+Review building systems
+
+Review
+
+Electrifying
+a building
+over time
+
+Identify type and age of all fossil-fuel using equipment
+and associated infrastructure including in tenancies.
+Review asset plan and identify opportunities to integrate
+electrification projects with planned replacement or
+other upgrade projects.
+Conduct feasibility study of potential electrification
+strategies – refer to “six things to consider” section.
+Budget for consulting advice if needed to develop
+design and documentation.
+
+Prepare the plan
+
+Plan
+
+Engage (or use in-house) engineers to audit the existing
+natural gas systems and electrical infrastructure and
+prepare an electrification design and options report. The
+report should also identify opportunities to reduce energy
+use and peak electrical demand.
+Where tenants use gas (e.g. gas cooktops), discuss
+benefits and costs of converting to all electric. Consider
+potential incentives and triggers (e.g. lease renewal, new
+fitout) to speed up transition.
+Change new lease agreements to remove gas supply to
+tenancies.
+Align electrification works with other intervention points
+where possible. (See next page).
+
+Deliver
+
+Deliver
+Prepare design, specifications and drawings for the
+electrification works including mechanical, electrical
+and hydraulics systems. Engage an architect if changes
+to floor plans or facades are required.
+
+Intervention
+points for
+electrification
+
+There are key points in the lifetime of a building that provide
+opportunities to implement electrification projects at the same time.
+These include:
+
+End-of-life
+replacement
+
+When gas equipment is nearing the end-of-life, change to all
+electric. This may not always be a simple like-for-like replacement
+due to the way the systems work. (See pages 16 – 24).
+
+Tenant refit or lease
+renewal
+
+As tenancies are refreshed or renewed, existing gas connections
+should be removed. This will require discussion with tenants that
+currently use natural gas systems, primarily for cooking, but could
+also include other specialist uses such as laboratories.
+
+End-of-trip facilities
+refresh
+
+In commercial offices these are often a major user of domestic
+water. Consider the potential for a dedicated localised electric
+heat pump system for these (together with water efficiency to
+reduce hot water demand) and point of use electric water heaters
+for bathrooms elsewhere in the building.
+
+Common area or
+lobby upgrades
+
+Refreshing the building’s lobby and common areas provides an
+opportunity to undertake electrification works by integrating them
+into the overall capital works budget.
+
+Electrical
+infrastructure
+upgrades
+
+Installing electric vehicle chargers and renewable energy and
+energy storage systems provides an opportunity to review, and
+where required upgrade, the electrical infrastructure to
+accommodate electrification of natural gas systems.
+
+Engage other specialists as required, e.g. acoustics,
+building certifiers.
+
+Fine Tune
+
+Implement the works, staging as required, to align with
+other projects in the building.
+
+Continuous improvement
+Fine tune the building systems and controls to optimise
+energy efficiency and reduce peak demands.
+Identify any remaining non-electric equipment in the building,
+and plan to remove before 2040.
+Provide training to facilities management staff and update
+building manuals.
+A practical guide to electrification: For existing
+existing buildings
+buildings
+
+13
+
+A practical guide to electrification: For existing buildings
+
+14
+
+Stakeholders
+Everyone has a part to play in advocating for all-electric existing buildings. In addition, all
+stakeholders can take specific actions as per the below:
+
+Seven key
+issues to
+consider
+when
+electrifying
+an existing
+building or
+portfolio
+
+This next section provides you with key questions to identify the
+current state of the building, and information to help you
+understand the systems, impacts and potential solutions.
+
+Investors
+
+Establish a policy to only invest in buildings that are zero
+carbon and fossil fuel free. For existing buildings insist that a
+zero carbon transition pathway is provided and implemented.
+
+Owners
+
+Promote the benefits of electric buildings, and seek to own,
+procure and build only all-electric buildings. Ensure any owned
+existing assets are electrified as promptly as possible.
+
+Authorities
+
+Review policies and procedures to ensure they don't
+encourage or mandate that natural gas has to be provided to
+buildings or precincts.
+
+Electricity
+Utilities
+
+Support building owners and designers to convert to allelectric buildings, including measures for grid stability and
+assessing electrical capacity versus actual demand.
+
+Other systems
+
+Professional
+services
+
+Design to convert existing buildings to be all-electric and be
+familiar with different design solutions and emerging
+technologies. Advocate for zero carbon solutions.
+
+Electric vehicles
+
+Builders &
+Trades
+
+Become familiar with all-electric systems and how to install in
+existing buildings. Prepare alternative all-electric solutions
+when bidding on refurbishments and building upgrades.
+
+Leasing &
+Sales Agents
+
+Engage with existing and potential tenants and purchasers to
+advocate for all-electric cooking solutions. Be prepared with
+evidence to demonstrate the benefits.
+
+Facilities
+Manager
+
+Ensure that the building is running to its maximum potential,
+creating a comfortable environment and managing the peak
+electrical demands of the building. Also advocate for the safer
+solution that fully electric buildings provide.
+
+Tenants &
+Occupants
+
+Ask for fossil fuel free solutions. For retail food and beverage look
+at the benefits of switching to all-electric for cooking.
+Electrification is consistent with the net zero carbon targets to
+which many corporates and governments are now committed.
+
+AApractical
+practicalguide
+guidetotoelectrification:
+electrification:For
+Forexisting
+existingbuildings
+buildings
+
+15
+
+Space heating
+
+Impacts
+
+Systems
+
+Domestic hot water
+Cooking
+
+Electrical capacity
+
+Space & location
+
+A practical guide to electrification: For existing buildings
+
+16
+
+How to electrify
+a building:
+Alternatives
+to natural gas
+
+Electric
+alternatives
+
+Impacts and
+benefits
+
+Key questions
+
+Space heating
+
+Technical
+considerations
+
+Space heating is often provided using centralised gas boilers to
+generate hot water which is then circulated to emitters, such as
+heating coils in air handling units, to heat spaces. Gas boilers are
+also often used to inject heat into condenser water systems
+connected to water sourced heat pumps. Localised gas systems
+include radiant and direct heaters.
+
+Gas
+
+Alternative
+
+Gas boiler (central)
+
+• Heat pumps
+• Variable Refrigerant Flow (VRF)
+system (heating and cooling)
+
+Gas radiant
+
+• Electric radiant
+
+Gas ducted / fire / heater
+
+• All of the above
+
+Air source heat pumps require more plant room space than gas boilers to
+produce the same heat output. They also require good natural ventilation
+in order to extract heat from the air. This is why condenser units for
+reverse cycle air conditioners are typically located on roofs or apartment
+balconies. Refer to the Space and location section for further details.
+Electrical capacity
+Replacing gas systems with electric alternatives will increase the demand
+for electricity during heating periods. This may impact on the electrical
+infrastructure in the building, although in many buildings the electrical
+demand for cooling systems in summer will be higher than the electrical
+demand of heating systems in winter. Refer to the Electrical capacity
+section for further details.
+Other considerations
+
+Switching from gas boilers to electric heat pumps is likely to have
+the following impacts and benefits in existing buildings:
+Space and location
+
+• More space needed
+• Natural ventilation needed
+
+Electrical capacity
+
+• Potential increase in peak electrical
+demand
+
+Other
+
+• Potential impact on existing heating hot
+water pipes, pumps and coils
+
+Energy costs
+
+• Lower operating costs
+
+Health
+
+• No air pollutants from gas
+
+GHG emissions
+
+• Zero (with renewables)
+
+1.
+
+Space and location
+
+The amount of heat that can be delivered via heating hot water is a
+function of water temperature (°C) and flow rate (l/s) - the lower the
+temperature, the more flow is required to deliver the same heating
+energy.
+In existing buildings, the flow and return temperatures in the heating hot
+water system may have been designed for the higher temperatures able
+to be generated by gas boilers (e.g. 80°C). In some buildings steam is
+used. To maximise energy efficiency, heat pumps generate lower
+temperature hot water (typically 40-45°C). Depending on the system
+design, a switch to heat pumps may require pipes, pumps and heating
+coils (in AHUs and/or ducts) to be replaced. In some cases, shifting to
+local rather than central solutions may be warranted.
+Lowering heating hot water temperatures has other benefits including:
+Reducing health and safety risk for maintenance workers.
+
+What gas systems are used to provide space heating?
+
+2. When are they due for replacement?
+3. Do you have suitable space available to install an electric
+system?
+4. Do you have sufficient electrical capacity in the main
+switchboard and substation?
+
+Potential to use waste heat from chillers to provide heating during
+mid-season and avoid running heating and cooling systems
+independently.
+Some dehumidification systems in commercial air conditioning systems
+use gas generated heating hot water to reheat the air after it has been
+cooled to reduce moisture. When gas boilers are removed then 'free
+reheat' should be investigated, including using waste heat from chillers
+instead of a like-for-like approach using heating hot water from the new
+heat pumps.
+Optimising and tweaking controls of heat pumps will also be important.
+They must be set up properly, otherwise inefficiencies will also occur.
+
+A practical guide to electrification: For existing buildings
+
+17
+
+A practical guide to electrification: For existing buildings
+
+18
+
+How to electrify
+a building:
+Alternatives
+to natural gas
+Electric
+alternatives
+
+Impacts and
+benefits
+
+Key questions
+
+Domestic hot water
+
+Technical
+considerations
+
+Space and location
+
+Domestic hot water is typically provided using gas boilers,
+particularly in centralised systems. Decentralised domestic hot
+water systems can be either gas boilers or instantaneous electric.
+
+Air source heat pumps and thermal storage tanks require more plant
+room space than gas boilers to produce the same daily and peak
+hour hot water volumes. They also require good natural ventilation in
+order to extract heat from the air. Refer to the Space and location
+section for further details.
+
+Gas
+
+Alternative
+
+Electrical capacity
+
+Gas boiler (central)
+
+• Heat pumps with thermal storage tanks
+
+Gas boiler (local)
+
+• Instantaneous electric
+• Heat pump
+
+Demand for domestic hot water is typically consistent all year round.
+The electrical load to generate the hot water could occur during the
+building peak electrical demand period. Replacing gas systems with
+electric alternatives is therefore likely to increase the demand for
+electricity in the building. This can be managed through thermal
+energy storage and energy demand management to shift the peak.
+Refer to the Electrical capacity section for further details.
+
+Switching from gas boilers to electric heat pumps is likely to have
+the following impacts and benefits in existing buildings:
+
+Other considerations
+
+Space and location
+
+• More space needed
+• Natural ventilation needed
+
+Electrical capacity
+
+• Potential increase in peak electrical
+demand
+
+Other
+
+• Increase hot water storage in central
+systems
+• Consider use of small electric heaters at
+point of use
+
+Energy costs
+
+• Lower operating costs
+
+Health
+
+• No air pollutants from gas
+
+GHG emissions
+
+• Zero (with renewables)
+
+1.
+
+Thermal storage pre-heat tanks connected to the condenser water
+loop can also help capture waste heat from chillers before rejection to
+cooling towers. Thermal storage can also help with demand response
+serving as a way to store renewable energy generated during the day
+as heat to use during other times.
+Local vs centralised hot water systems
+In buildings with low distributed demand for domestic hot water, local
+electric point of use heaters can be considered. Local systems can
+result in an increase in peak electrical demand compared to a central
+system. When evaluating the cost-benefits consider the energy
+efficiency of heat generation, pumping energy, pipework and standing
+losses, and peak electrical demand.
+
+What gas systems are used to provide domestic hot
+water?
+
+2. When are they due for replacement?
+3. Do you have suitable space available to install an
+electric system?
+4. Do you have sufficient capacity in the main switchboard
+and substation?
+5. Is the system central or local?
+
+A practical guide to electrification: For existing buildings
+
+Gas boilers are often sized to meet the peak hot water demand. A like
+for like capacity replacement with heat pumps would lead to more
+space needed and a higher peak electricity demand. To mitigate this,
+heat pumps can be designed to meet the daily demand with storage
+tanks to manage the peak hourly demand.
+
+19
+
+In buildings with a mix of domestic hot water demand, such as
+commercial buildings with an end-of-trip facility with showers (high
+demand) and bathroom wash basin taps (low demand) a
+combination of systems can be used - heat pumps located near to
+the high demand and point of use heaters for the distributed low
+demand.
+
+A practical guide to electrification: For existing buildings
+
+20
+
+Explainer:
+Heat pumps and
+refrigerants
+
+A technology for the electrification of buildings is heat pumps. These
+use refrigerants which have a GHG emissions impact if they leak to
+the atmosphere, and this needs to be considered in whole-of-life
+carbon footprint assessments.
+
+What is a heat pump?
+
+A heat pump is a device that uses the refrigeration cycle to move
+(pump) heat from one place to another. A compressor, typically
+powered by an electric motor, pumps a refrigerant around a piped
+circuit containing an evaporator (which absorbs heat), an
+expansion valve and a condenser (which rejects heat).
+
+Replace early, or
+replace late? The
+carbon impacts.
+
+There are two main types of heat pumps:
+
+•
+
+1,600
+
+Air-source – the heat pump extracts or rejects heat to the
+outside air.
+
+1,527
+1,400
+
+Ground-source –the heat pump extracts or rejects heat to
+either the ground, or to a large body of water (lake, sea, river,
+etc.).
+
+1,200
+
+A common type of heat pump is a fridge which removes heat from
+the food stored inside the fridge and transfers it to the back of the
+fridge (which gets warms).
+Many heat pumps use a class of refrigerants called
+Managing refrigerant
+impacts – today and in Hydrofluorocarbons (HFCs). While these refrigerants have a zero
+the future
+Ozone Depletion Potential (ODP) they can have a high Global
+Warming Potential (GWP), ranging from under 100 to well over
+2,000 (i.e. over 2,000 times more potent than CO2). However, due
+to the relatively small volume of refrigerants and leakage to
+atmosphere, the overall GHG impact from refrigerants can be
+small, particularly if heat pumps using low GWP refrigerants are
+selected.
+
+1,000
+
+840
+
+800
+
+600
+
+400
+
+200
+
+216
+
+0
+
+2023
+
+In 2016, the Montreal Protocol, which successfully phased out
+ozone depleting refrigerants, was updated to require the gradual
+phase-down of high-GWP HFCs by 203625. Green Star Buildings
+considers refrigerants with a GWP less than 10 to be low GWP.
+
+2030
+
+Replace gas boiler in 2040
+
+There are heat pumps available today that use natural refrigerants
+such as ammonia or carbon dioxide (CO2). Using CO2 as a
+refrigerant has many benefits, one of which is its low GWP of 1
+compared to HFC refrigerants. Chillers are already available with
+very low GWP (<2) Hydrofluroolefins (HFOs) refrigerants, and
+heat pumps using these are also under development.
+
+A practical guide to electrification: For existing buildings
+
+Cumulative tCO2e
+
+•
+
+Replacing gas boilers before their end of serviceable life
+requires consideration of the whole of life carbon impacts as
+well as the cost. The chart below provides an example
+assessment of the operating energy emissions, the embodied
+carbon of the equipment and assumed refrigerant leakage for
+a space heating gas boiler in a typical Sydney office building for
+three scenarios – replace with a heat pump in 2040, replace
+now and use grid electricity, and replace now and procure
+100% renewable electricity.
+
+21
+
+2040
+Replace gas boiler now
+
+2050
+Replace gas boiler now and
+procure 100% renewable electricity
+
+Assumptions: 4.5 star NABERS Energy office base building in Sydney CBD with 20,000m2 NLA, 13% of energy is gas for
+space heating, NSW natural gas GHG coefficients and grid electricity decarbonisation as per page 6, gas boiler efficiency
+= 90%, heat pump CoP = 3, new heat pumps installed in 2040 for all scenarios, refrigerant GWP = 124 (in 2023) and 41 (in
+2040), 9% annual refrigerant leakage rate, embodied carbon of 11 kgCO2e per kg of equipment (source: CIBSE).
+
+A practical guide to electrification: For existing buildings
+
+22
+
+How to electrify
+a building:
+Alternatives
+to natural gas
+Electric
+alternatives
+
+Impacts and
+benefits
+
+Key questions
+
+Cooking
+
+Technical
+considerations
+
+Cooking is often provided using gas cooktops and other equipment
+in commercial and domestic kitchens. However, electric
+alternatives, including induction technologies, have significantly
+improved over the past few years to become more attractive and
+affordable.
+
+Technical requirements
+Alternative electric approaches exist for cooking styles that need
+flame. When needed, localised fuel sources, preferably using a
+renewable biofuel or biogas, can be used. Discussing with potential
+retail tenants and agents early the benefits of all electric kitchens, can
+help lessen concerns as the industry transitions over the next few
+years (see here).
+
+Gas
+
+Alternative
+
+Gas cooktop
+
+• Induction
+
+Flame & char
+
+• Electric charcoal grille
+• Portable renewable gas cooktop
+• Electric grille with steam for moisture
+
+Wok burner
+
+• Induction wok burner
+
+Location and space
+
+Gas oven
+
+• Electric oven
+• Electric steam oven
+
+Induction cooktops save space, creating additional workspace when
+not used for cooking, and, through their controllability, being able to
+replace other specialist equipment.
+
+Moving from equipment that uses gas or other fossil fuels is likely
+to have the following impacts and benefits on existing buildings.
+Space and location
+
+• Smaller extract ducts
+• Smaller kitchen possible
+
+Electrical capacity
+
+• Increase in peak electrical demand
+
+Capital costs
+
+• Higher initial investment
+
+Energy costs
+
+• Lower operating costs
+
+Health
+
+• Better indoor air quality & more
+comfortable temperatures in kitchen
+• Reduced risk of burns
+
+GHG Emissions
+
+• Zero (with renewables)
+
+1.
+
+When converting kitchens to all electric also consider the potential to
+reduce supply and exhaust ventilation flow rates. This can save fan
+and cooling energy, create quieter spaces and reduce material use in
+the fitout.
+
+Benefits and other reasons to electrify
+As the many benefits of all electric kitchens become apparent, chefs
+are now training to use all-electric equipment and changing cooking
+techniques to suit. Those that do are finding all electric kitchens
+provide a safer, healthier, and more productive kitchen. The next page
+outlines the reasons why and the financial benefits.
+In domestic settings, consumers (and developers) are increasingly
+aware of the improved health and safety, ease of cleaning, and better
+controllability of induction cooking and making the switch from gas.
+As interest in avoiding the impact of indoor air pollutants associated
+with combustion and methane leakage from gas cooktops grows, the
+pace of the transition is likely to increase.
+
+Is gas or other fossil fuels directly used to provide cooking?
+
+2. Would installing electrical cooking throughout increase the
+annual peak electrical demand of the building?
+3. If tenants own and install the cooking equipment:
+a.
+
+How long is the tenancy lease for?
+
+b.
+
+Have you engaged with existing or prospective tenants
+about switching to all electric?
+
+c.
+
+If natural gas were to be removed from the building,
+could the tenant use portable fuel sources (e.g. bottled
+gas) for flame cooking?
+
+A practical guide to electrification: For existing buildings
+
+23
+
+A practical guide to electrification: For existing buildings
+
+24
+
+Retrofitting a commercial kitchen
+From wok cookers to griddles, the range of induction equipment available has increased significantly in recent years, as has their popularity.
+Induction cooktops have flat surfaces that can be used as extra workspace for food preparation when not being used for cooking. They are
+significantly easier and quicker to clean than gas burners with less cleaning chemicals required. They don’t get hot and can be wiped down
+immediately – this means less time to clean the kitchen at the end of a shift. Induction cooktops can also be used for multiple types of cooking
+due to the ability to control to set temperatures, reducing the amount of specialist equipment required which can deliver space and cost
+savings.
+Induction cooktops save energy. Compared to gas burners, which are regularly left on during cooking, when a pan is lifted off the induction
+surface the electricity consumption stops. Induction cooktops, by turning the pan itself into the heat source, also emit much less direct heat into
+a kitchen which can reduce the size, space requirements and energy consumption of kitchen ventilation and space cooling systems.
+The quality, speed, heat and benefits are now equivalent or better than gas options. However, the upfront costs can be higher. A study by North
+Sydney Council in 2022d analysed a potential transformation of the North Spoon Café from gas to all-electric. The information below summarises
+the findings of equipment and operating costs. The bottom line? Any increased capital costs are paid back in a few short years.
+
+Induction wok cooker
+range
+
+Cooking efficiency
+
+Heating /preheat
+time
+
+Annual energy
+consumption
+
+Estimated annual
+energy use reduction
+
+Annual cooking
+energy cost
+
+Product
+cost
+
+53%
+
+5 min 49 sec
+(0.5L water)
+
+120,598 MJ
+
+-
+
+$2,641
+
+$3,199
+
+Gas
+burner
+w/ oven
+
+• Hard to clean
+• Fire risk
+• Adequate ventilation needed
+
+Induction
+w/ oven
+
+• Easy to clean
+• Reduced burn risk
+• No fumes released
+
+90%
+
+3 min 35 sec
+(0.5L water)
+
+36,035 MJ
+
+59%
+
+$789
+
+$6,500
+
+• Hard to clean
+
+50%
+
+14 min
+(to 190ºC)
+
+68,913 MJ
+
+-
+
+$1,509
+
+$3,220
+
+Commercial induction
+range cooker
+
+Payback
+period
+
+2
+
+Deep fryers
+
+years
+
+Gas
+
+Induction
+
+• Easy to clean
+• Food is evenly cooked
+• More visually appealing
+
+90%
+
+8 min 34 sec
+(to 190ºC)
+
+29,288 MJ
+
+58%
+
+$641
+
+$2,000
+
+Griddle/chargrill
+
+Cooktops
+
+Issues
+
+Single-phase induction
+oven range
+
+Gas
+
+• Hard to clean
+• Fire risk
+• Adequate ventilation needed
+
+22%
+
+-
+
+120,598 MJ
+
+-
+
+$2,641
+
+$4,789
+
+Induction
+
+• Easy to clean
+• Evenly cooked food
+• Reduced burn risk
+• No fumes released
+
+0
+
+years
+
+3
+
+years
+76%
+
+-
+
+26,658 MJ
+
+78%
+
+$584
+
+$10,970
+
+d With thanks to North Sydney Council for allowing us to use this information.
+
+A practical guide to electrification: For existing buildings
+
+25
+
+A practical guide to electrification: For existing buildings
+
+26
+
+Other systems
+
+Key questions
+1.
+
+What other gas or fossil fuels are used in the building?
+a. For each of those systems, what is their expected life?
+
+Backup and
+emergency
+power
+
+b. Are there other alternatives that can be considered?
+
+Many buildings have diesel generators for emergency power during
+electricity blackouts. While diesel consumption typically accounts
+for less than 1% of the operating GHG emissions, over time it will
+need to be phased out to deliver fully fossil fuel free buildings.
+Some alternatives to diesel generators that could be considered are
+outlined below.
+
+2. How much energy do these systems consume?
+3. Is there a business case to bring the replacements forward
+in alignment with your zero carbon strategy?
+
+Biofuel
+Batteries
+Green hydrogen
+
+Potential
+sources of
+fossil fuels in
+your building
+Other uses of
+natural gas in
+buildings
+
+Cogeneration
+equipment
+
+Steam
+Laboratory equipment
+Industrial processes
+Backup and emergency power
+Cogeneration equipment
+
+There are a range of specialist uses in some buildings and not all of
+these have a simple alternative to fossil fuels. In these cases, effort
+should be made to find a replacement, or design the building for
+easy adaptability in the future. Some examples are:
+
+Steam in hospitals
+Steam is used for sterilisation and typically generated by using gas.
+Alternatives include dry heat, chemical, plasma gas and vaporised
+hydrogen peroxide sterilisation.
+
+Laboratory bunsen burners
+Alternatives to bunsen burners connected to a central gas system
+include portable burners using butane/propane/LPG canisters and
+electric bunsen burners.
+
+Industrial processes
+While outside the scope of this guide, green hydrogen produced
+from renewable energy sources is predicted to become an
+important energy source to decarbonise industrial processes with
+high heating requirements such as steel production.
+
+A practical guide to electrification: For existing buildings
+
+27
+
+Gas fired cogeneration systems (generating heat and electricity for
+use in buildings) were, for many years, considered a low carbon
+transitional technology as they reduced the consumption of grid
+electricity and also provided a source of heat. In trigeneration
+systems, the heat generated was used to drive an absorption
+chiller to make use of the heat during periods when heating is not
+required.
+The benefit of running a cogeneration system relies on natural gas
+being relatively cheaper than grid electricity, making efficient use of
+the heat generated all year round, and the grid electricity network
+not decarbonising rapidly. In many buildings with existing
+cogeneration systems these conditions are no longer being met.
+Removing cogeneration may simply be a case of turning it off and
+then removing it from the building. However, in some cases the
+system may form an integrated part of the emergency power backup, the overall heating capacity and/or the overall cooling capacity
+(including low load cooling). Careful consideration of how to
+decommission the cogeneration system may be necessary,
+including increasing emergency generation, heating systems
+and/or electric chiller capacity as required. However, there are
+benefits as well, with plant space becoming available for other
+uses.
+From a climate impact perspective, cogeneration systems should
+be phased out quickly from all buildings.
+
+A practical guide to electrification: For existing buildings
+
+28
+
+Electric vehicles
+Retrofitting
+electric vehicle
+charging
+points
+
+While not the subject of this guide, retrofitting electric vehicle (EV)
+chargers into a building can serve as a potential intervention point
+to electrify other systems. This is because the work required to
+assess and potentially upgrade the electrical capacity or demand is
+similar to that which is needed to electrify other building systems.
+There are a number of elements that must be taken into account
+when considering EV charging:
+Number of car spaces to have charges (now and in future as
+car fleet changes)
+Type of charges (rapid charge vs trickle charge)
+Control of charging including demand management
+Aligning time of charging with onsite renewable energy
+and/or peak tariff periods
+Electrical system capacity.
+All of these have implications on the loads that will be introduced
+into the building. In non-residential buildings, there may be a
+mixture of limited overnight charging, dedicated short term
+charging bays, and dedicated fast chargers. In residential
+buildings, the expectation might be for all occupants to have
+dedicated overnight charging, with a limited number of fast
+charging bays for emergencies or visitors.
+In most cases, EV charging will induce significant demand in a
+building. The demand requirements may be in excess of the
+building’s capacity, particularly when combined with other
+electrification measures (refer to Electrical capacity section).
+While energy efficiency measures can help in driving other loads
+down, a smart load management system will be required for the
+EV charging system. The smart load management system
+monitors power consumption and peak times and manages the
+amount of electricity supply available for charging. The load
+management system can also help shift charging to a time when
+renewables are strongest or when electricity prices may be low.
+There are a number of dedicated guides to help you in retrofitting
+EV charging in existing buildings. For Australia, the NSW
+Government recently published a guide to make commercial and
+residential buildings EV ready.
+
+A practical guide to electrification: For existing buildings
+
+29
+
+A practical
+practical guide
+guide to
+to electrification:
+electrification: For
+For existing
+existing buildings
+buildings
+A
+
+30
+22
+
+Managing
+peak
+demand
+
+Electrical capacity
+The electrical capacity of a building is a potential challenge to
+removing gas and switching to all electric systems. This section
+provides an overview of some of the issues to consider, and why the
+issue may not be as big a barrier as first thought.
+
+The electrical demand for domestic hot water is typically consistent all year
+round. To reduce peak electrical demand consider thermal storage in central
+systems. For point of use systems, the installed capacity can be quite high so
+review the load diversity assumptions when calculating the peak electrical
+demand.
+
+What is the electrical capacity of the existing substation and
+main switchboard?
+
+2. What is the actual annual peak electrical demand in the
+building based on historical data when the building is
+operating normally (i.e. not during Covid)?
+
+Cooking
+The use of all-electric cooking is still evolving and further data on peak electrical
+demand and load diversity, particularly in shopping centres and apartments with
+multiple kitchens, will become available over time.
+
+3. How much measured spare capacity is there when the
+current annual peak demand occurs?
+
+Electric vehicles
+
+4. Are there any other proposed changes to the building that
+will change existing electrical demand (increasing it by
+electrifying, or decreasing it through energy efficiency and
+demand management)?
+
+The transition to electric vehicles (EV) will see an increase in the number of
+buildings providing vehicle charging points. A plan should be developed to
+manage the peak electrical loads due to EV charging as part of an overall
+building electrification strategy.
+
+5. Is other space available for electric systems that can’t be
+installed in existing plant rooms or the main switch room?
+6. What impact would there be from including electric vehicle
+charging on the building’s switchboard capacity or
+substation?
+
+Terminology
+
+The peak demand for heating (winter) does not occur at the same time as the
+peak demand for cooling (summer). Switching from gas boilers to heat pumps for
+space heating typically does not increase the annual electrical peak in most
+climate zones in Australia. An exception may occur if heat pumps are used for
+reheat as part of the dehumidification process.
+
+Domestic hot water
+
+Key questions
+1.
+
+Space heating
+
+Visualising peak demand in a building
+This illustrative chart shows how to evaluate the winter and summer peaks after electrification compared
+to the annual capacity of the building.
+
+Substation
+Converts high voltage electricity from the grid down to a lower
+voltage for use in buildings via a transformer. Substations and
+transformers can be located in the street, on poles or inside larger
+buildings
+
+Main switchboard (MSB)
+
+Existing
+switchboard
+capacity
+Space
+heating
+
+31
+
+Cooking
+
+EV
+charging*
+Demand
+management and
+energy efficiency
+measures
+
+Light + power
+
+Annual peak electrical demand
+
+A practical guide to electrification: For existing buildings
+
+DHW
+
+Dehum
+
+Cooling
+
+Located inside the building this is the hub from which the electricity
+supply to the building is distributed to other switchboards and
+includes circuit breakers, meters, power factor correction and other
+controls.
+This is the highest power load (measured in kW) that occurs in the
+building at a moment in time during the year. It often occurs on the
+hottest day of the year when all cooling systems are switched on. If
+the peak electrical demand exceeds the electrical system capacity,
+then it trips out the electrical supply. This is why systems are often
+designed with lots of spare capacity that isn't used.
+
+DHW
+
+Cooking
+
+Lifts and other
+equipment
+Fans +
+pumps
+Winter peak
+
+* And any other new
+electrical loads
+
+Summer peak
+
+Final peak demand
+
+A practical guide to electrification: For existing buildings
+
+32
+
+Space and location
+Converting an existing building to be all-electric will typically require
+considering where the heat pumps for space heating and domestic
+hot water can be installed. The location of the existing plant rooms will
+influence what building modifications may be required.
+
+Space and
+location
+considerations
+
+1
+
+Space for plant
+
+Ventilation
+
+Building structure
+
+1. Plant on
+roof
+(external)
+
+Roofs often have additional
+space although need to
+check height restrictions
+and potential visual
+impacts.
+
+Natural ventilation is
+typically easily achievable
+on roofs.
+
+Concrete roofs will
+typically be able to support
+the plant. Lightweight roofs
+may require structural
+strengthening.
+
+2. Plant
+room inside
+building
+
+Internal plant rooms may
+need to be extended which
+may not be practical.
+
+If the plant room is on the
+perimeter then additional
+louvres may suffice to
+provide adequate cross
+ventilation. Internal plant
+rooms may need to be
+relocated or plenums
+installed to provide
+adequate ventilation.
+
+Plant rooms will typically
+have sufficient capacity,
+but if the plant room is
+extended to other parts of
+the floor the structure will
+need to be checked.
+
+3. Plant
+room in the
+basement
+
+As per 2
+
+Providing adequate
+ventilation to air source
+heat pumps in basements
+will often be a significant
+challenge. Finding
+alternative locations for the
+heat pumps will typically
+be necessary, although the
+basement space can be
+used for thermal storage.
+
+As per 2
+
+4. Plant
+room
+outside the
+buildings
+
+External space for plant is
+highly dependent on the
+building type and location.
+Will be challenging in city
+centre locations.
+
+Natural ventilation is
+typically easily achievable
+in external locations.
+
+Review the load
+requirements and provide
+appropriate foundations
+and slabs.
+
+2
+
+4
+3
+Plant location opportunities and challenges
+
+What else to
+consider
+when moving
+the plant
+room
+
+If you need to relocate the heating hot water or domestic hot
+water central plant then consider the following:
+How will the plant be connected to the central reticulation
+pipework?
+Can the length of new pipework be minimised to reduce
+pipework heat losses and pumping energy?
+
+Notes
+1.
+
+Can distributed domestic hot water systems (or a hybrid
+system of central and distributed) be adopted if there is
+limited opportunity to find additional space?
+
+A practical guide to electrification: For existing buildings
+
+The table above provides generic advice. Each building is unique and requires detailed evaluation of the spatial and
+ventilation requirements by a mechanical engineer, and a qualified structural engineer for structural requirements.
+
+2. Changes to the building envelope (e.g. new louvres) or locating plant on the roof may require planning permission
+and evaluation of potential visual and noise impacts on neighbours.
+
+33
+
+A practical guide to electrification: For existing buildings
+
+34
+
+Key electric features
+
+Domestic
+Hot water
+
+Space
+heating
+
+Image credit:
+
+Case study:
+600 & 678
+Victoria Street
+Location
+Melbourne, Vic
+Sector
+Commercial
+Developer
+Salta Properties
+Consultant
+Building-Performance
+
+Additional buffer tanks were required for both upgrade projects
+meaning that plant room space needed to be found and
+structural support added.
+Despite the challenges, upgrading the systems to electric
+represents a significant step towards achieving net zero
+operations for the buildings and owner, Salta Properties, has
+had several other benefits, too.
+The new system provides significant storage of both hot and
+cold water which helps avoid the impacts of peak demand
+periods. It also helps to enable the installation of photovoltaic
+systems that will be added to the buildings over the coming
+years to buffer future energy demands.
+The projects have also been valuable in demonstrating how
+retained assets and infrastructure will need to be managed and
+upgraded in the future to meet a range of goals, including
+optimal building performance.
+
+Optimising assets for today and tomorrow
+Planned lifecycle upgrades triggered a decision to replace chillers
+and offset gas-powered boiler systems with heat pump systems at
+600 and 678 Victoria Street in Richmond, Victoria. The buildings are
+both multi-tenanted A-Grade commercial assets owned by Salta
+Properties, one of Australia’s largest privately owned companies.
+The upgrade projects were managed by Building-Performance.
+"Achieving 100% electrification should be a priority for every
+building, but we must also recognise that we can do this over a
+period of time. Every gas asset should have a long-term strategy for
+replacement and those approaching the end of their economic life
+must be reviewed for how they can be electrified. This approach
+creates a sustainable and economically sound route to
+decarbonisation. These projects showed we have dramatically
+minimised the dependency on gas through heat pump technology,
+but we won't decommission boilers until the end of their economic
+life," says founder of Building-Performance, Liam Murray.
+Initially, the final temperature of the peak load system (less than 2%
+of heating demand) will be achieved using boilers. This is because
+the difference between water in the pipes and room temperature
+(the delta T) with heat pumps is not large enough to use the
+existing pipework. Within three years, both sites will decommission
+their boilers and switch to electric calorifiers that will provide a high
+temperature injection to help the peak load system reach the
+required final temperature.
+
+A practical guide to electrification: For existing buildings
+
+35
+
+Salta Properties is committed to
+future proofing our assets and
+mitigating risks, including the impacts
+of a changing climate, for our tenants
+and other stakeholders. All new
+developments at Salta are fully
+electric and electrification of our
+existing assets has an important role
+to play, starting with upgrading
+existing systems such as those at 600
+and 678 Victoria Street.
+NIKKI PATON | Head of Sustainability and Operations Strategy, Salta Group
+
+A practical guide to electrification: For existing buildings
+
+36
+
+Key electric features
+
+Domestic
+Hot water
+
+Vicinity recognises that electrification will play a central role in
+its decarbonisation journey (along with energy efficiency,
+renewable energy and lastly, carbon offsets), so they are
+currently investing in work that will help them to understand the
+opportunities and challenges for electrifying their diverse
+portfolio. Cundall are working with Vicinity to examine the
+importance and benefits of electrifying their existing assets and
+to develop feasibility studies for five different types of assets
+represented in the portfolio. This includes heritage buildings,
+small ‘neighbourhood’ shopping centres, larger regional
+shopping centres and large ‘shed’ type centres, such as DFOs.
+
+We are working with Cundall
+to develop a bespoke
+roadmap that will put
+Vicinity in the best position
+to integrate electrification
+into capital expenditure
+planning and to maximise
+the opportunities that arise
+in planning and budgeting
+processes. We want to be
+able to make the most of
+every decision point for
+both existing buildings and
+new developments to
+ensure we are electric
+wherever possible.
+
+The work will focus on what technology will be needed, space
+requirements and cost estimates – all key considerations for
+planning upgrades to existing assets.
+
+MATEA ČEHOVIN | Sustainability Manager –
+Environment, Vicinity Centres
+
+Space
+heating
+
+Case study:
+Vicinity Centres
+Portfolio
+Location
+Australia
+Sector
+Retail
+Developer
+Vicinity Centres
+Consultant
+Cundall
+
+Cooking
+Vicinity Centres, one of Australia’s leading retail property groups
+has 59 retails assets under management and a target of net
+zero carbon emissions for the common mall areas of their
+wholly-owned retail assets by 2030.
+
+Having the right knowledge and resources to effectively engage
+with tenants will be critical, particularly those in food and
+hospitality where cooking with gas is currently the norm. This
+work will help to inform internal and external stakeholders of the
+importance of electrification and the benefits that it can deliver.
+
+A practical guide to electrification: For existing buildings
+
+37
+
+A practical guide to electrification: For existing buildings
+
+38
+
+Image credit: 8 Chifley Square, David Clare, First Light Photography
+
+Key electric features
+
+Domestic
+Hot water
+
+Electrification projects can be more complex so stakeholders
+involved in the decision making, planning and delivery of
+projects should be involved as early as possible.
+Despite the challenges, these projects are delivering significant
+benefits. Not only are these upgrades an important step on the
+journey to decarbonising Mirvac’s portfolio, they are also clearly
+demonstrating the feasibility of electrification and generating
+important learnings for subsequent projects.
+
+Key benefits include:
+Space
+heating
+
+Case study:
+275 Kent Street
+and 8 Chifley
+Square
+Location
+Sydney, NSW
+Sector
+Commercial
+Developer
+Mirvac
+
+In 2014, Mirvac set an ambitious target to be net positive in
+carbon by 2030 for our scope 1 and 2 emissions.
+But targets aren’t much without a plan. So, in 2019 we published
+Planet Positive - Carbon, our approach to help us reach this
+goal.
+In 2021, Mirvac reached its net positive carbon target nine years
+early, by maximising energy efficiency, purchasing renewable
+electricity, investing in a small amount of high-quality,
+community focussed carbon offsets and progressing
+electrification across our portfolios.
+When the end of trip (EoT) facilities at 275 Kent Street and 8
+Chifley Square were due to be enhanced, there was a key focus
+on avoiding gas use for hot water and instead using an electric
+heat pump which aligned with our electrification strategy.
+However, there were a few challenges to overcome.
+Firstly, space availability. At 275 Kent Street, the heat pumps
+were installed next to the EoT in a dedicated plant room, but at
+8 Chifley Square, a car park space had to be sacrificed as there
+was insufficient plant room space close to the EoT facilities.
+Value is also a key consideration. Heat pump systems typically
+have higher purchase and installation costs requiring additional
+funds to be committed in capital expenditure budgets, but any
+additional costs need to be considered in the context of future
+proofing assets rather than a narrow return on investment
+focus.
+
+A practical guide to electrification: For existing buildings
+
+39
+
+•
+
+Removing fossil fuel use and the associated carbon
+emissions from the operation of the EoT facilities at 275
+Kent Street and 8 Chifley Square.
+
+•
+
+At 275 Kent Street data shows that the heat pumps are
+already realising operational cost savings.
+
+•
+
+Modelling is underway for replacing gas systems with heat
+pumps for entire buildings with indications of more
+operational cost savings to be made.
+
+•
+
+Future proofing assets and reducing carbon offset
+requirements.
+
+By designing, creating and managing high
+quality, energy efficient buildings operating
+on renewable energy, we not only reduce
+our own emissions and impact, but we can
+also demonstrate the benefits of working
+as a ‘force for good’, inspiring and
+influencing others to do the same.
+DAVID PALIN | Sustainability Manager, Mirvac
+
+A practical guide to electrification: For existing buildings
+
+40
+
+Key electric features
+
+Space
+heating
+
+Case study:
+QuadReal
+Property
+Group
+Location
+International, Canada
+Sector
+Commercial, Industrial,
+Residential
+Developer
+QuadReal Property
+Group
+
+QuadReal reduces reliance on carbon through
+innovative assessment
+QuadReal Property Group is a global real estate investment,
+operating and development company headquartered in Vancouver,
+Canada, with a growing portfolio of real estate assets in Australia,
+as well other countries around the world. Currently, there is a
+portfolio wide effort underway to reduce QuadReal’s carbon
+footprint and dramatically increase energy performance.
+
+Turning data into solutions
+At one of QuadReal’s office buildings, Park Place in Vancouver, the
+Building Operations team conducted energy studies which
+indicated the property’s energy usage and costs could be reduced
+with the installation of a heat recovery system. Two heat recovery
+chillers were installed to allow waste heat from the cooling systems
+to be captured and re-used to heat other parts of the building. The
+heat recovery chillers act as heat pumps to deliver heating, a
+process that significantly reduces water usage, steam consumption
+and greenhouse gas emissions. The system delivers an annual
+energy cost saving of over $110,000 AUD.
+Commerce Court, an iconic, multi-building complex in the heart of
+Toronto’s financial district is connected to a district energy loop
+project that uses deep lake water for cooling. Recently, while
+assessing the buildings natural gas-based heating equipment that
+was coming to its end-of-life, the team began searching for a low
+carbon solution.
+
+A practical guide to electrification: For existing buildings
+
+41
+
+QuadReal proposes to utilise the waste heat loop from the
+district cooling system and through on-site heat pumps
+upgrade the heat to provide all the heating needed for over a
+million square feet of office space at Commerce Court. This
+would reduce the annual carbon emissions of the complex by
+6,000 tonnes.
+These are just two examples of how QuadReal is evaluating its
+portfolio, reducing its overall carbon footprint and working
+towards its goal of building better, smarter and more
+sustainable properties.
+
+As a part of our
+commitment to reducing
+our environmental footprint
+we invest in innovative
+solutions. One innovation is
+to track all-natural gas
+using equipment in our
+energy management
+software and begin zero
+carbon pathway
+assessments three years
+ahead of end of life of that
+gas equipment. We project
+this will double our pace of
+portfolio carbon reduction
+from 2% per year to 4% per
+year.
+JAMIE GRAY-DONALD | Senior Vice President,
+Sustainability & Environmental, Health & Safety,
+QuadReal
+
+A practical guide to electrification: For existing buildings
+
+42
+
+Key electric features
+
+Domestic
+Hot water
+
+Space
+heating
+
+Case study:
+Kawakawa,
+Dargaville &
+Kaitaia
+hospitals
+Location
+Northland, New Zealand
+Sector
+Health
+Developer
+Te Whatu Ora Health
+New Zealand – Te Tai
+Tokerau (formerly the
+Northland District Health
+Board)
+
+Dargaville hospital is expected to save $111,000 on energy costs
+and $41,600 on maintenance. Kaitaia expected to save $89,000
+on annual energy costs and $53,900 on maintenance. Diesel
+savings at both hospitals was 282,000 litres, leading to a carbon
+saving of 794 tonnes a year representing a reduction in carbon
+emissions of over 70% prior thanks to the electrification
+projects.
+Aside from the clear financial benefits, the electrification
+projects have gone a long way towards reducing the use of
+stationary diesel on the three sites and in turn significantly
+reducing carbon emissions.
+
+Te Whatu Ora Te Tai Tokerau has committed to halving their
+emissions by 2030 from their 2016 baseline and to reach Net Zero
+carbon emissions before 2050.
+As part of its decarbonisation strategy, Te Whatu Ora replaced a
+centralised diesel boiler at Kawakawa hospital with modern heat
+pumps. This electrification project was so successful that the
+boilers at Dargaville and Kaitaia hospitals quickly followed suit.
+Each new system can operate independently, providing each
+building with its own source of domestic hot water and heating with
+the replacement of the old diesel boilers resulting in immediate
+energy savings. The energy performance of the 3 hospitals
+improved from over 300 kWh/m2 per year to between 111 and 182
+kWh/m2 per year representing a 40% to 60% reduction in energy
+consumption.
+The heat pumps can be adjusted in response to seasonal variations,
+building occupancy and the fact that not all wards are open day
+and night.
+The electrification also meant that the steam reticulation pipes to
+the boilers could also be removed – a common source of energy
+and carbon savings as these pipes continuously lose heat.
+
+A practical guide to electrification: For existing buildings
+
+35
+
+A practical guide to electrification: For existing buildings
+
+36
+
+Key electric features
+
+Domestic
+Hot water
+
+Space
+heating
+
+Case study:
+22 The Terrace
+Location
+Wellington, New
+Zealand
+Sector
+Commercial
+Developer
+Stride Property Group
+
+To support the increased electrical load, the main switchboard,
+already at the end of its economic life, was upgraded along with
+a new sub-main installed to support the new air source heat
+pumps located on the roof of the building. The existing
+transformer was able to be reused with careful assessment of
+the electrical loads and the installation of a load management
+system for the EV charging infrastructure which adjusts the rate
+of EV charging in real time to keep the transformer loading
+within the existing capacity.
+This project demonstrates how recycling existing building stock
+can minimise life cycle carbon emissions from upfront and
+operational carbon emissions through strategic retrofit and
+electrification of the existing fossil fuelled infrastructure. This
+building highlights that electrification is not the preserve of
+Premium and A-Grade assets but is a sound portfolio strategy
+across all parts of the building market.
+
+The revitalisation of 22 The Terrace demonstrates how a seismic
+strengthening project of a stereotypical commercial building in New
+Zealand can represent an opportune time to significantly improve
+the building’s environmental performance and decarbonise building
+operations through electrification.
+22 The Terrace is a late 1980’s office building which received a full
+building refurbishment, including:
+Earthquake strengthening to 100% new building standard
+(NBS) to improve the building resilience.
+Upgrade of the building thermal envelope to reduce heating
+and cooling loads and improve thermal comfort.
+Replacement of the existing gas boilers with all electric
+heating and domestic hot water heat pumps.
+Sustainability consultants Beca carried out a comprehensive review
+of energy efficiency initiatives to inform the Green Star and
+NABERSNZ 5 Star strategy. This helped steer the services design
+away from the existing fossil fuel infrastructure towards new energy
+efficient electric air source heat pumps. The removal of all fossil
+fuelled systems from the building, new energy efficient HVAC and
+lighting systems, and retrofit to the building thermal envelope,
+resulted in an estimated 73% reduction in annual operational
+carbon emissions.
+
+A practical guide to electrification: For existing buildings
+
+35
+
+A practical guide to electrification: For existing buildings
+
+36
+
+Restaurants and
+chefs recognise
+the value of
+induction
+cooking
+
+Image credit: Kate Longley, Breathe Architecture
+
+Stokehouse chef, Jason Staudt, welcomes the
+shift saying "the combination of cooking over
+wood, with the cleanliness and sustainability of
+induction is absolutely the future".
+"As much as I love gas, induction has advanced
+in so many ways. It's more powerful, the
+cleaning is easier, and the cooking is more
+accurate.”
+JASON STAUDT | Chef, Stokehouse, ‘No longer cooking with
+gas: how a shift to induction cooking could affect Victorian
+homes and restaurants’, Good Food Online, May 11, 2021
+
+We use induction cooktops in the kitchens at Rockpool Bar & Grill, Spice
+Temple and Rosetta," says Neil Perry. "They're far easier to clean down
+after use, which is one of the main reasons we chose induction over gas.
+With induction you're no longer a slave to an incredibly dirty gas stove top
+with multiple fittings that have to cool down and be dismantled ahead of
+cleaning. There is far more elbow grease involved when cleaning a gas top.”
+NEIL PERRY | Chef, ‘Gas v induction cooktops’ what is your pick? Good Food Online,
+May 3, 2017
+
+A practical guide to electrification: For existing buildings
+
+43
+
+Image credit: Kate Longley, Breathe Architecture
+
+Greater energy efficiency means kitchens save money not only on the
+cost of fuel, but on air conditioning too. For Wakuda, the higher costs
+of installation have been offset by the lower cost of ownership. “We
+have a safer, cooler, more energy efficient kitchen,” he says.
+TETSUYA WAKUDA | Chef, Tetsuya, ‘Electric currents’, Restaurant & catering,
+December 13, 2016
+
+“If I had the choice, all of our
+restaurants would be
+induction only, there's no
+difference in the quality of
+food you can produce.
+Unfortunately, many of the
+buildings our restaurants sit in
+did not have the foundations
+for induction cooking because
+they're so old.”
+
+“It [induction cooking] is a new
+thing for me, but the idea is to
+have an ambient kitchen.”
+says chef, Martin Benn. “Gas
+stoves makes the kitchen go
+really hot, but we want to have
+more of an ambient 24°C so
+the chefs aren’t too hot when
+cooking and the food stays at
+the right temperature.”
+
+NATHAN TOLEMAN | CEO, Mulberry
+Group, ‘No longer cooking with gas:
+how a shift to induction cooking could
+affect Victorian homes & restaurants’,
+Good Food Online, May 11, 2021
+
+MARTIN BENN | Chef, Society, ‘Cooking
+up a dream kitchen: Martin Benn’s
+Society restaurant in Melbourne’, The
+Australian,
+May 7, 2021
+
+A practical guide to electrification: For existing buildings
+
+44
+
+Marketing an
+all-electric
+building
+
+Investors
+An all-electric building is ready for the decarbonisation of the
+electricity grid, particularly if the building is also highly efficient and
+powered by renewables. A building that achieves these is likely to be
+aligned with the latest science and recommendations from the
+following organisations:
+The Intergovernmental Panel for Climate Change (IPCC)
+International Energy Agency’s net zero roadmap (IEA)
+Taskforce for Climate-related Financial Disclosures (TCFD)
+This building would also likely be aligned with the requirements of the
+Climate Bonds Initiative, particularly if it has also achieved a 6 Star
+Green Star Performance rating.
+The reason why an all-electric building is aligned with these
+frameworks is simple – the building features no fossil fuels and has the
+capacity to draw its entire energy from renewable electricity generated
+in Australia.
+
+Induction cooktops are also quicker to clean at the end of the
+day. There is no waiting for cooktops to cool down then
+scrubbing burners and lining with foil. Factor in the labour cost
+savings when preparing a business case.
+Induction cooktops can be used as extra workspace for food
+preparation when not being used for cooking. They can also be
+used for multiple types of cooking due to the ability to control to
+set temperatures, reducing the need for specialist equipment.
+Smaller back of house allows for more front of house space, so
+there is an opportunity for more sales.
+Retail and commercial electric kitchens will become standard over the
+next few years as the market changes. Your existing building should be
+ready to assist tenants who are on this journey.
+
+Corporate and government tenants
+An all-electric building has many features that make it valuable for
+corporate and government tenants. In addition to the above, and as
+noted elsewhere in the guide, all electric-buildings:
+Enable the tenants to use 100% renewable electricity, which is the
+best mechanism they can use to meet their net zero carbon
+targets. This also reduces their climate-related risks and supports
+reporting on property emissions and transition strategies.
+Reduce pollution in our towns and cities and provide healthier and
+safer workspaces in kitchens.
+Align with the expectations set by GBCA’s Climate Positive
+Pathway for new buildings and meet the latest Green Star
+Performance requirements for energy sourcing in existing
+buildings (see here).
+
+Marketing
+all-electric
+kitchens to
+domestic
+buyers and
+retail tenants
+
+Retail tenants
+The new generation of all-electric kitchens deliver many benefits:
+Commercial kitchens are often hot, noisy environments with lots
+of activity and stress. Induction cooktops put much less heat,
+noise and air pollutants into the kitchen than gas burners helping
+create calmer, quieter and cooler workplaces for kitchen workers.
+Energy consumption is lower. When a pan is lifted from an
+induction cooktop the energy consumption stops. Lower heat
+means reduced energy for ventilation and cooling of the kitchen.
+
+A practical guide to electrification: For existing buildings
+
+45
+
+Domestic buyers and tenants
+For many years cooking with gas has been marketed as a sales feature
+for houses and apartments creating customer expectations for gas in
+the kitchen. But consumer attitude is changing, providing an
+opportunity to capitalise on the many benefits for induction cooking.
+Messages to consider:
+Induction kitchens are healthier, safer, and give you more
+control.
+Gas stovetops emit toxic gases that can increase asthma and
+respiratory illnesses similar to the impact of passive smoking.
+Exhaust fans don’t get rid of all of these, so avoid the problem
+altogether and use induction.
+Ever wondered why your kitchen is so hot? Natural gas kitchens
+heat the air, not just your food. Your new induction cooktop gives
+you great control as all the heat goes where it should – your pan.
+You’ll save money on bills as your induction cooktop is more
+efficient.
+Your induction cooktop is safer for children as the surface of an
+induction cooktop does not stay hot! Much less chance of
+burning small hands on the stove.
+Your cooktop is also an extra flat surface that you can use to
+prepare food on when not cooking, and cleaning it is a breeze.
+You can cook anything on it. World-class chefs of all cuisines are
+moving to all-electric kitchens. They can do it - so can you!
+A practical guide to electrification: For existing buildings
+
+46
+
+Green Star
+and allelectric
+buildings
+
+Launched by GBCA in 2003, Green Star is an internationally
+recognised rating system setting the standard for healthy, resilient,
+positive buildings and places. In summary, Green Star aims to:
+Reduce the impact of climate change
+
+NABERS and
+all-electric
+buildings
+
+Enhance our health and quality of life
+
+Energy
+
+Restore and protect our planet’s biodiversity and ecosystems
+
+Water
+
+Drive resiliency in buildings, fitouts, and communities
+
+Waste
+Indoor environment
+
+Contribute to market transformation and a sustainable
+economy.
+
+A Climate
+Positive Built
+Environment
+
+NABERS is a simple, reliable sustainability rating for the built
+environment. Like the efficiency star ratings that you get on your
+fridge or washing machine, NABERS provides a rating from one to
+six stars for buildings efficiency across:
+
+This helps building owners to understand their building’s actual
+measured performance compared to other similar buildings,
+providing a benchmark for progress.
+
+Green Star Performance v2, introduced in 2022, aims to deliver
+healthy, resilient, and positive places for people and nature, built
+responsibly, and showcasing leadership. Key to the rating tool is
+delivering buildings that meet or exceed what is required to meet a
+1.5°C trajectory. To achieve this, Green Star Performance v2
+introduced requirements for buildings to transition to be ‘Climate
+Positive’ which includes being fossil fuel free with no natural gas for
+space heating, domestic hot water and cooking.
+
+Supporting
+Australia’s net
+zero transition
+
+Emissions factors, also known as the National Greenhouse
+Accounts (NGA) factors, are used in NABERS Energy ratings to
+enable the comparison of the emissions associated with the use of
+different energy sources. The emissions related to grid electricity
+use have been falling year-on-year with the increased amount of
+renewable energy in the grid.
+
+To get a world-leading 6 Star rating, any building in operations must
+be fossil fuel free by 2026. This requirement will apply to 5 Star
+ratings by 2030, with all ratings to be fossil fuel free by 2040.
+
+To ensure that NABERS Energy ratings accurately reflect
+the latest emissions related to different energy
+sources, NABERS updated the emissions factors used to calculate
+NABERS Energy ratings for all building types in July 2021.
+
+The requirement is part of Green Star Performance’s Climate
+Positive Pathway.
+
+After the initial July 2021 update, the NGA factors will be reviewed
+and updated periodically. The next update is scheduled for 2025.
+To enable users to calculate the NABERS rating using the updated
+NGA factors, a rating prediction tool is available on the NABERS
+website. Users can predict future NABERS ratings using projected
+emissions factors.
+
+By 2026
+
+buildings that seek
+this rating
+
+Must be fossil fuel
+free
+
+By 2030
+
+buildings that seek
+this rating
+
+Must be fossil fuel
+free
+
+By 2035
+
+buildings that seek
+this rating
+
+Must be fossil fuel
+free
+
+By 2040
+
+buildings that seek
+any rating
+
+1-3
+
+Based on these changes, all-electric buildings should be able to
+achieve their desired rating, as NABERS is now using more
+accurate, lower factors for electricity than it used to.
+From 2023, NABERS will introduce a Renewable Energy Indicator26,
+which will transparently disclose the amount of renewable energy
+used by a building. Only all electric buildings running on 100%
+renewables will able to get 100% on the indicator.
+
+Must be fossil fuel
+free
+
+A practical guide to electrification: For existing buildings
+
+47
+
+AApractical
+practicalguide
+guideto
+toelectrification:
+electrification:For
+Forexisting
+existingbuildings
+buildings
+
+48
+
+Other
+frameworks
+promoting
+electrification
+
+In addition to Green Star and NABERS, other
+international frameworks will drive the delivery of allelectric existing buildings rapidly. These are the top
+three.
+
+Climate Bonds
+Initiative
+
+Climate Bonds Initiative (CBI) is an investor-focused not-for-profit,
+working to mobilise global capital for climate action. It administers the
+Climate Bonds Certification Scheme.
+In 2021, CBI approved two of the GBCA’s rating tools as compliant
+with green bonds certification under the Climate Bonds Standard.
+Green Star was recognised because the rating system is driving
+highly efficient, fossil fuel free buildings powered by renewables.
+
+Science Based
+Targets Initiative
+(SBTI)
+
+The Science Based Targets Initiative (SBTi) is part of the ‘We Mean
+Business’ coalition, a partnership between the United Nations Global
+Compact, World Resources Institute (WRI) and the World Wide Fund
+for Nature (WWF) and Climate Disclosure Project (CDP).
+SBTi has begun publishing guidance on net zero claims. Key to this
+guidance is the need to decommission or not install fossil fuel
+infrastructure. All-electric buildings are in line with this guidance.
+
+GRESB
+
+GRESB is an investor-driven organisation committed to assessing the
+ESG performance of real assets globally. More than 200 members, of
+which nearly 60 are pension funds and their fiduciaries, use the
+GRESB data in their investment management and engagement
+process, with a clear goal to optimise the risk/return profile of their
+investments.
+GRESB has indicated over the past few years an interest in driving
+better performing assets. GRESB has highlighted that driving assets
+to net zero carbon is a key concern. All-electric buildings will have a
+better opportunity to perform in this space in the future.
+
+A practical guide to electrification: For existing buildings
+
+49
+
+practicalguide
+guidetotoelectrification:
+electrification:For
+Forexisting
+existingbuildings
+buildings
+AApractical
+
+50
+
+Myths and
+barriers
+
+We interviewed many stakeholders. These are
+answers to common questions we heard.
+
+Using electricity isn’t
+greener – we’re still
+burning coal
+
+The purpose of electrifying buildings is two-fold: enable use of onsite and off-site renewables, and to ensure we aren’t locking in
+fossil fuel infrastructure for decades to come. Consider that
+electricity networks are decarbonising more rapidly than the most
+optimistic projections. By 2030, 82% of the electricity market is
+projected to be renewables – it doesn’t make sense to finish a
+building in the next few years that will be using carbon intensive
+fossil fuels for the next 20+ years.
+
+What about green
+hydrogen?
+
+Transforming the gas network and buildings to use 100% green
+hydrogen or biofuels is typically more difficult than adding
+renewables to the electricity grid.
+Much of the current gas network would need to be replaced to
+carry 100% hydrogen (or it would leak, as the hydrogen molecules
+are smaller than methane), and buildings in the network would
+need to have their equipment replaced prior to switching over to
+hydrogen.
+It also takes three times27 as many renewables to create green
+hydrogen as it does to power something with electricity. While
+hydrogen production will become more efficient with new
+technologies being developed, there will still likely be an energy
+loss compared to direct electrification through renewables.
+Over the longer term, in certain locations with large seasonal
+heating loads, green hydrogen may be competitive when factoring
+in peak demands on the electricity grid. This will only occur if the
+production of green hydrogen becomes more efficient and costs
+come down. For now, a better use for hydrogen and biofuels is in
+sectors that cannot easily electrify, like manufacturing.
+
+What about green
+gas?
+
+There is very limited supply of biogas into the national gas grid
+and this is unlikely to change in the foreseeable future. Like
+hydrogen, it’s better to use biofuels in manufacturing, processes
+and transport.
+
+What about carbon
+offsets?
+
+Offsets should only be used as a last resort after all practical direct
+emissions reduction measures have been implemented. Most net
+zero carbon standards will not allow offsets for natural gas in new
+buildings. With increased demand, the price of offsets can be
+expected to increase compared to the cost of generating
+renewable electricity which is decreasing.
+
+A practical guide to electrification: For existing buildings
+
+51
+
+The cost of heating
+with electricity is
+more than with gas
+
+There are three factors to consider that affect costs: equipment
+efficiency, connection fees, and running costs. Heat pumps are
+significantly more efficient than gas boilers and heaters, making
+electric options increasingly more competitive. While gas and
+electricity prices can fluctuate, removing gas means that you are
+avoiding connection costs and gas servicing and safety check
+costs. A well-designed electric system can also take advantage of
+lower electricity prices at different times of day to heat water to be
+used at a later time.
+
+We don't have the
+space for all electric
+design
+
+This can be a challenge in existing buildings but there is usually a
+solution to be found. See Space and location section and the case
+studies.
+
+The technology
+isn't sufficiently
+mature
+
+Heat pumps and induction equipment have been around for many
+years, are technically robust and readily available. Induction
+cooking is becoming increasingly common in Europe and Asia.
+With the increase in demand the pace of innovation is only likely
+to increase further.
+
+The electrical
+infrastructure
+capacity isn't large
+enough to
+accommodate all
+electric design
+
+The increased electrical demand associated with switching from
+natural gas will depend on the size, location, system design and
+use of the building. Adding all electric systems, combined with
+demand management controls can avoid having to upgrade the
+electrical supply to the building.
+
+Tenants and home
+owners only want
+gas
+
+As induction cooktops become more common, their benefits to
+users and building occupants are becoming more widely
+appreciated – better control, safer, easier to clean, less heat in
+space and better air quality. As more people become familiar with
+induction, the perception that gas is the best way to cook will
+change.
+
+Electric cooking
+isn’t as controllable
+particularly in
+commercial
+kitchens
+
+Induction cooking is faster (up to 60% more efficient energy
+transfer) and provides instant response to changes in controls.
+There are far more choices becoming available as more
+equipment comes to market, technologies evolve to meet
+consumer expectations and training on how to adapt to different
+equipment is provided. Leading chefs agree, with induction
+cooktops increasingly used in their restaurants.
+
+Induction woks are
+not commercially
+available in
+Australia
+
+Demand for high power induction woks for Asian cooking is
+increasing in Australia. Many leading suppliers are looking at
+options to import them from the UK and China to meet this
+demand. As demand increases, so will availability.
+A practical guide to electrification: For existing buildings
+
+52
+
+Operational rating
+tools penalise
+switching to allelectric
+
+Green Star Performance rewards making buildings fossil fuel free.
+It is also introducing mandatory requirements for buildings
+targeting 6 star to be fully electric by 2026 and has announced
+requirements for the other star ratings that will stagger over time
+between now and 2040.
+Higher NABERS Energy ratings were, until 2021, harder to achieve
+with electric heat pumps than with gas boilers. The 2022 revision
+of the carbon coefficients for grid electricity will reduce this
+impact. These will be updated regularly and reflect grid
+decarbonisation in each state and territory.
+
+I run the risk of
+breaking my NABERS
+ratings lease
+requirements if I
+electrify!
+
+Based on the latest update to NABERS, this will be unlikely if the
+refurbishment is carried through carefully. Furthermore,
+electrifying a building is something that you should undertake
+over time, and part of that undertaking is to engage with your
+tenants about the benefits of electrification as part of net zero
+carbon strategy.
+
+I have to have natural
+gas to my building –
+it’s the law!
+
+There are no mandatory requirements in Australia to connect a
+building to the natural gas network. The last jurisdiction, ACT,
+removed this requirement from their planning legislation in 2019.
+Victoria’s Gas Substitution Roadmap outlines changes to the
+Victoria Planning Provisions to remove gas connection
+requirements for new residential subdivisions.
+
+Should I keep using
+gas now and convert
+later?
+
+If the opportunity to electrify exists now, take it! The benefits of
+electrification are significant, from health to climate. Also, costs for
+electric equipment are coming down as the technology has
+become more mature. Finally, investor, tenant and consumer
+preferences are shifting. The question that you should be asking
+is, why haven’t I electrified yet?
+
+A practical guide to electrification: For existing buildings
+
+53
+
+AApractical
+practicalguide
+guidetotoelectrification:
+electrification:For
+Forexisting
+existingbuildings
+buildings
+
+54
+
+Appendix:
+terminology
+Carbon offset
+
+Emission
+scopes
+
+GWP
+
+Hydrogen
+
+Renewable
+energy
+
+Terminology to use when making claims
+A carbon offset refers to a mechanism that is used to compensate for
+GHG emissions that occur elsewhere. Australia’s Climate Active
+program has clear rules as to what constitutes an eligible offset. Offsets
+are considered a measure of last resort – they should be used to
+address unavoidable emissions such as some Scope 3 emissions.
+Natural gas use in buildings is not considered unavoidable.
+A mechanism for classifying different sources of GHG emissions used
+in carbon accounting28. There are three ‘scopes’:
+Scope 1 covers direct emissions from owned or controlled
+sources. In a building this is typically emissions from burning
+fossil fuels (e.g. diesel, natural gas and LPG) and leakage of
+fluorinated gases such as refrigerants.
+Scope 2 covers indirect emissions from the consumption of
+purchased electricity, steam, heating and cooling.
+Scope 3 covers activities not owned or controlled by the
+reporting organisation. This includes production of fuels,
+electricity transmission losses, embodied carbon in construction
+and maintenance (including materials and products), tenant
+energy consumption, waste treatment, water treatment and travel
+to/from the building.
+
+Net zero carbon
+A net zero carbon building is one where there is a balance between the
+amount of greenhouse gas produced and the amount removed from the
+atmosphere on a net annual basis. It is a technical, though open-ended
+term. Its use must be accompanied by the focus on emissions, e.g. net zero
+in operations, net zero for construction, etc.
+Net zero claims are often unverified, and there is no agreed standard that
+defines them for buildings at this stage.
+
+Carbon neutral
+A carbon neutral building, as defined in the Australian
+Government’s Climate Active standard30, is a building that:
+Meets an energy consumption target
+
+Global Warming Potential (GWP) is a measure of the energy 1 tonne of
+a greenhouse gas will absorb over 100 years compared to the
+emissions of 1 tonne of carbon dioxide (CO2). The GWP of CO2 is 1.
+GWP of natural gas is 28.
+
+Measures water consumption and operational waste
+
+Hydrogen is a fuel that can be used to generate heat or electricity
+through combustion (similar to gas) or used in fuel cells to create
+electricity through a chemical process. There are three common ways
+to produce hydrogen fuel:
+Green hydrogen, produced from renewable energy. It is the only
+form of hydrogen that can be considered low carbon.
+Blue hydrogen, produced from fossil fuels whose emissions have
+been captured. This is untested technology at scale and lifecycle
+studies29 have shown it to be emissions intensive due to fugitive
+emissions.
+Grey or brown hydrogen, produced from fossil fuels. Emissions
+intensive and the most common type of hydrogen.
+
+Climate Active Carbon Neutral claims are third party verified.
+
+Calculates its emissions based on the above information
+Uses renewable energy and/or eligible carbon offsets to settle its
+carbon account to zero.
+
+Climate Positive
+The Climate Positive pathway31 in Green Star Performance requires buildings
+to:
+Meet an energy consumption target.
+
+Renewable energy is any source of energy that can be used without
+depleting its reserves including sunlight or solar energy, wind, wave,
+biomass, and hydro energy. They are generally classified as on-site
+renewable energy (where the generator is connected behind the
+meter), or off-site (where the generator supplies to the grid and this
+electricity is procured). Off-site procurement is a valid method of
+procuring renewables through a contract that produces large
+generation certificates (LGC) that can be traced and have been retired
+to the regulator. More information can be found here.
+
+A practical guide to electrification: For existing buildings
+
+Be fossil fuel free for space heating, domestic hot water and cooking.
+Purchase 100% renewable electricity (scope 2 GHG).
+Purchase nature based offsets* for refrigerants and defined scope 3
+emissions.
+Green Star Climate Positive claims are verified by an independent third party
+assessment process.
+* these have to be eligible under Climate Active, but are limited to nature based offsets or similar carbon
+removal offsets. More information can be found here.
+
+55
+
+A practical guide to electrification: For existing buildings
+
+56
+
+Appendix:
+references
+
+1 IPCC. (2021) Climate Change 2021: The Physical Science Basis. Contribution of
+
+Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on
+Climate Change. https://www.ipcc.ch/assessment-report/ar6/
+
+2 ASBEC. (2022). Rapid and Least Cost Decarbonisation of Building Operations
+
+Discussion Paper. https://www.asbec.asn.au/wordpress/wpcontent/uploads/2022/02/ASBEC-Decarbonisation-Discussion-Paper-1.pdf
+
+3 European Commission. (2021, 2 November). Launch by United States, the European
+
+Union, and Partners of the Global Methane Pledge to Keep 1.5C Within Reach.
+Retrieved January 28, 2022, from
+https://ec.europa.eu/commission/presscorner/detail/en/statement_21_5766
+
+4 IEA. (2021). Net Zero by 2050. Paris https://www.iea.org/reports/net-zero-by-2050
+5 Australian Government. (2021, October). Australia’s emissions projections
+
+2021. https://www.industry.gov.au/sites/default/files/October%202021/document/au
+stralias_emissions_projections_2021_0.pdf
+
+6 ACT Government. (2022, August). Powering Canberra: Our Pathway to Electrification.
+
+https://www.climatechoices.act.gov.au/__data/assets/pdf_file/0009/2052477/Poweri
+ng-Canberra-Our-Pathway-to-Electrification-ACT-Government-Position-Paper.pdf
+
+7 McCarthy, A. (2021, 30 August). Sustainability-Linked Debt Financing: The View from
+
+Down Under. Sustainalytics.com. Retrieved January 28, 2022, from
+https://www.sustainalytics.com/esg-research/resource/corporate-esgblog/sustainability-linked-debt-financing-the-view-from-down-under
+
+15 Australian Government. (2017). Human health risks associated with surface handling
+
+of chemicals used in coal seam gas extraction in Australia.
+https://www.awe.gov.au/water/coal-and-coal-seam-gas/publications/humanhealth-risks-of-chemicals-associated-withcsg-extraction-in-Australia
+
+16 Retzer, K. et al. (2018, 24 August). Gases and vapors continue to pose hazards on oil
+
+and gas well sites during gauging, fluid transfer, and disposal. NIOSH Science Blog
+https://blogs.cdc.gov/niosh-science-blog/2018/08/24/oil-and-gas-vapors/
+
+17 Climate Council of Australia. (2021). Kicking the gas habit: How gas is harming our
+
+health. Climate Council of Australia. https://www.climatecouncil.org.au/wpcontent/uploads/2021/05/Kicking-the-Gas-Habit-How-Gas-is-Harming-ourHealth.pdf
+
+18 Eric D. Lebel, Colin J. Finnegan, Zutao Ouyang, and Robert B. Jackson. (2022).
+
+Methane and NOx Emissions from Natural Gas Stoves, Cooktops, and Ovens in
+Residential Homes, Environmental Science
+& Technology. https://pubs.acs.org/doi/10.1021/acs.est.1c04707
+
+19 Australian Academy of Science. (2019, 19 July). Air pollution—what’s the situation?
+
+https://www.science.org.au/curious/people-medicine/air-pollution-whats-situation
+
+20 World Green Build Council. (2021). The Net Zero Carbon Buildings
+
+Commitment. https://www.worldgbc.org/thecommitment
+
+21 Science Based Targets Initiative. (2021). Companies taking action.
+
+https://sciencebasedtargets.org/companies-taking-action
+
+8 Charter Hall. (2021, November 22). Charter Hall funds $500 million sustainability-linked
+
+loan. Corporate. https://www.charterhall.com.au/News/newsarticle/2021/11/22/charter-hall-funds-500-million-sustainability-linked-loan
+
+9 Climate Bonds Initiative. (2021, 25 November)Cimate Bonds Initiative recognises
+
+Green Star as a pathway to net zero buildings: Two new proxies available for
+Certification under
+the Low Carbon Buildings Criteria.
+https://www.climatebonds.net/resources/
+press-releases/2021/11/climate-bonds-initiative-recognises-green-star-pathway-netzero
+
+10 European Commission. (2020, 7 March). EU taxonomy for sustainable activities.
+
+https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainablefinance/eu-taxonomy-sustainable-activities_en
+
+11 GBCA. (2021a). Future in focus: Resilience in the built environment.
+
+https://new.gbca.org.au/green-star/green-star-strategy/resilience-builtenvironment
+
+12 TCFD. (2017, June). Recommendations of the Task Force on Climate-related
+
+Financial Disclosures. https://assets.bbhub.io/company/sites/60/2021/10/FINAL2017-TCFD-Report.pdf
+
+13 EY. (2020, July). How will ESG performance shape your future?
+
+https://assets.ey.com/content/dam/ey-sites/eycom/en_gl/topics/assurance/assurance-pdfs/ey-global-institutional-investorsurvey-2020.pdf
+
+22 RE100. (2021). Members. https://www.there100.org/re100-members
+23 GBCA. (2021b). GBCA’s Climate Positive Pathway for Existing Buildings.
+
+https://gbca-web.s3.amazonaws.com/media/documents/climate-positive-pathwayfor-existing-buildings-discussion-paper.pdf
+
+24 ASBEC. (2019). Growing the market for sustainable homes.
+
+https://www.asbec.asn.au/wordpress/wp-content/uploads/2019/06/190701ASBEC-CRCLCL-Growing-Market-for-Sustainable-Homes-web.pdf
+
+25 United Nations Environment Program. (2016). The Montreal Protocol.
+
+https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol
+
+26 NABERS. (2021). Renewable Energy Indicator.
+
+https://www.nabers.gov.au/publications/nabers-release-renewable-energyindicator
+
+27 IRENA. (2020). Green Hydrogen: A guide to policy making.
+
+https://www.irena.org//media/Files/IRENA/Agency/Publication/2020/Nov/IRENA_Green_hydrogen_polic
+y_2020.pdf
+
+28 As defined in the Greenhouse Gas Protocol.
+
+World Resources Institute & World Business Council for Sustainable Development.
+(2015). The Greenhouse Gas Protocol – A Corporate Accounting and Reporting
+Standard. https://ghgprotocol.org/sites/default/files/standards/ghg-protocolrevised.pdf
+
+29 Howarth, R. W. (2021, 1 October). How green is blue hydrogen? Wiley Online Library.
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ese3.956
+
+14 Australian Energy Regulator. (2021). State of the energy market 2021.
+
+https://www.aer.gov.au/system/files/State%20of%20the%20energy%20market%202
+021%20-%20Full%20report_1.pdf
+
+30 Climate Active. (2022). https://www.climateactive.org.au/
+31 GBCA. (2021c). Climate Positive Buildings and our Net Zero Ambitions.
+
+https://new.gbca.org.au/green-star/green-star-strategy/carbon-climatechange/#net-zero-ambitions
+
+A practical guide to electrification: For existing buildings
+
+57
+
+A practical guide to electrification: For existing buildings
+
+58
+
+Acknowledgements
+GBCA would like to
+acknowledge and
+thank the following
+organisations for
+their contribution to
+the delivery of this
+guide.
+
+Better Buildings
+Partnership
+Building-Performance
+Colliers
+Investa Property Group
+Mirvac
+NABERS
+
+North Sydney Council
+Property Council of
+Australia
+QuadReal Property
+Group
+Salta Properties
+Vicinity Centres
+
+Delivery team
+Jorge Chapa – Head of Market Transformation
+Taryn Cornell – Senior Manager Green Star Strategy &
+Development
+Rebecca Pettit – Program Lead
+David Clark – Consultant (Positive Zero)
+David Collins – Director
+
+Co-developed with the support of the CEFC
+
+Proudly funded by the NSW Government
+
+GBCA would like
+to thank our
+Climate Positive
+Partners for their
+ongoing support.
+
+A practical guide to electrification: For existing buildings
+
+59
+
+A practical guide to electrification: For existing buildings
+
+

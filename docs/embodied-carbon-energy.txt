@@ -1,0 +1,4360 @@
+Embodied Carbon & Embodied
+Energy in Australia’s Buildings
+
+Client:
+
+Department of Industry, Science, Energy and Resources,
+Commonwealth of Australia
+
+Title:
+
+Embodied Carbon and Embodied Energy in Australia’s Buildings
+
+Report version:
+
+v1.4
+
+Report date:
+
+22 July 2021
+© Green Building Council of Australia & thinkstep-anz
+cover photo © Ethan Lee on Unsplash
+
+Authors:
+
+For thinkstep-anz:
+
+For the GBCA:
+
+Jeff Vickers
+
+Jorge Chapa
+
+Samuel Warmerdam
+
+Sandra Qian
+
+Steve Mitchell
+Nicole Sullivan
+Quality assurance:
+
+Gayathri Gamage (thinkstep-anz)
+
+Suggested citation format:
+GBCA and thinkstep-anz. (2021). Embodied Carbon and Embodied Energy in Australia’s Buildings.
+Sydney: Green Building Council of Australia and thinkstep-anz.
+
+This report has been prepared by the Green Building Council of Australia (GBCA) and thinkstep-anz with all reasonable skill and
+diligence within the agreed scope, time, and budget available for the work. Neither party accepts any liability to any third party who
+make use of its contents. Any such party relies on the report at its own risk.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+2 of 75
+
+Executive Summary
+This report calculates embodied carbon and embodied energy in Australia’s
+commercial and residential buildings
+Globally, buildings are responsible for approximately 28% of total greenhouse gas (GHG)
+emissions and 38% of energy-related GHG emissions.1 26% of this is attributed to embodied
+carbon emissions and 74% to operational carbon emissions by the United Nations Environment
+Programme (UNEP).
+Embodied carbon and embodied energy represent the sum of the greenhouse gas emissions
+(“carbon emissions”) and energy use associated with the production of materials, construction,
+and end of life stages of a building (Figure 1).
+While operational carbon and operational energy are much more visible due to ongoing energy
+costs, embodied carbon and embodied energy represent the hidden impacts of buildings –
+impacts that are largely locked in before the building is even occupied.
+The purpose of this report is to calculate the embodied carbon and embodied energy in
+Australia’s buildings. This report compares the 2019 baseline year to a 2050 business-as-usual
+scenario to show what could happen without deliberate action on embodied emissions.
+
+Figure 1: Scope of embodied carbon and embodied energy (WorldGBC 2019 and EN 15978:2011)
+
+Without action, the significance of embodied carbon will grow
+Over the entire Australian building stock, this report finds that the share of whole-life building
+carbon emissions from embodied carbon was 16% in 2019 (Figure 2). Under business-as-usual
+(BAU), this share is expected to climb to 85% by 2050.2 These calculations include operational
+emissions from the entire building stock in 2019 and 2050, but only the embodied emissions from
+1
+
+Globally, buildings are responsible for approximately 38% of energy-related GHG emissions, which corresponds to
+approximately 28% of total GHG emissions when all emissions sources are considered. Source: UNEP. (2020). 2020
+Global Status Report for Buildings and Construction. Global Alliance for Buildings and Construction & UNEP: Paris.
+2
+The business-as-usual (BAU) scenario in this report is designed to show what could happen by 2050 if new building
+construction grows in line with population forecasts and the primary focus for decarbonisation is achieving 100%
+renewable electricity generation by 2050. It deliberately assumes no changes in building practices from 2019, no
+electrification of process heat, and no carbon capture. Electricity emissions include “scope 3” GHG emissions from
+manufacture of photovoltaic panels, wind turbines, and other capital goods for renewable energy generation.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+3 of 75
+
+new builds and substantial renovations in those same years (which reflect a small percentage of
+the total building stock). While these figures can be seen as a proxy for building life-cycle
+emissions, they do not reflect the share of emissions from a single building built in 2019 or 2050.
+Over time, as the electricity grid decarbonises, embodied carbon will become a greater
+percentage of a building’s emissions profile. This is because a significant share of embodied
+emissions in buildings, in particular the emissions required to manufacture common building
+products, come from the use of process heat and from chemical reactions, meaning that they will
+not decrease by decarbonising electricity alone.
+
+Figure 2: Carbon emissions from Australia’s building stock in 2019 and 2050
+
+Embodied energy will also grow, but its significance will become less relevant
+Embodied energy in buildings is likely to almost double from 213 PJ in 2019 to 401 PJ by 2050
+under a BAU scenario (Figure 3). This growth is due primarily to increasing population driving
+increasing construction, and to a lesser extent by the move to renewable energy.
+Historically, total energy use was a good predictor of carbon emissions, given that most energy
+was derived from fossil fuels. However, it will become a less reliable predictor of carbon
+emissions as the share of renewables grows.
+As time progresses, embodied carbon will become the most important metric for emissions
+reduction in buildings, replacing operational energy/carbon and embodied energy.
+
+A net-zero carbon future requires a focus on embodied carbon
+In 2018, the ‘Trajectory for Low Energy Buildings’ – Australia’s national plan that sets a trajectory
+towards zero energy (and carbon) ready buildings – identified that buildings accounted for 18%
+of Australia’s greenhouse gas emissions. However, this does not include the emissions
+generated to construct these buildings. Research has shown that in high-performance new
+buildings, embodied carbon represents approximately 45% of whole-life carbon emissions.3
+There are significant opportunities to reduce embodied carbon and embodied energy in
+Australia’s buildings. There is an urgent need for additional policy incentives to decarbonise
+Australia’s energy supply and for investment in research and development of new materials and
+practices. The carbon emissions from products and materials in buildings must be driven to net
+zero in line with the targets of the Paris Agreement, and State and Territory emissions reduction
+targets.
+
+3
+
+R. Augros et al. (2019). Guide to Low Carbon Commercial Buildings – New Build. Low Carbon Living CRC.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+4 of 75
+
+This report finds that the share of Australia’s national emissions caused by embodied carbon in
+buildings will increase from at least 3.9% in 2019 to at least 6.0% in 2050 (Figure 3). These
+figures are for the base building only (structure, foundation, and façade) and exclude interior fitout, building services and all infrastructure. The share that buildings contribute to Australia’s total
+greenhouse gas emissions approximately doubles if fit-out and buildings services are included
+(calculated as 48 Mt in 2019, which equates to 8.7% of Australia’s carbon footprint); however,
+they were outside the scope of this work as they are harder to forecast accurately. As
+understanding of embodied carbon grows over time, the scope of analysis could be expanded to
+include these items.
+
+Figure 3: Embodied carbon and embodied energy in Australia’s building stock
+
+Material efficiency in the built environment plays an important role because emissions
+are saved immediately
+Emissions reduction opportunities occur immediately as they depend on building design, material
+choice and manufacturing processes, not user behaviour and grid decarbonisation over time.
+Much of the embodied carbon is locked in as soon as the building is built.
+Even a 10% reduction in embodied emissions in new commercial and residential buildings would
+correspond to at least 19.9 Mt CO2e avoided between 2022 and 2030 and at least 63.5 Mt CO2e
+avoided between 2022 and 2050. Making these improvements will also help to future-proof
+energy-intensive industries within Australia, helping to maintain their global competitiveness in a
+low-carbon world. The savings to 2030 are 40% higher than the predicted operational carbon
+emissions reductions of 14 Mt CO2e from updating the National Construction Code in 2022 for
+residential buildings and 2025 for commercial buildings.4
+
+Suppliers and customers both have important roles to play
+Reducing a building’s operational carbon emissions requires changes on-site or near-to-site
+(e.g., phasing out fossil fuelled heating). Decarbonising a building’s embodied carbon, by
+contrast, requires changes in a building’s supply chain.
+
+4
+
+Calculated as the sum of 6.6 Mt from residential buildings and 7.4 Mt from commercial buildings. See:
+p.21 of COAG Energy Council. (2018). Report for Achieving Low Energy Homes.
+p.10 of Energy Action and Strategy.Policy.Research (2018). Achieving Low Energy Commercial Buildings in Australia.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+5 of 75
+
+Strategies to reduce embodied carbon and embodied energy can be broadly categorised as:
+•
+
+Supply-side strategies, which seek to improve manufacturing energy efficiency, reduce
+process emissions (through process substitution or through carbon capture and storage),
+and decarbonise energy supply (both electricity and industrial process heat). These
+strategies help organisations work with their supply chains to drive similar improvements
+for purchased goods and services.
+
+•
+
+Demand-side strategies, which target low carbon products that are selected for a
+building, how much of each product is needed, and how construction and demolition
+waste is avoided (e.g., deconstruction and reuse) and managed (e.g., resource
+recovery). Rating tools like Green Star are already specifically targeting reductions in
+embodied carbon to help create market demand for low carbon products.
+
+Importantly, both strategies are needed and are often complementary. If a product is
+manufactured with a lower carbon impact per unit (supply-side) and you also need fewer units
+(demand-side), the benefits multiply. This indicates the importance of whole supply chains
+working collaboratively to achieve low-carbon outcomes. Climate change is a shared problem for
+which we need shared solutions.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+6 of 75
+
+Table of Contents
+Acknowledgements
+
+9
+
+Introduction
+
+10
+
+Purpose
+
+10
+
+Background
+
+10
+
+Embodied carbon and embodied energy
+
+12
+
+What is embodied carbon?
+
+12
+
+What is embodied energy?
+
+14
+
+Embodied carbon and the circular economy
+
+15
+
+Calculating embodied carbon and embodied energy
+
+15
+
+Differences in source and age of data
+
+Scope of this study
+
+18
+
+20
+
+Life cycle stages and modules
+
+20
+
+Reference year
+
+20
+
+Building elements
+
+21
+
+Study design
+
+22
+
+Overall approach
+
+22
+
+Step I: Bottom-up hotspot assessment
+
+22
+
+Step II: Top-down MFA for the top five materials
+
+23
+
+Step III: Refined hotspot assessment using MFA and IO-LCA data
+
+23
+
+Our results
+Embodied carbon at the national level
+
+24
+24
+
+Sources of materials-related carbon emissions
+
+26
+
+Embodied carbon using alternative LCA methods
+
+27
+
+The cumulative impact of improvements
+
+29
+
+Embodied energy at the national level
+
+30
+
+Embodied carbon and operational carbon in Australia’s buildings
+
+31
+
+Embodied carbon per m2 of building constructed
+
+33
+
+GHG emissions per m2 of building constructed
+
+34
+
+Comparison to other studies
+
+35
+
+Carbon Leadership Forum
+
+35
+
+Embodied GHG emissions of buildings (Röck, et al., 2020)
+
+37
+
+Economy-wide input-output LCA
+Carbon footprint of the construction sector (Yu, et al., 2017)
+
+Reducing embodied carbon and energy
+
+39
+39
+
+41
+
+Sources of embodied carbon and embodied energy
+
+41
+
+Reducing embodied carbon and embodied energy
+
+41
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+7 of 75
+
+Progress on decarbonisation within Australia
+
+43
+
+Cement and concrete
+
+43
+
+Steel
+
+43
+
+Aluminium
+
+44
+
+Clay bricks and tiles
+
+44
+
+Plasterboard
+
+44
+
+Decarbonisation of electricity networks
+
+45
+
+Barriers to further decarbonisation
+
+45
+
+Electricity pricing is likely to become a crucial lever for decarbonisation
+
+46
+
+Conclusions
+
+47
+
+References
+
+48
+
+Abbreviations
+
+53
+
+Annex A: Detailed methodology
+
+54
+
+Annex B: Detailed material flow analysis (confidential)
+
+68
+
+Annex C: Imported building materials
+
+69
+
+Annex D: Carbon emissions of material production (confidential)
+
+71
+
+Annex E: Energy used in material production (confidential)
+
+72
+
+Annex F: Hybridisation of Process LCA
+
+73
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+8 of 75
+
+Acknowledgements
+We acknowledge contributions to this report from the organisations listed below:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Australian Aluminium Council (AAC)
+Australian Glass and Window Association (AGWA)
+Australian (iron & steel) Slag Association (ASA)
+Australian Steel Institute (ASI)
+BlueScope Steel
+Brickworks
+Cement Industry Federation (CIF)
+Cement, Concrete & Aggregates Australia (CCAA)
+CSR Gyprock
+Department of Industry, Science, Energy and Resources (DISER)
+Frasers Property
+Gypsum Board Manufacturers of Australasia (GBMA)
+Hanson Australia
+InfraBuild
+Knauf Plasterboard
+Lendlease Group
+NSW Department of Planning, Industry and Government
+Stockland
+USG Boral
+
+While these organisations have assisted in the consultation and in some cases provided
+feedback and data, any remaining errors or omissions are those of the authors.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+9 of 75
+
+Introduction
+Purpose
+The purpose of this project was to calculate the greenhouse gas (GHG) emissions and energy
+embodied in the construction of Australia’s buildings, both now and in 2050. For the purposes of
+this report, greenhouse gas emissions embodied in Australian buildings is referred to as
+‘embodied carbon’ or ‘embodied emissions’.
+Unlike operational energy and emissions — which are very visible as there is an ongoing cost
+associated with them (e.g., utility bills) — embodied carbon and energy occur upstream of the
+building itself, are one-off or irregular, are largely invisible to the architect, builder or occupant,
+and are often locked in early in the building’s life cycle and cannot be changed later.
+This project was delivered by the Green Building Council of Australia (GBCA) and thinkstep-anz
+with funding from the Commonwealth Government through the Department of Industry, Science,
+Energy and Resources (DISER).
+
+Background
+Globally, buildings are responsible for approximately 35% of total energy use, 55% of electricity
+use, and 38% of energy-related GHG emissions (UNEP, 2020). When all sources of emissions
+are considered, buildings are responsible for approximately 28% of total GHG emissions
+(Climate Watch, 2021). Of these GHG emissions, 74% come from building operation (heating,
+cooling, lighting, etc.), with the remaining 26% embodied in construction products, materials, and
+construction processes (UNEP, 2020).
+Importantly, the figures above are averages for the entire global building stock. There can be
+significant differences between regions and also between buildings within the same region.
+These differences occur due to different heating/cooling loads, different energy sources, and
+differences in energy efficiency measures adopted at the building level. For a code-compliant
+building built today in Australia, research has shown that approximately 80% of the whole-life
+carbon footprint of that building will be due to operational carbon, with 20% due to embodied
+carbon (Augros, et al., 2019). For high-performance buildings, this ratio changes to
+approximately 55% operational carbon versus 45% embodied carbon (Augros, et al., 2019). For
+ultra-efficient buildings, such as those following the Passive House standard, this ratio can
+change to 10% operational carbon versus 90% embodied carbon (Röck, et al., 2020).
+Within Australia, the GBCA and Property Council of Australia report Every Building Counts
+(2019) included a recommendation to “Make Australia a leader in high performance building
+products”. This could be achieved by developing a nationally coordinated strategy to achieve net
+zero embodied carbon and grow the availability of cost-effective low emissions building
+materials.
+At a jurisdictional level, the NSW Government has issued a Net Zero Plan to 2030 which includes
+a commitment to “leading a national strategy to achieve net zero embodied carbon in building
+materials” (NSW Government, 2020). NSW has also established a Materials and Embodied
+Carbon Leaders’ Alliance (MECLA) which has three key aims: “a) aggregation of demand and
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+10 of 75
+
+supply; b) knowledge sharing; and c) pre-competitive collaboration across industries.” (Waters, et
+al., 2020)
+For operational energy/emissions, regulatory signals already exist through the National
+Construction Code (NCC), the Commercial Building Disclosure (CBD) Program, the National
+Australian Built Environment Rating System (NABERS) and the Nationwide House Energy
+Ratings Scheme (NatHERS). In addition, the Commonwealth Government – on behalf of all
+states and territories – is leading the ‘Trajectory for Low Energy Buildings’, a national plan that
+aims to achieve zero energy (and carbon) ready buildings for Australia (COAG Energy Council,
+2018). A key tenet of the internationally recognised operational energy benchmarking pioneered
+in Australia is that “energy has to be measured to be managed”.
+For embodied energy/emissions, the policy drivers are weaker, and a range of barriers exist
+starting right from the tendering process (Lendlease, 2020). While the publication of the first Low
+Emissions Technology Statement in 2020 is a good starting point to reduce some sources of
+embodied emissions in buildings (Australian Government, 2020), its focus is broader than
+buildings alone. More targeted action will be required going forward to fully leverage the
+opportunities presented by this sector.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+11 of 75
+
+Embodied carbon and embodied energy
+What is embodied carbon?
+This report adopts the World Green Building Council (WorldGBC) definition of embodied carbon
+as “carbon emissions associated with materials and construction processes throughout the whole
+lifecycle of a building or infrastructure” (WorldGBC, 2019, p. 5). Carbon emissions are calculated
+as the “sum of greenhouse gas emissions and greenhouse gas removals in a product system,
+expressed as CO2-equivalent (CO2e) and based on a life cycle assessment using the single
+impact category of climate change” (ISO, 2018).
+
+Figure 4: Embodied, upfront, use stage, and end-of-life carbon – reproduced from (WorldGBC, 2019)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+12 of 75
+
+Embodied carbon can be broken down into three parts (Figure 4) (WorldGBC, 2019, p. 6):
+•
+•
+•
+
+Upfront carbon: “The emissions caused in the materials production and construction
+phases (A1-5) of the lifecycle before the building or infrastructure begins to be used.”
+Use stage embodied carbon: “Emissions associated with materials and processes
+needed to maintain the building or infrastructure during use such as for refurbishments.”
+End of life carbon: “The carbon emissions associated with deconstruction/demolition
+(C1), transport from site (C2), waste processing (C3) and disposal (C4) phases of a
+building or infrastructure's lifecycle which occur after its use.”
+
+The life cycle stages included within each term are shown in Figure 5. The naming convention
+applied by WorldGBC follows European standards EN 15804 and EN 15978 for building products
+and whole buildings, respectively. Modules A1-5 focus on manufacture of the building products
+(A1-3), transport to site (A4) and installation (A5), modules B1-7 focus on emissions during the
+building’s operating life (including maintenance and repair), modules C1-4 focus on end-of-life,
+and module D focuses on credits for avoided production of primary (virgin) materials in future
+product life cycles due to recycling or reuse.
+
+Figure 5: Terminology and related life cycle stages – reproduced from (WorldGBC, 2019)
+
+This study reports embodied carbon using the GWP100 indicator (Global Warming Potential over
+a 100-year time horizon) of the Intergovernmental Panel on Climate Change (IPCC). Given that
+this study relies primarily on a combination of EPD and LCA data, it mixes characterisation
+factors from the IPCC’s Fourth Assessment Report (which was required in the original version of
+EN 15804 and which is still widely used today) and the IPCC’s Fifth Assessment Report (which is
+now common practice). This has negligible influence on the results given that most emissions
+from the built environment are carbon dioxide, which always has a characterisation factor of 1.
+All GWP results are reported excluding biogenic carbon. Biogenic carbon is “carbon derived from
+biogenic (plant or animal) sources excluding fossil carbon” (IPCC, 2019).
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+13 of 75
+
+What is embodied energy?
+Like embodied carbon, embodied energy is the “energy consumed by all of the processes
+associated with the production of a building, from the mining and processing of natural resources
+to manufacturing, transport and product delivery” (Australian Government, 2013).
+In this report, embodied energy at the building level is calculated using an indicator known as
+Primary Energy Demand (PED) or Cumulative Energy Demand (CED). All energy figures are
+presented as net calorific value (lower heating value).
+Importantly, it measures the use of energy in its primary form (i.e., in the natural environment)
+and therefore includes all losses (thermal losses, inefficiencies in solar photovoltaics, etc.) in
+transforming ‘natural’ energy into energy that can be used productively within the economy.
+
+Renewable vs non-renewable energy
+Embodied energy can be split into two types of primary energy demand: renewable and nonrenewable energy. Non-renewable embodied energy is primary energy generated from fossil
+fuels. This is approximately correlated with embodied carbon (exceptions to this include carbon
+emissions released as part of process emissions, like in the production of cement). Renewable
+embodied energy is from sources which do not deplete over time (e.g., the wind and the sun).
+As the Australian electricity grid decarbonises, renewable energy demand will increase,
+especially for materials and services which consume large amounts of electricity (like aluminium).
+This may lead to an increase in total embodied energy as the primary energy demand for a unit
+of energy consumed from solar energy is higher than the primary demand for energy consumed
+from fossil fuels, due to a higher inefficiency in converting available energy. This being said, the
+environmental relevance of ‘wasting’ energy from the sun is significantly less than the relevance
+of ‘wasting’ energy from fossil fuels. Due to this, renewable and non-renewable embodied energy
+should ideally be stated separately and not compared to each other directly.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+14 of 75
+
+Embodied carbon and the circular economy
+The focus of this report is on embodied carbon and embodied energy; however, there is an
+important link to the circular economy.
+The circular economy promotes circular resource use. Reused and recycled materials should (for
+most products) conserve at least part of the embodied carbon and energy investment in the
+production process by ensuring that it is amortised over a much longer time frame in use.
+Reused and recycled materials also reduce the demand for additional virgin materials to be
+produced.
+An important principle of the circular economy is to keep materials in their highest form of value
+(Ellen MacArthur Foundation, 2021). As such, the circular economy promotes reuse over
+recycling, recycling over downcycling, and downcycling over landfill. In this respect, the circular
+economy has similarities to the waste hierarchy. In doing so, it also promotes the retention of
+embodied carbon and energy investments and the avoidance of virgin material impacts.
+While recycling is common within the built environment, there are fewer large-scale examples of
+reuse. Even when recycling takes place, it may not preserve the material in its highest form of
+value. For example, recycled crushed concrete does help to keep this bulky material out of
+landfill, but it turns a high-value product (solid concrete) into a comparatively low-value product
+(aggregate). Given that aggregates typically make up approximately 10% of the carbon footprint
+of concrete made from Portland cement (based on the GaBi Databases), the remaining 90% of
+the impact must still be incurred to produce new concrete. A lower-carbon circular approach
+would be to reuse the existing concrete product, i.e., maintaining the product in its highest form
+of value.
+Embodied carbon and the circular economy can, in many cases, both be used as drivers to
+achieve positive outcomes related to carbon. However, it is important to recognise that an activity
+can be more circular but have a higher carbon footprint than the traditional linear activity. As
+such, it is important to design for outcomes that are both circular and low carbon.
+
+Calculating embodied carbon and embodied energy
+Embodied carbon and embodied energy are calculated using life cycle assessment (LCA). There
+are three different approaches available to calculate an LCA (Suh & Huppes, 2005):
+1. Bottom-up, process-based LCA (“Process LCA”)
+2. Top-down economy-wide input-output LCA (“IO-LCA”)
+3. Hybrids of the two (“Hybrid LCA”).
+This report uses Process LCA as its baseline method. Process LCA allows many different types
+of products to be distinguished, but it can truncate the supply chain (“truncation error”) and
+typically excludes supporting functions that are not directly consumed in the production process
+(e.g., corporate travel and manufacture of capital goods). By contrast, IO-LCA provides infinite
+depth in the supply chain and infinite breadth in supporting functions (from design to sales to
+banking to insurance), but it can only distinguish between the number of sectors defined within
+the economy. The goal of Hybrid LCA is to have the best of both worlds, providing both precision
+and completeness.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+15 of 75
+
+Bottom-up, process-based LCA (“Process LCA”)
+The starting point for Process LCA is the unit process: a single process (typically a
+manufacturing process) that transforms inputs into outputs. Process LCA is the aggregation of
+these different unit processes to create an often-complex production chain. An inventory is
+compiled by summing together the resource use, energy use, and emissions incurred through
+every step in a product’s life cycle. This inventory is then multiplied by characterisation factors
+(emission factors) to calculate potential impacts on the environment, such as the product’s
+contribution to climate change.
+Process LCA is the method typically used by companies to understand and reduce the impacts
+of their products and processes as it is highly specific to different production processes and
+supply chains. It is also the LCA method used for Environmental Product Declarations (EPDs).
+Process LCA has the advantage of detail: it allows even small differences between products and
+processes to be investigated. Its key disadvantage is truncation error: Process LCA focuses on
+the inputs required to make a product, but it often cuts off second/third/nth-order inputs, such as
+the capital goods (machinery and manufacturing plant) required to manufacture the products, the
+fuel required by the sales and marketing team to make client visits, the energy used in office
+blocks, and the many professional and service industries supporting the manufacturing process.
+Top-down, economy-wide input-output LCA (“IO-LCA”)
+Economy-wide input-output LCA (IO-LCA) starts from the direct impacts of an entire economic
+sector and then adds indirect impacts through trade with other sectors (i.e., from purchased
+goods and services). Emission intensities (e.g., kg CO2e per $) are calculated by dividing the
+direct and indirect emissions by the monetary value the sector contributes to the economy.
+Data required for this method includes:
+1. Economy-wide input-output (IO) tables, i.e., matrices showing transactions between
+sectors/industries within an economy, and
+2. Industry-wide emissions data corresponding to these same sectors/industries.
+Equation 1 shows the method generally used to calculate IO-LCA (Carnegie Mellon University
+Green Design Institute, 2008), where:
+-
+
+Bi = Vector of the environmental impacts of each sector per dollar of output, including
+direct and indirect impacts
+Ri = Vector of the direct environmental impacts of each sector per total output
+(I – A)-1 =Total requirement matrix, also known as an inverse Leontief matrix.
+F = Vector of final demand, showing the demand of final goods and services.
+𝐵𝑖 = 𝑅𝑖 ∗ ((𝐼 − 𝐴)−1 ∗ 𝐹)
+
+Equation 1: Basic formula for IO-LCA (Carnegie Mellon University Green Design Institute, 2008)
+
+IO-LCA has the advantage of completeness: by its very nature, it includes all interactions
+associated with a particular activity (from direct material and energy use through to banking and
+insurance). As a result, it is well suited to national LCA studies where the goal is to calculate the
+total emissions of an activity or sector without much breakdown of the results.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+16 of 75
+
+Limitations of IO-LCA include:
+•
+
+•
+
+•
+
+•
+
+Resolution: IO-LCA can only distinguish between the number of sectors for which
+economic data and emissions are collected, which might be in the order of 100 sectors
+for an entire economy covering everything from fruit growing to vehicle manufacture, and
+professional services to utilities. This aggregation of data can lead to industries with
+different emissions intensities being combined into one sector. For example, in the public
+Australian Bureau of Statistics (ABS) IO tables, the product group “2102 – Basic nonferrous metal manufacturing” includes the production of a wide range of metals with
+different emissions profiles, including aluminium, copper, and zinc.
+Imports: IO-LCA often assumes that the production of imported goods have similar
+emissions intensities as goods produced domestically. Multi-regional Input-Output
+databases such as Eora (Lenzen, et al., 2013) aim to address this limitation.
+Price homogeneity: In IO-LCA, it is necessary to assume that the prices of goods and
+services have are equally proportional with environmental impacts within the economy
+considered (in this case, Australia). Depending on the sectors defined within the
+economy, this might mean that all ferrous metals are defined as having the same impact,
+without considering differences in manufacturing process (e.g., virgin versus recycled).
+Sensitivity to irregular activities: IO-LCA is usually calculated as an annual snapshot. All
+activities are included, including the production of infrastructure for a given sector.
+However, in cases where there are only a handful of operations within a given sector,
+major capital expenditure in one year will disproportionately affect the impacts in that
+year. Rolling averages across years can help to alleviate this limitation.
+
+Hybrid LCA
+Hybrid LCA includes any method which combines both Process LCA and IO-LCA. It is designed
+to help avoid truncation error while also disaggregating data far enough to enable sectors to be
+split so that sector-specific emissions can be allocated accurately. As such, Hybrid LCA is often
+regarded as the gold standard for LCA (Suh & Huppes, 2005; Lenzen & Crawford, 2009;
+Crawford & Stephan, 2013), though others highlight that careful interpretation is the most
+important aspect of any LCA study due to the inherent strengths and weaknesses of all methods
+(Rowley, et al., 2009).
+Estimating truncation error
+It is only possible to estimate truncation error as there no single ‘true’ environmental footprint of a
+product or service – only different calculations or representations of its footprint (Ward, et al.,
+2018).
+For Process LCA, previous estimates suggest that between 2% and 77% of total environmental
+impacts may be omitted by Process LCA through truncation error, depending on the sector and
+the environmental indicator considered (Ward, et al., 2018). Earlier estimates in the building and
+construction sector comparing embodied energy from Process LCA to economy-wide inputoutput LCA (described below) were in the order of 50% for basic steel products (Lenzen & Dey,
+2000) and 69% to 77% for passive houses (Crawford & Stephan, 2013). Small truncation errors
+are typically found in sectors such as agriculture and transportation, where direct emissions are
+large and other emission sources are less relevant (Ward, et al., 2018). In the context of building
+products, the omission of service industries likely leads to under-counting of environmental
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+17 of 75
+
+impact by approximately 5-15% (Ward, et al., 2018). Factoring in other omissions (e.g., exclusion
+of capital goods for manufacturing) would further increase this estimate.
+Economy-wide input-output LCA may both overestimate and underestimate the true impacts of a
+system (Rowley, et al., 2009; Ward, et al., 2018). Truncation error estimates for IO-LCA across
+all environmental indicators range between -51% to 96%. However, this overstates possible
+truncation errors for embodied carbon and embodied energy under IO-LCA, as the results above
+are for other indicators where there are likely data gaps in national pollutant inventories. Such
+gaps do not exist for energy and GHG emissions and so the possible range for errors is likely to
+be much narrower.
+
+Differences in source and age of data
+There are many different data sources available for embodied emissions. These data sources
+can broadly be aligned with the different LCA methods above.
+It is important to recognise that not only are there differences in method, but there can also be
+differences in scope even within the same method (e.g., Process LCA studies with different
+system boundaries) and differences in the age and accuracy of the underlying data. Many LCA
+studies – both Process LCA and IO-LCA – rely on data sources that may be 5 to 10 years old at
+the time of publication. These studies are then used in future LCA studies, compounding the
+problem. This can become an issue in cases where a given industry is changing rapidly. For
+example, the Australian cement industry decarbonised by 18% from FY2011 to FY2019 (CIF,
+2020). Given that cement typically makes up approximately 85% of the carbon footprint of
+concrete (based on the GaBi Databases) — and coupled with increased use of supplementary
+cementitious materials in some parts of Australia during this time — it seems quite likely that
+Australian concrete has decarbonised relatively significantly over the past decade.
+Common sources for LCA studies are provided below.
+Process LCA
+Environmental Product Declarations (EPDs): EPDs provide product-specific or industryaverage data for products. Data is comparable provided it follows the same Product Category
+Rules (PCR). The main PCR documents used for building product LCAs are European standard
+EN 15804 (CEN, 2019) – the sister standard to EN 15978 (CEN, 2011) whose system boundary
+is shown in Figure 6– and international standard ISO 21930 (ISO, 2017). There are two main
+EPD schemes operating in the Australian market: EPD Australasia (affiliated with ALCAS, the
+Australian LCA Society) and the Global GreenTag EPD Program.
+Commercial LCA databases: The two main commercial databases available internationally are
+the ecoinvent Database and the GaBi Database. In the Australian context, other databases
+include the GreenBook and the database embedded within eTool, the building LCA software.
+Free LCA databases: The most notable free database is the ICE (Inventory of Carbon and
+Energy) Database, first published by the University of Bath and now run by Circular Ecology.
+Regional LCA databases: The main regional LCA database for Australia is AusLCI, run by
+ALCAS. Other regional databases exist for the USA, the European Union, etc.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+18 of 75
+
+Tool-specific databases: Certain sustainability rating tools or national bodies have created their
+own databases. One example in the Australian context is the Infrastructure Sustainability Council
+of Australia’s IS Materials Calculator.
+IO-LCA
+The Industrial Ecology Virtual Laboratory (IELab) provides IO-LCA data for Australia. It was
+initially created by the University of Sydney (Prof. Manfred Lenzen) and is now managed by the
+University of New South Wales (led by Associate Prof. Tommy Wiedmann).
+Other multi-regional databases exist, such as Eora, EXIOBASE, WIOD, GTAP, and OECD.
+Hybrid LCA
+The IO-LCA databases above are often used as a starting point for Hybrid LCA. There are two
+Hybrid LCA databases for construction products in Australia:
+1. The Environmental Performance in Construction (EPiC) Database, published by the
+University of Melbourne (Crawford, et al., 2019).
+2. The Integrated Carbon Metrics (ICM) Embodied Carbon Life Cycle Inventory Database,
+published by the University of New South Wales (Wiedmann, et al., 2019).
+These databases use both different hybridisation approaches LCA data, which can lead to
+different results. EPiC uses a ‘path exchange’ hybrid analysis (Lenzen & Crawford, 2009), while
+the ICM database is an integrated analysis (Crawford, et al., 2017).
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+19 of 75
+
+Scope of this study
+Life cycle stages and modules
+The scope of this study covers embodied carbon and embodied energy across the full life cycle
+of Australia’s buildings. It includes the following life cycle stages from EN 15978 (Figure 6):
+•
+•
+•
+•
+•
+•
+
+A1-A3: Manufacture of building products and materials.
+A4: Transportation of building products and materials to site.
+A5: Construction of buildings, including the manufacture of those products and materials
+which are wasted during construction and subsequent end-of-life processing.
+B1-B5: Maintenance, repair, and refurbishment of buildings.
+C1-C4: Demolition, transport of materials for reuse/recycling/landfill and disposal of those
+materials which are not currently recycled.
+D: Recycling credits for future product life cycles, calculated as the difference between
+producing one unit of recycled material and one unit of virgin material with equivalent
+performance. Only the net scrap is awarded a credit, meaning that scrap produced from
+construction and demolition waste is first ‘looped back’ to satisfy the need for recycled
+content (e.g., in reinforcing steel), with only the remainder being awarded a credit to
+prevent double counting. This approach follows EN 15804 and EN 15978.
+
+Figure 6: Building life cycle stages and modules (source: EN 15978:2011)
+
+Reference year
+Two reference years are used:
+•
+•
+
+The baseline of FY2019 (1 July 2018 to 30 June 2019).
+A forecast to FY2050 (1 July 2049 to 30 June 2050).
+
+Importantly, each year is a snapshot in time rather than following the full life cycle of each
+building individually. This means that the material and carbon and energy flows entering and
+leaving Australia’s buildings in a single year are calculated based on construction, renovation,
+and demolition statistics (for FY2019) or estimates (for FY2050) for that year.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+20 of 75
+
+A FY2019 baseline year was chosen for this study given that the FY2020 financial year was
+impacted by the start of the COVID-19 pandemic and may therefore not represent recent levels
+of building and construction activity in the Australian economy.
+Module B6 (operational energy use) is not part of this study as it is not a form of embodied
+carbon or embodied energy. However, results for the full building life cycle (including B6) are
+presented using building operational energy use modelling by ClimateWorks Australia
+(ClimateWorks Australia, 2020).
+
+Building elements
+The analysis in this report focuses on the structure, foundation, and envelope of buildings. This
+includes anything that keeps the building in shape (framing, foundations, roof framing, etc.) or
+separates the interior of the building from the outside (windows, doors, walls, floor) (Figure 7). It
+does not include the fit-out, which involves anything which makes the interior space ready for
+occupation (electrical wiring, HVAC systems, toilets, fire protection systems etc.). Differences in
+scope can have significant differences on the outcome and this should be considered when
+comparing between studies. Input-output LCA (like that found in Yu et. al (2017)) often looks at
+the structure, foundation, envelope and fit-out as it is difficult to separate the separate building
+elements.
+
+Structure only
+
+Structure
+and foundation
+
+Structure,
+foundation
+and envelope
+
+Structure,
+foundation,
+envelope
+and fit-out
+
+Figure 7: Coverage of building elements within the LCA
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+21 of 75
+
+Study design
+Overall approach
+The approach taken in this study can be summarised in three main steps:
+I.
+
+II.
+
+III.
+
+Bottom-up hotspot assessment (Process LCA) by scaling up the bill of quantities
+(BoQ) of a small pool of representative buildings (in kg per material per m2 of floor area)
+to the national level using national construction statistics (in m2 of floor area). This was
+multiplied by embodied carbon and embodied energy data from EPDs and past product
+and material LCAs. Construction waste statistics were then used to estimate losses on
+site, and material-specific carbon/energy factors were used for the treatment of
+construction and demolition waste.
+This hotspot assessment has the advantage of simplicity, but it may over- or underestimate material use at the national level if the representative buildings are not true
+averages of current construction practices. To help alleviate this limitation, the hotspot
+assessment was used to identify the top five material groups by embodied energy and/or
+embodied carbon, which were then analysed in further detail in step #2.
+Top-down material flow analysis (MFA) for the top five material categories. The
+MFA was used to identify and trace raw material flows from extraction through to use in
+Australia’s buildings. Where material quantities used in buildings at the national level
+were missing (due to a lack of data or to commercial sensitivity), the estimates from the
+hotspot assessment were used to fill data gaps. The MFA was then overlaid by national
+carbon and energy data per industry to calculate nationwide carbon footprint emission
+factors (kg CO2e per kg of material) and embodied energy factors (MJ per kg of material)
+to further refine the bottom-up assessment in step #3.
+Refined bottom-up hotspot assessment using MFA data and supplementary data
+from IO-LCA. The bottom-up hotspot assessment was then updated using the calculated
+economy-wide carbon/energy factors from step #2. For materials outside of the top five,
+the Process LCA/EPD carbon/energy factors from step #1 were used. To complete the
+analysis, data for the construction and demolition of buildings was added based on IOLCA data.
+
+Step I: Bottom-up hotspot assessment
+The steps applied were as follows:
+1. Forecasted the annual new-build construction and alteration rates to 2050 by building
+type.
+2. Classified buildings into representative construction design and method.
+3. Specified a bill of quantities (BoQ) for each building type.
+4. Identified typical construction and demolition rates.
+5. Identified embodied carbon and embodied energy data.
+6. Estimated total embodied carbon and embodied energy of Australia’s buildings, as
+follows:
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+22 of 75
+
+a. Material mass: Calculated by a multiplying the modelled materials used per m2 of
+building constructed by the forecasted area built.
+b. Modules A1-3, B1-5 (production emissions, including repair and replacement):
+Calculated by multiplying the mass of each material by the respective production
+emission factor, then summing to get total emissions.
+c. Module A4: Calculated by multiplying the mass of the building materials by the
+emission factor of travelling from the final production facility to building site.
+d. Module A5: Calculated by multiplying the mass of the construction waste by the
+emission factors associated with the whole life cycle of this waste (production,
+transport to and from site, and processing at end-of-life). This value is then added
+to the emissions associated with building construction, calculated by multiplying a
+construction emissions factor by the building area constructed.
+e. Module C1-4: Calculated by multiplying ¼ of the mass of buildings materials used
+in construction by the emission factors for the transport and landfilling of
+construction waste. The ¼ was used as it is assumed that currently for every four
+buildings constructed in Australia, one is demolished.
+7. Identified the top five building products/materials to focus on in the next step.
+More detail on these steps can be found in Annex A.
+
+Step II: Top-down MFA for the top five materials
+8. Conducted a material flow analysis for the top five building materials in terms of
+embodied carbon and energy: concrete, steel, aluminium, clay bricks and tiles, and
+plasterboard.
+9. Overlaid the MFA with national data on greenhouse gas emissions and energy per
+sector.
+See Annex A and Annex B for further information.
+
+Step III: Refined hotspot assessment using MFA and IO-LCA data
+10. Updated the hotspot assessment using new carbon and energy factors from the MFA.
+11. “Hybridised” these factors using data from the EPiC database (Crawford, et al., 2019).
+This involves replacing the Process LCA values found in EPiC with the process values
+calculated in this study.
+12. Forecasted changes in embodied carbon and embodied energy until 2050, assuming a
+business-as-usual scenario where only the electricity grid decarbonises and there are no
+changes to process emissions or thermal energy or the BoQ composition of buildings.
+The electricity grid is modelled as being made up of 100% renewable energy in 2050.
+13. Filled data gap for building construction, and demolition using IO-LCA data
+See Annex A and Annex B for further information.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+23 of 75
+
+Our results
+The following section shows the results of applying the steps given in the previous section to
+model the embodied carbon and embodied energy in Australian buildings. Unless otherwise
+stated, all results shown are from using the Process LCA methodology. These results are first
+presented as embodied carbon and energy at a national level, with later sections providing data
+on an average building level.
+
+Embodied carbon at the national level
+
+Figure 8: Embodied carbon and embodied energy in Australia’s building stock using Process LCA
+
+The calculated embodied carbon of Australian buildings in both 2019 and 2050 can be seen in
+Figure 8 and Table 1. While building emissions only make up a small percentage of the total
+emissions of Australia in 2019, this increases by about 50% (from 3.9% to 6.0%) as gross
+Australia emissions decrease due to the decarbonisation of other sectors and the electricity grid.
+Table 1: Embodied carbon in Australian buildings (all life cycle stages excluding operation)
+
+Unit
+
+2019 2050
+
+Embodied carbon in buildings
+
+Mt CO2e
+
+22
+
+24
+
+Total gross GHG emissions for Australia excluding LULUCF
+
+Mt CO2e
+
+566
+
+406
+
+Embodied emissions as a % of Australia total
+
+3.9% 5.7%
+
+The embodied carbon in buildings, broken down by lifecycle stage, can be seen in Figure 9. The
+most significant contributor to emissions is upfront carbon, i.e., modules A1-5 of EN 15978 (CEN,
+2011). Upfront carbon covers the production of building materials, their distribution to site and the
+construction of these materials into a finished building. The production of materials (A1-3) is the
+most significant contributor to embodied carbon overall, followed by the construction phase (A5).
+The GHG emissions from the production of building materials which go to waste during
+construction is included in the building products life cycle stage (A1-3). This does not align with
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+24 of 75
+
+EN 15978 and occurs due to these values being calculated as ‘top-down’, economy-wide values.
+This does not affect the total embodied carbon of buildings.
+The recycling credit (module D) is the benefit received when the materials are recycled and
+made into other products after the building has reached its end-of-life. This is calculated as:
+𝑅𝑒𝑐𝑦𝑐𝑙𝑖𝑛𝑔 𝑐𝑟𝑒𝑑𝑖𝑡 = 𝐸𝑟𝑒𝑐𝑦𝑐𝑙𝑖𝑛𝑔 − 𝐸𝑣𝑖𝑟𝑔𝑖𝑛
+Where:
+Erecycling = The carbon footprint of turning scrap material into useable material
+Evirgin = The carbon footprint of producing virgin material of the same functionality
+
+Figure 9: Embodied carbon in buildings split by life cycle stage (Mt CO2e)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+25 of 75
+
+Sources of materials-related carbon emissions
+Figure 10 indicates that the embodied carbon from building materials derives from three main
+sources: process heat, direct chemical emissions, and electricity. Decarbonising electricity will
+help to decarbonise building products, but embodied carbon will continue to grow without a
+deliberate focus on addressing these other sources of emissions.
+
+Figure 10: Sources of embodied carbon emissions from the manufacture of building products used in
+construction and maintenance
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+26 of 75
+
+Embodied carbon using alternative LCA methods
+The embodied carbon of buildings, calculated by the three methods considered in this report
+(Process LCA, Hybrid LCA, IO-LCA) can be seen in Table 2. The results of the Hybrid LCA
+method are shown in Figure 11 based on the calculations described in Annex F: Hybridisation of
+Process LCA. IO-LCA, as presented in Figure 12, has been taken from Yu et al., (2017) and is
+further described on page 39.
+As is to be expected, the Hybrid LCA method calculates the emissions to be between the range
+of the IO-LCA and Process LCA methods. Despite the decarbonisation of the grid reducing the
+impacts of materials, emissions from construction materials increase to 2050 due to the increase
+in area built annually. The Input-Output embodied carbon was not estimated for 2050 due to
+there being too many uncertainties and beyond the scope of this work.
+Comparing the Process LCA and Hybrid LCA data, the truncation error of the Process LCA data
+is estimated at 24% (relative to the Process LCA). The difference between the Hybrid LCA and
+the IO-LCA (relative to the Hybrid LCA) of a further 88% is likely mostly explained by the
+difference in scope, i.e., base building only versus the whole building, including building services
+and fit-out (including replacement of the fit-out).
+Table 2: Embodied carbon in Australian buildings, using different LCA methodology, relative to gross
+Australia GHG emissions
+
+Input-Output (top-down)
+
+Unit
+
+2019
+
+Mt CO2e
+
+48
+
+Input-Output relative to gross GHG emissions
+Hybrid
+
+8.7%
+Mt CO2e
+
+Hybrid relative to gross GHG emissions
+Process (bottom-up)
+Process relative to gross GHG emissions
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+2050
+
+Mt CO2e
+
+26
+
+30
+
+4.7%
+
+7.4%
+
+22
+
+24
+
+3.9%
+
+6.0%
+
+27 of 75
+
+Figure 11: Embodied carbon and embodied energy in Australia’s building stock using Hybrid LCA
+
+Figure 12: Embodied carbon and embodied energy in Australia’s building stock using IO-LCA
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+28 of 75
+
+The cumulative impact of improvements
+Even a 10% reduction in embodied carbon in new commercial and residential buildings can
+cause a significant cumulative impact on greenhouse gas emissions. As seen in Table 3, a 10%
+reduction would correspond to at least 19.9 Mt CO2e to 2030 and at least 63.5 Mt CO2e to 2050.
+Making these improvements will also help to future-proof energy-intensive industries within
+Australia, helping to maintain their global competitiveness in a low-carbon world.
+Table 3: Reducing embodied carbon by 10% of the modelled carbon emissions
+
+Time period
+(financial year)
+
+GHG emissions
+(Process LCA; Mt CO2e)
+
+Reduction by 10% Cumulative reduction
+(Mt CO2e)
+from FY22 (Mt CO2e)
+
+2022
+
+20
+
+2.0
+
+2.0
+
+2023
+
+23
+
+2.3
+
+4.3
+
+2024
+
+23
+
+2.3
+
+6.6
+
+2025
+
+23
+
+2.3
+
+8.9
+
+2026
+
+23
+
+2.3
+
+11.2
+
+2027
+
+23
+
+2.3
+
+13.5
+
+2028
+
+22
+
+2.2
+
+15.7
+
+2029
+
+21
+
+2.1
+
+17.8
+
+2030
+
+21
+
+2.1
+
+19.9
+
+2031
+
+21
+
+2.1
+
+22.0
+
+2032
+
+21
+
+2.1
+
+24.1
+
+2033
+
+21
+
+2.1
+
+26.2
+
+2034
+
+21
+
+2.1
+
+28.2
+
+2035
+
+20
+
+2.0
+
+30.3
+
+2036
+
+21
+
+2.1
+
+32.3
+
+2037
+
+21
+
+2.1
+
+34.4
+
+2038
+
+21
+
+2.1
+
+36.5
+
+2039
+
+21
+
+2.1
+
+38.6
+
+2040
+
+21
+
+2.1
+
+40.7
+
+2041
+
+22
+
+2.2
+
+42.9
+
+2042
+
+22
+
+2.2
+
+45.1
+
+2043
+
+22
+
+2.2
+
+47.3
+
+2044
+
+22
+
+2.2
+
+49.5
+
+2045
+
+23
+
+2.3
+
+51.8
+
+2046
+
+23
+
+2.3
+
+54.0
+
+2047
+
+23
+
+2.3
+
+56.4
+
+2048
+
+24
+
+2.4
+
+58.7
+
+2049
+
+24
+
+2.4
+
+61.1
+
+2050
+
+24
+
+2.4
+
+63.5
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+29 of 75
+
+Embodied energy at the national level
+Table 4 shows the energy used in the production of Australian building materials, split into
+renewable and non-renewable energy. With the Australian grid predicted to become 100%
+renewable energy by 2050, the renewable energy demand increases by a significant amount. It
+should be noted that solar makes up a large portion of the modelled renewable electricity grid
+mix and LCA software models solar panels as ‘demanding’ a lot of energy due to inherent
+inefficiencies with the capture of sunlight and subsequent conversion to electricity. Care must be
+taken when comparing this value to other energy values as there is an abundance of solar
+energy and inefficiencies here are less significant than for other energy types.
+Table 4: Embodied energy in buildings (primary energy demand) (Process LCA)
+
+Units
+
+2019
+
+2050
+
+Total embodied energy
+
+PJ
+
+213
+
+401
+
+Non-renewable energy
+
+PJ
+
+191
+
+217
+
+Renewable energy
+
+PJ
+
+22
+
+184
+
+Total Australian energy consumption1
+
+PJ
+
+6196
+
+7692
+
+Construction materials energy as a % of total energy
+consumption
+
+%
+
+3.4%
+
+5.2%
+
+1
+
+The energy consumption for 2050 has been calculated based on the growth annual growth rate of the last 10 years (0.7%)
+continuing until 2050. It should be noted that the total energy consumption is different from the primary energy demand and
+does not include the inefficiencies in capturing available energy that primary energy demand does (DISER, 2020b).
+
+Table 5 shows the embodied energy calculated using the Hybrid LCA energy data. As is to be
+expected, these values are higher than the embodied energy calculated using Process LCA.
+Table 5: Hybrid LCA embodied energy in buildings (primary energy demand)
+
+Units
+
+2019
+
+2050
+
+Total embodied energy
+
+PJ
+
+277
+
+531
+
+Non-renewable energy
+
+PJ
+
+248
+
+284
+
+Renewable energy
+
+PJ
+
+30
+
+247
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+30 of 75
+
+Embodied carbon and operational carbon in Australia’s buildings
+Figure 13 shows that embodied carbon (the blue area) in Australia’s buildings will increase
+between 2019 and 2050 under a business-as-usual scenario as new-build construction (the black
+line) increases, despite electricity becoming 100% renewable by 2050. This is because
+embodied carbon is less directly affected by the decarbonisation of the electricity grid. During this
+period, operational carbon (the orange area) is forecast to decrease significantly as the electricity
+grid decarbonises and as fossil fuelled building heating (e.g., natural gas) is replaced with
+electrical heating (e.g., heat pumps). As a result, embodied carbon supplants operational carbon
+as the dominant source of emissions from buildings by 2036.
+Table 6: Embodied and operational carbon compared to gross Australian emissions
+
+Units
+
+2019
+
+2050
+
+Embodied carbon emissions from buildings
+
+Mt CO2e
+
+22
+
+24
+
+Total carbon emissions from buildings
+(operational + embodied)1
+
+Mt CO2e
+
+137
+
+29
+
+Total gross emissions for Australia excluding
+LULUCF
+
+Mt CO2e
+
+554
+
+406
+
+Total building emissions as a % of Australia total
+
+%
+
+25%
+
+7%
+
+Embodied emissions as a % of total carbon
+emissions from buildings
+
+%
+
+16%
+
+85%
+
+1
+
+Operation energy use by fuel type was taken from ClimateWorks Australia (ClimateWorks Australia, 2020) with fuel
+emission data from GaBi (Sphera, 2020). This data is indicative only.
+
+It is important to note that this study does not show a single building over its whole life, but rather
+the total embodied carbon and embodied energy in all buildings built in each year, and all
+buildings in the building stock (old and new) in that same year. The significant operational carbon
+in 2019 is, therefore, largely determined by the existing stock of buildings in the market in that
+year, with little influence from better performing buildings constructed in 2019.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+31 of 75
+
+Figure 13: Embodied and operational carbon emissions in Australian buildings, with yearly area
+constructed
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+32 of 75
+
+Embodied carbon per m2 of building constructed
+The embodied carbon of buildings split by building type and year can be seen in Table 7. These
+values include emissions from every stage of the life cycle of buildings apart from the emissions
+associated with the operation of the building (module B6). Table 7 shows the split of these
+emissions by life cycle stage, with the significant stages being the production of the materials and
+the emissions involved in building construction. Most of the impacts of the production of building
+materials which goes to waste during construction is included in the building products stage (A13). This occurred due to these values being calculated as a ‘top-down’, economy-wide value.
+Table 7 shows increases between 2019 and 2050 in all categories, except the construction
+process. The reason for this is that the construction process includes the emissions from offices
+of building and construction companies, and these emissions are largely due to electricity.
+Table 7: Embodied carbon of buildings (A1-5, B1-5, C1-4), split by life cycle stage and building type
+
+Residential
+
+Non-residential
+
+Total
+
+Life Cycle Stage
+
+Units
+
+2019
+
+2050
+
+Building products (A1-3, B1-5)
+
+Mt CO2e
+
+9.43
+
+12.85
+
+Transport to site (A4)
+
+Mt CO2e
+
+0.19
+
+0.32
+
+Construction process (A5, C1)
+
+Mt CO2e
+
+2.47
+
+0.48
+
+Construction waste (A5)
+
+Mt CO2e
+
+0.14
+
+0.21
+
+Transport to EOL (C2)
+
+Mt CO2e
+
+0.05
+
+0.08
+
+End-of-life (C3-4)
+
+Mt CO2e
+
+0.07
+
+0.13
+
+Embodied carbon
+
+Mt CO2e
+
+12.3
+
+14.1
+
+Floor area
+
+Million m2
+
+41.4
+
+69.0
+
+Embodied carbon intensity
+
+kg CO2e/m2
+
+298
+
+204
+
+Building products (A1-3, B1-5)
+
+Mt CO2e
+
+7.35
+
+9.44
+
+Transport to site (A4)
+
+Mt CO2e
+
+0.13
+
+0.21
+
+Construction process (A5, C1)
+
+Mt CO2e
+
+1.47
+
+0.26
+
+Construction waste (A5)
+
+Mt CO2e
+
+0.11
+
+0.16
+
+Transport to EOL (C2)
+
+Mt CO2e
+
+0.03
+
+0.05
+
+End-of-life (C3-4)
+
+Mt CO2e
+
+0.04
+
+0.06
+
+Embodied carbon
+
+Mt CO2e
+
+9.13
+
+10.2
+
+Floor area
+
+Million m2
+
+17.0
+
+25.4
+
+Embodied carbon intensity
+
+kg CO2e/m2
+
+538
+
+401
+
+Building products (A1-3, B1-5)
+
+Mt CO2e
+
+16.8
+
+22.3
+
+Transport to site (A4)
+
+Mt CO2e
+
+0.32
+
+0.53
+
+Construction process (A5, C1)
+
+Mt CO2e
+
+3.99
+
+0.75
+
+Construction waste (A5)
+
+Mt CO2e
+
+0.24
+
+0.37
+
+Transport to EOL (C2)
+
+Mt CO2e
+
+0.08
+
+0.13
+
+End-of-life (C3-4)
+
+Mt CO2e
+
+0.11
+
+0.19
+
+Embodied Carbon
+
+Mt CO2e
+
+21.5
+
+24.3
+
+Floor area
+
+Millions m2
+
+58.4
+
+94.4
+
+Embodied carbon intensity
+
+kg CO2e/m2
+
+369
+
+257
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+33 of 75
+
+GHG emissions per m2 of building constructed
+This section considers the GHG emissions from building materials, shown as modules A1-3 in
+Figure 4 and in EN 15804 (CEN, 2019). Table 8 and Figure 14 show the total GHG emissions of
+building materials production split by building type and year. The emissions of building materials
+per m2 of floor space constructed is also shown, with the residential factor (228 kg CO2e/m2)
+being significantly lower than the non-residential factor (433 kg CO2e/m2). This is largely due to:
+•
+•
+
+Residential buildings being predominantly single dwelling, low rise, with timber framing
+making up a considerable market share.
+Non-residential typically being more often larger buildings that require more substantial
+foundation and structure.
+
+Table 8: Total carbon emissions of building materials (A1-3) per m2 of building constructed by building
+type (process LCA)
+
+Residential
+
+Non-residential
+
+Total
+
+Quantity
+
+Units
+
+2019
+
+2050
+
+GHG emissions
+
+Mt CO2e
+
+9.43
+
+12.8
+
+Floor area
+
+Million m2
+
+41.4
+
+69.0
+
+Building material GHG factor
+
+kg CO2e/m2
+
+228
+
+186
+
+GHG emissions
+
+Mt CO2e
+
+7.35
+
+9.44
+
+Floor area
+
+Million m2
+
+17.0
+
+25.4
+
+Building material GHG factor
+
+kg CO2e/m2
+
+433
+
+371
+
+GHG emissions
+
+Mt CO2e
+
+16.8
+
+22.3
+
+Floor area
+
+Million m2
+
+58.4
+
+94.4
+
+Building material GHG factor
+
+kg CO2e/m2
+
+287
+
+236
+
+Figure 14: Carbon emissions of building materials (A1-3) per m2 built by building type
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+34 of 75
+
+Comparison to other studies
+Thousands of building life cycle assessments (LCA) and carbon footprints (CFs) have been
+completed worldwide since the 1990s (CLF, 2017; Röck, et al., 2020; Yu, et al., 2017). In
+Australia, more than 200 building LCAs have been submitted to the GBCA to qualify for Green
+Star ratings – some of which apply to the base building, while others apply to the building interior
+only.
+Several authors have compiled databases of past international building LCA studies, notably the
+Carbon Leadership Forum (2017) and Röck, et al. (2020). The results from these studies are
+compared with the results from this study on a per m2 of gross floor area (GFA).
+
+Carbon Leadership Forum
+Figure 15 shows the carbon emissions intensity of initial building materials (modules A1-A3), by
+building type, based on the Embodied Carbon Benchmark Study conducted by the Carbon
+Leadership Forum.
+The data are shown on a box and whisker chart, with the ‘whiskers’ showing the minimum and
+maximum of the included buildings, while the box shows the first, second (also known as the
+median), and third quartiles. Outliers have not been included in this reproduction and are not
+shown in the minimum and maximum. The values in the square brackets next to the building type
+on the x axis indicate the number of samples included for that building type in the database.
+
+Figure 15: Carbon footprint of materials in buildings, by type (kg CO2e/m2) (reproduced from (CLF, 2017))
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+35 of 75
+
+While these databases do not give a total embodied carbon figure for Australia, they can be used
+to estimate it. Based on the median values for the commercial and residential building types in
+Figure 15, Table 9 estimates a national carbon footprint of approximately 20 Mt CO2e embodied
+in new-build buildings constructed in Australia in 2019. However, it is important to note that these
+carbon footprints cover the embodied carbon in materials for the initial building only, and do not
+include construction, maintenance, or end-of-life. Based on the calculations in this study, these
+phases of the life cycle make up approximately 25-30% of the embodied carbon of buildings.
+Furthermore, the buildings in the database do not necessarily represent current or Australian
+average construction practices (e.g., common use of timber-framing for residential buildings).
+Table 9: Estimating embodied carbon in Australia's building materials in 2019, based on CLF (2017)
+
+kg CO2e/m2
+(CLF, 2017)
+
+m2 GFA
+(Annex A)
+
+Mt CO2e
+
+Residential
+
+314
+
+41,445,627
+
+13.0
+
+Non-residential
+
+398
+
+16,972,319
+
+6.8
+
+58,417,946
+
+19.8
+
+Type of building
+
+Total
+
+Compared to the results of the average emission factor provided in the Carbon Leadership
+Forum (Figure 16), the carbon footprint of building materials calculated in this study for
+residential buildings are lower (228 vs 314 kg CO2e/m2). This is likely due to the use of timber
+framing and the high proportion of single-story dwellings with simpler foundations. The factor for
+non-residential buildings is comparable to the averages of the non-residential building types
+provided (433 vs 398 kg CO2e/m2 for commercial buildings and 274 kg CO2e/m2 for noncommercial buildings).
+
+Figure 16: Comparison of the emissions intensities of this study to CLF (kg CO2e / m2) (CLF, 2017)
+Note: This study also includes replacements and alterations (modules B1-B5) in the results, while the CLF study
+only includes primary building components (modules A1-A3)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+36 of 75
+
+Embodied GHG emissions of buildings (Röck, et al., 2020)
+Röck et al., (2020) analysed over 650 LCAs of buildings globally in order to investigate how
+much of an impact embodied carbon has on the life cycle emissions of buildings, when
+operational carbon emissions are reduced due to efficiency improvements and electrification of
+heating systems.
+The study found that for buildings following current local performance regulations, embodied
+carbon accounts for 20-25% of the life cycle GHG emissions, while this report calculated this
+value as being 16%. It is important to note that the majority of buildings studied in Röck et al.,
+(2020) are in Europe which has different energy performance regulations, electricity grids,
+climate and construction practices to Australia — all of which would affect this split. Older
+buildings which do not meet energy performance regulations are also not considered in Röck et
+al., – inclusion of this would potentially lower the percentage of embodied carbon due to higher
+operational energy use in less energy efficient, older buildings.
+Figure 20 shows the contribution of embodied carbon and operational carbon found in Röck et
+al., (2020) which annualises the results using a 50-year normalisation. The embodied carbon per
+metre squared of gross floor area (GFA) constructed can therefore be calculated by multiplying
+the annual embodied carbon value provided in the paper by 50. By doing this, the residential
+building embodied carbon intensity is calculated as 335 kg CO2e per m2, from an annualised
+figure of 6.7 kg CO2e/m2.a. Office buildings are calculated as having an embodied carbon value
+of 865 kg CO2e per m2 from an annualised value of 17.3 kg CO2e/m2.a. The average for all
+buildings is calculated as 364 kg CO2e per m2 from an annualised figure of 7.3 kg CO2e/m2.a.
+
+Figure 17: Annualised embodied carbon and operational carbon of global buildings (50 year
+normalization, gross floor area) (reproduced from (Röck, et al., 2020))
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+37 of 75
+
+The averages for residential buildings and all buildings calculated from Röck et al. are compared
+to the results from this study in Figure 18. Similar to CLF, the emissions intensity of Röck et al. is
+higher than the results found in this study. This is likely due to the reasons mentioned previously
+(single-story dwellings, timber framing being common), as well as the Röck et al. analysis
+including some building LCAs which use IO-LCA, while the process results from this study are
+used as a comparison.
+
+Figure 18: Comparison of the emissions intensities of this study to Röck et al., (2020) (kg CO2e/m2)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+38 of 75
+
+Economy-wide input-output LCA
+Carbon footprint of the construction sector (Yu, et al., 2017)
+Using an economy-wide input-output LCA approach, Yu et al. (2017) calculated the embodied
+carbon of Australian residential and non-residential buildings to be 21.5 Mt CO2e and 15.1 Mt
+CO2e respectively in 2013 (Table 10). This is 6.8% of Australia’s gross greenhouse gas
+emissions in 2013 (540 Mt CO2e) (DISER, 2021).
+Given that the reference year for this report is 2019, the numbers in Yu et al. needed to be
+adjusted. In this study, two basic methods were used to give an approximation of this:
+•
+
+•
+
+Scaling up based on Gross Floor Area (GFA) constructed. This was done by scaling
+by the difference in annual new-build construction of residential and non-residential
+buildings between 2013 and 2019 (Table 10 and page 57). This results in the embodied
+carbon in 2019 being 48.1 Mt CO2e, assuming all emissions scale linearly with built area
+(Table 10). This is a significant assumption, and this value is almost certainly an
+overestimation given the improvements in the emissions intensity of building materials in
+the last six years (see page 43).
+Scaling up based on gross Australian emissions. This was done by scaling the 2013
+value by the difference in Australia’s gross greenhouse gas emission (excluding
+LULUCF). As construction sector emissions are 6.8% of Australia’s emissions in 2013,
+this would equate to construction emissions being 34.7 Mt CO2e in 2019 as gross
+emissions have gone down between 2013 and 2019 (DISER, 2021). This assumes that
+construction emissions scale linearly with the rest of Australia’s emissions, which is
+unlikely given increasing construction volumes (Table 10).
+
+As this section is considering the difference between process LCA and IO-LCA, the maximum
+value of these is used as a comparison and so the adjustment based on GFA is used. Using this
+method shows the maximum truncation error of the Process LCA results from the IO-LCA results.
+The scaling used here is a limitation of this work and other methods could potentially be used, or
+the construction sector emissions could be recalculated using more recent Economic InputOutput tables.
+Table 10: The carbon footprint of Australia’s construction sector in 2013 (Yu, et al., 2017), with 2019
+values estimated by this study
+
+Sector
+
+Unit
+
+2013
+(Yu, et al.,
+2017)
+
+2019
+(scaled, GFA)
+
+2019
+(scaled, gross
+emissions)
+
+Australia gross emissions
+(excluding LULUCLF)
+
+Mt CO2e
+
+597
+
+N/A
+
+565
+
+Area built
+
+million m2
+
+44.4
+
+58.4
+
+N/A
+
+Total buildings
+
+Mt CO2e
+
+36.6
+
+48.1
+
+34.7
+
+The scope of Yu et al.’s analysis spans “from the extraction of raw materials (mining of
+limestone), the manufacturing of building products (in Australia or abroad), transport, assembly,
+excavations to the demolition of old buildings to make way for new ones” (Wiedmann, et al.,
+2017). As IO-LCA considers all monetary transactions within the economy, this analysis will
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+39 of 75
+
+consider all goods and services consumed by a sector including, for example capital goods,
+banking and insurance. When comparing their results to an earlier study for the year 1995, Yu et
+al. found that embodied carbon had increased at a significantly higher rate than direct operational
+carbon.
+Thus, by comparing the Process LCA results from this report to the adjusted numbers from Yu et
+al., the embodied carbon in Australia’s buildings in 2019 is likely to be between 22 and 48 Mt
+CO2e. Assuming all building products and materials were manufactured locally, this accounts for
+approximately 3.9% to 8.9% of Australia’s total GHG emissions. (Yu et al. (2017) note that
+imports make up only a small share of the total GHG emissions from buildings.)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+40 of 75
+
+Reducing embodied carbon and energy
+Sources of embodied carbon and embodied energy
+The carbon and energy embodied in materials comes from five sources (Table 11):
+1.
+2.
+3.
+4.
+5.
+
+Stationary combustion of fuels, typically for thermal energy (e.g., natural gas, LPG).
+Mobile combustion of fuel in vehicles (e.g., diesel, gasoline, LPG, CNG).
+Direct process emissions (embodied carbon only).
+Purchased energy, typically electricity.
+Purchased goods and services – themselves a result of items 1-4 above.
+
+Table 11: Sources of embodied carbon and embodied energy
+
+Source
+
+Scope
+(GHG Protocol)
+
+Embodied
+carbon?
+
+Embodied
+energy?
+
+Stationary combustion of fuel for thermal
+energy / electricity generation
+
+Scope 1
+
+X
+
+X
+
+Mobile combustion of fuel in vehicles
+
+Scope 1
+
+(Often small)
+
+(Often small)
+
+Direct process emissions
+
+Scope 1
+
+X
+
+N/A
+
+Purchased electricity
+
+Scope 2
+
+X
+
+X
+
+Purchased thermal energy
+
+Scope 2
+
+(Uncommon)
+
+(Uncommon)
+
+Purchased goods and services
+
+Scope 3
+
+X
+
+X
+
+Reducing embodied carbon and embodied energy
+Strategies to reduce embodied carbon and embodied energy can be broadly categorised into
+supply side and demand side. Supply-side strategies target the emissions sources identified in
+the previous section (thermal energy, direct process emissions, electricity, and purchased goods
+and services). Demand-side strategies target which materials/products are selected, how much
+of each material is needed, and how construction and demolition waste is managed. Importantly,
+both strategies are often complementary. If you manufacture a product with a lower impact per
+unit and you also need fewer units then you win twice.
+Examples of supply-side strategies include:
+•
+•
+•
+•
+•
+
+•
+•
+
+Energy efficiency and material efficiency projects.
+Design and supply of lightweight products.
+Process substitution to replace high-impact processes with lower-impact processes.
+Carbon capture and storage, stopping process emissions from reaching the atmosphere.
+Locating manufacturing facilities near key inputs, be this a natural resource (e.g., forest
+residues for renewable thermal energy), a shared resource (e.g., a regional steam plant),
+or a necessary product derived from another industry (industrial symbiosis).
+Decarbonisation of electricity grids through increased use of renewables.
+Decarbonisation of natural gas grids, e.g., through partial replacement of natural gas with
+biogas and/or injection of green hydrogen (typically up to 10%) into the grid.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+41 of 75
+
+•
+•
+•
+
+Thermal energy substitution. E.g., replacement of coal with natural gas, natural gas with
+biogas, or natural gas with biomass.
+Use of on-site renewables to reduce the need for purchased electricity.
+Use of biogas from landfill or anaerobic digestion of organic waste to replace natural gas.
+
+Examples of demand-side strategies include:
+•
+•
+•
+•
+•
+•
+•
+
+Better design to optimise material use and avoid waste generation.
+Encouraging the use of rating tools like Green Star which specifically target reductions in
+upfront carbon emissions.
+Material substitution, i.e., substituting a higher-impact material for a lower-impact material
+that serves the same function.
+Designing buildings for multi-functionality so that fewer buildings are needed overall.
+Prolonging the life of existing buildings through proper maintenance and renovation.
+Reuse of materials and/or assemblies from decommissioned buildings.
+Recycling and upcycling of materials from decommissioned buildings.
+
+The first Low Emissions Technology Statement (LETS) (Australian Government, 2020) is an
+important step at the Commonwealth level to reduce supply-side emissions. In line with a
+recommendation of the King Review, the Government will task the Australian Renewable Energy
+Agency (ARENA) to work with the Clean Energy Finance Corporation (CEFC) and other relevant
+agencies to develop a goal-oriented program targeting a number of the priority low emissions
+technologies such as low emissions steel, low emissions aluminium, or energy storage.
+The first LETS includes several strategies relevant to buildings:
+•
+
+•
+•
+•
+
+Clean hydrogen can potentially address:
+o Thermal energy emissions, but only where hydrogen is cheap enough to replace
+natural gas.
+o Process emissions from steel, but only if conventional blast furnaces are replaced
+by hydrogen direct reduced iron (a technology which is still in development).
+Energy storage can address electricity emissions by being able to increase the share of
+intermittent renewables (primarily solar and wind) in the electricity grid.
+Low carbon materials could conceivably cover all strategies above for the two materials
+it currently applies to (steel and aluminium).
+Carbon capture and storage addresses direct process emissions, though it is most
+applicable to the manufacture of ordinary Portland cement rather than steel as there are
+fewer stacks from which to capture the CO2.
+
+Voluntary drivers in the built environment to reduce embodied carbon emissions
+Green Building Council of Australia’s Green Star rating system is a voluntary system that is used
+by the built environment to demonstrate leadership in delivering sustainable buildings. In 2018,
+GBCA announced that upfront carbon emissions would need to be reduced by 10% compared to
+a typical building to achieve a rating beginning in 2020. This requirement would expand over time
+to require a reduction of at least 40% by 2030. After significant consultation, this approach has
+now been introduced and has been widely accepted by industry as appropriate best practice
+targets.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+42 of 75
+
+Progress on decarbonisation within Australia
+This section contains some examples of the work currently being done to reduce embodied
+carbon in building products in Australia. This is not an exhaustive list and has been compiled
+based on public data or from conversations held with industry stakeholders.
+
+Cement and concrete
+•
+
+•
+
+•
+
+•
+
+•
+
+The GHG intensity of cement produced in Australia from Australian clinker fell 17% in the
+eight years from 2011/12 to 2018/19, from 0.94 kg CO2e/kg cement to 0.77 kg CO2e/kg
+cement (CIF, 2020).
+Adelaide Brighton Cement (ABC) is using Refuse Derived Fuel (mainly wood) which is
+taken from construction and demolition sites at its Birkenhead plant. This helps divert
+200,000 tonnes of refuse from landfills per year, saving more than 12.5 million GJ of
+natural gas (which is a reduction of 25%) (ABC, 2020) (Adbri, 2020, p. 28). ABC hope to
+increase the share of alternative fuels in its South Australian kilns up to 50% within five
+years (Adbri, 2020, p. 24).
+Boral’s cement works at Berrima currently saves approximately 30,000 tonnes of CO2 per
+year through its use of alternative fuels. The plant has the goal to replace up to 30% of
+traditional fuel by alternative fuels (CIF, 2020). A $4.6 million grant from the NSW
+Government is helping to fund of a chloride bypass (Boral, 2020).
+Holcim Australia’s carbon reduction strategy aims to increase the replacement of
+general-purpose cement with supplementary cementitious materials (SCM) such as fly
+ash, slag, and silica fume. (Holcim Australia, 2019).
+In 2018, Australia used 1.6 Mt of ground-granulated blast furnace slag (GGBS) (ASA,
+2019) and 2.0 Mt of fly ash (ADAA, 2019) as cement replacements, corresponding to a
+market-wide cement replacement rate of approximately 27% (see Annex B: Detailed
+material flow analysis). This is quite a high rate of substitution, given that fly ash by itself
+would not typically be used at replacement rates above 30%.
+
+Steel
+•
+
+•
+
+BlueScope Steel has achieved a 40% reduction in GHG emissions footprint at their
+Australian operations since 2005 and has committed to a further 12% reduction in
+steelmaking GHG emissions intensity by 2030 (BlueScope, 2020). However, it should be
+noted that basic oxygen steelmaking (BOS) is a mature technology and that opportunities
+for more significant reductions likely lie in increased use of recycled steel – via the
+electric arc furnace (EAF) route – where sufficient scrap is available (BlueScope, 2020).
+Novel technologies such as hydrogen direct reduced iron (DRI) or molten oxide
+electrolysis, which are not fully developed, are other potential sources of emissions
+reductions, but these come with large capital costs.
+InfraBuild have developed a new range of high-strength reinforcing steels for column
+fitments that have 33% less mass than that of standard fitments (Infrabuild, 2021).
+InfraBuild’s existing EAFs will also all decarbonise as the electricity grids around them
+decarbonise.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+43 of 75
+
+Aluminium
+•
+
+•
+
+The GHG intensity of alumina production reduced by 19% from 2005 to 2019 due to
+improved yields and lower energy use. The GHG intensity of aluminium smelting
+(including both indirect and direct emissions) decreased by 28% during this same time
+period (AAC, 2020c).
+Decarbonising thermal energy for alumina production and increasing the renewable
+content of electricity production for aluminium smelting are likely to be the two most
+promising solutions to decarbonise aluminium.
+
+Clay bricks and tiles
+•
+
+•
+
+Brickworks Building Products Australia currently uses biofuels, largely landfill gas and
+sawdust, for approximately 14% of its energy requirements across all production facilities
+(Brickworks, 2020). This includes either using landfill gas (which contains methane) to
+substitute natural gas, or by using sawdust as a primary fuel source. Brickworks has
+recently partnered with Murdoch University to investigate the use of hydrogen as a kiln
+fuel for the manufacture of clay bricks (Brickworks, 2021).
+CSR have reduced their emissions per tonne of product by 24% since 2009, achieving
+their ten-year target of 20%. This has partially been done through the completion of
+several solar projects, including a $2 million farm at PGH Bricks in South Australia, which
+was projected to provide approximately 25% of the plant’s electricity (CSR, 2019).
+
+Plasterboard
+Plasterboard production is a relatively mature technology. Natural gas is the major energy input,
+used for calcination of gypsum to Plaster of Paris and in drying the final board. Progress is being
+achieved at a national level through continuous improvements such as: the recycling of waste
+heat in the plaster mill; improved calcination equipment increasing throughput in the plant; and
+heat exchangers installed on dryers, saving gas consumption and collecting water, as well as
+increased efficiencies through plant turnover. For example, Knauf completed a new plant in
+Bundaberg in 2017 using the latest technology for energy-efficient manufacturing (Knauf 2019).
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+44 of 75
+
+Decarbonisation of electricity networks
+There is considerable variability in the carbon emissions intensity of electricity generation by
+each state and territory. The overall trend is a consistent drop in emissions from electricity
+generation across Australia. Emissions in the National Energy Market (NEM) for the December
+quarter 2020 decreased 3.9 per cent on a seasonally adjusted and weather normalised basis
+compared with the previous quarter.
+
+Barriers to further decarbonisation
+The comments in this section are based primarily on the views expressed by industry
+stakeholders during the consultation process for this report and a 2020 report by Lendlease
+(Lendlease 2020) which included interviews with steel, concrete, and aluminium suppliers.
+Important barriers identified were:
+Economic
+•
+•
+
+Capital is sunk into existing fossil fuel intensive manufacturing processes and equipment
+requiring very long investment horizons.
+While capital costs are a hurdle, operating costs are arguably more important. All
+industries considered in this report are, to greater or lesser extent, exposed to
+competition from imported products, or to competition from other material sectors. As a
+result, any change that would increase the operating costs of the manufacturer would
+increase their cost of production and therefore have the potential to make them
+uncompetitive. Changes such as a move to electrification of processes and/or using
+renewable hydrogen can come with a significant price premium. Eliminating the price
+premium is one very likely way to encourage change.
+
+Technical performance / specifications
+•
+
+•
+
+In some cases, a low-carbon product behaves in a different way to the virgin product. For
+example, concrete with a high fraction of supplementary cementitious materials (SCM)
+may take longer to set and to develop its strength. While often being stronger in the longterm, use of high-SCM concretes requires better planning on the jobsite.
+Specifications favour existing materials so deviation from the norm carries business risk.
+
+Supply
+The inconsistency in the supply of biofuels can often be an issue in encouraging their uptake.
+These issues are not limited to biofuels however and natural gas price uncertainty in particular is
+an issue that many manufacturers currently face and will continue to face in the future.
+•
+•
+
+Landfill gas can vary in quality, as the moisture content and methane content can vary
+significantly. This results in difficulties with running kilns using landfill gas.
+Procuring wood waste from sawmills faces competition from sawmillers themselves (for
+use in their own kilns) as well as other fossil fuel users looking to transition. The potential
+of inconsistent supply is another area which concerns those looking to switch from fossil
+fuels.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+45 of 75
+
+Knowledge and perception
+•
+•
+
+•
+
+Embodied carbon is a complex subject.
+Architects, specifiers, and builders have expertise and familiarity with the materials they
+have always used. As such, new innovations may be passed over due to the familiar
+response being the most appropriate.
+Embodied carbon is also only one environmental factor in procurement decisions. Some
+materials may offer a lower carbon impact but increase impact in other environmental
+impacts. For example, increased impact in terms of water consumption or biodiversity.
+
+Lack of regulatory drivers
+•
+
+Most suppliers deal in a large variety of building and construction projects (or overseas
+markets in the case of aluminium products) where there are no regulatory measures to
+encourage the use of materials with low embodied carbon.
+
+Electricity pricing is likely to become a crucial lever for decarbonisation
+While decarbonising electricity supply reduces indirect carbon emissions, low-carbon electricity
+also has the potential to decarbonise other sources of emissions. Important examples include
+electrification of industrial process heat and the use of green hydrogen to replace fossil fuels.
+For its full potential to be realised, and to make investments in electrification viable, low-carbon
+electricity needs to be affordable. Construction product manufacturers are often competing on
+the global market, meaning that any significant increase in operating costs could render them
+uncompetitive compared to cheaper imports with lower energy costs.
+For large electricity users, like aluminium smelters, the cost of electricity is significant — making
+up 30-40% of a smelter’s expenditure (Australian Aluminium Council, 2020). Construction of new
+aluminium smelters are only considered in countries whose pricing is in the first quartile (lowest
+25% of prices). Currently, Australia is priced in the fourth quartile (highest 25%) for electricity.
+These factors make Australian-made aluminium (and other products which require large amounts
+of electricity) less globally competitive and runs the risk of production moving offshore (Oram,
+2020), potentially to locations with higher electricity grid emissions.
+The Australian National Outlook (ANO) Technical Report (Brinsmead, et al., 2019) considers the
+cost implications associated with several modelled scenarios and a scenario of policy
+uncertainty. The modelling done shows that uncertainty around climate and energy policy is a
+driver of higher electricity system costs in the decades to 2060, which will likely be passed onto
+users. This is due to higher uncertainty requiring a greater return on investment for energy
+companies. The scenarios with the more ambitious renewable energy uptake also have lower
+system costs, especially in the period 2020–2030.
+While high electricity prices have been an important driver of energy efficiency for decades, the
+need to electrify everything to help Australia and other nations achieve their commitments under
+the Paris Agreement is becoming more pressing. Abundant, affordable, low-carbon electricity
+seems likely to become one of the most important levers in the fight against climate change.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+46 of 75
+
+Conclusions
+•
+
+Embodied carbon in buildings constructed in Australia in 2019 was at least 22 Mt CO2e
+and is predicted to climb to at least 24 Mt CO2e by 2050 if no specific action is taken on
+embodied emissions. This absolute increase comes despite decarbonisation of the
+electricity grid, with this study assuming 100% renewable electricity by 2050.
+
+•
+
+While the absolute size of this increase is modest, embodied carbon will become an
+increasingly large portion of Australia’s total emissions as other parts of the economy
+decarbonise. The embodied carbon invested in Australia’s building stock in 2019 equated
+to at least 3.9% of Australia’s total gross greenhouse gas emissions. This share is likely
+to grow to at least 6.0% by 2050 if no action is taken.
+
+•
+
+The share of whole-life building carbon emissions from embodied carbon was 16% in
+2019 and is expected to climb to 85% by 2050.
+
+•
+
+Carbon emissions during the construction phase accounted for 19% of total embodied
+emissions of buildings in 2019 and 3% of embodied emissions in 2050. This reduction is
+due to the decarbonisation of the electricity grid during this time period.
+
+•
+
+Current embodied emissions from Australia’s residential buildings are lower than
+international averages today. Among other factors, this is likely due to the use of timber
+framing and the high proportion of single-story dwellings with simpler foundations.
+
+•
+
+Current embodied emissions from Australia’s non-residential buildings are slightly higher
+than the international average.
+
+•
+
+There are significant reduction opportunities to reduce embodied carbon and embodied
+energy in Australia’s buildings, which have not been included in the business-as-usual
+(BAU) scenario presented in this report. Additional policy incentives to decarbonise
+Australia’s energy supply and investment in research and development of new materials
+and practices are urgently needed to ensure the emissions from products and materials
+in buildings are driven to zero in line with the targets of the Paris Agreement.
+
+•
+
+Even a 10% reduction in embodied emissions in new commercial and residential
+buildings would correspond to at least 19.9 Mt CO2e avoided between 2022 to 2030 and
+at least 63.5 Mt CO2e avoided between 2022 and 2050. Making these improvements will
+also help to future-proof energy-intensive industries within Australia, helping to maintain
+their global competitiveness in a low-carbon world. The 19.9 Mt CO2e figure compares to
+predicted operational carbon emissions reductions of 14 Mt CO2e from updating the
+National Construction Code in 2022 for residential buildings (saving 6.6 Mt to 2030)
+(COAG Energy Council, 2018, p.21) and 2025 for commercial buildings (saving 7.4 Mt to
+2030) (Energy Action & Strategy Policy Research, 2018, p.10).
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+47 of 75
+
+References
+AAC. (2020a). Australian Aluminium. Retrieved from Australian Aluminium Council:
+https://aluminium.org.au/australian-aluminium/
+AAC. (2020b). Australian Trade Statistics. Retrieved from Australian Aluminium Council:
+https://aluminium.org.au/australian-industry/statistics-trade/
+AAC. (2020c). Sustainability Data for Website 2000 to 2018. Australian Aluminium Council.
+ABC. (2020). Alternative Fuels and Raw Materials. Retrieved from Adelaide Brighton Cement:
+https://adelaidebrightoncommunity.com.au/alternative-fuels/
+ABCB. (2018). Inclusion of heating and cooling energy load limits in NatHERS assessments. Retrieved
+from Australian Building Codes Board:
+https://www.abcb.gov.au/Resources/Publications/Consultation/Inclusion-of-heating-and-coolingenergy-load-limits-in-NatHERS-assessments
+ABS. (2014). 8301.0 Production of Selected Construction Materials Table 2. Retrieved from Australian
+Bureau of Statistics:
+https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/8301.0Main+Features2Mar%202014
+ABS. (2020). Australian National Accounts: Input-Output Tables. Retrieved from Australian Bureau of
+Statistics: https://www.abs.gov.au/statistics/economy/national-accounts/australian-nationalaccounts-input-output-tables/latest-release
+ABS. (2020). Building Approvals by Statistical Area Level 4. Retrieved from Australian Bureau of Statistics:
+http://stat.data.abs.gov.au/
+ADAA. (2019). Annual Production and Utilisation Survey Report, January - December 2018. Port Kembla,
+NSW: Ash Development Association of Australia.
+Adbri. (2020). Sustainability Report 2019. Adelaide: Adelaide Brighton.
+ARC. (2020). EPD - Reinforcing Bar and Mesh. Retrieved from ARC - Australian Reinforcing Company:
+https://epd-australasia.com/wp-content/uploads/2018/04/EPD858-ARC-Reinforcing-Bar-Mesh.pdf
+ASA. (2019). Membership Annual Survey Results, January to December 2018. Port Kembla, NSW:
+Australasian (iron and steel) Slag Association Inc.
+ASI. (2021). Capabilities of the Australian steel industry to supply major projects in Australia. Australian
+Steel Institute.
+Augros, R., Dixon, I., Oldfield, P., Partridge, L., Slee, B., & Vasilakopoulou, K. (2019). Guide to Low Carbon
+Commercial Buildings – New Build. CRC for Low Carbon Living.
+Australian Aluminium Council. (2020). Submission to AEMC RE: System Services Rule Change. Retrieved
+from Australian Energy Market Commission:
+https://www.aemc.gov.au/sites/default/files/documents/rule_change_submission__australian_aluminum_council_-_20200812__erc0263_erc0290_erc0295_erc0296_erc0300_erc0306_erc0307.pdf
+Australian Government. (2013). Embodied Energy. Retrieved from Your Home:
+www.yourhome.gov.au/materials/embodied-energy
+Australian Government. (2020). First Low Emissions Technology Statement – 2020. Canberra: Department
+of Industry, Science, Energy and Resources, Australian Government.
+Beyond Zero. (2017). Rethinking Cement. Retrieved from Beyond Zero:
+https://bze.org.au/research_release/rethinking-cement/
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+48 of 75
+
+BlueScope. (2019). COLORBOND Steel. Retrieved from BlueScope: https://epd-australasia.com/wpcontent/uploads/2018/04/COLORBONDR-steel-EPD.pdf
+BlueScope. (2020). EPD - Steel – Welded Beams and Columns. Retrieved from BlueScope: https://epdaustralasia.com/wp-content/uploads/2018/04/BSS22179-WB_C_EPD_2020_Final.pdf
+BlueScope. (2020). Sustainability Report 2019/20. Melbourne: BlueScope Steel.
+Boral. (2018). Terracotta Tiles TDS. Retrieved from Boral:
+https://www.boral.com.au/sites/default/files/media/field_document/15598_Roof_Tile%20DS_Terrac
+otta.pdf
+Boral. (2020). 2020 Boral Review & Sustainability Report. Retrieved from Boral:
+https://www.boral.com/community-sustainability/sustainability-report
+Brickworks. (2020). Sustainability Report 2020. Horsley Park, NSW: Brickworks.
+Brickworks. (2021). Brickworks Launches its Hydrogen Feasibility Study. Retrieved from Brickworks:
+https://www.brickworks.com.au/articles/news/brickworks-launches-its-hydrogen-feasibility-study/
+Brinsmead, T., Rendall, A., Baynes, T., Butler, C., Kelly, R., Adams, P., . . . Kanudia, A. (2019). Australian
+National Outlook 2019: Technical report. Australia: CSIRO.
+Carnegie Mellon University Green Design Institute. (2008). Theory and Method behind EIO-LCA. Retrieved
+from Economic Input-Output Life Cycle Assessment: http://www.eiolca.net/Method/eio-lcamethod.html
+Carre, A., & Crossin, E. (2015). A Comparative Life Cycle Assessment of Two Multi Storey Residential
+Apartment Buildings. Retrieved from FWPA:
+https://www.fwpa.com.au/images/marketaccess/PRA344-1415-Australand.pdf
+CEN. (2011). EN 15978:2011 Sustainability of construction works — Assessment of environmental
+performance of buildings — Calculation method. European Committee for Standardization.
+CEN. (2019). EN 15804:2012+A2:2019 Sustainability of construction works — Environmental product
+declarations — Core rules for the product category of construction products. Brussels: European
+Committee for Standardization.
+CIE. (2018). Decision Regulation Impact Statement: Energy Efficiency of Commercial Buildings. The
+Centre for International Economics. Retrieved from The Centre for International Economics.
+CIF. (2020). Australian Cement Report 2020. Retrieved from Cement Industry Federation:
+http://cement.org.au/wp-content/uploads/2020/08/CIF-Industry-Report-2020.pdf
+CLF. (2017). Embodied Carbon Benchmark Study - LCA for Low Carbon Construction - Part One. Seattle:
+The Carbon Leadership Forum, Department of Architecture, University of Washington.
+Climate Watch. (2021). Historical GHG Emissions. Retrieved from Climate Watch:
+https://www.climatewatchdata.org/ghgemissions?breakBy=sector&end_year=2017&start_year=2017
+ClimateWorks Australia. (2020). Decarbonisation Futures: Solutions, actions and benchmarks for a net
+zero emissions Australia. Retrieved from ClimateWorks Australia:
+https://www.climateworksaustralia.org/resource/decarbonisation-futures-solutions-actions-andbenchmarks-for-a-net-zero-emissions-australia/
+COAG Energy Council. (2018). Report for Achieving Low Energy Homes. Canberra: Commonwealth of
+Australia.
+COAG Energy Council. (2018). Trajectory for low energy buildings. Retrieved from COAG Energy Council:
+http://coagenergycouncil.gov.au/publications/trajectory-low-energy-buildings
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+49 of 75
+
+Crawford, R. H., & Stephan, A. (2013). The Significance of Embodied Energy in Certified Passive Houses.
+World Academy of Science, Engineering and Technology, 78, 473-479.
+Crawford, R. H., Stephan, A., & Prideaux, F. (2019). Environmental Performance in Construction (EPiC)
+Database. Melbourne: The University of Melbourne.
+Crawford, R., Bontinck, P.-A., Stephan, A., Wiedmann, T., & Yu, M. (2017). Hybrid life cycle inventory
+methods – a review. Journal of Cleaner Production. doi:10.1016/j.jclepro.2017.10.176
+CSR. (2019). Sustainability Report 2018. Retrieved from CSR: https://www.csr.com.au/aboutus/sustainability
+DFAT. (2020). Trade statistical pivot tables (AHECC/HTISC). Retrieved from Department of Foreign Affairs
+and Trade: https://www.dfat.gov.au/about-us/publications/trade-statistical-pivot-tables
+DISER. (2016). Analysis of steel and aluminium markets - Report to the commissioner of the anti-dumping
+commission. Retrieved from Department of Industry, Innovaton and Science - Anti Dumping
+Commission: https://www.industry.gov.au/sites/default/files/201905/analysis_steel_aluminium_report_-_august_2016.pdf
+DISER. (2020b). Australian Energy Statistics, September 2020. Retrieved from Department of Industry,
+Sciences, Energy and Resources:
+https://www.energy.gov.au/sites/default/files/Australian%20Energy%20Statistics%202020%20Ener
+gy%20Update%20Report_0.pdf
+DISER. (2021). National Inventory by Economic Sector 2019. Retrieved from Department of Industry,
+Science, Energy and Resources: https://www.industry.gov.au/data-and-publications/nationalgreenhouse-gas-inventory-by-economic-sector-2018
+Ellen MacArthur Foundation. (2021). Universal Circular Economy Policy Goals. Cowes, UK: Ellen
+MacArthur Foundation.
+Energy Action & Strategy Policy Research. (2018). Achieving Low Energy Commercial Buildings in
+Australia. Energy Action & Strategy Policy Research.
+Evans, S. (2020). Gupta plans $1b overhaul of Whyalla steelworks. Retrieved from The Australian
+Financial Review: https://www.afr.com/companies/manufacturing/gupta-plans-1b-overhaul-ofwhyalla-steelworks-20200609-p550uv
+Fletcher Building. (2012). CONCRETE ANALYST’S PRESENTATION. Retrieved from Fletcher Building:
+https://fletcherbuilding.com/assets/incoming/310512-concreteanalystspresentation.pdf
+FWPA. (2011). A Comparative Life Cycle Assessment of Alternative Constructions of a Typical Australian
+House Design. Retrieved from Forest and Wood Products Australia:
+https://www.fwpa.com.au/images/marketaccess/PNA147-0809_Research_Report_ComparativeLCA_0.pdf
+FWPA. (2017). Forest and Wood Products Australasia Softwood EPD. EPD Australasia.
+GBCA & Property Council of Australia. (2019). Every Building Counts: A practical plan for emissions
+reduction. Retrieved from https://www.everybuildingcounts.com.au/
+GCCA. (2020). GNR - GCCA in Numbers. Retrieved from Global Cement and Concrete Association:
+https://gccassociation.org/sustainability-innovation/gnr-gcca-in-numbers/
+GHG Protocol. (2011). Product Life Cycle Accounting and Reporting Standard. WRI and WBCSD.
+Grant, T. (2015). Life Cycle Inventory of Cement & Concrete produced in Australia. Melbourne, Australia:
+Life Cycle Strategies Pty Ltd.
+Grant, T. (2016). AusLCI Database Manual v1.26. Retrieved from AusLCI:
+http://auslci.com.au/Documents/AUSLCI_Manual%20V1.26.pdfcite
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+50 of 75
+
+Holcim Australia. (2019). Certified Members: Holcim. Retrieved from Climate Active:
+https://www.climateactive.org.au/buy-climate-active/certified-members/holcim
+InfraBuild. (2020a). EPD Reinforcing Rod, Bar and Wire. Retrieved from InfraBuild: https://epdaustralasia.com/wp-content/uploads/2018/04/EPD858-ARC-Reinforcing-Bar-Mesh.pdf
+InfraBuild. (2020b). EPD - Hot rolled Structural and Merchant Bar. Retrieved from InfraBuild: https://epdaustralasia.com/wp-content/uploads/2018/04/IB-Steel-Centre-Hot-Rolled-Structural-1.pdf
+Infrabuild. (2021). Viribar750 High-Strength Steel Filaments. Retrieved from Infrabuild:
+https://www.infrabuild.com/en-au/construction-solutions/products/reinforcing-bar/viribar750-highstrength-steel-fitments/
+IPCC. (2019). 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories Glossary. Retrieved from International Panel on Climate Change:
+https://www.ipcc.ch/site/assets/uploads/2019/06/19R_V0_02_Glossary_advance.pdf
+ISO. (2006). ISO 14025: Environmental labels and declarations - Type III environmental declarations Principles and procedures. Geneva: International Organization for Standardization.
+ISO. (2006). ISO 14040: Environmental management – Life cycle assessment – Principles and framework.
+Geneva: International Organization for Standardization.
+ISO. (2006). ISO 14044: Environmental management – Life cycle assessment – Requirements and
+guidelines. Geneva: International Organization for Standardization.
+ISO. (2017). ISO 21930:2017 Sustainability in buildings and civil engineering works — Core rules for
+environmental product declarations of construction products and services. Geneva: International
+Organization for Standardization.
+ISO. (2018). ISO 14067: Greenhouse gases — Carbon footprint of products — Requirements and
+guidelines for quantification. Geneva: International Organization for Standardization.
+Lendlease. (2020). Low embodied carbon in construction materials: what's stopping us? Barriers to the
+provision and uptake of low carbon building materials in Australia. Sydney: Lendlease.
+Lenzen, M., & Crawford, R. (2009). The Path Exchange Method for Hybrid LCA. Environmental Science &
+Technology, 43, 8251-8256.
+Lenzen, M., & Dey, C. (2000). Truncation error in embodied energy analyses of basic iron and steel
+products. Energy, 25(6), 577-585.
+Lenzen, M., Moran, D., Kanemoto, K., & Geschke, A. (2013). Building Eora: A Global Multi-regional InputOutput Database at High Country and Sector Resolution. Economic Systems Research, 20-49.
+Master Builders Australia. (2020). Interview of Master Builders CEO. Retrieved from
+https://eliteagent.com/construction-sector-devastated-by-impact-of-covid-19/
+NSW Government. (2020). Net Zero Plan Stage 1: 2020-2030. Parramatta: Department of Planning,
+Industry and Environment, New South Wales Government.
+Oram, R. (2020). How the global aluminium market killed Tiwai Point. Retrieved from Newsroom:
+https://www.newsroom.co.nz/oram-how-the-global-aluminium-market-killed-tiwai-point
+Röck, M., Saade, M. R., Balouktsi, M., Rasmussen, F. N., Birgisdottir, H., Frischknecht, R., . . . Passer, A.
+(2020). Embodied GHG emissions of buildings – The hidden challenge for effective climate change
+mitigation. Applied Energy, 258, 114107.
+Rowley, H. V., Lundie, S., & Peters, G. M. (2009). A hybrid life cycle assessment model for comparison
+with conventional methodologies in Australia. The International Journal of Life Cycle Assessment,
+14, 508-516.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+51 of 75
+
+Sphera. (2020). GaBi Life Cycle Inventory Database 2020 Documentation. Retrieved from GaBi Software:
+http://www.gabi-software.com/support/gabi/gabi-database-2020-lci-documentation/
+Suh, S., & Huppes, G. (2005). Methods for Life Cycle Inventory of a product. Journal of Cleaner
+Production, 13, 687-697.
+TCNA. (2014). Ceramic Tile Industry wide EPD. Retrieved from Tile Council of North America:
+https://www.tcnatile.com/images/pdfs/EPD-for-Ceramic-Tile-Made-in-North-America.pdf
+Teh, S. H., Wiedmann, T., Castel, A., & de Burgh, J. (2017). Hybrid life cycle assessment of greenhouse
+gas emissions from cement, concrete and geopolymer concrete in Australia. Journal of cleaner
+production. doi:10.1016/j.jclepro.2017.03.122
+ThinkBrick. (2018). ThinkBrick LCA. Retrieved from ThinkBrick:
+http://thinkbrick.blob.core.windows.net/media/6903/tb-manual-8-web.pdf
+ThinkBrick. (N.D.). How bricks are made. Retrieved from ThinkBrick:
+http://thinkbrick.blob.core.windows.net/media/1375/tba-how-bricks-are-made.pdf
+UNEP. (2020). 2020 Global Status Report for Buildings and Construction. Global Alliance for Buildings and
+Construction & United Nations Environment Programme: Paris.
+Ward, H., Wenz, L., Steckel, J. C., & Minx, J. C. (2018). Truncation Error Estimates in Process Life Cycle
+Assessment Using Input‐Output Analysis. Journal of Industrial Ecology, 22(5), 1080-1091.
+Waters, B., Worsley, H., & Richter, M. (2020). The Time is Now: Tackling Embodied Carbon in the Building
+and Construction Sector. Sydney: WWF Australia.
+Wiedmann, T., Crawford, R., Yu, M., Schinabeck, J., & Teh, S. H. (2017). The “forgotten” greenhouse gas
+emissions of our built environment will be a hard nut to crack. Retrieved from The Fifth Estate:
+https://www.thefifthestate.com.au/columns/spinifex/the-forgotten-greenhouse-gas-emissions-ofour-built-environment-will-be-a-hard-nut-to-crack/
+Wiedmann, T., Teh, S. H., & Yu, M. (2019). ICM Database - Integrated Carbon Metrics Embodied Carbon
+Life Cycle Inventory Database. Sydney: UNSW. Retrieved from https://researchdata.edu.au/icmdatabase-integrated-inventory-database/1440719
+World Aluminium. (2017). LIFE CYCLE INVENTORY DATA AND ENVIRONMENTAL METRICS FOR THE
+PRIMARY ALUMINIUM INDUSTRY. Retrieved from World Aluminium: https://www.worldaluminium.org/media/filer_public/2017/06/28/lca_report_2015_final.pdf
+World Steel. (2020). Steel Statistics. Retrieved from World Steel Association:
+https://www.worldsteel.org/steel-by-topic/statistics/steel-data-viewer/
+WorldGBC. (2019). Bringing embodied carbon upfront: Coordinated action for the building and construction
+sector to tackle embodied carbon. Toronto: World Green Building Council.
+Yu, M., Wiedmanna, T., Crawford, R., & Tait, C. (2017). The carbon footprint of Australia’s construction
+sector. Procedia Engineering, 180, 211-220.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+52 of 75
+
+Abbreviations
+ABCB
+
+Australian Building Codes Board
+
+ABS
+
+Australian Bureau of Statistics
+
+BF
+
+Blast Furnace
+
+CIF
+
+Cement Industry Federation
+
+CLF
+
+Carbon Leadership Forum
+
+DFE
+
+Depletion of Fossil Energy resources
+
+DFAT
+
+Department of Foreign Affairs and Trade
+
+EAF
+
+Electric Arc Furnace
+
+EPD
+
+Environmental Product Declaration
+
+EIO
+
+Economy-wide input-output
+
+GBCA
+
+Green Building Council of Australia
+
+GGBFS Ground Granulated Blast Furnace Slag
+GHG
+
+Greenhouse gas
+
+GWP
+
+Global Warming Potential
+
+IO
+
+Input-Output
+
+LCA
+
+Life Cycle Assessment
+
+LULUCF Land Use, Land-Use Change, and Forestry
+MFA
+
+Material Flow Analysis
+
+PED
+
+Primary Energy Demand (total energy at point of extraction, including all losses)
+
+TCNA
+
+Tile Council of North America
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+53 of 75
+
+Annex A: Detailed methodology
+Step I: Conduct a bottom-up hotspot assessment
+1. Forecast the annual new-build construction and alteration rates to 2050 by building type
+This was based on historic Chain Volume building commencements from ABS combined with a future projection of completions from the Australian
+Building Codes Board (ABCB, 2018) to 2029 for residential buildings. To calculate the completions after 2029 (when the ABCB forecast ends) the
+growth rates of the past 10 years were extrapolated out until 2050. The non-residential new build construction forecast was based on Chain Volume
+building commencements, with an annual growth forecast taken from a report by The Centre for International Economics (CIE, 2018)
+The drop in building commencements due to COVID-19 was modelled as:
+•
+•
+•
+•
+
+FY20/21: ¼ of the year runs at 30% capacity due to lockdowns in the first part of this year. The rest of the year runs at normal capacity
+FY21/22: Assuming a drop of 27% from the original forecast, based on Master Builders modelling in May 2020 (Master Builders Australia,
+2020)
+FY22/23: Assuming volume back up to 90% of the pre-COVID forecast for FY22/23 for residential buildings and 90% of the pre-COVID (FY
+18/19) value for non-residential buildings – estimated.
+FY23/24: Assuming back to forecasted rate for residential buildings and back to the pre-COVID level for non-residential buildings (ABCB,
+2018)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+54 of 75
+
+Residential construction: historic + forecast
+80,000,000
+
+Annual new-build construction (m2 GFA)
+
+70,000,000
+
+60,000,000
+
+50,000,000
+
+40,000,000
+
+30,000,000
+
+20,000,000
+
+10,000,000
+
+0
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Figure 19: Residential construction historic data and forecast
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+55 of 75
+
+Non-residential construction: historic + forecast
+30,000,000
+
+Annual new-build construction (m2 GFA)
+
+25,000,000
+
+20,000,000
+
+15,000,000
+
+10,000,000
+
+5,000,000
+
+0
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Figure 20: Non-residential construction historic data and forecast
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+56 of 75
+
+2. Classify buildings into representative construction design and method
+Residential buildings were split into two classes, following the ABCB report where the residential new build construction forecasts were sourced from
+(ABCB, 2018). Table 12 shows the forecasted completed area in 2019 and in 2050.
+•
+•
+
+Class 1: Standalone house
+Class 2: Other residential
+
+Table 12: Residential floor area constructed (000,000 m2)
+
+Financial Year
+
+Class 1 Floor Area
+
+Class 2 Floor Area
+
+Total Residential Floor Area
+
+2019
+
+34.0
+
+7.43
+
+41.4
+
+2050
+
+55.0
+
+14.0
+
+69.0
+
+Non-residential buildings were splits into 15 classes, based on the building types provided in the ABS Building Approvals (ABS, 2020).The Building
+Approvals data provided the number of and the average floor area (where data was available) for non-residential building approvals in Australia
+across various building types, which was used to split the forecasted floor area. Table 13 and Table 14 show the split of the forecast non-residential
+floor area constructed in 2019 and 2050. The building type codes used were:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Retail
+Transport
+Office
+Commercial (Other)
+Factory
+Warehouse
+Agriculture
+Industrial (Other)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+•
+•
+•
+•
+•
+•
+•
+
+Education
+Religion
+Aged Care
+Health
+Entertainment
+Hotels
+Non-residential (Other)
+
+57 of 75
+
+Table 13: Non-residential floor area constructed (000,000 m2)
+
+FY
+
+Retail
+
+Transport
+
+Office
+
+Factory
+
+Warehouse
+
+Agriculture
+
+2.43
+
+Commercial
+(Other)
+0.19
+
+0.69
+
+5.12
+
+0.87
+
+Industrial
+(Other)
+0.89
+
+2019
+
+2.54
+
+0.16
+
+2050
+
+5.07
+
+0.21
+
+4.31
+
+0.21
+
+0.98
+
+6.53
+
+1.23
+
+1.17
+
+Health Entertainment
+
+Hotels
+
+Total Nonresidential
+
+25.43
+
+Table 14: Non-residential floor area constructed continued (000,000 m2)
+
+FY
+
+Education
+
+Religion
+
+Aged Care
+
+2019
+
+1.42
+
+0.05
+
+0.40
+
+0.17
+
+0.73
+
+0.68
+
+Nonresidential
+(Other)
+0.62
+
+2050
+
+2.02
+
+0.10
+
+0.55
+
+0.40
+
+1.02
+
+0.78
+
+0.85
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+16.97
+
+58 of 75
+
+3. Specify a bill of quantities (BoQ) for each building type
+The Class 1 residential building was modelled by taking the building types considered in a comparative LCA of typical Australian buildings (FWPA,
+2011) and weighting the materials used in foundations, framing, roofing, walls and windows based on the current market share of construction types.
+The Class 2 residential building was modelled using the Life Cycle Inventory of the reference building of a comparative LCA of two multistorey
+residential apartment buildings (Carre & Crossin, 2015).
+For the non-residential buildings, each building type was modelled using an exemplar building, which could be considered an estimate of a typical
+building for that class. The transport, factory, warehouse, agriculture, industrial (other) classes were modelled based on a steel warehouse building,
+while the office and religion categories were modelled based on typical office buildings of two different sizes, with data supplied by industry. Retail,
+education, entertainment and other non-residential buildings were modelled in a separate retail group. Table 15 shows the BoQ for the building types
+considered in this study, showing the materials as delivered to site, which includes any construction waste.
+Table 15: Bill of quantities per building type (kg/m2)
+
+Residential Class 1 Residential Class 2
+
+Material
+
+Non-residential
+Warehouse
+
+Non-residential
+Office
+
+Non-residential
+Retail
+
+Aluminium
+
+0.92
+
+0.89
+
+0.33
+
+11.25
+
+5.79
+
+Clay brick/tile
+
+78.40
+
+0.00
+
+0.00
+
+3.36
+
+1.68
+
+Concrete
+
+439
+
+1063
+
+694
+
+2165
+
+1430
+
+Copper
+
+0.00
+
+0.00
+
+0.00
+
+0.66
+
+0.33
+
+Glass
+
+2.73
+
+2.96
+
+2.27
+
+19.22
+
+10.74
+
+Gravel
+
+0.00
+
+29.82
+
+0.00
+
+0.00
+
+0.00
+
+Insulation
+
+0.00
+
+1.40
+
+0.12
+
+0.89
+
+0.50
+
+Paint
+
+0.00
+
+1.15
+
+0.04
+
+0.06
+
+0.05
+
+Wood
+
+21.17
+
+0.00
+
+0.79
+
+1.11
+
+0.95
+
+Plasterboard
+
+22.05
+
+33.64
+
+1.65
+
+11.90
+
+6.77
+
+Stainless steel
+
+0.00
+
+0.00
+
+0.00
+
+0.43
+
+0.22
+
+Steel
+
+10.96
+
+46.87
+
+61.37
+
+153.67
+
+107.52
+
+Total
+
+575
+
+1180
+
+760
+
+2368
+
+1564
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+59 of 75
+
+4. Identify typical construction and demolition rates
+For the purposes of modelling, it was assumed that for every four buildings constructed in Australia, one would be demolished. This was modelled as
+¼ of the mass of construction materials going to the end-of-life phase of the life cycle after use (including the end-of-life material credit).
+
+5. Identify embodied carbon and energy data
+The carbon emissions factors of the production of various building materials can be seen in Table 16. Please note that these are the factors used in
+the final analysis.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+60 of 75
+
+Table 16: GHG emission factors of building materials (kg CO2e / kg)
+
+20501 Source for 2019 factor
+
+Material type
+
+2019
+
+Aluminium
+
+14.92
+
+3.92 (AAC, 2020c)
+
+Clay brick/tile
+
+0.20
+
+0.19 (ThinkBrick, 2018)
+
+Concrete
+
+0.12
+
+0.11 MFA
+
+Copper
+
+4.12
+
+4.12 (Sphera, 2020)
+
+Glass
+
+1.12
+
+1.12 (Sphera, 2020)
+
+Gravel
+
+0.00
+
+0.00 (Sphera, 2020)
+
+Insulation – glass wool
+
+1.88
+
+1.88 (Sphera, 2020)
+
+Paint
+
+1.83
+
+1.83 (Sphera, 2020)
+
+Wood
+
+0.23
+
+0.23 (FWPA, 2017)
+
+Plasterboard
+
+0.28
+
+0.21 Industry data
+
+Stainless steel
+
+3.27
+
+3.27 (Sphera, 2020)
+
+Steel – other
+
+2.83
+
+2.51 (BlueScope, 2020)
+
+Steel – roofing & cladding
+
+2.83
+
+2.51 (BlueScope, 2020)
+
+Steel – sheet
+
+2.83
+
+2.51 (BlueScope, 2020)
+
+Steel – structural beams and
+columns
+Steel – structural reinforcing
+
+2.83
+
+2.51 (BlueScope, 2020)
+
+1.64
+
+0.87 (InfraBuild, 2020a)
+
+1
+
+only major materials have been decarbonised with the electricity grid
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+61 of 75
+
+Table 17: Primary energy demand factors of building materials (MJ / kg)
+
+Material type
+
+Renewable
+energy
+2019
+
+Renewable
+energy
+20501
+
+Non-renewable
+energy
+2019
+
+Non-renewable
+energy
+20501
+
+Aluminium
+
+42.5
+
+275
+
+176
+
+51.4
+
+Clay brick/tile
+
+0.19
+
+0.28
+
+4.08
+
+3.90
+
+Concrete
+
+0.01
+
+0.02
+
+0.61
+
+0.56
+
+Copper
+
+4.48
+
+4.48
+
+47.6
+
+47.6
+
+Glass
+
+0.89
+
+0.89
+
+14.0
+
+14.0
+
+Gravel
+
+0.01
+
+0.01
+
+0.03
+
+0.03
+
+Insulation – glass wool
+
+4.58
+
+4.58
+
+31.4
+
+31.4
+
+Paint
+
+4.38
+
+4.38
+
+37.9
+
+37.9
+
+Wood
+
+2.92
+
+2.92
+
+4.50
+
+4.50
+
+Plasterboard
+
+1.87
+
+7.99
+
+4.23
+
+2.62
+
+Stainless steel
+
+8.43
+
+8.43
+
+43.8
+
+43.8
+
+Steel – other
+
+0.62
+
+1.53
+
+26.4
+
+22.2
+
+Steel – roofing & cladding
+
+0.62
+
+1.53
+
+26.4
+
+22.2
+
+Steel – sheet
+
+0.62
+
+1.53
+
+26.4
+
+22.2
+
+Steel – structural beams and
+columns
+Steel – structural reinforcing
+
+0.62
+
+1.53
+
+26.4
+
+22.2
+
+1.18
+
+4.97
+
+18.4
+
+11.5
+
+1
+
+only major materials have been decarbonised with the electricity grid
+
+Module D: taken from EPDs of relevant products where available. For aluminium and copper, used recycling processes off the GaBi Life Cycle
+Database (Sphera, 2020). All recycling credits were static with time and not modelled as changing with the electricity grid mix changes to 2050.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+62 of 75
+
+6. Estimate total embodied carbon and energy and of Australia’s buildings
+This equations for this step are broken down into the modules of EN15084. The equations referenced and a key for this step are found below.
+1. Material mass: Calculated by multiplying the modelled materials used per m2 of building constructed by the forecasted area built, as
+shown in Equation 2.
+2. Modules A1-3, B1-5 (production emissions, including repair and replacement): Calculated by multiplying the mass of each material by
+the respective production emission factor, then summing to get total emissions, as shown in Equation 3.
+3. Module A4: Calculated by multiplying the mass of the building materials by the emission factor of travelling from the final production
+facility to building site, as shown in Equation 4.
+4. Module A5: Calculated by multiplying the mass of the construction waste by the emission factors associated with the whole life cycle of
+this waste (production, transport to and from site, and processing at end-of-life). This value is then added to the emissions associated
+with building construction, calculated by multiplying a construction emissions factor by the building area constructed, as shown in
+Equation 5.
+5. Module C1-4: Calculated by multiplying ¼ of the mass of buildings materials used in construction by the emission factors for the
+transport and landfilling of construction waste, see Equation 6. The ¼ was used as it is assumed that currently for every four buildings
+constructed in Australia, one is demolished.
+𝑡=s
+
+𝑚𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔,𝑖 = ∑(𝑎𝑚𝑎𝑠𝑠,𝑡 × 𝑎𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔,t )
+𝑡=0
+
+Equation 2: Building material mass equation
+𝑖=𝑛
+
+𝑀𝑜𝑑𝑢𝑙𝑒 𝐴1 − 3 = ∑(𝑚𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔,𝑖 × 𝑐𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙,𝑖 )
+𝑖=0
+
+Equation 3: Module A1-3 calculation (includes modules B1-5)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+63 of 75
+
+𝑖=𝑛
+
+𝑀𝑜𝑑𝑢𝑙𝑒 𝐴4 = ∑(𝑚𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔,𝑖 × 𝑐𝑚𝑎𝑡 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 )
+𝑖=0
+
+Equation 4: Module A4 calculation
+𝑖=𝑛
+
+𝑀𝑜𝑑𝑢𝑙𝑒 𝐴5 = ∑((𝑐𝑎𝑟𝑒𝑎 × 𝑎𝑎𝑟𝑒𝑎 ) + (𝑚𝑐 𝑤𝑎𝑠𝑡𝑒,𝑖 ) × (𝑐𝑚𝑎𝑡 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 + 𝑐𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙,𝑖 + 𝑐𝑤𝑎𝑠𝑡𝑒 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 + 𝑐𝑤𝑎𝑠𝑡𝑒,𝑖 ))
+𝑖=0
+
+Equation 5: Module A5 calculation
+𝑖=𝑛
+
+1
+𝑀𝑜𝑑𝑢𝑙𝑒 𝐶1 − 4 = ∑ (( 𝑚𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔,𝑖 ) × (𝑐𝑤𝑎𝑠𝑡𝑒,𝑖 + 𝑐𝑤𝑎𝑠𝑡𝑒 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡 ))
+4
+𝑖=0
+
+Equation 6: Module C1-4 calculation
+
+Where:
+- t = building type
+- s = total number of building types
+- i = building material
+- n = total number of building materials
+- abuilding,t = area of building type t constructed (m2)
+- amass,t = mass of material in BOQ per m2 of building type t (t / m2)
+- mbuilding,i = mass of material i used in the construction of buildings (tonnes)
+- mc waste,i = mass of construction waste of material i (tonnes)
+- mwaste,i = mass of demolition waste of material i (tonnes)
+- cmaterial,i = emission factor of material i production (t CO2e / t material)
+- cmat transport,i = emission factor of transporting material i from production facility to the building site (t CO2e / t material)
+- cwaste transport = emission factor of transporting material from the building site to the end-of-life location (t CO2e / t material)
+- carea = emission factor of the construction of a building per area constructed (t CO2e / m2 constructed)
+- aarea = area constructed (m2)
+- cwaste,i = emission factor of the waste processing and landfilling of material i (where applicable) (t CO2e / t material)
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+64 of 75
+
+7. Identify the top five building products/materials to focus on
+These were identified based on embodied carbon and energy and were determined to be:
+•
+•
+•
+•
+•
+
+Aluminium
+Concrete/cement
+Clay brick/tile
+Plasterboard
+Steel
+
+While glass had the fifth highest embodied carbon for non-residential buildings, plasterboard was selected as the fifth material based on it making up a
+higher percentage of the residential embodied carbon that glass did of the non-residential.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+65 of 75
+
+Step II: Conduct a top-down MFA for the top five materials
+Conduct a material flow analysis for the top five building materials.
+An MFA was conducted on the top five building materials, using a mix of industry and public data.
+Please refer to Annex B: Detailed material flow analysis for details.
+
+Overlay the MFA with national data on greenhouse gas emissions and energy per material.
+Using industry, public, and LCA data (Sphera, 2020), the material flows were used to calculate carbon and energy flows within each material industry.
+Please refer to Annex B: Detailed material flow analysis for details.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+66 of 75
+
+Step III: Refine the hotspot assessment using MFA and IO-LCA data
+Update the hotspot assessment using new carbon and energy factors from the MFA.
+Please refer to Table 16 for carbon and Table 17 for energy factors.
+
+Forecast changes in embodied carbon and embodied energy until 2050.
+This was done assuming a business-as-usual scenario where only the electricity grid decarbonises and there are no changes to process emissions or
+thermal energy or the BoQ composition of buildings. The electricity grid decarbonisation was based on the 2°C Innovate Scenario from the
+ClimateWorks Australia Decarbonisation Futures Technical Report and was modelled in the GaBi LCI database (Sphera, 2020). The electricity grid is
+modelled as being made up of 100% renewable energy in 2050.
+In order to model the changes in the electricity grid mix, the breakdown of the source of both energy and emissions for each material had to be
+calculated (split into process, thermal energy, electricity and other). The electricity portion of the energy and emissions was then adjusted based on
+the change in the grid mix relative to the reference year.
+
+Fill data gaps for building construction, and demolition using IO-LCA data.
+Construction and demolition data was estimated based on Yu et al (2017) which used IO-LCA to calculate the carbon footprint of the construction
+sector. This top-down approach calculated the emissions from construction to be 8.3% of the construction industry’s embodied carbon emissions,
+which is 1.8 Mt CO2e and 1.3 Mt CO2e for residential and non-residential buildings respectively when this percentage is applied to their total emissions
+for the studied year of 2013 (Yu, et al., 2017). These results were then scaled based on the gross Australian emissions in 2019 and 2050 relative to
+2013 values. This assumes that construction emissions will decarbonise at the same rate as the rest of Australia.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+67 of 75
+
+Annex B: Detailed material flow analysis (confidential)
+This project included detailed material flow analysis (MFA) of five different material categories: concrete, steel, aluminium, plasterboard, and clay
+bricks/tiles. Given the commercial sensitivity over some of this information, these material flow analyses are not part of the public report.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+68 of 75
+
+Annex C: Imported building materials
+This annex considers the impact of imported building materials relative to the overall impacts of building materials used in Australia. The material
+masses, and GWP and PED factors from the MFA were used (see Annex B) as this provided the required split of imported and domestic production.
+Table 18 shows the imported materials share of mass, carbon emissions, and energy demand relative to the total for Australian buildings. It shows
+that imported steel, concrete, and aluminium makes up a significant percentage of the carbon emissions and PED of these materials. The import
+share of cement & concrete mass is low due to all imports being either clinker or cement which makes up a high percentage of concrete impacts. The
+import share of ‘other materials’ was difficult to quantify due to the number of materials and products in this category, so it was estimated to be 50%.
+Table 18: Import share of mass/GWP/PED in building materials used in Australia
+
+Material
+
+Import share of
+mass
+
+Import share of
+GWP
+
+Import share of Source for mass import
+PED share
+
+Clay brick/tile
+
+1%
+
+4%
+
+3% (DFAT, 2020)
+
+Steel
+
+35%
+
+50%
+
+50% (DISER, 2016)
+
+Cement & concrete
+
+6%
+
+50%
+
+35% (CIF, 2020)
+
+Plasterboard
+
+1%
+
+1%
+
+1% (DFAT, 2020)
+
+Aluminium
+
+47%
+
+55%
+
+45% Industry
+
+Other materials
+
+50%
+
+50%
+
+50% Estimated
+
+All construction materials
+
+8%
+
+47%
+
+39%
+
+Table 19 and Table 20 provide further detail on how the import shares are calculated. Table 19 shows the GWP and PED factors of imported
+materials. Due to difficulties with the splitting of steel products and production route, the steel emission factor for imported steel was the same as for
+produced steel in the MFA. Table 20 shows the mass, GWP and PED from imported materials and calculates the import share of GWP and PED
+relative to all materials used in Australian buildings.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+69 of 75
+
+Table 19: GWP and PED factors of imported materials
+
+Material
+
+Imported GWP EF
+(t CO2e/t)
+
+Imported PED factor
+(GJ/t)
+
+Clay brick/tile
+
+0.61
+
+9.82
+
+Steel
+
+2.57
+
+29.4
+
+Cement & concrete
+
+0.85
+
+3.70
+
+Plasterboard
+
+0.40
+
+5.66
+
+Aluminium
+
+18.0
+
+166
+
+Other materials
+
+0.42
+
+8.13
+
+Table 20:Calculation of GWP and PED import shares
+
+Material
+
+Mass of
+imported
+material
+(Mt)
+
+Total material
+GWP
+(Mt CO2e)
+
+GWP from
+imported
+material
+(Mt CO2e)
+
+GWP Import
+share
+(%)
+
+PED
+(PJ)
+
+PED from
+imported
+material
+(PJ)
+
+PED Import
+share
+(%)
+
+Clay brick/tile
+
+0.06
+
+0.84
+
+0.04
+
+4%
+
+16.7
+
+0.58
+
+3%
+
+Steel
+
+1.11
+
+5.71
+
+2.85
+
+50%
+
+65.5
+
+32.6
+
+50%
+
+Cement & concrete
+
+2.45
+
+4.21
+
+2.08
+
+50%
+
+26.1
+
+9.08
+
+35%
+
+Plasterboard
+
+0.01
+
+0.27
+
+0.00
+
+1%
+
+6.1
+
+0.05
+
+1%
+
+Aluminium
+
+0.1
+
+2.17
+
+1.19
+
+55%
+
+24.2
+
+11.0
+
+45%
+
+Other materials
+
+0.63
+
+0.54
+
+0.27
+
+50%
+
+10.3
+
+5.14
+
+50%
+
+All construction materials
+
+4.33
+
+13.7
+
+6.43
+
+47%
+
+149
+
+58.4
+
+39%
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+70 of 75
+
+Annex D: Carbon emissions of material production (confidential)
+The information in this annex is confidential and not part of the public communication.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+71 of 75
+
+Annex E: Energy used in material production (confidential)
+The information in this annex is confidential and not part of the public communication.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+72 of 75
+
+Annex F: Hybridisation of Process LCA
+To estimate the embodied carbon and energy of Australian buildings using the Hybrid LCA
+methodology, the Process LCA values for the five main materials were hybridised using the EPiC
+database (Crawford, et al., 2019). This database takes process and input-output LCA data for a
+given material and for splits up the entire material supply chain into a series of individual steps
+(nodes), in a process called a Structural Path Analysis, or (SPA) (Steps 1-4 in Figure 21).
+Process LCA data comes from the Australian Life Cycle Inventory Database Initiative (AusLCI)
+(Grant, 2016).
+Direct impacts are calculated by identifying the Process LCA nodes that correspond with these
+impacts, while indirect impacts are calculated by taking the IO LCA data and subtracting the
+nodes already covered by the Process LCA (Steps 5-6 in Figure 21).
+
+Figure 21: The hybrid approach used to create the EPiC database (Crawford, et al., 2019)
+
+This study uses the Process LCA numbers calculated previously (Annex A: Detailed
+methodology) and applies factors in order to replicate the hybridisation of Process LCA data in
+EPiC. This approach assumes that the scope and system boundaries of the Process LCA data is
+similar for the values calculated in this report and those used in EPiC. The process data in EPiC
+(AusLCI) was not used for this report because it was last updated in 2016 (with the
+supplementary data from ecoinvent 2.2, which was released in 2010) and various sectors have
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+73 of 75
+
+experienced notable reductions in emissions intensities since then. This report also looks at
+industry average material emissions intensities, while the EPiC database provides data on a per
+product basis, so proxy products are used for the hybridisation, as shown in Table 21.
+Figure 22 shows a graphical depiction of the removals and additions which occur in order to
+create the hybrid intensity found in EPiC. The steps involved in hybridising the Process LCA
+intensities found in this report were:
+1. Subtract the removed pathways for the Process LCA (the two hatched segments in the
+process bar of Figure 22). This was done by calculating the percentage of the process
+pathways removed in EPiC and taking away the same percentage from the process
+intensity calculated in this report.
+2. Add the IO pathways to the Process LCA (the white and shaded segments in the IO bar
+of Figure 22).
+
+Figure 22: Coefficient breakdowns for concrete block GHG emissions (Crawford, et al., 2019)
+
+Table 21 shows the process and Hybrid LCA GHG intensities for 2019 used in the report, with
+the 2050 hybrid intensities also being shown, based on the BAU scenario defined earlier in this
+report (the only improvement being the decarbonisation of the electricity grid).
+The hybridisation factor adjustments for Portland cement were used for the concrete
+hybridisation, due to the EPiC hybrid concrete intensity being the same as the Process LCA
+intensity, which differs from Teh et al. (2017). Teh et al. considers the issue of hybridisation of
+cement and concrete specifically. It concludes that using Hybrid LCA increased the GHG
+emissions intensity by 22% for 25 MPa Ordinary Portland Cement (OPC) concrete and by 1150% for blended cement-based concrete compared to the Process LCA values found in AusLCI
+(Grant, AusLCI Database Manual v1.26, 2016). The ICM Database (Wiedmann, et al., 2019)
+broadly aligns with this, showing an increase of between 10-20% between the hybrid and
+Process LCA emissions intensity, depending on the concrete mix. It is important to again state
+that there are inherit uncertainties with Process LCA and these are exacerbated with IO LCA and
+therefore Hybrid LCA.
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+74 of 75
+
+Table 21: Process and Hybrid LCA GHG intensities used in analysis
+
+Material type
+
+Hybridisation data
+
+Process LCA
+2019
+
+Hybrid LCA
+2019
+
+Hybrid LCA
+2050
+
+Aluminium
+
+EPiC database:
+Aluminium bar
+
+14.92
+
+20.78
+
+5.47
+
+Clay brick/tile
+
+EPiC database:
+Clay brick
+
+0.20
+
+0.27
+
+0.26
+
+Concrete
+
+EPiC database:
+Portland Cement
+
+0.12
+
+0.16
+
+0.15
+
+Plasterboard
+
+EPiC database:
+Plasterboard - 10 mm
+
+0.29
+
+0.70
+
+0.52
+
+Steel – flat
+products
+
+EPiC database:
+Hot rolled structural steel
+
+2.83
+
+3.20
+
+2.85
+
+Steel – long
+products
+
+EPiC database:
+Hot rolled structural steel
+
+1.64
+
+2.19
+
+1.16
+
+Embodied Carbon & Embodied Energy in Australia’s Buildings
+
+75 of 75
+
+About
+
+About
+
+Green Building Council Australia
+
+thinkstep-anz
+
+Established in 2002, our purpose is to lead
+the sustainable transformation of the built
+environment.
+
+At thinkstep-anz, we are passionate about
+enabling organisations to succeed sustainably.
+
+We rate the sustainability of buildings,
+fitouts and communities through Australia’s
+largest national, voluntary, holistic rating
+system – Green Star.
+
+We underpin sustainability initiatives with
+facts and figures to contribute quantifiable
+business value. Our clients value our ambition
+to tailor solutions to their specific needs, no
+matter how large or small.
+
+We educate industry, government
+practitioners and decision-makers,
+and promote green building programs,
+technologies, design practices and
+operations.
+
+thinkstep pty ltd
+616 Harris Street
+Ultimo NSW 2007
+Australia
++61 2 8007 3330
+
+We advocate policies and programs that
+support our vision and purpose.
+
+www.thinkstep-anz.com
+
+thinkstep ltd
+11 Rawhiti Road
+Pukerua Bay 5026
+New Zealand
++64 4 889 2520
+
+Green Building Council Australia
+Level 31, International Towers, Tower Two
+200 Barangaroo Ave
+Barangaroo NSW 2000
+https://new.gbca.org.au/
+
+Sydney | Perth | Canberra |
+Wellington | Auckland | Hamilton | Christchurch
+
+

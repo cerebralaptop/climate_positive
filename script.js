@@ -16,6 +16,15 @@ document.addEventListener('DOMContentLoaded', () => {
   window.addEventListener('scroll', handleScroll, { passive: true });
   handleScroll();
 
+  // --- Active page highlight in nav ---
+  const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    const href = link.getAttribute('href');
+    if (href === currentPage || (currentPage === '' && href === 'index.html')) {
+      link.classList.add('active');
+    }
+  });
+
   // --- Mobile menu toggle ---
   const navToggle = document.getElementById('nav-toggle');
   const navLinks = document.getElementById('nav-links');
@@ -31,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // --- Tabs ---
+  // --- Tabs (if present on page) ---
   const tabBtns = document.querySelectorAll('.tab-btn');
   const tabContents = document.querySelectorAll('.tab-content');
 
@@ -62,12 +71,13 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }, observerOptions);
 
-  // Add fade-in class to elements
   const animateElements = document.querySelectorAll(
     '.card, .card-glass, .info-card, .action-card, .five-action-card, ' +
     '.principle-card, .benefit-category, .definition-card, .document-card, ' +
     '.stakeholder-card, .state-card, .timeline-item, .callout, ' +
-    '.precinct-type-card, .cta-action-item, .pathway-step'
+    '.precinct-type-card, .cta-action-item, .pathway-step, ' +
+    '.topic-card, .stat-box, .case-study-card, .tech-card, .process-step, ' +
+    '.criteria-item, .document-card-sm'
   );
 
   animateElements.forEach((el, index) => {
@@ -91,28 +101,30 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // --- Active nav link highlight ---
+  // --- Active nav link highlight for anchor sections (landing page) ---
   const sections = document.querySelectorAll('section[id]');
-  const navAnchors = document.querySelectorAll('.nav-links a');
+  const navAnchors = document.querySelectorAll('.nav-links a[href^="#"]');
 
-  const highlightNav = () => {
-    const scrollPos = window.scrollY + 120;
+  if (navAnchors.length > 0) {
+    const highlightNav = () => {
+      const scrollPos = window.scrollY + 120;
 
-    sections.forEach(section => {
-      const top = section.offsetTop;
-      const height = section.offsetHeight;
-      const id = section.getAttribute('id');
+      sections.forEach(section => {
+        const top = section.offsetTop;
+        const height = section.offsetHeight;
+        const id = section.getAttribute('id');
 
-      if (scrollPos >= top && scrollPos < top + height) {
-        navAnchors.forEach(a => {
-          a.style.opacity = '0.6';
-          if (a.getAttribute('href') === `#${id}`) {
-            a.style.opacity = '1';
-          }
-        });
-      }
-    });
-  };
+        if (scrollPos >= top && scrollPos < top + height) {
+          navAnchors.forEach(a => {
+            a.style.opacity = '0.6';
+            if (a.getAttribute('href') === `#${id}`) {
+              a.style.opacity = '1';
+            }
+          });
+        }
+      });
+    };
 
-  window.addEventListener('scroll', highlightNav, { passive: true });
+    window.addEventListener('scroll', highlightNav, { passive: true });
+  }
 });

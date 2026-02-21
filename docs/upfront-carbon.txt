@@ -1,0 +1,3143 @@
+A practical guide to
+upfront carbon reductions
+For new buildings and major
+refurbishments
+
+Established in 2002, Green Building Council of Australia (GBCA) is
+the nation’s authority on sustainable buildings, communities and cities.
+Our vision is for healthy, resilient and positive places for people.
+Our purpose is to lead the sustainable transformation of the built
+environment. GBCA represents more than 550 individual companies
+with a combined annual turnover of more than $46 billion.
+
+Principal partner
+
+Lendlease is proud to be principal partner of the Practical guide to
+upfront carbon reductions. As a global integrated real estate group, we
+draw on decades of experience and the latest thinking in development,
+design, placemaking, construction and investments to deliver iconic and
+inclusive places for everyone. We’re a 1.5 degree aligned company and
+aim to create $250 million of social value by 2025. We have clear
+decarbonisation plans in place and we measure the positive impact we
+are making in communities around the world.
+GBCA thanks Lendlease for their contributions in this guide, and for
+allowing the use of their "Low Embodied Carbon Guideline" which has
+informed various sections.
+
+Funding partners
+
+The National Australian Built Environment Rating Scheme (NABERS) is a
+world-leading national government program that provides simple, reliable
+and comparable sustainability measurements across multiple building
+sectors like offices, hotels, shopping centres and more. NABERS provides
+an annual rating for a building’s efficiency in energy, water, waste or
+indoor environment quality. Over the last 20 years NABERS has proven
+that measurement leads to better management. Buildings that have
+obtained NABERS ratings for a decade achieve energy savings of 30-40%
+on average.
+Sustainability Victoria’s purpose is to transition Victoria to a circular,
+climate-resilient economy. Sustainability Victoria does this by
+contributing to achieving the Government’s targets for 2025 and 2030 in
+recycling and net-zero emissions. We work together in partnership with
+our stakeholders in industry, business, entrepreneurs, research
+institutions, schools, households, individuals, community groups and
+governments within Victoria and across Australia. To achieve our goals,
+SV will lead and support industries on how we design, make, and use the
+products and materials in our economy.
+
+Technical partner
+
+Mott MacDonald has been delivering projects in Australia for over 40
+years and focuses on creating sustainable social outcomes across the
+Transport, Advisory, Built Environment, Water and Energy sectors. As a
+leading multidisciplinary buildings consultant in Australia, we specialise
+in developing sustainable solutions in building structures, services, and
+engineering sciences.
+We bring the advanced digital systems and infrastructure that you
+would expect from a 18,000 strong global organisation, with over
+1,200 staff across Australia.
+
+The information provided in this guide is for illustrative purposes only. In all cases, building owners are encouraged to consult
+with dedicated professionals to assist them in reducing upfront carbon emissions.
+
+A practical guide to upfront carbon reductions
+
+A practical guide to upfront carbon reductions
+
+This guide provides information on reducing upfront carbon emissions in
+new buildings and major refurbishments. The guide outlines steps to be
+taken during the design and construction process and offers solutions for
+common challenges. It is intended to be used alongside a calculation
+guide1 that was released in December 2022.
+
+Delivering
+Climate
+Positive
+Buildings
+
+The diagram shows typical steps to decarbonise buildings in line with
+our Climate Positive Roadmap2. This guide covers how to reduce upfront
+carbon emissions. It addresses absolute reductions of carbon in the
+material production and construction processes. Separate guides3 exist
+on making new and existing buildings fossil fuel free. We encourage you
+to apply these steps throughout your portfolio.
+
+Understand upfront carbon
+
+Standard building
+
+Everything you wanted to know about upfront carbon (but were afraid to
+ask) ● The case for reducing upfront carbon ● Policies driving action ●
+The investor case for upfront carbon reductions ● Market solutions
+driving change
+
+Measure typical greenhouse gas
+(GHG) emissions due to energy
+use and construction, repair,
+maintenance & refurbishment
+and end of life.
+
+Upfront carbon in buildings
+What is a typical building’s upfront carbon? ● Where is the upfront
+carbon? ● Upfront vs. embodied ● How to measure upfront carbon ●
+Measuring reductions
+
+Fossil fuel free
+Eliminate natural gas for
+space heating, domestic hot
+water and cooking, both
+base building and tenants.
+
+Setting targets and getting to zero
+Developing upfront carbon targets ● What targets should you set? ●
+Reducing carbon at each stage of the process ● Getting to zero upfront
+carbon today
+
+Highly efficient
+Legend
+
+What to do at each stage of the process
+Roles in the project lifecycle ● Feasibility & brief ● What strategies work
+best? ● Concept and detailed design ● Design consideration in reducing
+a project’s upfront carbon ● Tender ● Construction ● Handover
+
+Case studies
+25 King Street ● Substation No. 164 ● Burwood Brickworks ● Quay
+Quarter Tower
+
+GHG
+EMISSIONS
+
+USED FOR
+
+Space heating,
+domestic hot water
+Natural gas and cooking.
+
+Electricity
+
+More information
+Other
+
+Where can I get more information ● Appendix A: Valuable terminology ●
+Appendix B: Carbon in materials ● Appendix C: Environmental Product
+Declarations ● References and acknowledgements
+Materials
+
+Ventilation, cooling,
+lighting, pumps, small
+power, lifts, security,
+controls, and IT systems.
+
+Emergency
+(backup) power,
+and refrigerants.
+
+Emissions from
+products, materials and
+activities for repair,
+maintenance and
+refurbishment.
+
+Manage peak and reduce net
+building energy consumption
+through energy efficiency
+measures and effective demand
+management controls.
+
+Powered by renewables
+Provide all electricity from 100%
+renewable sources – on-site and/or
+off-site.
+
+Built with lower
+upfront carbon
+Significantly reduce upfront carbon
+through material/product selection
+during design and construction.
+
+Offset with nature4
+After reducing all other GHG
+emissions as much as possible,
+procure credible nature based offsets.
+
+A practical guide to upfront carbon reductions
+
+01
+
+A practical guide to upfront carbon reductions
+
+02
+
+This guide
+
+How to use
+this guide
+
+Everything you wanted to know about upfront carbon
+(but were afraid to ask).
+There are several terms and concepts that you should know about upfront
+carbon, including its definition, calculation, and significance.
+What are upfront
+carbon emissions?
+
+Upfront carbon emissions are produced during a building's
+material production and construction activities before its use.
+
+Is it different to
+embodied carbon?
+
+Embodied carbon includes upfront carbon, as well as modelled
+assumptions for future potential carbon. Upfront carbon is a
+tangible part of a building's embodied carbon, reflecting past
+actions rather than future projections. There is higher certainty
+when it comes to upfront carbon reductions than future
+potential carbon reductions, hence the need to focus on it
+during construction.
+
+What defines
+embodied carbon?
+
+Embodied carbon includes upfront carbon (A1 to A5) and
+emissions from the use and end-of-life stages of a building (B1
+to B5 and C1 to C4, respectively). It is defined in the EN 15978
+Standard5.
+
+How much of a
+problem is it?
+
+Today, at least 25% of a typical building’s emissions occur
+during the upfront carbon stage6 which cannot be changed
+once the building is constructed as these emissions are already
+spent. This percentage will increase as the grid decarbonises.
+
+What can I do
+about it?
+
+To tackle upfront carbon, we need to build with less, reduce and
+optimise virgin material usage, and use low-carbon materials
+and construction technologies.
+
+How hard is it
+to reduce it?
+
+Reducing upfront carbon is easiest during planning and earlystage design are where the largest reductions can be achieved
+with the least effort. As construction begins, options become
+more limited, and there is much less that can be done to reduce
+upfront carbon once the building is operational apart from
+upgrade or re-fit of elements.
+
+How do I calculate it?
+
+Figure 1. Embodied Carbon over the life of an asset adapted
+from Embodied Carbon and Embodied Energy in Australia’s
+Buildings (thinkstep-anz 2021)
+
+Calculating upfront carbon involves determining the amount of
+each material used in a building and multiplying it by the carbon
+content per unit of use. Material databases provide generic
+carbon information, whilst a product's Environmental Product
+Declaration (EPD) can offer product specific carbon emissions.
+Two main methods of calculation are comparison against a
+fixed benchmark or a reference project. Calculating against a
+reference requires defining both the reference and actual
+buildings.
+
+A practical guide to upfront carbon reductions
+
+03
+
+I heard that you can’t
+trust calculations or
+compare buildings?
+
+Assumptions in upfront carbon calculations can vary in scope,
+input data, and more. However, assuming the same conditions
+and if reviewed by a third party, reduction calculations are
+relevant. Documents such as GBCA’s Upfront Carbon Emissions
+Calculation Guide help reduce variability in assumptions and
+increase confidence in the calculation. Comparisons between
+buildings are more difficult, but the guide above, and the
+upcoming NABERS tool will make those more relevant.
+
+Why not focus on
+whole life carbon
+or operating
+emissions?
+
+Historically, industry has focused on operational emissions. As we
+decarbonise the grid, upfront carbon emissions during design and
+construction become more impactful and cannot be reduced post
+building completion. Early design also offers the opportunity to
+maximise energy efficiency and reduce operating emissions.
+Although it's essential to consider other emissions, doing so
+should not come at the expense of upfront carbon or operations,
+which are more easily influenced early on. Reducing other
+embodied carbon emissions is also vital, but reducing upfront
+emissions has a greater impact on a building's carbon footprint
+today.
+
+How is upfront
+carbon addressed
+by Green Star?
+
+Green Star already has requirements for all projects to reduce
+their upfront carbon to obtain a rating. Green Star uses a
+reference building comparison for now but will switch to the
+NABERS benchmarks once released.
+
+A practical guide to upfront carbon reductions
+
+04
+
+The case for
+reducing
+upfront carbon
+
+Climate change, health and wellbeing, natural resource
+depletion, consumer preferences, investor demand - these are key
+issues that are impacting how we develop or refurbish buildings in
+our cities. Key to these challenges is how we transform our methods
+of construction to reduce and eliminate our upfront carbon.
+The built environment represents about 40% of all emissions
+worldwide. Of those emissions7, 10% comes from construction
+activities. In Australia8, that proportion is higher, with approximately
+16% of all emissions generated from the built environment come
+from product and materials used in the construction and
+refurbishments of buildings, fitouts, and precincts.
+At a building level, upfront carbon emissions6 from materials and
+construction activities are around a quarter of a building’s lifetime
+emissions. While currently a smaller proportion than a building’s
+operating emissions, upfront emissions are spent on the day the
+building opens – they can never be changed.
+As we move into a decarbonised world, buildings with lower upfront
+emissions are key to reducing our sector’s emissions. These
+buildings are more attractive to investors as they demonstrate the
+developer and builder are responsible entities. Upfront carbon
+emissions are also being highlighted in sustainability reporting
+frameworks and initiatives, as they are considered part of an entities
+scope 3 emissions.
+Lower upfront carbon emissions are also in the spotlight, as local,
+state, and federal governments set targets to decarbonise the sector.
+The NSW Government is introducing upfront carbon disclosure
+requirements for residential and non-residential buildings as part of
+their Sustainable Buildings SEPP9. Nationally, NABERS, in partnership
+with GBCA, is developing a rating tool to benchmark and measure
+upfront carbon in buildings10.
+In the business case for lowering upfront carbon emissions, the
+following factors can be considered:
+
+Climate change: Reducing the impacts of the built environment
+through decarbonising the sector. As operational carbon is
+reduced through renewable electricity and energy efficiency
+measures, embodied carbon emissions become the focus,
+representing a larger proportion of total emissions 11.
+Investor benefits: Investors are looking for assets with a clear
+decarbonisation pathway. Lower upfront carbon buildings will
+have access to sustainable finance (Green Bonds and Loans),
+potentially at lower interest rates12. The rise of scope 3
+reporting and its inclusion in corporate net zero targets means
+that upfront carbon is no longer an optional consideration13.
+
+Tenant and consumer preferences: Many organisations have
+set goals for decarbonising assets that they own or lease. By
+reporting on upfront emission reductions, organisations will be
+better informed about the spaces they occupy.
+
+A practical guide to upfront carbon reductions
+
+05
+
+International
+and domestic
+policies driving
+upfront carbon
+action
+
+IEA’s zero carbon ready definition
+In May 2021, the International Energy Agency released
+‘Net Zero by 2050: A roadmap for the energy sector’14.
+Within this report, the IEA set out its path for the building
+sector - Zero-carbon-ready buildings. In addition to
+zero‐carbon‐ready buildings being highly energy
+efficient sourcing renewable energy using an energy
+supply that will be fully decarbonised by 2050, the
+IEA recognises Scope 3 emissions, those in modules
+A1-A5 (the modules this guide addresses).
+The IEA recommends buildings codes be adjusted to
+target net-zero emissions from material use in buildings.
+
+NSW Sustainable Buildings SEPP
+In August 2022, the NSW Government announced the
+Sustainable Buildings SEPP9. Taking effect from
+October 2023, the new policy introduces sustainability
+measures for non-residential buildings and improves the
+standards for residential buildings under BASIX.
+The policy requires calculation and reporting of
+embodied emissions to set market signals and future
+targets. The new SEPP adds a material index to the
+current BASIX tool, building current data on materials
+and, in the future, will move to rewarding homes that
+use materials with lower embodied emissions.
+
+City of Melbourne’s Zero Carbon
+Buildings Plan
+In October 2022, the City of Melbourne released its Zero
+Carbon Buildings Plan15 aiming to drive policies to
+deliver on their 2040 commitment. The plan defines
+zero carbon buildings as buildings in which no
+additional carbon is emitted into the environment
+through the construction, operations and whole of life of
+the building. It specifically calls out embodied energy
+reductions within its goals. The final plan is expected to
+be launched in the middle of 2023.
+
+A practical guide to upfront carbon reductions
+
+06
+
+The investor
+case for
+reducing
+upfront carbon
+
+Market
+solutions
+driving change
+
+Net zero asset owners alliance
+Made up of institutional investors, the UN’s Net Zero
+Asset Owner Alliance (NZAOA) is committed to
+transition their investment portfolios to net-zero by 2050
+(or consistent with a 1.5C maximum temperature rise).
+
+Upfront carbon requirements in
+Green Star
+The Green Star Buildings tool (v1) has a dedicated
+Upfront Carbon Emissions credit. The Reference Project
+method is used to calculate reductions of the building
+design. Any remaining upfront carbon emissions can be
+compensated through nature-based offsets under the
+‘Other Carbon Emission’ credit.
+
+Specifically, members are tasked with engaging in
+financial services regulation and economic policy
+through climate policy engagement. Additionally,
+members pledge to steward the assets they control
+within their portfolio through corporate alignment due to
+the perceived “obstructive climate policy engagement”
+by investees which “can slow sectoral
+……decarbonisation and the transition to net zero”. The
+net zero asset owners alliance has called for scope 3
+emissions to be considered16.
+
+Projects seeking a rating under Green Star Buildings
+must reduce upfront carbon by at least 10% (Minimum
+Expectation). Those seeking higher ratings must
+achieve at least a 20% reduction (Credit Achievement
+worth 3 points). Requirements will increase in the future
+to meet a 40% reduction (Exceptional Performance
+worth an additional 3 points).
+To help with the reference carbon calculations, GBCA
+released an interim upfront carbon calculation guide1.
+More information can be found in Green Star Buildings
+Submission Guidelines.
+
+Taskforce for climate related
+financial disclosure (TCFD)
+Created by the Financial Stability Board, the TCFD has
+been charged with recommending the information
+companies disclose to investors, insurance underwriters
+and lenders to help them assess and price climate
+related risks. TCFD guidance is now commonly used by
+boards of real estate companies, and guidance is
+expanding to note that scope 3 emissions are a key
+material risk that needs to be addressed 17.
+
+Climate Active Carbon Neutral
+In 2022, Climate Active expanded its "Carbon Neutral
+Standard for Products and Services" to provide
+certification for reducing and offsetting the upfront
+carbon emissions in new buildings and major
+refurbishments19. The guideline covers the construction
+stage, up to the point of delivery. Since its release,
+groups like GPT have certified developments alongside
+their Green Star ratings20.
+
+Clean Energy Finance Corporation
+As a major investor in Australia’s built environment, the
+CEFC released “Opportunities for cutting embodied
+carbon”18 in buildings and infrastructure.
+
+NABERS Embodied Emissions
+
+The paper lays out investors’ roles in decarbonisation,
+including the importance of holding company directors
+to account on their fiduciary requirements with regards
+to climate change associated risks and to support
+efforts in the decarbonisation of the supply and value
+chain.
+
+A practical guide to upfront carbon reductions
+
+In partnership with the GBCA, NABERS is developing a
+tool to measure, verify and compare upfront carbon in
+new buildings10. This national tool will allow for the
+creation of robust and measurable targets, increasing
+the reliability of upfront carbon emissions reductions in
+buildings. Doing so will enhance reporting to investors,
+increase demand for low-carbon design practices and
+construction materials, and create a common language
+for embodied carbon emissions in Australia.
+
+07
+
+A practical guide to upfront carbon reductions
+
+08
+
+upfront carbon of a building per square metre can vary greatly
+What is a typical The
+depending on several factors, such as the building materials used, the size
+and complexity of the building, and the location and climate. There are
+building’s
+studies that point to a range of expected emissions per square
+upfront carbon? several
+meter for multiple building types. These studies have been made across
+
+Where is the
+upfront
+carbon?
+
+various countries, including Australia, and all point to similar numbers. The
+table below synthesizes them and aims to provide a reference.
+
+kgCO2e/m2 GFA
+
+In general, most of the building’s upfront carbon is in the superstructure
+(suspended floors, structural walls, columns and beams), substructure
+(foundations, basement retaining walls and ground slabs) and envelope.
+
+Prioritising these elements during design and material choice yields the
+highest opportunity to reduce upfront carbon.
+
+10%
+
+10%
+Transport and
+construction
+
+Low
+
+High
+
+Mechanical
+and electrical
+
+Commercial
+
+500
+
+1000
+
+10%
+
+13%
+
+Education
+(primary and secondary)
+
+200
+
+500
+
+Finishes and
+fitout
+
+Substructure
+
+Education (tertiary)
+
+750
+
+1000
+
+15%
+
+42%
+
+Health
+
+700
+
+900
+
+Industrial
+
+350
+
+500
+
+Figure 2: Typical breakdown of construction upfront carbon in a new office building 6
+
+Multi-unit residential
+
+600
+
+800
+
+Public building
+
+500
+
+800
+
+The lifespan of different building elements also vary with the
+superstructure and substructure being able to last the longest. By
+maximising the lifespan of the most carbon intensive elements, this
+reduces the need for replacement and additional upfront carbon
+emissions associated with new construction.
+
+Envelope (e.g.
+façade and
+roof)
+
+Superstructure
+
+Table 1: The estimates developed for this table should be considered indicative. The
+values vary based on data sources, boundaries, scale, location and other factors. To
+arrive at these figures, we considered the following studies:
+Slattery (2022)6
+ISTRUCTE (2022)21
+
+Transportation
+of Products
+and Materials
+
+Heavy transport vehicles have proven difficult to decarbonise to
+date. However, the automotive industry has broadly started to
+electrify heavy commercial vehicles that will assist the built
+environment reducing the A4 module emissions for their projects.
+In addition to reduced carbon emissions, there are obvious
+benefits for developers and society with reduced air and noise
+pollution from these vehicles25.
+
+Construction
+equipment
+emissions
+
+Construction machinery and equipment, typically fueled by fossil
+fuels5 are also a source of upfront carbon in construction. Fossil
+Free Construction requires the reduction of fossil fuels such as
+diesel, petrol and LPG to power site office, construction
+machinery and equipment. Electric Vehicles, and renewable fuels
+such as diesel and biofuels are options currently accessible to the
+sector as we move towards electrification.
+
+CLF (2017)22
+ARUP (2021)23
+Built (2021)24
+
+It's important to note that these estimates are just a rough guide, and that
+the actual upfront carbon of a building will depend on a range of factors
+that are specific to the project. These numbers cannot be used to define
+reductions but can be used to test calculations against.
+These estimates also do not account for any biogenic carbon, storage, or
+offsets.
+
+A practical guide to upfront carbon reductions
+
+09
+
+Published last year, Lendlease and University of Queensland's
+report Stepping Up the Pace: Fossil Fuel Free Construction outlined
+a roadmap for removing fossil fuels from construction sites 26.
+
+A practical guide to upfront carbon reductions
+
+10
+
+How to measure
+upfront carbon?
+
+Upfront carbon for a building can be calculated by multiplying the
+quantity of a specific product and its specific product emissions,
+adding all product emissions together (modules A1 to A3), plus the
+associated construction emissions (modules A4 to A5). The
+calculation is not complex, once all information is available.
+
+A more comprehensive calculation can be done through a life cycle
+analysis (LCA) calculation. An LCA will provide more information than
+just upfront carbon and may yield valuable insights and potential
+opportunities for improving a building beyond upfront carbon
+reductions.
+For projects that use building information modelling (BIM) tools, plugins allow live assessment of design changes on upfront carbon
+results. BIM can also be used to create ‘digital twins’ of buildings that
+provide a repository or bank of materials data, including material
+specification and emissions content.
+Multiple data sources exist, and they can be divided into processbased LCA, top-down LCA, or hybrid LCA.
+Process-based (LCA) evaluates products by analysing all aspects of
+the manufacturing, as far as practicable – it is specific, and targeted,
+but can have data limitations. Top-down LCA estimates impacts by
+allocating the total environmental burden of a product class (e.g.
+concrete) – it is comprehensive, but conservative and broad. Hybrid
+LCA combines both to give more targeted information, but still
+delivers generic information (e.g. specific concrete grades).
+There are many databases where you can find this information5.
+When doing calculations, it is important to use aligned data sources
+to ensure comparability between results.
+
+Measuring
+reductions in
+upfront carbon
+
+The two accepted methods to calculate upfront carbon are:
+Comparison against a Fixed Benchmark
+Comparison against a Reference Project
+The fixed benchmark approach uses a direct comparison of a
+Proposed Project’s upfront carbon rate against a benchmark relevant
+to the building’s scale and function.
+Under the Reference Project method, two upfront carbon calculations
+are compared; a Reference Project and a Proposed Project. The
+Proposed Project represents the current building design while the
+Reference Project is a hypothetical project that is similar in shape,
+scale, function and location but based on standard construction
+practices without attention to upfront carbon reduction.
+GBCA, with assistance from NABERS, has released a guide for
+calculating upfront carbon emissions reductions against a reference
+building. This guide:
+Outlines the scope of inclusions and exclusions in an upfront
+carbon calculation
+Provides options for reducing upfront carbon emissions
+Defines default Reference Project’s materials
+
+Although there is no industry-agreed fixed benchmark available in
+Australia – only a potential range of emissions as noted on the
+previous page -- the NABERS Embodied Emissions project is expected
+to provide them. Until then, the interim guide provides the best
+guidance available for Australia for comparing reductions against a
+Reference Project.
+
+Top-down
+
+Process
+
+The typical sources of information are:
+Product specific EPD
+
+A verified and standardised document, compliant with ISO14025, that provides transparent information on a product’s lifecycle carbon footprint,
+water consumption, energy use, and other relevant impacts. Appendix C provides more information.
+
+Industry specific EPD
+
+As above, but for a class of products from multiple manufacturers. It should be noted that this EPD only applies to the products and participants
+listed within. Because it is for multiple manufacturers, it reflects an average, so some products may have higher emissions.
+
+Generic material data
+
+Delivered from process-based or hybrid-LCA studies, this dataset provides generic information on products such as generic concrete mixes.
+Australia’s EPIC Database is an example of one.
+
+Literature data
+
+Derived from information from top-down LCA studies, this provides information on the product class, which might be useful when the product
+selection is unknown.
+
+A practical guide to upfront carbon reductions
+
+11
+
+A practical guide to upfront carbon reductions
+
+12
+
+Reducing carbon at each
+stage of the process
+
+Stage
+
+Feasibility &
+Brief
+
+Addressing upfront carbon emissions from the earliest stages of a project allows for the implementation of effective strategies that reduce the overall
+environmental impact. Calculating upfront carbon is something that should be done multiple times during the development of the project. Doing so
+allows progress to be compared against targets.
+
+Potential
+reduction
+
+Calculation
+certainty
+
+100%
+
+Lowest
+
+Options available
+
+Things to consider
+
+Data used
+
+Re-use an existing building, or maximise the reuse
+of existing building components, with a focus on
+retaining structure and envelopes.
+
+Identify components with the highest carbon
+contribution, likely in the substructure,
+superstructure and envelope and major services.
+Answer the key question: How much new space is
+needed?
+
+Calculations are likely to use more generic material data,
+as specific materials will not be selected yet. Future
+calculations can be compared against this stage, but be
+careful that the emissions reductions aren't occurring
+due to changing data sources.
+
+For new buildings, adopt low-carbon design
+approaches in material selection and design
+options.
+
+Design
+
+Optimise the shape and design of the building,
+reduce the quantity of materials, and increase
+modularity and future adaptability.
+
+This stage offers an opportunity to reduce
+complexity in the design and save carbon.
+Consider the shape and volume of the new
+building, and specify low carbon materials.
+
+As the design is refined, calculations should be updated
+regularly to reflect changes.
+
+Tender
+
+Look for opportunities to reduce the carbon in the
+structure and envelope. Seek innovative solutions
+in the tender with a focus on low-carbon
+materials. Ask specifically for the tender response
+to calculate carbon alongside the price.
+Collaborate with suppliers and contractors to
+further reduce the project's carbon footprint
+throughout the supply chain.
+
+Set out clear guidelines for contractors to respond
+to in the calculations, as depending on how the
+calculate, they may get a lower result without
+providing a benefit.
+
+The calculations should require product-specific EPDs
+where known, with industry-wide EPDs or robust general
+databases to supplement them. Where possible this
+information should be included within the BIM model for
+the project.
+
+The implementation of efficient construction
+practices, such as just-in-time delivery, use of lowcarbon construction equipment and renewable
+fuels, contributes to lowering the project's carbon
+emissions. This is also a key time to ensure
+transport and construction process emissions are
+monitored and reduced. The construction stage
+offers the opportunity to reduce fossil fuel use onsite.
+
+With targets set, continue reviewing during
+construction. As suppliers are selected and
+product-specific EPDs are sourced (where
+available), update the calculation. This process
+should be repeated when any changes occur to
+monitor and confirm alignment with reduction
+targets.
+
+There should be bills of quantities for all materials at
+this stage and a robust upfront carbon calculation that
+should be able to be confirmed against targets.
+
+Whilst handover marks the end of the project,
+strategies such as design for disassembly or
+reuse will help reduce the upfront carbon of future
+refurbishment or maintenance projects.
+
+The builder should collect all final quantities and
+EPD information and make them available for final
+documentation.
+
+At this point, a final calculation is done, and reviewed
+against targets.
+
+Construction
+
+Handover
+
+0%
+
+Highest
+
+A practical guide to upfront carbon reductions
+
+13
+
+There are still opportunities to reduce carbon in
+materials, future construction practices, and
+options for suppliers and contractors to offer
+innovative solutions.
+
+The BIM model should continue to be updated.
+
+A practical guide to upfront carbon reductions
+
+14
+
+Developing
+upfront carbon
+targets
+
+The first step is for you to set out your targets. This is an iterative
+process, and the earlier you start, the higher the potential for
+reductions.
+
+What reduction
+targets should
+you aim for?
+10%
+
+Calculate the upfront carbon of
+the Reference Project
+
+Build less
+Reuse
+Dematerialise
+Specify low-carbon
+materials
+
+A 10% reduction is generally achievable with the use of low
+carbon materials and is minimal to cost neutral.
+This level of reduction is the minimum reduction that must be
+achieved be all projects targeting Green Star Buildings
+certification27.
+
+Identify initiatives and
+opportunities for reduction
+
+20%
+
+Quantify reduction through
+upfront carbon calculations
+
+A 20% reduction will require most than just substituting
+materials for a low carbon option. More collaboration is needed
+between stakeholders to dematerialise the building through
+design optimisation and the reuse of existing buildings will be
+needed.
+
+Assess cost implications and
+define a preferred design
+
+From 2026 onwards, all buildings that target Green Star
+Buildings will be required to reach this reduction target.
+
+40%
+
+Outline enablers and address
+barriers to implementation
+
+ARE TARGETS MET?
+
+A 40% reduction is ambitious but achievable. Building on the
+above, this reduction can be achieved by reusing existing
+buildings or by using reused components or low carbon
+materials are part of all new building elements.
+By 2030, all Green Star buildings should demonstrate this
+reduction, making high upfront carbon reductions standard
+practice in the built environment.
+
+NO
+
+YES
+
+Legend
+
+Embed the upfront carbon
+reduction pathway in design
+
+A practical guide to upfront carbon reductions
+
+Standard
+building
+
+15
+
+Proposed
+
+A practical guide to upfront carbon reductions
+
+16
+
+Getting to
+zero upfront
+carbon today
+
+Decarbonising the built environment requires reducing upfront carbon
+and compensating for any remaining emissions.
+
+Roles in the
+project lifecycle
+
+The below stakeholders have important roles to play in reducing
+upfront carbon through the lifecycle of a project. The graphic on
+the next page outlines these roles in more detail.
+
+Reduce as far as practicable, then compensate
+According to the Intergovernmental Panel on Climate Change (IPCC),
+limiting global warming to 1.5°C requires rapid and far-reaching
+reductions in emissions, while at the same time, noting the
+importance of addressing remaining emissions through carbonremoval activities28.
+
+Investors
+
+Invest in buildings with improved lifespans through refurbishment
+and reuse, and that deliver credible reductions in upfront carbon.
+
+Developers
+
+Increase utilisation of existing buildings through refurbishment
+and reuse, avoiding demolition. Rethink the size and shape of new
+buildings. Promote the use of different materials.
+
+Authorities
+
+Require all developments subject to planning approval to measure
+and report upfront carbon. Adopt recognised performance
+standards to set reduction targets. Ensure standard
+specifications feature low carbon options.
+
+Professional
+Services
+
+Help define the brief to deliver upfront carbon reductions.
+Work collaboratively to design and specify low upfront carbon
+buildings. Advocate for net zero buildings.
+
+Builders &
+Trades
+
+Facilitate supply chain transformation in collaboration with
+trades. Track and report upfront carbon. Have an action plan to
+reduce upfront carbon.
+
+Leasing
+Agents
+
+Advocate for low upfront carbon buildings with the developer,
+prospective tenants and occupants, and purchasers. Demonstrate
+benefits.
+
+According to the Royal Institution of Chartered Surveyors (RICS)
+Whole of Life Carbon Standard30, it is best practice to keep reduction
+calculations separate from compensation calculations. This
+approach ensures that efforts to reduce emissions are not conflated
+– while the carbon balance account is maintained, both actions serve
+distinct purposes.
+
+Tenants &
+Occupants
+
+Choose to lease or occupy refurbished and reused buildings, and
+buildings that demonstrate a credible reduction in upfront carbon.
+
+Both reduction and compensation strategies are essential in
+addressing upfront carbon emissions in buildings. While reduction is
+the primary objective, compensation through biogenic carbon and
+carbon offsets plays a vital role in taking responsibility for remaining
+emissions. It is crucial to keep these strategies separate in order to
+accurately track progress and maintain transparency.
+
+Owners
+
+The Science Based Targets Initiative (SBTi) emphasizes the reduction
+aspect as well prior to compensation activities. The Corporate NetZero Standard29 emphasises that companies must prioritise reducing
+emissions within their own operations and value chains. Offsetting
+and compensation activities, such as carbon offsets and biogenic
+carbon, can be used to address residual emissions, but these must
+be separated from reduction efforts.
+At this point, it is not likely that a building can reduce its upfront
+carbon emissions to zero without compensation activities like
+biogenic carbon and carbon offsets.
+
+The role of biogenic carbon and offsetting
+Biogenic carbon refers to the carbon absorbed and released by living
+organisms, such as trees. For products like timber, this carbon can be
+considered stored on site, in the building. Carbon offsetting is a
+method of compensating for emissions by funding projects that
+remove emissions from the atmosphere A.
+Biogenic carbon and carbon offsets are related in that they both
+contribute to the overall balance of carbon in the atmosphere. They
+can be considered a form of compensation for upfront emissions.
+
+Keeping track of your emissions
+
+A. Carbon offsets for abatement
+activities are not advised;
+instead, it is recommended to
+use high-quality carbon removal
+offsets, with a preference for
+nature-based solutions. GBCA
+published guidance on why
+nature-based offsets, and the
+Property Council of Australia
+further released an assurance
+framework to guarantee the
+delivery of high-quality offsets.
+
+A practical guide to upfront carbon reductions
+
+17
+
+Promote benefits of low upfront carbon buildings and seek to
+own buildings that have been refurbished and reused, and are low
+upfront carbon buildings.
+
+A practical guide to upfront carbon reductions
+
+18
+
+The lifecycle of the
+project in one page
+Feasibility
+
+Brief
+
+Design
+
+Tender
+
+Construction
+
+Handover
+
+Prevent
+
+Set a vision for upfront carbon
+reduction for your organisation
+
+Introduce upfront carbon targets into
+your site feasibility studies
+Where possible, select sites with suitable
+ground conditions that require no/minimal
+demolition or can reuse existing buildings,
+avoiding new construction
+
+Reduce & Optimise
+
+Develop a brief with clear targets and
+expectations for your development
+and site
+Develop design options against targets,
+and quantify potential further
+reductions
+Select a preferred option seeking
+further analysis to look for more
+reductions
+Optimise further by streamlining
+components and using low carbon
+materials
+
+Deliver
+
+Deliver a plan for lean construction
+and deconstruction, rules for
+substitutions and waste reduction
+Electrify site construction vehicles
+and offices. Utilise Heavy Duty EVs
+for transport of products and
+materials to site
+Record materials, transportation,
+on-site energy, water, waste, and
+collect EPDs
+
+Encourage
+
+Complete the construction stage
+calculations to confirm performance
+
+Require low upfront carbon buildings
+and fitouts in your leasing practices
+
+A practical guide to upfront carbon reductions
+
+19
+
+A practical guide to upfront carbon reductions
+
+20
+
+Feasibility
+
+Brief
+
+Feasibility is critical as the decisions and targets related to
+upfront carbon are decided here.
+
+A finalised brief sets the objectives for the project’s deliverables and
+clarifies the roles of the project team. This is a vital for setting clear
+goals through to construction.
+
+Stakeholders
+
+Questions
+
+Stakeholders
+
+Can the project be avoided?
+
+Questions
+
+Can the project reuse any or all of an existing building?
+
+How to identify further opportunities through the lifecycle?
+
+What are the project’s targets for upfront carbon reduction?
+
+How does the team manage change as more details become
+clear through the project?
+
+What can be done to get there?
+
+Opportunities
+
+Eliminate the need for development
+
+Opportunities
+
+Prefer sites with buildings that can be reused to avoid
+demolition and new construction
+
+Challenge the brief: are there any further
+opportunities for reducing carbon?
+Does the brief encourage innovation? Invite
+recommendations for practices or technology from
+the team’s experience.
+
+Avoid sites with complex ground conditions
+
+Deliverables
+
+How to ensure practices to reuse building elements?
+
+A Vision Statement for the project, highlighting ambitions
+including upfront carbon
+
+Deliverables
+
+A performance brief with measurable upfront carbon
+reduction targets for the project
+
+A design brief with a whole of building, measurable upfront
+carbon target that includes:
+The boundary or scope of the target
+
+Identification of options to retain or reuse existing assets
+
+What is included and what is excluded
+
+Feasibility recommendations with measurable upfront
+carbon reduction targets (against a Reference Project or
+similar), recommendations for reuse (where possible)
+
+The data and/or methodology used to establish the target
+
+A description of the main assumptions used to establish
+the Reference Project
+
+Ambition for a performance based brief to enable
+substitutions for products or materials that have the same
+outcomes
+
+Schedule of pre-approved materials, products, and assemblies
+Budget for processes, products and materials
+
+Communication strategy to ensure these ambitions are
+shared throughout the project lifecycle
+
+Where demolition can’t be avoided, develop a circular
+deconstruction strategy that identifies options for material
+recovery and reuse in the project or for use off site.
+
+Budget for the inclusion of low embodied carbon materials
+and products
+Identity innovation opportunities
+
+Before the next
+stage you
+should:
+
+Before the next
+stage you
+should:
+
+Complete a ‘hot spot’ upfront carbon analysis for the
+design brief. This will assist in identifying where
+initiatives will realise the most valuable reductions in
+upfront carbon and underpin preparation of an
+upfront carbon reduction pathway.
+
+A practical guide to upfront carbon reductions
+
+21
+
+Complete a whole building life cycle assessment.
+
+A practical guide to upfront carbon reductions
+
+22
+
+Comparing
+strategies to
+reduce and
+compensate
+upfront carbon
+emissions
+
+From retaining an asset to building a new one, the opportunities to
+reduce upfront carbon emissions vary based on your chosen strategy.
+To the right is an indicative comparison available per strategy chosen.
+In all cases, specific site conditions will vary, and consultant advice
+should be sought.
+In general, the best strategies for eliminating or reducing upfront
+carbon emissions will prefer the retention or reuse of existing assets.
+Reusing a building instead of demolishing and replacing it offers the
+maximum guaranteed emissions savings. Refurbishment is also
+typically quicker than new construction so there are financial savings
+from this strategy as well.
+For new buildings, and all other options, design optimisation
+strategies and material selection will yield a 40% to 75% reduction of
+whatever remaining carbon exists (depending which building
+components are reused or refurbished). The remaining emissions will
+need to be compensated. As yet, it is not possible to have a new zero
+upfront emissions building.
+
+Potential impact of upfront carbon emissions strategies
+
+0%
+
+100%
+
+Retain assets & minor refit
+
+Reuse structure and
+envelope
+Reuse structure
+
+Keep structure and extend
+
+Demolish and re-build*
+
+Rewarding reuse strategies in
+Green Star Buildings
+
+New asset
+
+Green Star Buildings was redesigned to better reward
+reusing buildings, reused building components, and
+reused products, particularly when the building is fully
+electric and powered by renewables.
+For example, assets where the structure and
+envelope are retained, and where they are refurbished
+to be all-electric can achieve enough points to get to
+a 5-star rating, provided they meet the other
+minimum expectations.
+
+* Demolishing a building
+
+carries with it a carbon
+debt from the
+embedded carbon in
+the previous building
+that should be
+considered and offset.
+
+Emissions savings compared to a typical new building from:
+Reuse of existing building
+Potential emissions savings from:
+Design optimisation
+
+Fossil-fuel free construction
+
+Material selection
+Remaining emissions that must be compensated via:
+Biogenic storage or nature based offsets
+
+A practical guide to upfront carbon reductions
+
+23
+
+A practical guide to upfront carbon reductions
+
+24
+
+Concept Design
+
+Detailed Design
+
+The early design stage allows assumptions to be tested and options to be
+worked through. The preferred concept will be one that meets the brief
+requirements and upfront carbon targets the best.
+
+At this stage, there is a greater amount of information available about the
+design, enabling more accurate modelling and testing of assumptions from
+earlier stages.
+
+Stakeholders
+
+Questions
+
+Stakeholders
+
+Rationalise the design:
+
+Questions
+
+Where in the build are opportunities for dematerialisation?
+
+How can we integrate reused or standardised elements?
+
+Optimise the design:
+
+What are opportunities to design for disassembly?
+
+How can we integrate reused or standardised elements?
+
+Where are opportunities for low carbon finishes, fittings and
+furniture?
+
+How can low carbon design initiatives be integrated into the
+concept?
+
+What are opportunities to design for disassembly?
+
+Opportunities
+
+Opportunities
+
+Integrate existing buildings / elements into the design
+
+More detailed understanding of opportunities for innovation
+within the build
+
+Reduce and/or even eliminate transfer structures
+Optimise the structural grid for low carbon materials
+
+Focus on material selection and specify low carbon. (See
+Appendix B)
+
+Minimise substructure
+
+Challenge design margins
+
+Deliverables
+
+Reference Project
+
+Updated carbon reduction pathway
+
+Alternative design options with measured upfront carbon
+impacts
+
+Confirmed targets are deliverable
+
+Upfront carbon roadmap
+
+Collaborated with consultants and contractors to ensure bill of
+quantities are accurate and contingency ordering is minimised
+
+Finalised scheme assessed, with upfront carbon calculated
+
+Design stage upfront carbon calculation
+
+Before the next
+stage you
+should:
+
+Fine tuning of carbon reduction with more finalised
+information
+Alignment with the project team with targets communicated
+and monitored
+
+Align load bearing structural elements
+
+Deliverables
+
+Where in the build are opportunities for dematerialisation?
+
+Identify if there is a possibility to standardise
+building elements, and design for disassembly.
+
+Before the next
+stage you
+should:
+
+Identify material banks for components which could
+be reused as part of the deconstruction strategy.
+
+A practical guide to upfront carbon reductions
+
+25
+
+Finalise bill of quantities including performance
+specifications and reduced contingencies for materials
+
+AApractical
+practicalguide
+guideto
+toupfront
+upfrontcarbon
+carbonreductions
+reductions
+
+26
+
+Design considerations in reducing a project’s upfront carbon
+Stage
+
+Initiative
+
+Feasibility
+
+Retain existing building
+
+Brief
+
+Concept
+design
+
+Detailed
+design
+
+Consideration
+
+Reduce number of floors whilst
+maintaining the building’s height
+
+Reduce structural grid
+
+Cost impact
+
+Temporary support and/or structural strengthening may be needed during repair work adding some
+upfront carbon.
+Fewer floors may result in less material quantity however taller structures can require larger vertical
+support elements.
+
+Potential upfront
+carbon reduction
+
+V
+
++++
+
+$$
+
+++
+
+$
+
+++
+
+Larger mullions and wall studs and thicker panels may be needed to cover the larger vertical spans.
+Larger amount of columns may impact a floor’s spatial flow.
+
+Important to optimise columns, beams, and floor sizes to ensure total upfront carbon is lower
+
+Reconsider basement levels
+
+Impacts to lettable area may occur as services and amenities may need to be relocated.
+
+$$
+
+++
+
+Use a braced steel frame rather than a
+moment frame
+
+A braced steel frame may impact on views and daylight if not considered in the design.
+
+$
+
++
+
+Consider timber for the superstructure.
+Where timber is used, ensure it carries a
+certified chain of custody.
+
+Use of timber may result in reduced floor to ceiling height and/or number of storeys, as well as
+reduced floor space due to larger columns being needed.
+
+$$
+
+++
+
+Switch to higher grade strength steel to
+reduce steel quantity
+
+Higher strength steel does not always lead to smaller member sizes therefore the total upfront carbon
+may not be reduced – make sure to optimise.
+
+$$
+
++
+
+Switch to lower grade strength concrete
+to reduce Portland cement
+
+Larger volumes of concrete may be required with a lower grade mix for structural strength and
+durability purposes and may result in larger supporting structural elements and higher upfront carbon
+overall.
+
+$
+
++
+
+$$
+
++++
+
+$$
+
++
+
+$$
+
+++
+
+Increase percentage of Substitute
+Cementitious Materials in concrete
+
+Increase wall to window ratio to reduce
+aluminium framing
+
+Increase recycled content in glazing
+
+The concrete may take longer to cure impacting construction timelines.
+
+The concrete colour may be different.
+If the aluminium has recycled content, smaller glazing panels may yield less upfront carbon.
+Improved thermal performance and lower operational energy demand.
+Reduced views and daylight.
+Potential for lower aesthetic quality.
+Legend
+
+A practical guide to upfront carbon reductions
+
+27
+
+$
+
+< 5% in savings
+
++
+
+Low impact
+
+$
+
+< 5% in cost
+
+++
+
+Medium impact
+
+$$
+
+5% to 15% in cost
+
++++
+
+High impact
+
+V
+
+Depends on circumstance
+
+A practical guide to upfront carbon reductions
+
+28
+
+Tender
+The tender, and its return, are the point where all requirements are finalised and
+communicated prior to being costed for construction
+
+Specifications
+
+Stakeholders
+
+Questions
+
+Specifications should include language that requires the builder to
+submit EPDs for all components considered and tracked for upfront
+carbon reduction. The EPDs should cover, at a minimum, the life cycle
+product stage, or modules A1-A3. Specifications should also call for the
+Contractor to submit a bill of quantities (BOQ) that provides
+products/materials itemised by application and type. The global
+warming potential (GWP), or carbon content, for each item, based on
+EPDs, should also be included.
+
+DEVELOPER:
+How can we embed the carbon reduction requirements for
+the project?
+How can we evaluate tenders i.e.. weighting for carbon
+reduction?
+
+Digital Solutions
+
+BUILDER:
+
+Underpinning the specifications, an advanced building information
+model (BIM) should be provided. To support an effective knowledge
+transfer to the builder, it should:
+
+Can further reductions be made?
+Are there other materials or processes to assist?
+Can the brief be challenged further?
+
+Opportunities
+
+Label all new components and all relevant components that will be
+reused from an existing asset
+
+At this stage, project teams should challenge the brief for any
+further opportunities to reduce carbon
+
+Does the brief encourage innovation? Invite
+recommendations for practices or technology from the
+team’s experience
+
+Deliverables
+
+Facilitate BOQ extraction in a range of formats
+Detail GWP targets or ranges for all component types
+
+Tender Evaluations
+
+Finalised documentation
+Detailed performance specifications including metrics and
+obligations for reporting
+Specified carbon metrics for products
+Expand the digital BIM environment to access material banks
+and map components for reuse
+Allow for seamless iterations with tendering builders to test
+and evaluate further optimisations
+
+The tendering builders should understand the established brief
+requirements, i.e., the functional brief requirements of the project and
+its upfront carbon reduction target. The specifications should provide
+room for the builders to innovate but be clearly performance based so
+that tenderers can make changes to materials or processes if the
+agreed metrics are met or exceeded. Builders work extensively with
+the trades and supply chain, are in a unique position to further
+optimise for upfront carbon reductions. The tender process should be
+designed to facilitate this interaction and incentivise improvement
+performance.
+
+Builder to develop a Construction Sustainability Report
+
+Before the next
+stage you
+should:
+
+Align project team with the vision for the project
+
+Set out which metrics will be monitored and tracked, and how
+
+A practical guide to upfront carbon reductions
+
+29
+
+A practical guide to upfront carbon reductions
+
+30
+
+Construction
+Once on site, it is important to ensure that monitoring and measurement is in
+place and that any variations to the design are checked with the principal for
+performance before substitutions are made.
+
+Reconcile upfront carbon reduction performance against the
+upfront carbon roadmap - review and compare BOQs, EPDs, etc.
+
+How to track, monitor and report on agreed metrics?
+
+Demand detailed environmental information from suppliers as
+standard to support comparative evaluation and selection, perform
+due diligence to ensure final products are as ordered or have the
+same properties, especially in respect to their embodied carbon.
+
+What is the process for product substitution to ensure
+targets are met?
+
+Can I reduce the carbon emissions from all construction
+activities by switching to renewables or fossil-fuel-free
+equipment?
+
+Opportunities
+
+Deliverables
+
+At this stage, the builder has the responsibility to deliver on the upfront
+carbon targets set by the principal. To deliver reductions, the builder
+must:
+Demonstrate capabilities, experience and strategies related to
+upfront carbon reporting and reduction and provide input on cost
+and program.
+
+Stakeholders
+
+Questions
+
+Builder Responsibilities
+
+Procure renewable energy for site offices, and use low-carbon fuels
+or all electric equipment to reduce upfront carbon during
+construction activities. Also work with suppliers to reduce
+emissions from transport (See Appendix B).
+
+Access material banks for disassembled components for
+reuse and deposit into these banks with any resources that
+are surplus to requirements
+
+Construction Sustainability Report
+
+Use fossil-fuel free equipment, and renewable energy onsite26
+
+The construction sustainability report covers construction to
+handover. The plan should be used as a measuring and
+management tool to ensure lean construction, material reuse, and
+waste reduction management.
+
+Construction Sustainability Report
+
+Estimation of the embodied carbon should be on a regular basis in
+order to understand how design and material selection affect the
+ultimate outcome. The number and timing of iterations must be
+agreed upon with the embodied carbon assessor.
+
+Induction workshop to align key suppliers/contractors with
+the roles, objectives and targets to reduce upfront carbon.
+Record of materials and transportation
+
+Construction-related upfront carbon reporting for the plan should
+be in appropriate units (e.g., kgCO2e) and be reported regularly,
+with a final summary document provided at handover. Regular
+reporting is often important for Construction (A5) emissions so
+consider frequent, or monthly reporting, as needed.
+
+On-site energy consumption reporting
+
+EPDs for all relevant products
+Develop a detailed and comprehensive repository of data
+across the trades and supply chain that offers advanced
+reduction strategies
+
+The construction sustainability report should include the upfront
+carbon estimates for any temporary works materials, on-site
+construction emissions, and materials waste. It should promote the
+integration of temporary works materials into permanent works or
+demonstrate reuse strategies to extend the life of these materials.
+
+Put forward advanced strategies that significantly improve
+reductions, and qualify the triple bottom line business case
+for their adoption
+Access material banks for disassembled components for
+reuse and deposit into these banks any resources that are
+surplus to requirements
+
+A practical guide to upfront carbon reductions
+
+31
+
+A practical guide to upfront carbon reductions
+
+32
+
+Handover
+Once on site, it is important to ensure that monitoring and measurement is in
+place and that any variations to the design are checked with the principal for
+performance before substitutions are made.
+
+Lessons Learned – Closing the
+Feedback loop
+
+Stakeholders
+
+Questions
+
+At project handover, the as-built upfront carbon calculations and BOQ
+can be compared with the construction and design stage calculations
+and BOQs.
+
+How to capture outcomes?
+How to improve performance in future?
+
+Opportunities
+
+Lessons learned
+
+Set standard upfront carbon reduction targets/benchmarks
+and identify opportunities for more ambitious reductions
+Demonstrate a strong correlation in design, construction and
+as-built performance
+
+Deliverables
+
+By monitoring these impacts, the developer can make informed
+decisions throughout design and construction - allowing the
+opportunity for a general downward trend in upfront carbon. By
+reviewing these impacts at handover and cataloguing lessons learnt,
+the developer and other stakeholders can perpetuate reductions on
+future projects.
+
+Finalised construction carbon plan
+Final As-Built BOQ and compiled EPDs
+As-built upfront carbon calculations
+Building User’s Guide and Building Logbook with upfront
+carbon targets and reduction strategies
+
+A practical guide to upfront carbon reductions
+
+Upfront carbon may increase or decrease throughout the project,
+depending on several factors. For example, a decrease may be
+observed when an alternate bid is selected to reduce carbon. Inversely,
+an increase may be observed during construction if a higher strength
+concrete mix is used due to availability. Another example is a change
+in GFA at time of completion. Under the Green Star Upfront Carbon
+Emission credit, this will affect the final reported upfront carbon
+emissions with declared units kgCO 2e/m2GFA.
+
+The GBCA encourages the sharing of best practices and lessons
+learned to promote cross-industry knowledge transfer and improve the
+overall success of future projects.
+
+33
+
+A practical guide to upfront carbon reductions
+
+34
+
+Case Study:
+25 King Street
+Building typology
+High-rise, multi-storey
+Location
+Brisbane, QLD
+Sector
+Commercial
+Developer
+Lendlease
+
+Builder
+Lendlease
+Procurement
+Design & Construct
+Key Influences
+
+Key outcomes
+CLT and Glulam
+structure and finishes
+Average 40% Portland
+cement reduction
+
+At 52 metres tall and 14,965 m2 of office NLA spread across 10 floors, 25
+King Street is Australia’s largest commercial office building constructed
+with Cross Laminated Timber (CLT) and glue laminated timber (Glulam).
+As part of the $2.9 billion renewal of the Brisbane Showgrounds in Bowen
+Hills QLD, the project sits within one of Australia’s biggest urban renewal
+initiatives. Now home to its engineering team Aurecon, it holds many
+sustainability ratings including a 6 star Green Star Design and As-Built
+rating, NABERS 6 star office energy, 4.5 star water and 3.5 waste ratings
+and Carbon Neutral certification for base building and a Platinum WELL
+Shell and Core rating.
+The project team wanted a building that would visibly express
+sustainability and engineering. Since concept stage, upfront carbon
+emissions and decision to build with timber was established.
+
+25 King Street reduced upfront carbon within Modules A1
+–A3 by 38.7% when compared to a reference building
+The key upfront carbon reduction design initiatives at 25 King Street
+included:
+
+Image credit: Lendlease
+
+Engineered timber was used in lieu of carbon intensive concrete and
+steel for structural columns and beams
+Minimalist internal finishes with CLT cladding and flooring with no
+suspended ceilings systems throughout
+40% reduction in overall Portland Cement use
+A Life Cycle Inventory was established from the building cost plan,
+preliminary bill of quantities and site construction bill of materials, as well
+as drawings, specifications, environmental product declarations and the
+like, using the GaBi Professional + Extension Database. The scope for
+upfront carbon was Modules A1 to A3.
+
+The Reference Project comprised of a standard concrete/steel
+construction, while the Proposed Project was of a Cross Laminated
+Timber (CLT) and Glulam structure. The structural design of the two
+cases is consistent, using a post and beam construction, however the
+physical quantities of structural materials (concrete and steel compared
+with CLT and Glulam) vary between the Reference Project and the Design
+Case. These quantities of structural materials have been determined for
+both the Reference and Design Cases by engineering and cost planning
+experts and the bill of quantities. Where data was unavailable, the study
+uses estimated inputs based on similar projects.
+The focus on sustainability within design attracts more and higher quality
+tenants and lower vacancy risk. 25 King Street offers high-end office
+space with strong lease covenants. Its tenants, as reported by IIG, have
+been attracted by 25 King’s amenity, innovation and overall quality,
+including the extensive use of engineered timber to drive environmental
+performance.
+
+A practical guide to upfront carbon reductions
+
+35
+
+25 King has set a new benchmark for
+sustainability, occupant wellbeing and
+building performance. A low carbon,
+low waste and highly energy efficient
+building that also puts health and
+wellbeing at the heart of its design.
+ANN AUSTIN | Head of Sustainability – Australia, Lendlease
+
+A practical guide to upfront carbon reductions
+
+36
+
+Case Study:
+Substation No.
+164
+
+Sub Station No.164 featured the adaptive reuse of two heritage
+buildings, incorporating a striking steel and glass ‘bubble’ structure
+which appears to float above. The building offers 7,867 m2 of Agrade office space.
+
+Building typology
+High-rise, multi-storey
+
+The heritage part of the building was a 110-year-old timber and
+brick structure had been occupied by the Norman Shelley Spirit
+Warehouse and a DC Electrical Substation, built in 1909 and 1930
+respectively. Built took on the challenge of upgrading and retaining
+and reusing as much of the buildings’ original material as possible.
+As a result, the project’s upfront carbon footprint reduced by 21%.
+
+Location
+Sydney, NSW
+Sector
+Commercial
+Developer
+Built and Nuveen
+Builder
+Built
+Procurement
+Early Contractor
+Involvement/
+Design & Construct
+
+"By retaining as much of the building’s
+heritage as we could, and by using low
+carbon materials, we created an iconic
+building, restored a part of Sydney's
+history, and drove significant upfront
+carbon savings - a win for everyone.”
+Brett Mason, Managing Director & CEO, Built
+
+Key Influences
+
+Substantial retention of the existing brick façades, walls, floors and
+columns. The reuse of existing timber floors in the warehouse as
+formwork for the concrete floor slabs required to meet current fire
+codes, contributed not only to structural efficiency, it also
+significantly improved upfront carbon efficiency.
+
+Many of the original heritage components, such as brick and
+timber, were retained and incorporated into the final design.
+Applying the concept of dematerialisation by using the existing
+building fabric such as exposed concrete, bricks and up-cycling
+timber flooring reclaimed from the site as key design aesthetics
+conserved resources by minimising use of virgin materials.
+
+Existing timber flooring removed to make space for the new lift
+core was retained and repurposed as wall paneling in Built’s head
+office, reinforcing the qualities of the existing heritage building
+fabric and finding a new use for existing materials.
+
+During construction, the site used 100% GreenPower onsite,
+processes which further improved the carbon outcomes of the
+project.
+Reference Project Definition
+A reference case was based on the initial measurement of the project
+that was developed for a cost plan, and additional measurements taken
+by the engineers to calculate the materials that would be required if a
+new structure were built rather than retaining the existing heritage
+buildings.
+
+A practical guide to upfront carbon reductions
+
+37
+
+The key innovations allowing such a substantial upfront carbon
+reduction included:
+
+Key Outcomes
+Retained
+structure and
+materials.
+Average 44%
+Portland
+cement
+reduction
+
+An integrated design process between the design team and Built's
+design managers and structural engineer consultant.
+Structural efficiencies were found that enabled the deletion of a
+main column and reductions in structural walls – reducing
+concrete and steel quantities in the build.
+
+Concrete mixes with an average 44% cement replacement were
+used.
+
+A practical guide to upfront carbon reductions
+
+38
+
+In total, more than half the construction
+material budget was for materials
+manufactured and / or assembled in
+Victoria. More than two-thirds of the
+materials budget was spent in
+Australia.
+
+In the design phase, the project
+adopted the mindset of “adaptive
+reuse and appropriate durability”
+Case Study:
+Burwood
+Brickworks
+Building typology
+Low-rise
+Location
+Burwood, VIC
+
+Sector
+Retail
+Developer
+Frasers Property
+
+Builder
+Hacer Group
+Procurement
+Design & Construct
+
+The project team improved upfront carbon outcomes through use of
+lower-strength concrete where feasible, limiting carbon-intensive
+materials, opting for carbon sequestering materials, reviewing EPDs,
+incorporating a significant number of salvaged materials, using highrecycled content materials, using structural materials as the final finish,
+and minimising waste.
+
+Key Influences
+
+Natural “honest” finishes were prioritised, which helped to avoid
+superfluous coatings that make items more bespoke and less likely to
+be salvageable in the future. In turn, these materials can better retain
+value, making them more feasible for reuse and recycling. In electrical
+items, plug-in devices were preferred over hardwiring to avoid reengineering controls and entire systems for small future changes.
+
+In the design phase, the project adopted the mindset of “adaptive reuse
+and appropriate durability”. Given the retail typology, the project team
+focused on both the potential flexibility and disassembly of the base
+building, and guided tenants to undertake their fitout designs with
+regard to material/product selection, and accessible installation
+approaches to allow easier maintenance and deconstruction.
+Additional systems and services were reduced in the first instance
+through passive design, e.g. maintaining daylight via the layout, and
+prioritising modular components across standard structural grids.
+High-traffic components were clearly designated from others and this
+differential wear and tear was considered in the design.
+Clear spans in the supermarket, mall, cinema, and regularly spaced
+structural elements across the structural grid allow for multiple
+alternate uses of the interior in the future without costly structural
+alterations. Generous floor-to-floor heights are to be allowed
+throughout the mall and the tenancies on both levels, helpful for
+daylighting, natural ventilation, and adding or upgrading building
+services.
+
+A practical guide to upfront carbon reductions
+
+39
+
+Flat floors with very few transitions from one floor height to another
+were ensured throughout, to allow more flexibility when renovating or
+change of use. Structural layouts across shopfronts allow flexibility
+across the interior openings, and intertenancy walls can be readily
+moved without heavily wasteful demolition.
+
+Key Outcomes
+Reduced Portland
+cement mixes,
+low carbon
+materials,
+recycled and
+repurposed
+materials
+
+Through the construction phase of the project, the contractors had to
+commit to reducing environmental burdens from the extraction,
+processing, and disposal of materials. Subcontractors were
+encouraged to remove excessive packaging from products, where
+possible, prior to arrival on site.
+Over-ordering was utilised as spare product were retained by the
+subcontractor for use on future projects. In the installation
+methodology repeatable mechanical (rather than toxic chemical)
+connections were made, which allows easier maintenance as well as
+deconstruction, and leaves labelling in place for easier reassembly in
+the components’ next life.
+Considering the end-of-life phase, the project team focused on
+adaptability and deconstruction to allow for multiple alternate uses of
+the interior in the future designing flexible building services, whilst
+providing equity of access without costly structural alteration.
+
+A practical guide to upfront carbon reductions
+
+40
+
+Case Study:
+Quay Quarter
+Tower
+Building typology
+High-rise, multi-storey
+Location
+Sydney, NSW
+Sector
+Commercial Office
+Developer
+AMP Capital
+Builder
+Multiplex
+Procurement
+Design & Construct
+Key Influences
+
+Key outcomes
+Reuse of existing
+structure
+
+The 46-storey, 188m tall AMP Centre was originally designed by
+Peddle Thorp & Walker and constructed in 1972. It is fronted by
+the AMP building featuring the American-inspired curved glass
+curtain wall- “Sydney’s front door” providing a landmark entry
+to the city from the north and from the Harbour. The site is of
+historical and aesthetic significance as the first “skyscraper”
+in Sydney.
+Due to aging and inefficient mechanical services and leaking
+façade, the site underwent master planning in 2013 with options
+to redevelop this building with the agenda of adaptive reuse
+being key to its success. A key strategy arising from AMP
+Capital and the design team’s feasibility studies was the
+retention of 65% of the existing structure (existing columns,
+beams and slabs) and 95% of its original core.
+To enable the twisting angular design by 3XN – a series of
+stacked ‘vertical villages’ designed around atria – floorplates
+were extended in different directions to create large open-plan
+spaces. The façade engineers in conjunction with the architects
+devised the facade shading strategy which folds and tapers
+following the sun as it moves from east to west minimising glare
+to support the twisting aesthetic while enhancing views towards
+the Opera House and the harbour.
+The Life Cycle Assessment conducted by the team
+demonstrated a saving of over 12,000 tonnes of CO2e- of
+upfront carbon emissions from the reuse of concrete alone
+compared to a Reference Project. The structural carbon
+footprint of the building was estimated at 247 Kg CO 2/m2 gross
+internal area. This is in contrast to 600 - 700 Kg CO2/m2 for a
+new building with full demolition of an existing building.
+
+The new building structure is a bespoke addition to the existing
+building, with minimum demolition to stitch the extension to
+double its size. The slab extensions were designed
+as composite steel frames with a high strength-to-weight ratio
+to reduce gravity-induced overturning forces, hence reducing the
+embodied emissions of the new structure.
+Structural frames and materials were chosen to efficiently
+conserve and maximise the reuse of the existing building with
+minimum retrofit and strengthening.
+The Reference Project was defined as a new building with the
+reused concrete elements assuming new construction with the
+concrete strength and volume reflecting the existing structure
+and modern emissions factors.
+The focus on upfront carbon provided for a safer planning
+approval pathway by retaining a substantial part of the existing
+frame and retaining the over-shadowing footprint in the botanic
+gardens to build within. Cost benefits also resulted. Apart from
+the savings on new build material costs, more than 12 months
+of construction time was saved in avoiding demolition of
+existing structure and parallel construction of new structure.
+
+A practical guide to upfront carbon reductions
+
+To re-use and leverage a 46 year old tower
+structure to double the size of the original building
+and save over 12,000 tonnes of embedded carbon,
+has produced an extraordinary outcome in terms
+of environmental sustainability, planning and
+commercial benefit to our investors.
+MURRAY MIDDLETON | Head of Development, Real Estate at AMP Capital
+
+41
+
+A practical guide to upfront carbon reductions
+
+42
+
+What’s next?
+
+Upfront carbon is one of the critical challenges of our time. As
+the market matures, benchmarks are refined, and low carbon
+materials and processes enter the market, this guide will
+continue to be updated.
+
+Where can I
+get more
+information?
+
+The following organisations are working to drive reductions in upfront
+carbon emissions in Australia.
+
+Green Building Council of Australia (GBCA), which represents
+600+ members, including individual companies with a collective
+annual turnover of more than $46 billion. The GBCA has defined a
+Climate Positive Pathway for buildings and collaborates with
+industry to drive whole life carbon reductions and net zero
+outcomes through Green Star and the ‘Interim upfront carbon
+modelling guide’.
+NABERS, is a national initiative that provides distinct ratings from
+one to six stars for buildings across energy, water, waste and
+indoor environment. In 2021, in partnership with GBCA, NABERS
+announced the development of a benchmark for embodied
+carbon. NABERS is managed by the NSW Department of Planning,
+Industry and Environment on behalf of the Federal, State and
+Territory governments of Australia.
+World Green Building Council (WorldGBC), the largest localregional-global action network accelerating sustainability in the
+built environment. The WorldGBC offers embodied carbon
+resources and primers to assist in driving reductions.
+Australian Institute of Architects (AIA), established a Climate
+Action Sustainability Taskforce (CAST),. This taskforce is
+supporting the architectural profession in taking a decisive and
+active stance about the twin crises of climate change and
+biodiversity loss.
+Clean Energy Finance Corporation (CEFC), a specialist investor at
+the centre of efforts to help deliver on Australia’s ambitions for a
+thriving, low emissions future. The CEFC collaborated with GBCA
+and ISC to release a guide identifying opportunities to reduce
+upfront carbon in buildings and infrastructure.
+Climate Active, Climate Active is program by the Australian
+Government to drive efforts in measuring, reducing, and offsetting
+carbon emissions. It recently released a guideline for awarding a
+climate active rating to new buildings that reduce and compensate
+all upfront carbon emissions.
+
+CRC for Low Carbon Living, Australia’s leading research and
+innovation hub dedicated to driving the nation’s built environment
+sector towards a globally competitive low carbon future. Offering
+guides to low carbon commercial buildings – new build and
+retrofit.
+
+Materials and Embodied Carbon Leadership Alliance, The
+Materials & Embodied Carbon Leaders’ Alliance (MECLA) is an
+alliance that brings together the drive to reduce embodied carbon
+in the building and construction industry, MECLA is determined to
+transform the building and construction sector to reach Net-Zero
+emissions.
+Royal Institution of Chartered Surveyors (RICS), a professional
+body based in the UK with standards in the land, property and
+construction sectors worldwide. RICS has developed the Whole
+Life Carbon Assessment for the Built Environment 1st Edition
+(November 2017). It provides a framework for assessing the
+carbon emissions of a building over its lifecycle.
+
+Information for
+product
+manufacturers
+
+Information on product-level emissions can be found in the following.
+These resources can also help product manufacturers on their
+journey to understand and disclose their emissions.
+Australian Life Cycle Assessment Society (ALCAS), delivered the
+Australian National Life Cycle Inventory Database (AusLCI).
+AusLCI is a national, publicly-accessible database for transparent
+environmental information on a wide range of Australian products
+and services over their entire life cycle.
+Chartered Institution of Building Services Engineers (CIBSE), has
+produced TM65 guide, Embodied carbon in building services: A
+calculation methodology (2021), providing guidance on how to use
+environmental product declarations (EPDs) to assess the
+embodied carbon of building services equipment; and where not
+available, it provides guidance on how to estimate embodied
+carbon.
+EC3 is an American free and easy-to-use database of digital, thirdparty verified Environmental Product Declarations (EPDs). EC3
+includes EPDs for Australian and international products. It focuses
+on the upfront supply chain emissions of construction materials.
+EPD Australasia is a regional partner of the International EPD®
+System with over 1,800 EPDs now published from businesses in
+37 countries. EPD Australasia registers and publishes
+Environmental Product Declarations (EPDs) and Climate
+Declarations.
+EPIC Database is a comprehensive and consistent open-access
+Life Cycle Inventory of environmental flow coefficients for
+construction materials. The database contains over 850
+coefficients that can be incorporated into existing Life Cycle
+Assessment workflows and processes. The Database was
+developed by the University of Melbourne School of Design.
+
+Engineers Australia (EA), collaborating with industry, EA is
+defining practical solutions and driving innovative engineering to
+transform systems, technologies and infrastructure.
+
+A practical guide to upfront carbon reductions
+
+43
+
+A practical guide to upfront carbon reductions
+
+44
+
+Appendix A: Valuable terminology
+Biogenic carbon
+emissions
+
+Biogenic carbon emissions originate from biological sources such as
+trees and soil.
+
+Carbon dioxide
+equivalent
+
+Carbon dioxide equivalent (CO2e) is a unit of measurement that is used
+to standardise the climate effects of various greenhouse gases.
+
+Carbon footprint
+
+A carbon footprint is the total greenhouse gas (GHG) emissions caused
+by an individual, event, organisation, service, place or product, expressed
+as carbon dioxide equivalent (CO2e).
+
+Carbon neutral
+
+Climate neutrality refers to the concept of an individual or organisation
+achieving a balance between the emissions of greenhouse gases and
+the absorption of these gases by natural processes, resulting in net zero
+emissions. This can be achieved by reducing carbon emissions, carbon
+offsetting, or a combination of both. In Australia, carbon neutrality is
+defined by the Australian Government through Climate Active.
+
+Carbon sequestration Capturing and storing carbon dioxide from the atmosphere, for example
+by establishing forests. The long-term effect of a forest as an
+ecosystem will make a much larger impact than planting individual
+trees. GBCA released “Climate Positive Buildings and our Net Zero
+Ambitions” which provides more information on this topic.
+
+Global Warming Potential
+(GWP)
+
+GWP is used in the life cycle assessment to quantify the climate
+impact in GHG emissions of materials and products. It is useful in
+defining performance targets or ranges in CO2e for materials and
+products.
+
+Global Warming Potential
+Total (GWPT)
+
+The sum of GWP from fossil fuels (GWPF), biogenic sources (GWPB)
+and land use and land use change (GWPL) as defined in EN
+15804:2012+A2:2019
+
+Green finance
+
+Loans and other financial products and services that encourage
+industries and organisations to adopt sustainable practices, both
+environmental and social.
+
+Greenhouse gases
+
+Gases that trap heat in the atmosphere.
+
+ISO (International
+Organisation for
+Standardization)
+
+An independent, non-governmental, international organisation that
+develops standards to ensure quality, safety, and efficiency of
+products, services, and systems.
+
+Life cycle assessment
+(LCA)
+
+Measurement method that quantifies the environmental impacts of a
+product, service, or organisation over its life cycle and value chain. It is
+a science-based, whole-systems approach to understand and address
+environmental issues.
+
+Net zero emissions
+
+Reducing direct (scope 1) and indirect emissions (scope 2) of a
+business or organisation’s activities, and its value chain emissions
+(scope 3) to zero or to a residual level that is consistent with a 1.5°Caligned pathway (see Paris Agreement). Residual emissions must
+compensated for.
+
+Cradle to cradle
+
+Describes a material or product that is recycled into a new product at
+the end of its life, so that ultimately there is no waste.
+
+Cradle to gate
+
+Describes a material or product from resource extraction to the factory
+gate, before it is transported to the next step in the construction process
+stage.
+
+Cradle to grave
+
+Describes a material or product from raw materials extracted and
+processing, through each stage of manufacturing, transport, product
+use, and ultimately, disposal.
+
+Paris Agreement
+
+A legally-binding international treaty on climate change adopted by
+more than 190 countries in 2015. Its goal is to limit global warming to
+well below 2°C, preferably to 1.5°C, compared to pre-industrial levels.
+
+Embodied carbon
+
+Emissions associated with building construction, including those from
+extraction, transport, manufacture and install of materials and products,
+as well as the use and end-of-life emissions associated.
+
+Emissions scope
+
+Scope 1 emissions are direct emissions that occur from sources that
+are controlled or owned by an organisation. Scope 2 emissions are
+indirect emissions associated with buying electricity or thermal
+energy. Scope 3 includes all other emissions that occur in a
+company’s value chain.
+
+Taskforce for Climaterelated Financial
+Disclosures (TCFD)
+
+An international organisation created in 2015 to develop consistent
+climate-related financial risk disclosures for use by companies, banks,
+and investors in providing information to stakeholders.
+
+Triple bottom line
+
+Evaluation of a business, organisation or investment across social,
+environmental and financial performance. This economic analysis
+method considers direct and indirect benefits of decisions and
+investments.
+
+Value chain
+
+A business model that describes the full range of activities needed to
+create a product or service.
+
+A certified public summary of a product’s environmental impact over its
+Environmental
+product declaration life cycle. Based on international standards and independently verified, it
+is widely recognised by industry and governments.
+(EPD)
+
+Environmental,
+Social and
+Governance (ESG)
+
+A set of standards for measuring a business’ or organisation’s
+sustainability and ethical impact. ESG criteria are increasingly popular
+as a way for consumers and investors to evaluate companies they want
+to engage with.
+
+Gate to practice
+completion
+
+A term used in life cycle assessments to describe a material or product
+being transported from the factory gate to the construction site and
+being installed through the building’s construction.
+
+A practical guide to upfront carbon reductions
+
+45
+
+A practical guide to upfront carbon reductions
+
+46
+
+Appendix B:
+Carbon in
+materials
+
+The high emitting elements in a building are the superstructure,
+substructure and envelope, due to the carbon intensive materials used.
+Figure 2 highlights the main building elements and the common materials
+that are used. A higher variety of materials are used in services and
+finishes however both elements have less information readily available.
+
+CONCRETE
+Traditional concrete often contains Portland Cement which is the
+greatest contributor to its carbon emissions. Portland cement can be
+replaced by supplementary cementitious materials (SCMs):
+Fly ash, a coal combustion product. This is a good alternative
+however as coal power generation decreases, so will availability.
+Ground granulated blast furnace slag (GGBS or GGBFS) is obtained
+by quenching molten iron slag (a by-product of iron and steelmaking) from a blast furnace in water or steam. GGBFS production
+is also decreasing as the industry moves towards electric arc
+furnaces.
+
+Finishes
+
+Services
+Envelope
+(Glass and
+aluminium)
+Superstructure
+and Substructure
+(Concrete, steel
+and/or timber)
+
+How to reduce the upfront carbon in concrete?
+
+1.
+
+Define the correct strength and performance – When comparing
+design options, consider reduced concrete strength. To support
+Portland Cement reduction, engage with concrete suppliers to
+evaluate their standard mix options against performance
+requirements.
+
+2.
+
+Specify low carbon concrete – Low carbon concrete mixes are vital
+to most reduction pathways. All specifications should require the
+builder to submit EPDs for all components. Specifications should
+also call for the builder to submit a BOQ that provides the projected
+concrete volumes, recycled content and GWP itemised by
+application and type.
+
+3.
+
+Reduce and eliminate excess orders on site. This can be achieved
+through careful measurement of structure (or formwork) to
+minimise wastage.
+
+4.
+
+Deliver the specified grade and no higher. Concrete strengths have
+diverse applications and costs; using higher strength concrete for
+low-grade applications compromises material efficiency and raises
+the carbon intensity of the project.
+
+Figure 2: Typical materiality of building elements
+
+STEEL
+Traditional Steel is produced in a blast furnace using coke and is a major
+contributor to upfront carbon. Recycled steel is now often processed
+within an Electric Arc Furnace (EAF) but this makes up a small percentage
+of total steel used in the built environment. When specifying steel,
+consider:
+Sourcing steel from ResponsibleSteel certified sites or at least from
+ResponsibleSteel members or members of similar schemes.
+
+Action:
+Specify alternative binders and admixture.
+Put demand side pressure on suppliers to capture and sequester
+emissions from productions.
+
+Specifying high strength steel – this may enable reductions in the
+quantity of steel and the project’s upfront carbon.
+Focusing on incorporating re-used members.
+Where relevant, specifying steel produced using low carbon emissionsintensive processes or renewable energy.
+
+A practical guide to upfront carbon reductions
+
+47
+
+A practical guide to upfront carbon reductions
+
+48
+
+TIMBER
+
+ALUMINIUM
+Timber buildings offer a range of advantages. Not only is it a bio-based
+carbon sequestering material, but they offer benefits of increased onsite safety and potentially shorter construction time. Building
+occupants benefit from improved air quality, reduced stress levels due
+to timber’s biophilic attributes, and improved thermal performance.
+
+Per kilogram of material, aluminium is a major contributor to upfront
+carbon. This is primarily due to the large amount of electricity used
+during the smelting process.
+How do you reduce the upfront carbon in aluminium?
+Two main types of low carbon aluminium products exist that reduce
+emissions in the smelting phase:
+
+Unlike most steel or concrete, timber has substantially lower levels of
+upfront carbon associated with the manufacturing process.
+
+Aluminium produced with renewable electricity
+
+How do you account for the biogenic benefits of timber?
+
+Aluminium produced with a high recycled content (~75%)
+
+As a bio-based material, timber can remove CO2 from the atmosphere
+and store it. This is called carbon sequestration. Engage with LCA
+practitioners and evaluate related guidance to correctly account for
+this in your project.
+
+Early engagement with suppliers to explore low carbon solutions that
+exist in their supply chain is key.
+Action:
+
+Specifying timber:
+Source timber from sustainably managed forests. The Programme
+for the Endorsement of Forest Certification (PEFC) and The Forest
+Stewardship Council (FSC) are both international, non-profit, nongovernmental organisations that promote sustainable forest
+management. While these schemes may prevent illegal timber
+from being used in a project, it would be prudent for project teams
+to do their own due diligence.
+Explore opportunities with local structural timber suppliers
+wherever possible to reduce transportation impacts
+Design for deconstruction to maximise reuse
+
+Adopt a circular economy approach to façade systems (where
+aluminium is most often found in buildings) with refurbishment and
+reuse, or renting façade modules from suppliers as part of a materials
+bank.
+
+GLASS
+
+Design for transportation to reduce the need for complex structural
+connections
+
+Glass is a heavy carbon contributor for the envelope. Similar to
+aluminium, it also requires a high input of industrial heat in its
+manufacture.
+
+Design for efficient grid, loading and dematerialisation
+
+How do you reduce upfront carbon in glass?
+
+How should you use timber?
+
+Utilise timber as the primary construction material where possible
+Fully reuse timber products and limit requirement for raw materials
+where possible
+For low to mid-rise:
+Grid size – optimise to provide the most efficient span
+distances and loading distributions
+Floor type – optimise thickness of the flooring to reduce
+material use
+Fire rating and weather proofing – determine whether
+additional materials are required to ensure the timber
+structure meets these requirements
+
+In the Australian market, low carbon glass options are still emerging.
+However, European technology is developing solutions for the industry.
+In the short term, plans to incorporate glass with a 40% recycled
+content are being pursued. Long term solutions include electrifying
+manufacturing equipment and switching energy sources to renewable
+electricity and green hydrogen.
+Action:
+Procure glass manufactured using renewable electricity and green
+hydrogen
+Specify high recycled content
+Adopt a circular economy approach to façade systems with
+refurbishment and reuse, or renting façade modules from suppliers
+as part of a materials bank
+
+For high-rise: whole mass timber is not been seen as a practical
+alternative at this stage. Hybrid-timber construction systems that
+combine timber with different materials (e.g., steel and concrete)
+and Cross Laminated Timber can deliver a wide range of structural
+solutions. This should be weighed up with options for
+deconstruction and reuse or recycling at end of use.
+
+A practical guide to upfront carbon reductions
+
+49
+
+A practical guide to upfront carbon reductions
+
+50
+
+FINISHES
+
+BUILDING SERVICES
+Finishes make up a smaller portion of upfront carbon; however
+they are the most often replaced through the building life-cycle and
+make up a large portion of module B4. Finishes provide a good
+opportunity for upfront carbon reductions with a wide range of
+product choices compared with other building elements.
+Emissions are likely to be driven by two key aspects:
+Presence of high embodied carbon materials
+Volume of the finishes product (e.g. high volume products such
+as decorative ceilings and carpets are likely to contribute a
+greater portion of upfront carbon)
+How do you reduce the upfront carbon in finishes?
+
+Any decision made to reduce upfront carbon needs to ensure that
+the operational energy performance is not impacted. The diversity
+of materials in building services, as well as the complexity of its
+supply chain, means that engagement with suppliers should be
+early to ensure building services equipment is both operationally
+efficient and low carbon.
+Approximately half of the upfront carbon of mechanical and fire
+protection services can be attributed to steel. For electrical
+services, polyvinyl chloride (PVC) (~40%) and aluminium (~30%)
+make up the main portion. Hydraulic services are dominated by
+copper and polyethylene (each contributing ~35-40%).
+How do you reduce the upfront carbon in building services?
+
+It is recommended that the following principles are applied:
+1.
+
+Where options exist, use less applied finishes or utilise the raw
+finish of the envelope or structure
+
+2.
+
+Undertake an integrated fitout to minimise waste material
+
+3.
+
+Ask suppliers for EPDs to make like for like comparisons
+between different products
+
+4.
+
+Consider the longevity of the finish when specifying
+
+5.
+
+Specify products with a high recycled content
+
+6.
+
+Identify and preference suppliers that are using renewable
+energy sources in the manufacture of their products
+
+7.
+
+Identify and preference suppliers with product stewardship or
+take back schemes. This acts to extend the life of products
+and keeps materials in use at a higher value for a longer time.
+
+Low carbon alternatives will generally rely on technologies and
+processes such as electric arc furnace produced steel, and high
+recycled content in aluminium and PVC. When and where the
+majority of the emissions occur (e.g., at a steel mill or aluminium
+smelter) are often not in the direct control of suppliers but sit
+further back in the supply chain. Because of this, it may be more
+efficient to signal demand and collaborate with suppliers. These
+changes will take time, so we need to start this conversation now.
+
+The building services industry is relatively new to the upfront
+carbon conversation as, historically, building services focused on
+operational efficiency. However, as more buildings are electrified
+and the structure of buildings is decarbonised, the upfront carbon
+of building services will become increasingly important.
+Action:
+Compare and specify building services products based on
+product-specific EPDs
+
+Action:
+Reduce the use of finishes where possible.
+
+Preference suppliers that are working within their own supply
+chain to drive low carbon materials and increase recycled
+content
+
+Specify products made by renewable energy and with suppliers
+that offer product stewardship schemes.
+
+Specify low GWP or natural refrigerant plant and equipment
+only
+Embed sensors in components that retain as-built data and
+support resource-rich material banks
+
+A practical guide to upfront carbon reductions
+
+51
+
+A practical guide to upfront carbon reductions
+
+52
+
+Appendix C:
+Environmental
+Product
+Declarations
+
+ENVIRONMENTAL PRODUCT DECLARATIONS
+
+How do you compare EPDs?
+
+To measure the embodied carbon of a material or product, the
+standard reporting mechanism is an Environmental Product
+Declaration (EPD). An EPD is a report that describes a material or
+product’s environmental impact. It is analogous to a nutrition label,
+reporting a variety of health information. In this case, one of the
+important tracked “nutrients” is the product’s GWP. EPDs are governed
+by industry-established Product Category Rules (PCRs) that document
+the reporting requirements and guidelines for a specific material or
+product type. They are typically updated every five years following a
+series of ISO standards. EPDs are commissioned by manufacturers or
+vendors to report their environmental impacts. The most credible EPDs
+are third-party verified, with a number of organisations providing this
+service to the industry. For vendors that have not yet created EPDs for
+their products, several trade organisations have created industryaverage EPDs based on the average national data for those materials.
+
+Currently, EPD comparisons are not straightforward between different
+materials and products (e.g., concrete to steel to timber) because EPDs
+for specific materials are governed by different PCRs. While PCRs
+primarily focus on the product life cycle stage, they each make different
+assumptions, and in turn make it difficult to compare the data.
+
+EPDs of the same material or product, however, are generally
+comparable when following the same PCR. It is these “apples-to-apples”
+conditions that result in the most accurate comparison of carbon
+emissions.
+Overall, while inconsistency and uncertainty exist with EPD data, it is the
+most accurate information available for measuring carbon emissions of
+materials and products. This data will be refined and improved over
+time with industry adoption.
+
+What is the best source of EPDs in Australia?
+The GBCA recognises EPDs that are compliant with EN15804,
+EPD Australasia and the International EPD system.
+
+Types of EPDs
+
+PCR is
+third-party
+reviewed?
+
+Product-Specific
+Declaration
+
+—
+
+EPD is
+third-party
+reviewed
+
+Specific to a single
+product from a
+single supplier?
+
+—
+
+Product-Specific
+Type III
+PREFERRED
+
+Industry-Wide
+
+—
+
+Standards
+followed?
+
+•
+
+ISO 14044
+
+•
+
+ISO 14025
+
+•
+
+ISO 14040
+
+•
+
+ISO 14044
+
+•
+
+ISO 21930 / EN 15804
+
+•
+
+ISO 14025
+
+•
+
+ISO 14040
+
+•
+
+ISO 14044
+
+•
+
+ISO 21930 / EN 15804
+
+A practical guide to upfront carbon reductions
+
+53
+
+A practical guide to upfront carbon reductions
+
+54
+
+References:
+
+All references reviewed May, 2023
+
+15. Zero carbon buildings for Melbourne, City of Melbourne
+
+1. Interim guide to upfront carbon, GBCA
+
+16. New protocol binds Net-Zero Asset Owner Alliance to halve portfolio
+emissions by 2030, UNEP FI
+
+2. A Climate Positive Roadmap for Buildings, GBCA
+
+17. Guidance on metrics, targets, and transition plans, TCFD
+
+3. Practical Guides on Electrification, GBCA
+18. Australian buildings and infrastructure: Opportunities for reducing
+embodied carbon, CEFC
+
+4. Climate Positive Buildings and our Net Zero Future¸ GBCA
+5. EN 15978: Sustainability of construction works - Assessment of
+environmental performance of buildings - Calculation method, British
+Standards Institution
+
+19. Guideline: Upfront carbon for buildings, Climate Active
+
+6. Upfront carbon benchmarks, Slattery
+
+21. Typical operational energy and carbon figures for buildings, The
+Institution of Structural engineers (ISTRUCTE)
+
+7. 2020 Global Status Report for Buildings and Construction,
+GlobalABC
+
+20. Carbon Neutral and Nature Positive, The GPT Group
+
+22. 2017 Embodied Carbon Benchmark Study, Carbon Leadership Forum
+(CLF)
+
+8. Embodied Carbon and Embodied Energy in Australia’s Buildings,
+GBCA & thinkstep-ANZ
+
+23. Carbon Insights Platform, Arup
+
+9. Sustainable Buildings SEPP, NSW Government
+
+24. Taking action on embodied carbon, Built
+
+10. NABERS Embodied Emissions Initiative, NABERS
+
+25. Transitioning Australia to a fossil fuel free construction future,
+Lendlease
+
+11. Bringing Embodied Carbon Upfront, WorldGBC
+12. Decarbonizing construction: Guidance for investors and developers
+to reduce embodied carbon, World Business Council of Sustainable
+Development
+13. ISSB unanimously confirms Scope 3 GHG emissions disclosure
+requirements with strong application support, among key decisions,
+International Financial Reporting Standards Foundation
+
+26. Stepping Up the Pace: Fossil Fuel Free Construction outlines a
+roadmap for removing fossil fuels from construction sites,
+Lendlease and University of Queensland
+27. Green Star Buildings, GBCA
+28. SR15 - Global Warming of 1.5°C, IPCC
+29. Corporate net zero standard, Science Based Targets Initiative (SBTI)
+
+14. Net Zero by 2050: A roadmap for the energy sector, International
+Energy Agency
+
+A practical guide to upfront carbon reductions
+
+30. Whole Life Carbon Assessment for the Built Environment, RICS
+
+55
+
+A practical guide to upfront carbon reductions
+
+56
+
+Acknowledgements
+Delivery team
+Jorge Chapa – Chief Impact Officer
+Katherine Featherstone – Senior Manager Responsible Products
+Emily Chung – Technical Services Lead
+
+Jeremy Mansfield
+Jacqui Bonnitcha
+
+Proudly funded by the NSW Government
+
+Proudly funded by Sustainability Victoria
+
+James von Dinklage
+With thanks to Alan Davis and Sean Devine for their
+contributions as part of the Mott MacDonald team
+
+GBCA would like to
+acknowledge and thank
+the following
+organisations for their
+contribution to the
+delivery of this guide.
+
+Built
+Frasers Property
+Dexus
+Stockland
+GPT
+Bluescope Steel
+
+GBCA would like to
+thank our Climate
+Positive Partners for
+their ongoing support.
+
+A practical guide to upfront carbon reductions
+
+57
+
+A practical guide to upfront carbon reductions
+
+
